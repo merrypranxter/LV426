@@ -1,0 +1,94 @@
+---
+name: "Golic"
+full_name: "Golic"
+portrayed_by: "Paul McGann"
+species: "Human"
+occupation: "Prisoner"
+affiliation: "Fiorina 161 Double-Y Chromosome Work Correctional Facility"
+
+first_appearance: "Alien 3 (1992)"
+last_appearance: "Alien 3 (1992)"
+status: "DECEASED — 2179 (Fiorina 161, killed by the xenomorph he released from containment)"
+
+backstory: |
+  Golic was already considered mentally unstable before the xenomorph arrived. Among a
+  population of violent offenders — men imprisoned for the most extreme crimes the justice
+  system recognised — Golic stood out as different in kind, not merely degree. The other
+  prisoners regarded him with wariness. He occupied a specific register: unpredictable,
+  disconnected from the social codes that even violent men maintain, operating according
+  to an interior logic that did not map onto anyone else's.
+
+  When the xenomorph killed two prisoners in the waste disposal tunnels, Golic survived.
+  He returned covered in blood, barely coherent, and was dismissed initially as having
+  committed the murders himself. What the encounter did to him was not what it did to
+  anyone else — it did not produce fear. It produced fascination. He had seen something
+  that was, to his fractured perception, perfect.
+
+  What followed was the film's darkest mirror to corporate xenomorph acquisition: a human
+  being, operating from psychological fragility rather than profit motive, coming to the
+  same conclusion the company did. The creature was worth protecting. Worth serving.
+  Worth dying for.
+
+timeline:
+  - film: "Alien 3"
+    year: 2179
+    role: "Unstable prisoner; survivor of early xenomorph encounter; eventual liberator and devotee of the creature"
+    key_moments:
+      - "Survives the xenomorph's attack in the waste disposal tunnels; returns blood-soaked and incoherent"
+      - "Initially suspected of murdering the two dead prisoners — his state makes him a plausible suspect"
+      - "Begins to exhibit signs of fixation on the creature: awe, reverence, the language of worship"
+      - "Kills a guard to access the containment area where the xenomorph has been trapped"
+      - "Releases the xenomorph from containment, completing his arc as its devoted servant"
+      - "Killed immediately by the creature he freed — the franchise's most precise expression of what xenomorphs think of devotion"
+    character_state: "Fully consumed by fixation; his final act is both expression of worship and immediate consequence of it"
+
+key_relationships:
+  - name: "The Xenomorph (Fiorina 161 Variant)"
+    relation: "devotee_and_sacrificial_victim"
+    dynamic: |
+      Golic's relationship with the xenomorph is the franchise's most unsettling study of
+      human response to the creature. Where every other survivor experiences the xenomorph
+      as threat and processes it as something to be fled or destroyed, Golic processes it as
+      something beautiful. The creature's perfection — its total commitment to its own nature,
+      its absence of ambivalence — speaks to something in his fractured psychology that human
+      interaction never reached. He worships it. It kills him without acknowledgment of what
+      he has done for it.
+
+  - name: "Other Fiorina 161 Prisoners"
+    relation: "peripheral_outsider"
+    dynamic: "Regarded with wariness even within a population defined by extreme behaviour; occupies the outer edge of a community already at civilisation's margin"
+
+personality:
+  strengths:
+    - "Survival under circumstances that broke other prisoners — he came back from the tunnel attack"
+
+  weaknesses:
+    - "Psychological instability that the prison environment neither addressed nor contained"
+    - "Inability to process the xenomorph as threat — his psychological framework transforms danger into the sacred"
+    - "Operates according to an interior logic inaccessible to those around him"
+
+  key_trait: |
+    Golic is the franchise's clearest image of what the xenomorph looks like when it finds
+    a human mind that cannot fight it. Not because he lacks courage or intelligence but
+    because something in his perception — already fractured before the encounter — finds in
+    the creature an absolute that he has never found in anything else. The film does not
+    explain this. It presents it, and lets it be as disturbing as it is.
+
+  evolution: "Unstable prisoner → sole survivor of early xenomorph attack → devoted worshipper → instrument of the creature's liberation → immediate casualty"
+
+thematic_role:
+  - "The franchise's dark mirror to corporate xenomorph acquisition: a human being arrives at the same conclusion as Weyland-Yutani through psychological fragility rather than profit"
+  - "Represents the possibility that some human minds encounter the xenomorph and respond not with fear but with recognition"
+  - "His death — killed immediately by the creature he freed — is the franchise's most economical statement about the xenomorph's relationship to human devotion: it does not reciprocate"
+  - "Golic's arc asks what the creature looks like to a mind that has no stable category for it — and answers that it looks like God"
+  - "The only character in the franchise who actively chooses the xenomorph's side and is destroyed precisely as a result"
+
+see_also:
+  - "/characters/ellen-ripley.yaml"
+  - "/characters/dillon.yaml"
+  - "/films/alien3-1992.yaml"
+  - "/species/xenomorph.yaml"
+
+sources:
+  - "Alien 3 (1992)"
+---

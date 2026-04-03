@@ -1,0 +1,105 @@
+---
+name: "Dillon"
+full_name: "Dillon"
+portrayed_by: "Charles S. Dutton"
+species: "Human"
+occupation: "Inmate Spiritual Leader"
+affiliation: "Fiorina 161 Double-Y Chromosome Work Correctional Facility"
+
+first_appearance: "Alien 3 (1992)"
+last_appearance: "Alien 3 (1992)"
+status: "DECEASED — 2179 (Fiorina 161, killed holding xenomorph so Ripley could flood lead pour)"
+
+backstory: |
+  Dillon arrived at Fiorina 161 convicted of murder and rape — crimes he does not deny. In the
+  isolation and austerity of the foundry penal colony, he found religion, or religion found him.
+  He became the moral and spiritual anchor of an inmate population that had no other source of
+  meaning: double-Y chromosome men, violent offenders, the abandoned end-product of a system
+  that had thrown them as far from civilisation as physically possible.
+
+  His conversion was not performance. The prisoners followed him because he offered something
+  genuine — a framework for surviving the unsurvivable, a reason to wake up on a planet with no
+  sky worth looking at. He organised them into a faith community with its own rituals and
+  accountability, and he held that community together through sheer force of conviction and
+  personal authority.
+
+  When Ripley arrived, Dillon's first instinct was hostility. She was a woman in a single-sex
+  environment, and her presence — along with whatever she had brought with her — threatened
+  the fragile order he had built. His eventual alliance with her required him to override that
+  instinct in favour of something larger: the lives of the men in his care, and the creature
+  that was systematically ending them.
+
+timeline:
+  - film: "Alien 3"
+    year: 2179
+    role: "Inmate spiritual leader; organiser of prisoner resistance to the xenomorph"
+    key_moments:
+      - "Leads the prison's religious community — the moral spine of the inmate population"
+      - "Initially hostile to Ripley's presence in the all-male facility"
+      - "Rallies the prisoners after xenomorph kills begin, organising them into a coherent response"
+      - "Delivers the franchise's most unflinching pre-battle address to the prisoners"
+      - "Agrees to Ripley's plan to lure the xenomorph into the mould and flood it with molten lead"
+      - "Holds the xenomorph physically in place so Ripley can complete the pour — killed in the process"
+    death_timestamp: "01:42:00"
+    character_state: "Fully committed, clear-eyed about his own death; chooses sacrifice as final expression of his role"
+
+key_relationships:
+  - name: "Ellen Ripley"
+    relation: "adversary_turned_ally"
+    dynamic: |
+      Dillon resents Ripley's arrival on instinct — she disrupts a community built on the
+      premise of her absence. His hostility is not personal but structural: a woman in a
+      celibate male community built around discipline and isolation. Over the course of the
+      film, that hostility is replaced by something harder to name: mutual recognition between
+      two people who refuse to stop fighting when every sensible calculation says to stop.
+      His death — holding the creature so she can complete the kill — is the final expression
+      of an alliance that neither of them would have predicted.
+
+  - name: "The Fiorina 161 Prisoners"
+    relation: "spiritual_leader_and_protector"
+    dynamic: |
+      The prisoners are Dillon's congregation and his responsibility. He has converted his own
+      violence into something that serves them — a framework of faith and order in a place
+      designed to have neither. When they begin to die, he does not retreat into prayer; he
+      organises the counterattack. He is the reason the prisoners function as a community
+      rather than a mob.
+
+personality:
+  strengths:
+    - "Moral authority earned through genuine transformation, not appointed rank"
+    - "Ability to hold a fractious, violent community together through conviction alone"
+    - "Tactical clarity under threat — adapts spiritual leadership into action leadership"
+    - "Willingness to sacrifice himself without theatrics when the moment requires it"
+    - "Capacity to override personal hostility when lives depend on it"
+
+  key_trait: |
+    Dillon is the franchise's clearest example of earned authority. He leads men that no
+    institution wanted to lead, on a planet no one wanted to manage, in a crisis no one
+    prepared for. He does it because someone has to, and because he has made himself into
+    a person who can.
+
+  evolution: "Convicted murderer → prison religious leader → self-sacrificing moral spine of the survivor group"
+
+quotes:
+  - film: "Alien 3"
+    line: "You're all gonna die. The only question is how you check out."
+    context: "Addressing the prisoners before the final xenomorph confrontation; brutal pragmatism as a form of leadership"
+
+  - film: "Alien 3"
+    line: "Do you want to survive this? Do you?"
+    context: "Challenging the prisoners to commit to the plan; demanding active consent rather than passive compliance"
+
+thematic_role:
+  - "Represents the possibility of genuine transformation — a man who committed terrible acts and rebuilt himself into something that protects others"
+  - "The franchise's argument that moral authority has nothing to do with institutional rank or corporate sanction"
+  - "His willingness to hold the creature while the lead pours is the film's image of redemption: the body as final offering"
+  - "His initial hostility to Ripley echoes every institutional rejection she has faced, then collapses it — he comes around faster than any institution ever did"
+  - "Dillon and Ripley together represent the film's core assertion: the only people who face the xenomorph honestly are those with nothing left to protect except each other"
+
+see_also:
+  - "/characters/ellen-ripley.yaml"
+  - "/films/alien3-1992.yaml"
+
+sources:
+  - "Alien 3 (1992)"
+---

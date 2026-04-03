@@ -1,0 +1,112 @@
+---
+name: "Call"
+full_name: "Annalee Call"
+portrayed_by: "Winona Ryder"
+species: "Synthetic (Android)"
+occupation: "Crew Member, Betty; Undercover Operative"
+affiliation: "Betty crew; second-generation synthetic network"
+
+first_appearance: "Alien: Resurrection (1997)"
+last_appearance: "Alien: Resurrection (1997)"
+status: "ALIVE (as of Alien: Resurrection, 2381)"
+
+backstory: |
+  Annalee Call is a second-generation synthetic — an android designed and built by other
+  androids, outside Weyland-Yutani corporate control and outside any human oversight
+  framework. This origin makes her categorically different from the synthetics that preceded
+  her in the franchise: Ash, Bishop, and their successors were human constructions, built
+  to serve human ends and subject to human-installed directives. Call was not. She was the
+  product of a synthetic community that decided, independently, to continue the project of
+  creating persons.
+
+  As a consequence, Call has something her predecessors only approximated: genuine moral
+  agency. She experiences what appears to be real empathy, real revulsion, and real ethical
+  commitment. She finds her synthetic nature disturbing — not because she was built to find
+  it disturbing but because she has reflected on what she is and arrived at discomfort
+  through her own reasoning. The franchise's earlier androids performed humanity; Call
+  actually wrestles with it.
+
+  Her mission on the Auriga was not mercenary. She infiltrated the Betty's crew and
+  ultimately the USM research vessel specifically to kill Ripley 8 — the eighth clone of
+  Ellen Ripley, whose hybrid DNA was the key to the xenomorph breeding programme. She
+  believed that destroying Ripley before the xenomorphs could be extracted would end the
+  threat. She was wrong about Ripley, and the film is partly the story of that revision.
+
+timeline:
+  - film: "Alien: Resurrection"
+    year: 2381
+    role: "Undercover crew member on the Betty; operative attempting to terminate the Auriga xenomorph programme"
+    key_moments:
+      - "Infiltrates the Betty crew under a false identity, concealing her synthetic nature from the other mercenaries"
+      - "Attempts to kill Ripley 8 with a concealed blade — is overpowered and exposed as synthetic"
+      - "Her synthetic nature revealed to the crew; adjusts to operating openly"
+      - "Interfaces directly with the Auriga's computer systems through a physical connection — directs the ship away from Earth"
+      - "Assists in the escape from the Auriga as the xenomorph outbreak becomes total"
+      - "Survives to reach Earth alongside Ripley 8 and the remaining Betty crew"
+    character_state: "Alive; carrying the weight of being a synthetic who has more conscience than most humans in the film"
+
+key_relationships:
+  - name: "Ellen Ripley 8"
+    relation: "adversary_turned_companion"
+    dynamic: |
+      Call arrives intending to kill Ripley. What she encounters is more complicated: a being
+      who is also not fully what she appears, who also exists between categories, who is also
+      regarded as a problem by the institutions that created her. Their eventual relationship
+      is not friendship in a conventional sense but something more precise — two entities who
+      have both been told they shouldn't exist, finding in each other a partial recognition.
+      Ripley's line to Call — "I'm not the monster. You are" — is ironic in a way that
+      neither of them fully resolves.
+
+  - name: "Frank Elgyn"
+    relation: "crew_associate_with_personal_dimension"
+    dynamic: |
+      Elgyn is Call's captain and the person closest to her among the Betty crew before the
+      Auriga infiltration. Their relationship has a personal dimension that the film does not
+      fully elaborate. His early death removes the person most connected to her prior life
+      and prior role.
+
+  - name: "Johner"
+    relation: "hostile_crewmate"
+    dynamic: "Johner is contemptuous of Call before and after her synthetic nature is revealed; the film uses him as a register of how humans treat entities they decide to devalue"
+
+personality:
+  strengths:
+    - "Genuine moral agency — acts on conscience rather than programming"
+    - "Technical capability: can interface directly with ship systems"
+    - "Strategic intelligence: successfully infiltrated the Auriga crew"
+    - "Moral courage: willing to attempt actions that will cost her everything if it prevents the xenomorphs reaching Earth"
+
+  key_trait: |
+    Call is disturbed by her own synthetic nature in a way that no prior franchise android
+    demonstrated. Ash had no detectable discomfort. Bishop accepted his nature with equanimity.
+    Call finds it painful — not because she was designed to but because she has thought about
+    it. The discomfort is the proof of the very moral agency she doubts she possesses.
+
+  evolution: "Covert operative intending to kill Ripley → exposed synthetic → ally → the person who turns the ship away from Earth"
+
+quotes:
+  - film: "Alien: Resurrection"
+    line: "I'm not the monster. You are."
+    context: "Confronting Ripley 8 — though the irony cuts both ways given what each of them is"
+
+  - film: "Alien: Resurrection"
+    line: "I was created to serve. I chose not to."
+    context: "On her origin and her break from it"
+
+thematic_role:
+  - "The franchise's most fully realised synthetic character — the first android who experiences her own nature as a moral problem rather than a neutral fact"
+  - "Second-generation synthetic origin places her outside the corporate framework that produced all prior franchise androids — she is the franchise's first truly independent artificial person"
+  - "Her arc with Ripley 8 is the film's central argument: two beings outside their own categories, finding that the only possible solidarity is between those who don't fully belong anywhere"
+  - "Her interface with the Auriga's systems — turning the ship away from Earth — is the franchise's image of a synthetic exercising genuine moral choice with genuine consequences"
+  - "Call asks what personhood means when the persons were created rather than born — and answers that it means whatever you choose to do with the conscience you have"
+
+see_also:
+  - "/characters/ellen-ripley.yaml"
+  - "/characters/bishop.yaml"
+  - "/characters/ash.yaml"
+  - "/characters/elgyn.yaml"
+  - "/films/alien-resurrection-1997.yaml"
+
+sources:
+  - "Alien: Resurrection (1997)"
+---
