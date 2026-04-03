@@ -1,0 +1,134 @@
+---
+name: "Ellen Louise Ripley"
+portrayed_by: "Sigourney Weaver"
+species: "Human (later human-xenomorph hybrid clone)"
+occupation: "Warrant Officer, Flight Deck Officer"
+affiliation: "Weyland-Yutani Corporation (civilian contractor)"
+
+# Timeline
+birth_year: ~2092
+first_appearance: "Alien (1979)"
+last_appearance: "Alien: Resurrection (1997)"
+age_at_death: 30 (original timeline)
+
+# Biography
+backstory: |
+  Ellen Ripley served as a warrant officer aboard the USCSS Nostromo. She had a daughter, 
+  Amanda, who she left behind to work in deep space. This separation would haunt her across 
+  the franchise, especially after hypersleep caused her to miss her daughter's entire life.
+
+# Film-by-Film Arc
+timeline:
+  - film: "Alien"
+    year: 2122
+    role: "Sole human survivor of Nostromo incident"
+    key_moments:
+      - "Challenges Dallas's decision to let Kane back on ship"
+      - "Discovers Ash's betrayal and Special Order 937"
+      - "Destroys Nostromo and kills the xenomorph"
+      - "Enters hypersleep in Narcissus shuttle"
+    character_state: "Traumatized but determined; establishes her as rule-follower and survivor"
+  
+  - film: "Aliens"
+    year: 2179 (57 years later subjectively)
+    role: "Civilian advisor turned combat leader"
+    key_moments:
+      - "Learns daughter Amanda died at age 66 during her hypersleep"
+      - "Reluctantly returns to LV-426 with Colonial Marines"
+      - "Adopts Newt as surrogate daughter"
+      - "Battles Alien Queen in power loader"
+      - "Enters hypersleep with survivors"
+    character_state: "PTSD survivor who becomes protective mother figure; peak heroic arc"
+  
+  - film: "Alien³"
+    year: 2179 (shortly after Aliens)
+    role: "Prisoner on Fiorina 'Fury' 161"
+    key_moments:
+      - "Newt and Hicks killed in crash landing"
+      - "Discovers she's carrying a Queen chestburster"
+      - "Sacrifices herself by diving into molten lead"
+    character_state: "Stripped of everything; nihilistic sacrifice"
+  
+  - film: "Alien: Resurrection"
+    year: 2381 (200 years later)
+    role: "Clone with xenomorph DNA (Ripley 8)"
+    key_moments:
+      - "Awakens as human-alien hybrid with superhuman abilities"
+      - "Discovers she's one of 8 clones; kills her failed predecessors"
+      - "Confronts Newborn (hybrid offspring)"
+      - "Uncertain future as post-human entity"
+    character_state: "No longer fully human; existentially untethered"
+
+# Relationships
+key_relationships:
+  - name: "Amanda Ripley"
+    relation: "daughter"
+    status: "died of cancer at age 66 (during Ripley's hypersleep)"
+    emotional_impact: "Devastating loss that never got closure; motivates surrogate relationship with Newt"
+  
+  - name: "Newt (Rebecca Jorden)"
+    relation: "surrogate_daughter"
+    status: "killed in EEV crash (Alien³)"
+    emotional_impact: "Second devastating maternal loss; destroyed Ripley's will to survive"
+  
+  - name: "Dwayne Hicks"
+    relation: "romantic_interest / ally"
+    status: "killed in EEV crash (Alien³)"
+    emotional_impact: "Potential relationship cut short"
+  
+  - name: "Bishop"
+    relation: "android_ally"
+    status: "trust earned after Ash's betrayal"
+    significance: "Ripley learns not all synthetics are corporate tools"
+  
+  - name: "The Xenomorph"
+    relation: "nemesis / unwilling_genetic_donor"
+    significance: "Defines her entire existence; ultimately merges with her DNA"
+
+# Character Traits
+personality:
+  strengths:
+    - "Resourceful under pressure"
+    - "Protective of innocents"
+    - "Questions authority"
+    - "Technical competence"
+  
+  flaws:
+    - "PTSD-driven paranoia (especially re: androids)"
+    - "Survivor's guilt"
+    - "Difficulty trusting others"
+  
+  evolution: "From rule-following crew member → maternal warrior → nihilistic martyr → posthuman entity"
+
+# Iconic Quotes
+quotes:
+  - film: "Alien"
+    line: "I can't lie to you about your chances, but... you have my sympathies."
+  
+  - film: "Aliens"
+    line: "Get away from her, you BITCH!"
+    context: "Protecting Newt from the Alien Queen"
+  
+  - film: "Aliens"
+    line: "They can *bill* me."
+    context: "Destroying LV-426 with nuclear blast despite corporate asset value"
+  
+  - film: "Alien³"
+    line: "I'm the monster's mother."
+    context: "Revealing she's carrying a Queen"
+
+# Symbolism
+thematic_role:
+  - "Final Girl archetype subverted and evolved"
+  - "Maternal horror - motherhood as burden and weapon"
+  - "Working-class resistance to corporate exploitation"
+  - "Body autonomy and violation"
+  - "Transformation through trauma"
+
+# Legacy
+cultural_impact:
+  - "Redefined female action heroes in cinema"
+  - "Sigourney Weaver's breakout role"
+  - "Character ranked #8 on AFI's greatest heroes list"
+
+---
