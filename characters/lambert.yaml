@@ -1,0 +1,136 @@
+---
+name: "Lambert"
+full_name: "Joan Marie Lambert"
+portrayed_by: "Veronica Cartwright"
+species: "Human"
+occupation: "Navigator, USCSS Nostromo"
+affiliation: "Weyland-Yutani Corporation"
+
+# Timeline
+first_appearance: "Alien (1979)"
+last_appearance: "Alien (1979)"
+status: "DECEASED — 2122"
+
+# Biography
+backstory: |
+  Joan Marie Lambert served as Navigator aboard the USCSS Nostromo, responsible for plotting
+  the vessel's course and managing navigational systems throughout its deep-space haul. Lambert
+  was technically skilled and professionally composed under normal conditions — but the Nostromo's
+  final voyage was not normal. From the moment the crew was routed to LV-426, Lambert's responses
+  tracked the horror honestly and without filter. She was afraid from the beginning. She got more
+  afraid as things got worse. She said so, loudly, at every stage. Where other crew members
+  compartmentalized or performed calm, Lambert did not. This made her, to some viewers,
+  the most irritating crew member aboard the Nostromo. It made her, on reflection, the most
+  human. Lambert descended to the derelict, tracked the xenomorph through the ship's corridors,
+  pleaded for evacuation when it was still possible, and died during a fuel transfer sequence
+  — alone with Parker, the xenomorph between them.
+
+# Film-by-Film Arc
+timeline:
+  - film: "Alien"
+    year: 2122
+    role: "Navigator; tracker; the crew's emotional barometer"
+    key_moments:
+      - "Plots the course diversion to LV-426; first to understand the distress signal's coordinates"
+      - "Descends to the derelict alien ship as part of the landing party with Dallas and Kane"
+      - "Slaps Ripley when Ripley refuses to re-board Kane under quarantine — one of the film's most charged moments"
+      - "Operates the motion tracker during the duct hunt; her mounting panic as Dallas is killed is harrowing"
+      - "Argues repeatedly for immediate crew evacuation — the correct tactical call, ignored each time"
+      - "Killed by the xenomorph during the coolant fuel transfer sequence (timestamp: 01:32:25)"
+      - "Her death is largely off-screen; Parker dies first trying to save her; only her legs are seen"
+    character_state: "Frightened throughout and correct to be; her panic is the film's most honest emotional performance"
+
+# Relationships
+key_relationships:
+  - name: "Dallas"
+    relation: "closest crew bond"
+    dynamic: |
+      Dallas and Lambert shared the most openly warm relationship aboard the Nostromo. His death
+      in the ventilation ducts is the moment Lambert's remaining composure dissolves. She cannot
+      stop crying at the tracker after his signal disappears. Her grief is unperformed and total.
+    see_also: /characters/dallas.yaml
+
+  - name: "Parker"
+    relation: "colleague; died trying to save her"
+    dynamic: |
+      Parker and Lambert were not particularly close during the voyage, but their deaths are
+      paired: Parker is killed first while trying to flame the xenomorph away from Lambert;
+      Lambert dies moments later. Parker's sacrifice for her — impulsive, fatal — is one of
+      the film's few gestures of pure unambiguous heroism.
+    see_also: /characters/parker.yaml
+
+  - name: "Ellen Ripley"
+    relation: "tension; conflicting approaches to fear"
+    dynamic: |
+      Lambert and Ripley clash because they process fear opposite ways. Lambert externalizes
+      terror and demands immediate emotional acknowledgment; Ripley suppresses it and focuses
+      on procedure. Lambert slaps Ripley over the Kane quarantine decision. Ripley never hates
+      her for it — but the two women are never warm. Both are right, in different ways,
+      about different things.
+    see_also: /characters/ellen-ripley.yaml
+
+  - name: "Kane"
+    relation: "fellow landing party member"
+    dynamic: "Lambert was present at the derelict when the facehugger took Kane; she helped carry him back to the Nostromo."
+    see_also: /characters/kane.yaml
+
+# Character Traits
+personality:
+  surface_characteristics:
+    - "Technically competent; professionally reliable under routine conditions"
+    - "Emotionally transparent — does not mask fear or grief"
+    - "Vocal about danger; consistently advocates for the safest available option"
+
+  key_trait: |
+    Lambert's defining characteristic is unfiltered honesty about her own terror. In a genre
+    full of characters who suppress fear to project competence, she refuses. She is not
+    incapacitated by fear — she continues to function, track, plot, and argue — but she will
+    not pretend she is calm when she is not. This makes her the most emotionally realistic
+    crew member in the film, and the one whose fate audiences feel most viscerally.
+
+  on_fear: |
+    Lambert is often misread as weak. She is not. She is scared, accurately. Every course of
+    action she advocates — immediate evacuation, not splitting up, not going into the ducts —
+    is tactically correct. The crew who dismiss her as panicking are the crew who die in the
+    order she predicted they would. Her fear is the film's most reliable intelligence source.
+
+# Defining Moment — The Tracker After Dallas
+defining_moment:
+  timestamp: "01:17:45"
+  film: "Alien"
+  description: |
+    Lambert is monitoring the motion tracker as Dallas moves through the ventilation ducts.
+    She is relaying his position in a voice that has been tightening for minutes. Then the
+    signal stops moving. Then it is gone. Lambert does not speak for several seconds.
+    Then she begins to cry, quietly, over the radio. The scene contains no jump scare,
+    no monster reveal — only Lambert's face and the blank tracker screen. It is the film's
+    most purely desolate moment.
+  significance: "Establishes the horror through emotional response rather than on-screen violence; Lambert's grief does more work than any practical effect"
+
+# Iconic Quotes
+quotes:
+  - film: "Alien"
+    line: "It's going to kill us! It's going to kill us all!"
+    context: "Lambert, in extremis; she has been saying this for an hour and she has been right every time"
+
+  - film: "Alien"
+    line: "I am not going to the back of this ship alone."
+    context: "Refusing to retrieve equipment near the xenomorph's last known position; correct refusal"
+
+  - film: "Alien"
+    line: "Why won't you let us in? Open the hatch!"
+    context: "To Ripley, over the intercom, after Ripley enforces quarantine on Kane — Lambert's fury is genuine"
+
+# Symbolism
+thematic_role:
+  - "Embodies unfiltered human terror — the most honest emotional register in the film"
+  - "Her consistent advocacy for evacuation makes the crew's death feel preventable and therefore tragic"
+  - "Her off-screen death maximizes horror through implication; the imagination supplies worse than any image"
+  - "The slap scene frames the central Alien tension: procedural correctness versus human empathy"
+  - "Lambert is the film's emotional truth-teller — dismissed, sidelined, and ultimately vindicated by dying exactly as she predicted"
+
+# Legacy
+cultural_impact:
+  - "Veronica Cartwright's performance is a benchmark for realistic terror in science fiction"
+  - "Lambert's death — mostly off-screen, heard rather than seen — influenced how subsequent Alien films use implication over depiction"
+  - "The character's 'hysterical woman' surface reading has been extensively re-evaluated; contemporary critics largely read her as the crew's most accurate threat-assessor"

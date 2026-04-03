@@ -1,0 +1,266 @@
+---
+name: "Fiorina 'Fury' 161"
+also_known_as: "Fury 161"
+type: "Maximum security correctional facility / foundry"
+operator: "Weyland-Yutani Corporation"
+location: "Fiorina 161, remote system"
+status: "CLOSED — 2179 (abandoned following xenomorph incident)"
+first_appearance: "Alien³ (1992)"
+
+# Facility Profile
+facility_profile:
+  classification: "Double-Y chromosome maximum security penal labor colony"
+  function: "Correctional facility; lead foundry (industrial labor)"
+  
+  population_at_incident:
+    prisoners: 25
+    custodians: 3
+    total: 28
+    gender_restriction: "All male — women not permitted on the facility per regulation"
+  
+  condition_at_time_of_incident: |
+    Weyland-Yutani had officially closed and decommissioned the facility. 
+    Scheduled for full shutdown, the facility had been stripped of most 
+    resources. 25 prisoners and 3 custodians — all voluntarily remaining — 
+    refused reassignment. The closure left them without medical staff 
+    (Clemens served as de facto doctor), without adequate supplies, and 
+    without weapons of any kind.
+  
+  no_weapons_policy: |
+    The remaining population had made a collective decision — grounded in their 
+    religious brotherhood — to maintain no firearms. This was both a spiritual 
+    commitment and a practical arrangement. It meant that when the xenomorph 
+    arrived, the prisoners faced a killing machine armed with their bare hands, 
+    improvised tools, and whatever industrial equipment the foundry could offer.
+
+# The Religious Brotherhood
+religious_community:
+  description: |
+    In the absence of any authority, the prisoners and custodians at Fiorina 161 
+    formed a fundamentalist apocalyptic Christian brotherhood. Their faith was not 
+    assigned to them — it emerged from the particular desperation of violent men 
+    abandoned in a remote prison who chose meaning over madness. The brotherhood 
+    was led by Dillon, a prisoner serving a life sentence for rape and murder who 
+    had undergone genuine transformation.
+  
+  leader:
+    name: "Dillon"
+    status: "DECEASED — held xenomorph in the lead shaft while it was incinerated; killed with it"
+    character: |
+      Dillon is one of the franchise's most complex supporting figures. He committed 
+      terrible crimes. He became a genuine leader of men in impossible circumstances. 
+      He distrusted Ripley for being a woman in a no-women facility. He ultimately 
+      chose to die to give the others a chance to trap the xenomorph. His sacrifice 
+      is entirely voluntary and entirely unambiguous.
+  
+  theological_note: |
+    The prisoners' faith is the film's deliberate counter to institutional religion — 
+    not a church's version of faith, but a theology constructed from survival, 
+    guilt, and the specific gravity of men who know exactly what they are capable of.
+
+# The EEV Crash
+eev_crash:
+  origin: "USS Sulaco — Emergency Escape Vehicle launched during shipboard fire"
+  crash_location: "Fiorina 161 ocean, near the facility"
+  
+  casualties:
+    - name: "Newt (Rebecca Jordan)"
+      cause: "Drowned in EEV during crash; age ~9-10"
+    - name: "Hicks, Dwayne (Corporal, USCMC)"
+      cause: "Impaled by cryo pod malfunction during crash impact"
+  
+  survivors:
+    - name: "Ripley, Ellen Louise"
+      condition: "Unconscious; laceration to forehead; recovered by prisoners"
+    - name: "Bishop"
+      condition: "Torso severely damaged; recovered from wreckage; subsequently deactivated"
+  
+  xenomorph_origin:
+    theatrical_cut: "Egg aboard EEV — origin unconfirmed"
+    assembly_cut: |
+      A facehugger was present aboard the Sulaco, having survived from LV-426. 
+      The Assembly Cut shows the facehugger aboard the Sulaco prior to the EEV 
+      launch, implying it was cryogenically present during transit and laid an egg 
+      aboard the EEV — or infected a host during the confusion of the fire.
+    
+    implication: |
+      Regardless of mechanism, a xenomorph egg accompanied the EEV to Fiorina 161. 
+      The creature that emerged was born from an animal host (dog in theatrical cut; 
+      ox in Assembly Cut) — producing a quadrupedal variant. The xenomorph arrived 
+      before Weyland-Yutani did. Whether the corporation knew about the egg is unknown.
+
+# Key Personnel
+personnel:
+  ripley:
+    name: "Ripley, Ellen Louise"
+    role: "EEV crash survivor; de facto leader against xenomorph threat"
+    medical_discovery: |
+      Using the facility's medical scanner, Ripley discovered she was carrying a 
+      Queen xenomorph embryo — implanted by a facehugger during hypersleep aboard 
+      the Sulaco. This discovery transformed the threat: Weyland-Yutani's retrieval 
+      team was not coming for Ripley. They were coming for what was inside her.
+    fate: "Self-immolation in lead furnace to deny Weyland-Yutani the Queen embryo"
+
+  clemens:
+    name: "Clemens, Jonathan"
+    role: "Prison doctor; only medical professional"
+    background: |
+      A disgraced physician serving time for an accidental drug overdose that 
+      killed eleven patients. Clemens came to Fiorina 161 as prisoner and stayed 
+      as doctor when the facility closed. He is quiet, competent, and without 
+      illusions about himself or the institution.
+    relationship_to_ripley: |
+      Clemens and Ripley formed a brief, genuine connection — rare in the franchise. 
+      He gave her information, she gave him honesty. He was one of the few people 
+      in the prison world who treated her as a person rather than a problem.
+    fate: "DECEASED — killed by xenomorph in the medical bay; first major death of the film"
+
+  aaron:
+    name: "Aaron"
+    call_sign: "'85'"
+    role: "Prison superintendent; administrative custodian"
+    call_sign_origin: "IQ test score — prisoners' callous nickname for a man not bright enough to leave"
+    character: |
+      Aaron occupies the franchise's familiar middle-management position: a man 
+      serving institutions that don't serve him, too entrenched to rebel and not 
+      perceptive enough to understand what he's part of. He wanted to follow 
+      Weyland-Yutani protocol — even when that protocol meant surrendering Ripley 
+      to a retrieval team.
+    fate: "DECEASED — killed by Weyland-Yutani retrieval team after attacking Bishop II with a fire axe"
+
+# The Xenomorph — The Runner
+runner_variant:
+  designation: "Runner" / "Dog Alien" (fan/production terminology)
+  host_species:
+    theatrical_cut: "Dog"
+    assembly_cut: "Ox"
+  
+  morphology: |
+    The Runner is quadrupedal — born from a four-legged host, it retains that body 
+    plan. It moves differently from the bipedal warriors of Aliens: lower to the 
+    ground, faster in short sprints, more animalistic in behavior. It lacks the 
+    exoskeletal ridging of the warrior; its skull dome is smooth. It is more 
+    overtly predatory and less methodically tactical than hive-based xenomorphs.
+  
+  behavior: |
+    Operating alone, without a Queen's pheromone direction, the Runner hunts 
+    opportunistically. It does not cocoon hosts — there is no Queen to feed. 
+    It kills. This returns the xenomorph to its Alien (1979) mode: a single 
+    creature in an enclosed space, hunting one by one.
+  
+  count: 1
+  
+  kill_sequence:
+    - "Golic's cellmate Murphy (drowned in toilet)"
+    - "Multiple unnamed prisoners"
+    - "Clemens (medical bay)"
+    - "Dillon (held it in lead shaft during trap; killed with it)"
+  
+  fate: "Incinerated in the lead foundry trap; final survivor doused with water to crack its exoskeleton"
+
+# Prisoner Trap — The Lead Works
+lead_trap:
+  concept: |
+    Without weapons, the prisoners devised a plan to use the foundry itself: 
+    drive the Runner into the lead molds and flood the chamber with molten lead. 
+    Dillon volunteered to remain in the shaft and physically hold the xenomorph 
+    in place while the others activated the pour.
+  
+  execution: |
+    The plan partially worked. Most prisoners died during the drive. Dillon 
+    held the Runner in the shaft. The molten lead poured — killing Dillon and 
+    coating the xenomorph. The creature survived the initial coating. Ripley 
+    and Morse doused it with water, causing thermal shock — cracking its 
+    exoskeleton and killing it through its own acidic blood.
+  
+  casualties_in_operation: |
+    Most of the remaining prisoners. Only Morse survived the trap operation 
+    itself (aside from Ripley, who was managing the sprinkler).
+
+# Weyland-Yutani Retrieval
+retrieval_team:
+  designation: "Weyland-Yutani rescue team" (official cover); actual: specimen retrieval operation
+  
+  arrival_timing: |
+    The retrieval team arrived within hours of Ripley's discovery that she carried 
+    a Queen embryo. This speed is significant: either the company had surveillance 
+    on the facility from the moment of the EEV crash, or they had intelligence from 
+    other sources. A genuine rescue mission could not have mobilized and arrived 
+    so quickly. They knew.
+  
+  representatives:
+    - name: "Bishop II"
+      role: "Company representative; possibly the human template for the Bishop android"
+      significance: |
+        Bishop II's arrival deeply disturbed Ripley — she could not tell whether he 
+        was the human model for Bishop the android, another android entirely, or 
+        something else. This ambiguity was deliberate: the company sent something 
+        that looked like someone she trusted. The franchise's android horror operating 
+        at maximum psychological efficiency.
+  
+  stated_mission: "Rescue Ripley; treat wounded; address xenomorph incident"
+  actual_mission: "Extract the Queen embryo from Ripley — alive or surgically"
+  
+  cover_story_failure: |
+    Aaron saw through the extraction agenda and struck Bishop II with a fire axe. 
+    The retrieval team killed Aaron. This sequence confirms the retrieval team's 
+    true priorities: a corporate asset (the embryo) was more important than 
+    a human life (Aaron's). The "rescue" narrative collapsed instantly under pressure.
+
+# Ripley's Sacrifice
+ripleys_sacrifice:
+  decision: |
+    Ripley understood what the retrieval team wanted. She understood that allowing 
+    the company to extract the Queen embryo — even surgically, as they proposed — 
+    would give Weyland-Yutani exactly what they had been pursuing since the Nostromo 
+    in 2122: a live xenomorph Queen for their biological weapons program. Every death 
+    from the Nostromo to Hadley's Hope to Fiorina 161 would have led to this moment 
+    of corporate success.
+  
+  method: |
+    Ripley walked backward to the edge of the lead furnace and fell in — arms 
+    spread, in posture that deliberately echoes a crucifixion. The xenomorph Queen 
+    embryo tore partway out of her chest as she fell; she forced it back and went 
+    into the flames. The embryo died with her.
+  
+  final_words: "You've been in my life so long, I can't remember anything else."
+  
+  significance: |
+    Ripley's sacrifice ends her story — the franchise's only unambiguous heroic death 
+    that achieves its purpose. She denied the corporation the one thing it wanted 
+    more than anything else. She destroyed herself to destroy the instrument of 
+    future destruction. The franchise's subsequent resurrection of the character 
+    (Alien: Resurrection, 2381) was immediately understood by audiences as a 
+    betrayal — both of Ripley and of the ending. That understanding was intended.
+
+# Corporate Responsibility
+weyland_yutani_role:
+  actions:
+    - "Operated a decommissioned facility with no medical staff, no weapons, and no emergency protocols"
+    - "Dispatched a 'rescue' team that was actually a specimen retrieval operation"
+    - "Sent Bishop II as a psychological manipulation instrument targeting Ripley's trust"
+    - "Killed Aaron when he interfered with the extraction"
+    - "Attempted to perform invasive surgery to extract a xenomorph embryo from a living person without consent"
+  
+  outcome: |
+    Weyland-Yutani failed. They lost the Queen embryo, the xenomorph, the EEV survivors, 
+    and any evidence of what happened at Hadley's Hope. Ripley took everything they wanted 
+    into the furnace with her. The company's response — returning in 2381 to clone her 
+    from blood samples — confirms that they never stopped. They waited two hundred years.
+
+# Thematic Role
+thematic_significance:
+  - "Fiorina 161 is the franchise's purgatory — a place stripped of everything, where the only way forward is sacrifice"
+  - "The all-male population reflects the film's deliberate gendered horror — Ripley's presence is a disruption of the only world these men have left"
+  - "The prison setting strips Ripley of every advantage accumulated across two films: Newt, Hicks, Bishop, weapons, authority, allies"
+  - "Dillon's sacrifice redeems without redeeming — a murderer dies well; the film doesn't pretend his good death cancels his past"
+  - "The lead furnace is the franchise's most powerful image of working-class industry repurposed as the only weapon available"
+  - "Ripley falling backward into fire is the franchise's darkest and most honest ending — she wins by dying; there is no other way to win"
+  - "The double-Y chromosome detail is the film's most clinical gesture toward the franchise's recurring theme: the body as a site of institutional violence"
+
+# See Also
+see_also:
+  - "/characters/ellen-ripley.yaml"
+  - "/locations/uss-sulaco.yaml"
+  - "/characters/dillon.yaml"
+  - "/films/alien3-1992.yaml"

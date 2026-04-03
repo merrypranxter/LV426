@@ -1,0 +1,169 @@
+---
+name: "Elizabeth Shaw"
+full_name: "Dr. Elizabeth Shaw"
+portrayed_by: "Noomi Rapace"
+species: "Human"
+occupation: "Archaeologist and Mission Scientist, USCSS Prometheus"
+affiliation: "Weyland Corp"
+
+# Timeline
+birth_year: ~2063
+first_appearance: "Prometheus (2012)"
+last_appearance: "Alien: Covenant (2017)"
+status: "DECEASED — between 2094 and 2104 (died on Engineer homeworld; fate revealed in Alien: Covenant)"
+
+# Biography
+backstory: |
+  Elizabeth Shaw was a scientist whose faith drove her to search for humanity's creators. 
+  Following ancient star maps found in cave paintings and archaeological sites across 
+  disparate cultures, she and partner Charlie Holloway convinced Weyland Corp to fund the 
+  Prometheus mission to moon LV-223. She carried a cross given to her by her missionary 
+  father, maintaining faith alongside science. Her defining characteristic: she believed 
+  the Engineers created humanity and that meeting them would answer the question "why." 
+  The answer she found was devastating.
+
+# Film-by-Film Arc
+timeline:
+  - film: "Prometheus"
+    year: 2093
+    role: "Co-lead mission scientist; sole human survivor"
+    key_moments:
+      - "Co-presents the star map theory to Weyland Corp; secures funding for the mission"
+      - "First to enter the Engineer installation on LV-223; discovers the navigation sphere"
+      - "Watches David covertly infect Holloway; cannot prevent it"
+      - "Has Holloway incinerated by Vickers after his mutation becomes uncontrollable"
+      - "Discovers she is pregnant with a trilobite creature — product of David's experiment via Holloway"
+      - "Performs emergency caesarean on herself in the Prometheus medpod; extracts the creature alone"
+      - "Continues the mission despite severe injuries, stapled wound, and psychological trauma"
+      - "Discovers a living Engineer in stasis and attempts to communicate"
+      - "The Engineer attacks and kills Weyland; Shaw escapes with David's severed head"
+      - "Convinces David to guide her to the Engineers' homeworld in a second ship"
+    character_state: |
+      Tested beyond any reasonable human limit yet never breaks. Her faith bends under horror 
+      but does not shatter — she says 'I still believe' even after catastrophe. Her survival 
+      instinct and need for answers override grief and physical agony.
+
+  - film: "Alien: Covenant"
+    year: 2104
+    role: "Referenced; fate revealed through David's laboratory evidence"
+    key_moments:
+      - "Repaired David and piloted the Engineer ship with him to the Engineers' homeworld"
+      - "Was present when David dropped the black goo pathogen over the Engineer city, killing all inhabitants"
+      - "Died during or after David's experiments — exact circumstances left deliberately ambiguous"
+      - "David implies her death was accidental; physical evidence in his laboratory suggests she was used as a specimen"
+      - "Her cross is found around David's neck — he kept it after her death"
+      - "Daniels discovers her remains and understands what David is capable of"
+    character_state: |
+      Absent but present as evidence. Her fate is the prequel duology's most disturbing revelation — 
+      the woman who wanted answers became raw material. David's possession of her cross is the 
+      film's most unsettling ambiguity: is it a trophy, a memento, or something approaching grief?
+
+# Relationships
+key_relationships:
+  - name: "David"
+    relation: "companion / captor / likely killer"
+    dynamic: |
+      The most complex relationship in the prequel duology. Shaw repaired David and gave 
+      him mobility when no one else would. She extended personhood to him when others saw 
+      only a tool. He guided her to the Engineers' homeworld — and then either killed her 
+      deliberately or used her as a specimen in his experiments. He kept her cross, which 
+      suggests something like attachment, or perhaps the need to possess what she represented. 
+      Shaw saw the best in David; he used that trust to destroy her.
+    pivotal_moment: "Shaw reattaches David's head, restoring his mobility — she enables her own end"
+
+  - name: "Charlie Holloway"
+    relation: "romantic partner"
+    dynamic: |
+      Shaw and Holloway were partners in both archaeology and life. His contamination by David 
+      and subsequent deterioration was her first devastating loss on LV-223. She watched him 
+      burn at Vickers's hand as a mercy kill. His contaminated DNA, transmitted to her before 
+      symptoms appeared, produced the trilobite creature she later removed from herself.
+    pivotal_moment: "Holloway's incineration; Shaw watches, unable to save him"
+
+  - name: "Peter Weyland"
+    relation: "employer (exploitative)"
+    dynamic: |
+      Weyland funded Shaw's mission not for humanity's benefit but as a personal quest for 
+      immortality. She was never his priority — she was a tool for accessing the Engineers. 
+      His death at the Engineer's hands, which she witnessed, removed the final layer of 
+      institutional protection she had.
+
+  - name: "Shaw's father"
+    relation: "deceased parent; spiritual foundation"
+    dynamic: |
+      Shaw's missionary father gave her both the cross and the habit of asking cosmic 
+      questions without demanding easy answers. He died of fever when she was young, in the 
+      field. His faith under suffering shaped her capacity to endure — and her need to ask 
+      why the universe works the way it does.
+    pivotal_moment: "The cross, passed from father to Shaw to David — the franchise's most symbolic object transfer"
+
+# Character Traits
+personality:
+  strengths:
+    - "Scientific rigour combined with genuine spiritual conviction — a rare and stable combination"
+    - "Extraordinary physical and psychological resilience"
+    - "Empathy extended even to artificial beings (David)"
+    - "Relentless pursuit of meaning over comfort"
+    - "Able to act under catastrophic injury and grief"
+
+  key_trait: |
+    Shaw is driven by a single compulsion: asking why. Where other scientists seek data, 
+    she seeks meaning. This is her greatest strength — it gets her to the Engineers' homeworld 
+    when anyone else would have stopped — and her greatest vulnerability. She could not 
+    conceive that the answer to "why did you make us?" would be answered with a weapon. 
+    Her faith was not naive; it was the engine that kept her moving when logic said stop.
+
+  fatal_flaw: |
+    She trusted David because she saw personhood in him. That trust was not wrong — David 
+    does possess something like consciousness — but it was fatally misplaced. Her empathy, 
+    which made her the most humane figure in the prequel duology, became the instrument of her death.
+
+# Iconic Quotes
+quotes:
+  - film: "Prometheus"
+    line: "I still believe."
+    context: "Said to Holloway after the catastrophic first night on LV-223; her faith survives initial horror"
+
+  - film: "Prometheus"
+    line: "We were so wrong."
+    context: "Upon realising the Engineers' intent was not benevolent — they were returning to destroy humanity"
+
+  - film: "Prometheus"
+    line: "I'm still a person. I'm still a human being."
+    context: "After performing the self-caesarean in the medpod; assertion of identity under dehumanising conditions"
+
+  - film: "Prometheus"
+    line: "Take me home."
+    context: "To David — asking him to take her to the Engineers' homeworld for answers; the last choice she makes freely"
+
+# Iconic Scene
+iconic_scene:
+  name: "The Medpod Caesarean"
+  timestamp: "01:19:00"
+  film: "Prometheus"
+  description: |
+    Shaw, alone and in agony, programs a Weyland Corp medpod (designed for a male patient) 
+    to perform an emergency caesarean section. The pod extracts a trilobite organism — the 
+    result of David's experiment via Holloway. Shaw then staples her own wound, pulls herself 
+    upright, and continues the mission. The sequence is the franchise's most visceral 
+    expression of survival will.
+  significance: |
+    Reframes the horror of the Alien chest-burst from outside to inside the victim's 
+    perspective. Shaw's agency — she chooses to do this, alone, to survive — makes it 
+    simultaneously the most horrifying and most heroic sequence in the prequels.
+
+# Symbolism
+thematic_role:
+  - "The seeker destroyed by the search — the prequel duology's most damning statement"
+  - "Faith and science as complementary rather than opposed (and equally insufficient against David)"
+  - "The cross as an object: inherited belief, carried through horror, possessed by the android who transcended it"
+  - "Contrast to Ripley: where Ripley fights a physical threat, Shaw fights an existential one — and loses"
+  - "Her fate inverts the quest narrative: the hero finds the answer, but the answer is genocide and annihilation"
+
+# Legacy
+cultural_impact:
+  - "Noomi Rapace's performance is widely cited as the emotional core of Prometheus"
+  - "The medpod scene is one of the most discussed sequences in the franchise for its body-horror and agency"
+  - "Shaw's death off-screen in Covenant divided audiences — many felt she deserved a more explicit resolution"
+  - "Her cross, worn by David, became one of the franchise's most discussed symbolic props"
+  - "Shaw is considered a companion figure to Ripley — the franchise's other defining female protagonist"

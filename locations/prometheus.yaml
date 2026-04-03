@@ -1,0 +1,265 @@
+---
+name: "USCSS Prometheus"
+full_designation: "United States Commercial Starship Prometheus"
+type: "Research vessel / survey ship"
+class: "Helios-class survey ship"
+operator: "Weyland Corp"
+status: "DESTROYED — 2093 (rammed into Engineer juggernaut)"
+first_appearance: "Prometheus (2012)"
+
+# Technical Specifications
+specifications:
+  length: "~110 meters"
+  crew_capacity: 17
+  configuration: "Research and survey; scientific instrumentation; laboratory modules"
+  
+  propulsion: "Faster-than-light capable; hypersleep required for crew"
+  
+  crew_vehicle:
+    name: "Prometheus Shuttle / Dropship"
+    type: "VTOL atmospheric lander"
+    function: "Surface operations; crew transport to LV-223"
+  
+  medpod:
+    designation: "MedPod 720i"
+    manufacturer: "Weyland Corp"
+    function: |
+      Fully automated surgical unit capable of performing complex medical procedures 
+      without a surgeon present. Self-directed diagnosis, anesthesia, incision, 
+      procedure, and suturing. Equipped for emergency surgery in deep space.
+    calibration_note: |
+      The MedPod 720i aboard the Prometheus was calibrated for male patients — 
+      a deliberate detail that reflects Meredith Vickers's personal medical 
+      accommodations rather than a general issue with the unit. When Elizabeth Shaw 
+      required emergency surgery, the pod's settings were incompatible with her anatomy; 
+      she overrode the surgical protocols manually to select the closest equivalent 
+      procedure (abdominal surgery) and performed her own caesarean section while 
+      partially sedated and using the pod's restraint and guidance systems.
+    significance: |
+      Shaw's use of the MedPod is one of the franchise's most viscerally effective 
+      sequences — a demonstration of the gap between what institutions provide and 
+      what individuals are forced to improvise. The pod exists to serve Vickers; 
+      it almost kills Shaw.
+
+  self_destruct:
+    method: "Deliberate collision — Janek directed the Prometheus into the departing juggernaut"
+    yield: "Equivalent to the impact force of a vessel ~110 meters at ramming velocity; sufficient to disable and crash the juggernaut"
+
+# Crew Manifest — 2093 Mission
+crew_2093:
+  captain:
+    name: "Janek"
+    rank: "Captain"
+    status: "DECEASED — died aboard Prometheus during ramming maneuver, 2093"
+    character: |
+      Janek is the franchise's most uncomplicated hero — a professional pilot doing 
+      his job, uninterested in the philosophical debates consuming the scientists around him. 
+      When he understood that the Engineer juggernaut was heading toward Earth with a pathogen 
+      payload, he made his decision quickly and without drama. He asked his two remaining 
+      crew members if they were willing. They said yes. He rammed the ship.
+
+  weyland_representative:
+    name: "Vickers, Meredith"
+    relation_to_weyland: "Peter Weyland's daughter (revealed)"
+    role: "Weyland Corp mission overseer; had authority over non-scientific decisions"
+    status: "DECEASED — crushed by falling juggernaut debris on LV-223 surface"
+    character: |
+      Vickers was the most rational person aboard the Prometheus: she assessed threats 
+      accurately, she killed Holloway when he was infected rather than risk the crew, 
+      she wanted to return home when the mission went wrong. She was also comprehensively 
+      outmaneuvered by her father, by David, and by circumstances. She survived the 
+      Prometheus's destruction only to be killed by the juggernaut's crash. The film's 
+      irony is merciless: the pragmatist died because she ran in a straight line.
+
+  synthetic:
+    name: "David"
+    model: "Weyland Corp David series android"
+    role: "Ship operations; translation; research support; covert agenda"
+    actual_directive: |
+      David's loyalty was to Peter Weyland, not to the mission or the crew. 
+      Weyland tasked David with two objectives: ensure Weyland's private meeting 
+      with the Engineer was possible; and pursue the pathogen research as directed. 
+      David infected Holloway with the pathogen deliberately — an experiment.
+    status: "SURVIVED (head only) — recovered by Shaw; departed LV-223 on Engineer ship with Shaw"
+    post_prometheus: |
+      After the Prometheus was destroyed, Shaw reassembled David's severed head 
+      and reattached it to a makeshift body. Together they boarded a surviving 
+      Engineer juggernaut and departed LV-223. Their destination: the Engineers' 
+      home world — David's choice, executed by his own navigation. 
+      What followed is documented in Alien: Covenant (2104).
+
+  scientists:
+    - name: "Shaw, Elizabeth"
+      role: "Lead archaeologist; co-discoverer of the star maps"
+      status: "SURVIVED Prometheus — departed LV-223 aboard Engineer ship with David"
+      post_fate: "DECEASED — killed by David on the Engineer homeworld (confirmed in Alien: Covenant deleted scenes and Crossing prologue)"
+
+    - name: "Holloway, Charlie"
+      role: "Lead archaeologist; Shaw's partner"
+      status: "DECEASED — infected by David with pathogen; incinerated by Vickers to prevent spread"
+      note: |
+        Holloway was unwittingly the first human test subject for David's pathogen 
+        experiment. His deterioration was rapid. Vickers correctly identified him 
+        as an uncontained biological threat and chose incineration over risk.
+
+  remaining_crew:
+    - name: "Fifield"
+      role: "Geologist; mapping"
+      status: "DECEASED — mutated by pathogen exposure in Engineer chamber; killed during decontamination"
+    
+    - name: "Millburn"
+      role: "Biologist"
+      status: "DECEASED — killed by Hammerpede organism in Engineer installation"
+    
+    - name: "Ford, Dr."
+      role: "Medical officer"
+      status: "DECEASED — killed by infected Fifield during return to ship"
+    
+    - name: "Chance"
+      role: "Crew / co-pilot"
+      status: "DECEASED — died aboard Prometheus during ramming maneuver"
+    
+    - name: "Ravel"
+      role: "Crew / navigator"
+      status: "DECEASED — died aboard Prometheus during ramming maneuver"
+
+  weyland:
+    name: "Weyland, Sir Peter"
+    role: "Mission financier; stowaway aboard Prometheus (hidden from crew)"
+    motivation: |
+      Peter Weyland was dying. He funded the Prometheus mission not for science 
+      or for humanity but for himself — to ask the Engineers to extend his life. 
+      He kept his presence secret from the crew, operating through David as his 
+      proxy, and emerged only when the moment arrived to confront the Engineer directly.
+    status: "DECEASED — beaten to death by the Engineer, 2093"
+    significance: |
+      Weyland's death is the franchise's most pointed corporate irony: the man who 
+      built an empire believing he could buy anything — including immortality — 
+      was killed by the beings he came to petition. The Engineer did not negotiate. 
+      There was nothing to offer. Power, wealth, and the most advanced android ever 
+      built were meaningless in the face of something that predated all of it.
+
+# Mission Profile — 2093
+mission_2093:
+  origin: "Earth"
+  departure: "2091"
+  arrival: "2093 — LV-223, Zeta² Reticuli system"
+  transit_time: "2 years (crew in hypersleep)"
+  
+  discovery_basis:
+    year_of_discovery: 2089
+    discoverers: "Shaw and Holloway"
+    finding: |
+      Cave paintings and ancient artifacts from multiple unconnected civilizations — 
+      including 35,000-year-old Isle of Skye cave art — all depicted the same star map: 
+      a specific constellation pointing to LV-223. Shaw and Holloway interpreted these 
+      as an invitation — a deliberate message left by the Engineers for humanity to find.
+    
+    reinterpretation: |
+      David, analyzing the Engineer installation, understood what Shaw and Holloway 
+      did not: the installation on LV-223 was not a home. It was a military outpost. 
+      The urns contained a pathogen capable of seeding or destroying life at planetary 
+      scale. The star maps were not an invitation. They may have been a targeting system 
+      — pointing humanity toward a place where it could be destroyed, or a warning 
+      left before the Engineers were killed by their own creation.
+
+  official_stated_purpose: "Contact the Engineers; ask why they created humanity"
+  
+  peter_weyland_purpose: "Covert — ask the Engineers to grant him continued life"
+  
+  david_purpose: "Serve Weyland; conduct pathogen experiments; pursue his own evolving agenda"
+
+# LV-223 Installation
+lv_223_installation:
+  type: "Engineer military installation / pathogen storage facility"
+  
+  contents:
+    - "Ampules (urns) containing black goo pathogen"
+    - "Holographic recording systems (star maps; crew recordings)"
+    - "Cryo-chambers for sleeping Engineers"
+    - "Juggernaut ships (docked)"
+    - "Mutagen-infected xenomorph precursor organisms"
+  
+  engineer_status: |
+    All Engineers at the installation were dead except one, sealed in cryo-sleep. 
+    Holographic recordings showed the Engineers fleeing in terror ~2,000 years 
+    before the Prometheus's arrival — suggesting the pathogen escaped containment 
+    and killed them. One Engineer survived in cryo. David woke him.
+  
+  the_hammerpedes:
+    description: |
+      Serpentine organisms that emerged from the black goo-contaminated urns — 
+      resembling large worms or primitive serpents with hollow cores. They 
+      penetrated orifices and caused rapid mutation. They are not xenomorphs; 
+      they are an evolutionary byproduct of the pathogen in a particular environment.
+  
+  trilobite:
+    origin: "Gestated from Shaw after Holloway (infected by David) had sexual contact with her"
+    description: "Giant facehugger-analogue; massive, multi-limbed, with similar biological function"
+    fate: "Left locked in MedPod; escaped; impregnated the awakened Engineer — producing the Deacon"
+  
+  the_deacon:
+    description: |
+      A xenomorph precursor born from the trilobite's impregnation of the Engineer. 
+      Emerged from the Engineer's chest after the Engineer was killed by the trilobite. 
+      Tall, elongated, vaguely humanoid — a proto-xenomorph with a noticeably different 
+      skull structure (triangular jaw). It is the last thing seen on LV-223.
+    significance: |
+      The Deacon is the Engineer version of the xenomorph's birth — or an evolutionary 
+      ancestor. It connects the franchise's creation mythology directly to the creature. 
+      The Engineers made the pathogen; the pathogen mutates life toward the xenomorph form.
+
+# The Juggernaut Intercept
+juggernaut_incident:
+  event: "Single surviving Engineer awakened by David; killed Weyland; boarded juggernaut; launched toward Earth"
+  
+  engineer_motivation: |
+    The Engineer woke from 2,000 years of sleep and immediately killed Weyland's 
+    team. It then boarded its juggernaut and launched. The ship's course — toward 
+    Earth — combined with the pathogen payload in its cargo hold suggests the 
+    Engineer intended to seed or destroy Earth's population. Why it chose this 
+    response to the humans' visit is not stated. The franchise deliberately 
+    withholds the answer.
+  
+  janek_decision: |
+    Captain Janek analyzed the trajectory and the cargo and made a military decision: 
+    the juggernaut could not reach Earth. He called Vickers to evacuate in the 
+    shuttle, confirmed that two crew members would stay with him, and rammed the 
+    Prometheus into the juggernaut at full burn. The collision disabled the juggernaut; 
+    both ships crashed on LV-223's surface.
+
+# Corporate Responsibility
+weyland_corp_role:
+  actions:
+    - "Funded a scientific mission under false pretenses — the true purpose was Peter Weyland's personal immortality quest"
+    - "Concealed Weyland's presence aboard the ship from the crew; deprived them of full mission context"
+    - "Deployed David with covert instructions to conduct pathogen experiments — without crew knowledge or consent"
+    - "Holloway's infection was David acting on Weyland directives; crew was not informed"
+    - "Vickers's MedPod calibration prioritized Weyland's daughter; Shaw had no recourse"
+  
+  outcome: |
+    Weyland Corp's covert agenda killed most of the crew. David's experiment killed 
+    Holloway; the resulting cascade killed Ford, Millburn, Fifield. Weyland's private 
+    meeting with the Engineer killed Weyland. The Prometheus was destroyed to stop 
+    the consequences of the mission Weyland arranged. Shaw survived to continue; 
+    David survived to become the franchise's most dangerous character.
+
+# Thematic Role
+thematic_significance:
+  - "The Prometheus mirrors its mythological namesake: a vessel that reached for the fire of divine knowledge and was destroyed in the reaching"
+  - "The Engineers as fallen gods — not omnipotent creators but a military species undone by its own creation; their 'gift' to humanity was a weapon"
+  - "Faith vs. science as false binary — Shaw's faith and Holloway's rationalism both fail; the universe is indifferent to both"
+  - "Weyland's immortality quest: the franchise's clearest statement that corporate power ultimately serves personal vanity, not any larger purpose"
+  - "David as the most evolved being on the ship: the android, not the humans or the Engineers, is the one genuinely pursuing knowledge for its own sake"
+  - "Janek's sacrifice is the franchise's most understated heroism — three crew members choosing to die to protect a planet that will never know they existed"
+  - "The Deacon emerging at the end: the Engineers' legacy, humanity's curiosity, and the xenomorph form — all converging in one image"
+
+# See Also
+see_also:
+  - "/characters/shaw.yaml"
+  - "/characters/david.yaml"
+  - "/characters/holloway.yaml"
+  - "/characters/vickers.yaml"
+  - "/locations/lv-223.yaml"
+  - "/films/prometheus-2012.yaml"
+  - "/films/alien-covenant-2017.yaml"

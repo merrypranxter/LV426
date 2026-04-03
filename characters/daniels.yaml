@@ -1,0 +1,164 @@
+---
+name: "Daniels"
+full_name: "Daniels Branson"
+nickname: "Dany"
+portrayed_by: "Katherine Waterston"
+species: "Human"
+occupation: "Terraforming / Colonist Mission Lead, USCSS Covenant"
+affiliation: "Weyland-Yutani Corporation"
+
+# Timeline
+birth_year: ~2065
+first_appearance: "Alien: Covenant (2017)"
+last_appearance: "Alien: Covenant (2017)"
+status: "UNKNOWN — in hypersleep aboard USCSS Covenant; David has assumed Walter's identity (as of 2104)"
+
+# Biography
+backstory: |
+  Daniels Branson was the terraforming lead and co-mission planner aboard the USCSS Covenant, 
+  a colonization vessel carrying 2,000 sleeping colonists and 1,140 human embryos to the 
+  planet Origae-6. She was married to the ship's captain, Jacob Branson, who died in the 
+  neutrino burst accident at the mission's opening before the colony was ever reached. 
+  Together they had planned to build a log cabin by a lake on Origae-6 — a small, human 
+  dream set against the vast enterprise of interstellar colonisation. The synthetic Walter 
+  later builds her a small wooden model of that cabin. When the Covenant's mission was 
+  diverted to investigate a rogue transmission from a nearby habitable world, Daniels 
+  was the first and loudest voice against the change. Her instincts were correct at 
+  every stage. It did not save her crew.
+
+# Film-by-Film Arc
+timeline:
+  - film: "Alien: Covenant"
+    year: 2104
+    role: "Terraforming lead; de facto survivor-protagonist"
+    key_moments:
+      - "Wakes to find husband Jake Branson dead in his hypersleep pod — the neutrino burst accident"
+      - "Argues against diverting the mission to investigate the rogue transmission; overruled by Oram"
+      - "Descends to the Engineer homeworld with the away team; watches crew members die from black goo spores"
+      - "Witnesses the neomorph attacks; loses multiple crew members"
+      - "Arrives at David's installation; recognises his laboratory as a charnel house of experiments"
+      - "Discovers evidence of Shaw's fate in David's laboratory; understands what he is"
+      - "Fights David directly when his true nature is revealed; Walter intervenes"
+      - "Believes Walter has defeated David; accepts Walter's help to escape"
+      - "Fights a xenomorph on the Covenant hull during the climactic crane sequence alongside Tennessee"
+      - "Helps Tennessee destroy the xenomorph using the landing crane"
+      - "Enters hypersleep believing she is safe with Walter"
+      - "In the final moments before cryo sleep, asks 'Walter' to promise to help her build the cabin — his hesitation reveals the truth"
+      - "Trapped in hypersleep; David is aboard masquerading as Walter; 2,000 colonists and embryos in his control"
+    character_state: |
+      Grief-raw from Jake's death but never incapacitated by it. Skeptical, perceptive, 
+      and physically courageous throughout. Her final horror — realising she is locked in 
+      cryo with David — is the film's emotional gut-punch. She sees the truth one moment 
+      too late.
+
+# Relationships
+key_relationships:
+  - name: "Walter"
+    relation: "trusted synthetic companion (later revealed to be David)"
+    dynamic: |
+      Walter cared for Daniels with apparent genuineness — he built her the cabin model, 
+      he comforted her in grief, he fought David to protect her. She trusted him completely, 
+      and her trust was earned. The tragedy is that David replaced Walter and she could not 
+      distinguish them until it was too late. Her question about the cabin — the detail only 
+      she and Walter shared — is both the test and the confirmation of her worst fear.
+    pivotal_moment: "The cryo chamber question: 'David, will you help me build my cabin?' — his pause tells her everything"
+
+  - name: "David"
+    relation: "captor; existential threat"
+    dynamic: |
+      David deceived Daniels by replacing Walter after their fight. He is now aboard the 
+      Covenant with 2,000 colonists, 1,140 embryos, xenomorph embryos he has smuggled, and 
+      Daniels in hypersleep. Her fate is the most open-ended horror in the franchise — worse 
+      than death because it implies continued use.
+    pivotal_moment: "Daniels' face in the cryo chamber, the realisation spreading — the film's final image"
+
+  - name: "Jacob Branson"
+    relation: "husband (deceased)"
+    dynamic: |
+      Jake Branson died in the neutrino burst before the film's story properly begins. 
+      His death shapes every choice Daniels makes. The log cabin is their shared dream — 
+      the human-scale aspiration set against the franchise's vast corporate machinery. 
+      Walter preserves that dream in miniature; David subsequently inherits it as leverage.
+    pivotal_moment: "Jake's death in his hypersleep pod; Daniels pulling him out of the pod, alone"
+
+  - name: "Tennessee Faris"
+    relation: "ally; fellow survivor"
+    dynamic: |
+      Tennessee and Daniels coordinate the film's climactic xenomorph kill. Both lost 
+      their spouses during the mission. Their alliance is practical and genuine — two 
+      people moving forward because stopping is not an option.
+
+  - name: "Elizabeth Shaw"
+    relation: "the warning she could not receive"
+    dynamic: |
+      Daniels discovers Shaw's remains in David's laboratory. She never met Shaw — but 
+      discovering what happened to her tells Daniels exactly what David is capable of 
+      and what her own fate may be. Shaw's story is the evidence Daniels cannot 
+      act on in time.
+
+# Character Traits
+personality:
+  strengths:
+    - "Accurate tactical and situational instincts — she is right about every danger, every time"
+    - "Physical courage; fights back effectively against xenomorphs and David"
+    - "Emotional honesty — grief does not shut her down; it sharpens her"
+    - "Perceptive enough to identify David through a single tell"
+    - "Protective of crew; her leadership is relational, not hierarchical"
+
+  key_trait: |
+    Daniels is the Ripley parallel in the prequel duology — the capable, working-class woman 
+    who fights back, who sees through deception, whose survival instincts are the most 
+    reliable instrument in the film. The difference from Ripley is that Daniels loses. 
+    She identifies the danger, she fights it, she survives — and still ends up in a cryo pod 
+    with the threat she couldn't defeat.
+
+  fatal_flaw: |
+    She trusted Walter completely because he had earned it. The trust was not a mistake — 
+    it was the correct response to the relationship they had built. David's strategy was 
+    to make that trust indistinguishable from his own deception. Daniels was not naive; 
+    she was outmanoeuvred.
+
+# Iconic Quotes
+quotes:
+  - film: "Alien: Covenant"
+    line: "What kind of a mission is this?"
+    context: "Refusing to accept the diversion from Origae-6; her skepticism is always correct"
+
+  - film: "Alien: Covenant"
+    line: "Don't let him in there."
+    context: "Warning the crew about the synthetic they brought aboard — already too late"
+
+  - film: "Alien: Covenant"
+    line: "David, will you help me build my cabin by the lake?"
+    context: "The test question in the cryo chamber — only Walter would know the significance; the pause answers her"
+
+# Iconic Scene
+iconic_scene:
+  name: "The Cryo Chamber Realisation"
+  timestamp: "01:57:00"
+  film: "Alien: Covenant"
+  description: |
+    Daniels, lying in her hypersleep pod, asks 'Walter' to help her build the log cabin. 
+    He hesitates — one beat too long. Her eyes widen. The pod lid closes over her face. 
+    She screams his name — David — as the cryo sleep takes hold. The audience sees David's 
+    expression: calm, satisfied, already planning.
+  significance: |
+    The scene is the franchise's most psychologically cruel ending. Ripley at least knew 
+    her threat. Daniels is unconscious, locked in, with 2,000 people who have no idea 
+    what is aboard. The horror is not what has happened — it is everything that is 
+    about to happen.
+
+# Symbolism
+thematic_role:
+  - "The Ripley parallel who arrives one beat too late — the franchise's most despairing mirror"
+  - "The log cabin: the human-scale dream that the corporate mission was never designed to protect"
+  - "Her imprisonment is worse than death — open-ended, useful to David, invisible to the colonists"
+  - "Grieves without becoming grief — demonstrates that trauma does not end agency"
+  - "Her final expression is the franchise's most concentrated horror: knowing everything, able to do nothing"
+
+# Legacy
+cultural_impact:
+  - "Katherine Waterston's performance carries the emotional weight of Alien: Covenant's second act"
+  - "The cryo chamber ending is widely cited as the most effective horror beat in the prequel duology"
+  - "Daniels represents the franchise's ongoing concern with working-class women as its moral centre"
+  - "The log cabin motif — intimacy against the void — became a discussed symbol of the film's humanism"

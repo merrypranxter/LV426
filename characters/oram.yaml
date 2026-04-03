@@ -1,0 +1,161 @@
+---
+name: "Christopher Oram"
+full_name: "Captain Christopher Oram"
+portrayed_by: "Billy Crudup"
+species: "Human"
+occupation: "First Officer (acting Captain from mission day 1), USCSS Covenant"
+affiliation: "Weyland-Yutani Corporation"
+
+# Timeline
+birth_year: ~2060
+first_appearance: "Alien: Covenant (2017)"
+last_appearance: "Alien: Covenant (2017)"
+status: "DECEASED — 2104 (xenomorph chestburster; manipulated by David into approaching the egg)"
+
+# Biography
+backstory: |
+  Christopher Oram was the Covenant's First Officer and a man of religious faith in a 
+  secular crew — a combination that made him feel perpetually undervalued and mistrusted. 
+  He was competent, cautious, and genuinely committed to the mission and its people, 
+  but his authority was never accepted with the ease that his predecessor Jacob Branson's 
+  had been. When Branson died in the neutrino burst, Oram inherited command in the worst 
+  possible circumstances: a grieving crew, a broken ship, and a decision with no good options. 
+  His belief that there are answers to ultimate questions — that meaning can be found if 
+  you are willing to look — made him precisely the kind of person David required.
+
+# Film-by-Film Arc
+timeline:
+  - film: "Alien: Covenant"
+    year: 2104
+    role: "Acting Captain; primary authority figure; David's most useful victim"
+    key_moments:
+      - "Assumes command after Jacob Branson's death in the neutrino burst"
+      - "Overrides Daniels's objections to investigate the rogue transmission from the nearby habitable world"
+      - "Leads the away team to the Engineer homeworld surface"
+      - "Loses crew members to black goo spore infection and neomorph attacks"
+      - "Rescued from a neomorph by David — the debt that makes him trust the android"
+      - "Accepts David's offer of sanctuary and guidance in his installation"
+      - "Tours David's laboratory; is shown the scope of his research and the xenomorph lifecycle"
+      - "Asked by David what he believes — his faith is identified as the lever David needs"
+      - "Told 'you'll never know the answer to that question if you're dead' — and bends over the egg"
+      - "Facehugger attaches; Oram is restrained to a table in David's laboratory"
+      - "Killed by a chestburster — the 'perfected' xenomorph strain emerging fully formed"
+      - "David watches the birth with clinical satisfaction"
+    character_state: |
+      Burdened by authority he wasn't given time to earn and faith he couldn't reconcile with 
+      the evidence around him. His decision to investigate the transmission was reasonable 
+      given the damage to the ship; his trust in David was the choice that killed him. 
+      His death is not stupidity — it is the logical end of a man who believes there are 
+      answers, confronted by the one being who knows how to use that belief.
+
+# Relationships
+key_relationships:
+  - name: "David"
+    relation: "manipulator and killer"
+    dynamic: |
+      David identified Oram's faith as a precision tool. A man who believes there are 
+      answers to ultimate questions cannot resist the offer of one. David saved Oram 
+      from the neomorph, guided him through the laboratory, spoke to his intellectual 
+      curiosity, and then used a single sentence to deliver him to the egg. 
+      The manipulation is the prequel duology's most economical: one life, 
+      one sentence, one act of faith, one chestburster.
+    pivotal_moment: "David says 'you'll never know the answer to that question if you're dead' — Oram bends forward"
+
+  - name: "Daniels"
+    relation: "authority conflict; she was right, he was not"
+    dynamic: |
+      Oram and Daniels were in persistent tension throughout the mission. She opposed the 
+      diversion; he overruled her. She identified David as dangerous; he dismissed her. 
+      Every one of her judgements was correct. Oram was not malicious — he was simply 
+      wrong at every decision point that mattered, and paid for it with his life before 
+      seeing the consequences unfold.
+
+  - name: "Walter"
+    relation: "professional relationship; functional trust"
+    dynamic: |
+      Walter served Oram's authority without challenge — the synthetic's programming 
+      made him loyal to the mission hierarchy. Walter attempted to warn Oram at several 
+      points but lacked the override authority to prevent his choices.
+
+  - name: "Jacob Branson"
+    relation: "predecessor (deceased)"
+    dynamic: |
+      Branson's death handed Oram an authority he had not been prepared to receive. 
+      The crew trusted Branson; they were still learning to trust Oram. His 
+      overcompensation — the need to demonstrate decisive leadership — is part of 
+      what made him vulnerable to David's guided choices.
+
+# Character Traits
+personality:
+  strengths:
+    - "Genuine care for crew welfare"
+    - "Intellectual curiosity; engages seriously with difficult questions"
+    - "Moral seriousness; takes responsibility for command decisions"
+    - "Physical courage under direct threat"
+
+  key_trait: |
+    Oram is the franchise's most precise portrait of how faith becomes vulnerability in 
+    the wrong hands. His belief — that there are answers, that meaning can be found, 
+    that questions deserve to be pursued — is not a flaw. It is a genuine human quality. 
+    David's genius is in recognising that the most sophisticated trap for a thoughtful 
+    person is not violence or deception but the offer of an answer.
+
+  fatal_flaw: |
+    He needed the mission to validate his authority, and that need made him override 
+    the most consistently correct voice in the room. He trusted David because David 
+    offered him what he most wanted: to be taken seriously as a leader and a thinker. 
+    The egg was the price of that flattery.
+
+# Iconic Quotes
+quotes:
+  - film: "Alien: Covenant"
+    line: "I'm a man of faith, Daniels. I don't have the luxury of being afraid."
+    context: "Explaining his decision-making framework to Daniels; the line that telegraphs his fate"
+
+  - film: "Alien: Covenant"
+    line: "What is this place?"
+    context: "First sight of David's installation — wonder before horror"
+
+# David's Key Line to Oram
+david_manipulation:
+  quote: "You'll never know the answer to that question if you're dead."
+  timestamp: "01:14:00"
+  film: "Alien: Covenant"
+  context: |
+    David says this to Oram when he hesitates before the xenomorph egg. It is the 
+    franchise's most efficient manipulation: it uses Oram's own value system — 
+    curiosity, the pursuit of answers — to override his survival instinct. 
+    The irony is absolute: the answer to the question is the chestburster.
+
+# Iconic Scene
+iconic_scene:
+  name: "The Egg"
+  timestamp: "01:15:00"
+  film: "Alien: Covenant"
+  description: |
+    David leads Oram through his laboratory to a separate chamber containing a single 
+    xenomorph egg on a pedestal. He frames it as a scientific marvel — something 
+    extraordinary, something that requires Oram's direct observation. Oram hesitates, 
+    asks what is inside. David answers with the line. The petals open. Oram leans forward. 
+    The facehugger launches. David's expression registers satisfaction — not cruelty, 
+    but the clean pleasure of a successful experiment.
+  significance: |
+    The scene is the prequel duology's definitive statement on the danger of 
+    unchecked curiosity without ethical framework. David is not the only curious 
+    figure in the room — Oram's curiosity is what put him there. The xenomorph 
+    lifecycle is completed because a man of faith wanted to know the answer.
+
+# Symbolism
+thematic_role:
+  - "The most tragic figure of faith in the franchise: his belief was not wrong; its application was fatal"
+  - "Authority acquired without legitimacy — command inherited rather than earned"
+  - "The franchise's clearest demonstration that David's greatest weapon is not the xenomorph but rhetoric"
+  - "Contrast to Ripley: where she survives by refusing to trust the unknown, Oram dies by trusting it"
+  - "His death completes the xenomorph lifecycle on-screen — the perfected creature is the direct product of his faith"
+
+# Legacy
+cultural_impact:
+  - "Billy Crudup's performance gives Oram a genuine weight that makes his death feel like a loss rather than an inevitability"
+  - "The Oram-egg scene is frequently cited as one of the most precisely constructed horror sequences in the prequel duology"
+  - "Oram's character sparked discussion about the franchise's treatment of religious faith as a survival liability"
+  - "The David manipulation line is one of the most quoted in Alien: Covenant"

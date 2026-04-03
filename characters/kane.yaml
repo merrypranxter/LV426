@@ -1,0 +1,117 @@
+---
+name: "Kane"
+full_name: "Gilbert Ward Kane"
+portrayed_by: "John Hurt"
+species: "Human"
+occupation: "Executive Officer, USCSS Nostromo"
+affiliation: "Weyland-Yutani Corporation"
+
+# Timeline
+first_appearance: "Alien (1979)"
+last_appearance: "Alien (1979)"
+status: "DECEASED — 2122"
+
+# Biography
+backstory: |
+  Gilbert Ward Kane served as Executive Officer aboard the commercial towing vessel USCSS Nostromo,
+  operating under Captain Dallas during a return haul from the Thedus mining operation. Affable,
+  curious, and professionally capable, Kane was in every outward sense the least suspicious member
+  of the crew — and that made him the ideal unwitting instrument of Weyland-Yutani's agenda.
+  When the Nostromo was diverted to LV-426 by a covert company signal, Kane volunteered to lead
+  the landing party into the derelict alien vessel. His curiosity — and Ash's deliberate failure
+  to enforce quarantine protocol — sealed his fate. Kane became the first recorded human host for
+  a xenomorph chestburster, his death igniting the chain of events that would consume the entire
+  Nostromo crew. He never knew he was being used as a delivery vehicle for Weyland-Yutani's
+  most prized biological acquisition.
+
+# Film-by-Film Arc
+timeline:
+  - film: "Alien"
+    year: 2122
+    role: "Executive Officer; first human xenomorph host"
+    key_moments:
+      - "Leads landing party to the derelict alien ship on LV-426 alongside Dallas and Lambert"
+      - "Descends alone into the egg chamber and crosses the active membrane, triggering the eggs"
+      - "Facehugger attaches to Kane's face inside the egg chamber (timestamp: 00:36:10)"
+      - "Returned to the Nostromo unconscious; Ripley enforces quarantine, overruled by Ash"
+      - "Facehugger detaches and dies; Kane awakens seemingly recovered (timestamp: 00:47:20)"
+      - "Chestburster erupts from Kane's chest at the crew dinner table (timestamp: 00:52:30)"
+    character_state: "Curious and willing; entirely unaware he is a pawn of corporate bioweapons procurement"
+
+# Relationships
+key_relationships:
+  - name: "Ash"
+    relation: "unwitting subject"
+    dynamic: |
+      Ash overrides Ripley's quarantine specifically to protect Kane — and therefore the organism
+      gestating inside him. To Ash, Kane is not a crewmate but a biological delivery system.
+      Kane never learns this. His trust in the ship's Science Officer is absolute and fatal.
+    see_also: /characters/ash.yaml
+
+  - name: "Dallas"
+    relation: "commanding officer"
+    dynamic: "Dallas led the landing party and bore command responsibility for Kane entering the egg chamber; his subsequent deference to Ash over quarantine compounded the error."
+    see_also: /characters/dallas.yaml
+
+  - name: "Ellen Ripley"
+    relation: "colleague; quarantine conflict"
+    dynamic: |
+      Ripley refused to allow Kane back aboard under standing quarantine protocol — a decision
+      that was medically and procedurally correct. Ash overruled her. Kane's re-boarding,
+      which Ripley explicitly opposed, is the franchise's founding act of institutional betrayal.
+    see_also: /characters/ellen-ripley.yaml
+
+# Character Traits
+personality:
+  surface_characteristics:
+    - "Warm, approachable, and professionally confident"
+    - "Voluntarily takes point on the most dangerous assignment — the derelict"
+    - "Driven by curiosity; does not hesitate at the egg chamber threshold"
+
+  defining_quality: |
+    Kane's defining trait is an open, unguarded curiosity that functions as both his most human
+    quality and his death warrant. He peers into the egg without calculation or fear. He is the
+    crew member most fully alive in the film's first act — which makes his destruction the most
+    viscerally affecting. His innocence is the mechanism of the horror.
+
+# Defining Moment — The Chestburster
+defining_moment:
+  timestamp: "00:52:30"
+  film: "Alien"
+  description: |
+    At the crew's dinner table, Kane convulses. The crew scrambles to hold him down. A xenomorph
+    chestburster tears through his sternum and escapes into the ship. Kane is dead before anyone
+    can react. The scene was filmed in a single take per actor; John Hurt's fellow cast members
+    genuinely did not know the full extent of what was planned, and their shock responses are
+    largely authentic. The chestburster was operated by puppeteers beneath the table. Blood and
+    viscera were pumped outward under pressure. The sequence remains one of cinema's most iconic
+    shock moments and the defining image of the Alien franchise's body-horror register.
+  significance: |
+    Kane's death is the franchise's original sacrifice — the moment that transforms Alien from
+    a space-exploration thriller into a body-horror nightmare. It also establishes the xenomorph
+    lifecycle in a single unforgettable image.
+
+# Iconic Quotes
+quotes:
+  - film: "Alien"
+    line: "How are we going to get through all this?"
+    context: "Kane, surveying the derelict alien ship interior; one of his last lines before the facehugger attack"
+
+  - film: "Alien"
+    line: "Mmm, I'm famished."
+    context: "Kane's first words after apparently recovering — his final words before the chestburster emerges"
+
+# Symbolism
+thematic_role:
+  - "Innocent victim of corporate conspiracy — his death is engineered, not accidental"
+  - "First human sacrifice to the xenomorph; the franchise's founding horror image"
+  - "Embodies the danger of unchecked curiosity in a universe that does not reward it"
+  - "His chestburster death is cinema's most iconic expression of biological violation and body horror"
+  - "Used by Ash as a delivery vehicle — dehumanization by corporation made literal"
+
+# Legacy
+cultural_impact:
+  - "John Hurt's performance, particularly in the chestburster scene, is one of cinema's most referenced"
+  - "The chestburster sequence has been parodied and referenced in hundreds of films, TV shows, and commercials"
+  - "Kane's death established the xenomorph lifecycle and the franchise's body-horror identity in a single scene"
+  - "Hurt reprised the scene in a parody for Spaceballs (1987) — testament to the scene's cultural saturation"

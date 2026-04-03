@@ -1,0 +1,138 @@
+---
+name: "Newt"
+full_designation: "Rebecca Jordan"
+portrayed_by: "Carrie Henn"
+species: "Human"
+occupation: "Sole survivor, Hadley's Hope colony"
+affiliation: "Hadley's Hope colony, LV-426"
+
+# Timeline
+birth_year: "~2173 (approx. 6 years old in 2179)"
+first_appearance: "Aliens (1986)"
+last_appearance: "Aliens (1986)"
+status: "DECEASED — 2179 (EEV crash, Alien³)"
+
+# Biography
+backstory: |
+  Rebecca Jordan — known by her colony nickname "Newt" — was the daughter of Anne and Russ 
+  Jordan, colonists at Hadley's Hope on LV-426. When Weyland-Yutani representative Carter Burke 
+  directed the Jordans to investigate the derelict alien ship at the coordinates from Ripley's 
+  flight recorder, Russ returned infected by a facehugger. The infestation spread rapidly through 
+  the colony's 158 residents, and Hadley's Hope was overrun.
+
+  Newt survived alone for weeks in the colony's ventilation shafts and drainage systems, 
+  subsisting on nutrients scraped from the walls and evading xenomorphs in tunnels too 
+  narrow for the creatures to follow. She was the sole survivor of 158 colonists when the 
+  Colonial Marines arrived. Her survival was not luck — it was learned, practical, and 
+  methodical in a way that constitutes the film's darkest detail: a six-year-old had become 
+  an expert at surviving a xenomorph hive.
+
+# Film-by-Film Arc
+timeline:
+  - film: "Aliens"
+    year: 2179
+    role: "Sole surviving colonist; surrogate daughter to Ripley"
+    key_moments:
+      - "Discovered by Colonial Marines in the colony ruins, curled in a crawlspace, mute from trauma"
+      - "Identifies herself only as 'Newt' — refuses her real name as too dangerous to trust"
+      - "Bonds with Ripley; begins speaking again after Ripley's persistence and warmth"
+      - "Guides the marines through the colony's ventilation and drainage layout from memory"
+      - "Captured by xenomorphs and taken to the hive while others slept"
+      - "Located by Ripley via locator bracelet; rescued from a xenomorph egg chamber"
+      - "Escapes with Ripley, Hicks, and Bishop to the USS Sulaco"
+      - "Calls Ripley 'Mommy' in the final hypersleep sequence"
+    character_state: "Traumatised, feral, then gradually trusting; hardened survivor who rediscovers childhood"
+
+# Relationships
+key_relationships:
+  - name: "Ellen Ripley"
+    relation: "surrogate_mother"
+    dynamic: |
+      The emotional core of Aliens. Ripley breaks through Newt's trauma through patience, 
+      physical warmth, and by treating her as a person rather than a subject. Newt's gradual 
+      re-emergence from silence mirrors Ripley's own emotional defrosting. Ripley descends 
+      alone into a xenomorph hive to rescue her — the most purely maternal act in the franchise. 
+      Newt calls her "Mommy" at the end. Her death in Alien³ before Ripley can save her 
+      again is the wound from which Ripley never recovers.
+    pivotal_moment: "Ripley charges back into the atmosphere processor alone, armed, to reach Newt"
+
+  - name: "Corporal Dwayne Hicks"
+    relation: "protective_ally"
+    dynamic: |
+      Hicks treats Newt with consistent gentleness and genuine respect. He never talks down 
+      to her, takes her knowledge of the colony layout seriously, and is one of the few marines 
+      whose behaviour toward her is entirely without condescension.
+
+  - name: "Anne & Russ Jordan"
+    relation: "deceased_parents"
+    dynamic: |
+      Newt's parents were killed as a direct consequence of Burke's orders to investigate 
+      the derelict ship. Her father was Burke's instrument; her mother likely died in the 
+      initial infestation wave. Newt does not speak about them in detail — the trauma is 
+      encoded in her silence and her refusal to use her real name.
+
+  - name: "Carter Burke"
+    relation: "indirect_perpetrator"
+    dynamic: "Burke sent Newt's parents to the derelict; is responsible for the deaths of everyone she knew"
+
+# Character Traits
+personality:
+  strengths:
+    - "Extraordinary practical survival instincts for her age"
+    - "Intimate knowledge of the colony ventilation and drainage network"
+    - "Resilience that borders on the inhuman given her circumstances"
+    - "Perceptive emotional intelligence; reads adults accurately"
+    - "Capacity for trust once safety is established"
+
+  key_trait: |
+    Newt carries a doll's head — the remnant of a toy, stripped down to its most durable 
+    component — as a comfort object. The detail is precisely chosen: she has reduced everything 
+    in her life to what can survive. Her famous line about the xenomorphs coming "mostly at 
+    night... mostly" is delivered with a matter-of-fact calm that is more disturbing than any 
+    scream — she has categorised this horror into a manageable schedule.
+
+  evolution: "Mute, feral survivor → cautiously trusting child → surrogate daughter → franchise's most devastating loss"
+
+# Iconic Quotes
+quotes:
+  - film: "Aliens"
+    line: "They mostly come at night... mostly."
+    timestamp: "00:50:00"
+    context: "Describing xenomorph activity patterns to Ripley; delivered with unsettling calm"
+
+  - film: "Aliens"
+    line: "My mommy always said there were no monsters — no real ones — but there are."
+    context: "To Ripley, after beginning to trust her; the line reframes Ripley's own role"
+
+  - film: "Aliens"
+    line: "I knew you'd come."
+    context: "To Ripley, after being rescued from the xenomorph hive; absolute faith in her surrogate mother"
+
+# Iconic Scene
+iconic_scene:
+  name: "The Rescue in the Hive"
+  timestamp: "01:45:00"
+  film: "Aliens"
+  description: |
+    Ripley, alone, armed with a pulse rifle and flamethrower taped together, enters the 
+    atmosphere processor hive to retrieve Newt before it detonates. She finds Newt cocooned 
+    but unimpregnated, cuts her free, and the two flee together. The scene is the film's 
+    purest distillation of maternal ferocity — and Newt's "I knew you'd come" is the 
+    franchise's most quietly devastating line.
+  significance: "Crystallises the Ripley–Newt bond; makes the Alien³ deaths feel like a violation of the audience's earned hope"
+
+# Symbolism
+thematic_role:
+  - "Childhood innocence annihilated by corporate negligence — Burke's order killed everyone she loved"
+  - "Her survival skills are the film's darkest implicit detail: a six-year-old learned to live inside a xenomorph hive"
+  - "The emotional core of Aliens; Ripley's motivation, the film's stakes made human"
+  - "Her death in Alien³ — off-screen, in an EEV crash, before the film begins — is the franchise's most controversial narrative decision"
+  - "Represents what Weyland-Yutani's indifference actually costs, rendered as a child's face"
+
+# Legacy
+cultural_impact:
+  - "Carrie Henn's only film role; retired from acting after Aliens"
+  - "'They mostly come at night... mostly' is one of the most quoted lines in the franchise"
+  - "The Ripley–Newt relationship is widely cited as the template for surrogate parent–child bonds in action cinema"
+  - "Newt's death in Alien³ remains one of the most debated franchise decisions in sci-fi film history"
+  - "Her survival arc — weeks alone in the colony — is retrospectively among the most harrowing implied backstories in the series"

@@ -1,0 +1,197 @@
+---
+name: "USS Sulaco"
+full_designation: "United States Ship Sulaco"
+registry: "Not specified in films"
+type: "Conestoga-class military transport"
+operator: "United States Colonial Marine Corps / Weyland-Yutani Corporation"
+status: "DAMAGED — catches fire (Alien³); fate unknown post-2179"
+first_appearance: "Aliens (1986)"
+
+# Technical Specifications
+specifications:
+  class: "Conestoga-class"
+  length: "~385 meters"
+  crew_complement: "~90 (USCMC standard)"
+  propulsion: "Fusion drive with hyperdrive capability"
+  armament: "Railguns; missile batteries"
+
+  dropship_bay:
+    complement: "Two UD-4L 'Cheyenne' dropships"
+    designation_primary: "Bug Stomper"
+    designation_secondary: "Smart Ass"
+    role: "Atmospheric insertion; troop deployment; extraction"
+
+  ground_vehicles:
+    - "M577 Armored Personnel Carrier (APC)"
+
+  key_systems:
+    - "Hypersleep chambers (individual cryo pods)"
+    - "Operations center / combat information center"
+    - "USCMC armory (weapons, ammunition, power loaders)"
+    - "Medical bay"
+    - "Dropship launch and recovery bays"
+
+  escape_vehicle:
+    name: "EEV (Emergency Escape Vehicle)"
+    type: "Automated emergency pod"
+    capacity: "4 occupants in hypersleep"
+    fate: "Launched during Sulaco fire; crash-landed on Fiorina 161 — killing Newt and Hicks"
+
+# Crew and Personnel — 2179 Mission
+crew_2179:
+  commanding_officer:
+    name: "Lieutenant Gorman, S."
+    rank: "Second Lieutenant, USCMC"
+    role: "Mission commanding officer"
+    status: "DECEASED — grenade detonation with Vasquez in ventilation tunnel"
+
+  squad_leader:
+    name: "Sergeant Apone, A."
+    rank: "Staff Sergeant, USCMC"
+    role: "Squad leader, 2nd Battalion Bravo Team"
+    status: "DECEASED — cocooned; fate confirmed when colony explodes"
+
+  marines:
+    - name: "Hicks, Dwayne"
+      rank: "Corporal, USCMC"
+      status: "SURVIVED Aliens; DECEASED — Alien³ (EEV crash, 2179)"
+
+    - name: "Hudson, William"
+      rank: "Private First Class, USCMC"
+      status: "DECEASED — taken by xenomorphs during operations center siege"
+
+    - name: "Vasquez, Jenette"
+      rank: "Private First Class, USCMC"
+      status: "DECEASED — grenade detonation with Gorman"
+
+    - name: "Drake"
+      rank: "Private First Class, USCMC"
+      status: "DECEASED — killed in initial xenomorph ambush"
+
+    - name: "Dietrich"
+      rank: "USCMC Corpsman"
+      status: "DECEASED — facehugger/flamethrower incident"
+
+    - name: "Frost"
+      rank: "Private, USCMC"
+      status: "DECEASED — accidental flamethrower discharge"
+
+    - name: "Wierzbowski"
+      rank: "Private, USCMC"
+      status: "DECEASED — lost in initial ambush"
+
+    - name: "Crowe"
+      rank: "Private, USCMC"
+      status: "DECEASED — initial ambush"
+
+    - name: "Ferro"
+      rank: "Corporal, USCMC (dropship pilot)"
+      status: "DECEASED — killed by xenomorph aboard dropship; crash"
+
+    - name: "Spunkmeyer"
+      rank: "Private, USCMC (dropship co-pilot)"
+      status: "DECEASED — killed by xenomorph prior to Ferro"
+
+  synthetic:
+    name: "Bishop"
+    designation: "Hyperdyne Systems Bishop 341-B android"
+    role: "Science officer; synthetic crew member"
+    status: "SEVERELY DAMAGED — bisected by Queen; recovered aboard Sulaco; destroyed (Alien³)"
+
+  civilians:
+    - name: "Ripley, Ellen Louise"
+      role: "Civilian advisor (only survivor of original Nostromo crew; only person with prior xenomorph experience)"
+      status: "SURVIVED Aliens; SURVIVED Alien³ (Fiorina 161 — self-sacrifice)"
+
+    - name: "Newt (Rebecca Jordan)"
+      role: "Sole survivor of Hadley's Hope colony; rescue target"
+      status: "SURVIVED Aliens; DECEASED — Alien³ (drowned in EEV crash, 2179)"
+
+    - name: "Burke, Carter J."
+      role: "Weyland-Yutani Corporation representative"
+      status: "DECEASED — killed by xenomorphs at Hadley's Hope"
+
+# Mission Profile — 2179
+mission_2179:
+  origin: "Gateway Station (Earth orbit)"
+  destination: "LV-426 (Acheron), Zeta² Reticuli system"
+  mission_type: "Search and rescue / threat assessment"
+  
+  trigger: |
+    Contact lost with Hadley's Hope terraforming colony (158 civilians). Weyland-Yutani 
+    contracted the USCMC for a response. Carter Burke, Company representative, arranged 
+    Ripley's inclusion as civilian consultant — the only person alive with direct xenomorph 
+    experience. Ripley's inclusion was Burke's initiative, though his reasons were not 
+    fully disclosed to the marines.
+  
+  outcome: |
+    Colony found overrun; 158 colonists cocooned as xenomorph hosts in the atmosphere 
+    processor. Marines suffered catastrophic losses. Ripley, Newt, Hicks, and Bishop 
+    survived and returned to the Sulaco. The atmosphere processor's cooling was 
+    compromised during the firefight — the resulting nuclear-scale explosion destroyed 
+    Hadley's Hope, the hive, and all xenomorphs on LV-426.
+
+# Post-Mission Events
+post_mission:
+  survivors_aboard: "Ripley, Newt, Hicks, Bishop (damaged) — all in hypersleep"
+  
+  sulaco_fire:
+    timing: "During transit from LV-426; exact cause unknown"
+    result: "EEV automatically launched with all four survivors aboard"
+    investigation_note: |
+      The fire aboard the Sulaco has never been definitively explained in canon. 
+      The Alien³ Assembly Cut contains a brief sequence suggesting a facehugger 
+      aboard the Sulaco may have triggered the EEV launch. Whether this is canonical 
+      is disputed. The most significant implication is that Weyland-Yutani likely 
+      tracked the EEV and knew precisely where it landed.
+  
+  eev_crash:
+    location: "Fiorina 'Fury' 161 — ocean, near the penal facility"
+    casualties: "Newt (drowned); Hicks (impaled by cryo pod malfunction)"
+    bishop_fate: "Torso recovered from wreckage; subsequently deactivated at Bishop's own request"
+    ripley_fate: "Sole EEV survivor; discovered she was carrying a Queen embryo"
+
+  sulaco_fate: |
+    After the EEV launch, the Sulaco's fate is not confirmed in the main film canon. 
+    The ship was on autopilot. Given Weyland-Yutani's rapid response to the Fiorina 161 
+    crash, it is likely the corporation tracked and recovered — or otherwise located — 
+    the Sulaco. Expanded universe materials offer various accounts; none are confirmed canon.
+
+# Corporate Responsibility
+weyland_yutani_role:
+  mission_true_purpose: |
+    The marines' mission was officially a rescue operation. Burke's accompanying role 
+    suggests the corporation's secondary objective: using the military operation as cover 
+    to assess and potentially recover a xenomorph specimen. Burke independently attempted 
+    to reinfect Ripley and Newt with facehuggers in the medical bay — confirming his real 
+    orders were specimen acquisition, not rescue.
+  
+  actions:
+    - "Deployed civilian Burke aboard a military vessel without disclosing his acquisition objectives"
+    - "Sent a 158-person colony to investigate the derelict ship without disclosing the threat"
+    - "Burke attempted to bypass quarantine protocol and infect two people with facehuggers"
+    - "Rapid response to Fiorina 161 EEV crash suggests surveillance on Sulaco and survivors"
+  
+  military_relationship: |
+    The Sulaco is a USCMC vessel; its crew are military personnel with their own chain of 
+    command. Burke was a civilian with no military authority — yet the mission was arranged 
+    at Weyland-Yutani's instigation. The corporation used its contractual relationship with 
+    the Colonial Marines to conduct what was effectively a commercial acquisition operation 
+    in military hardware with military personnel as expendable assets.
+
+# Thematic Role
+thematic_significance:
+  - "The military-industrial complex made literal — a warship run on corporate contract, serving corporate ends"
+  - "The Sulaco's power dwarfs anything the xenomorphs can field, and it still fails — institutional force is not the answer"
+  - "The autopilot's trajectory is never toward safety — the survivors go toward corporate space, not Earth"
+  - "Burke's presence on a military vessel encapsulates the franchise's thesis: commerce infiltrates every institution"
+  - "The fire that launches the EEV is anonymous and unseen — the franchise's recurring motif of invisible corporate action destroying everything"
+
+# See Also
+see_also:
+  - "/locations/hadleys-hope.yaml"
+  - "/locations/fiorina-161.yaml"
+  - "/characters/hicks.yaml"
+  - "/characters/bishop.yaml"
+  - "/characters/ellen-ripley.yaml"
+  - "/films/aliens-1986.yaml"

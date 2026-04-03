@@ -1,0 +1,127 @@
+---
+name: "Dallas"
+full_name: "Arthur Kapp Dallas"
+portrayed_by: "Tom Skerritt"
+species: "Human"
+occupation: "Captain, USCSS Nostromo"
+affiliation: "Weyland-Yutani Corporation"
+
+# Timeline
+first_appearance: "Alien (1979)"
+last_appearance: "Alien (1979)"
+status: "DECEASED — 2122"
+
+# Biography
+backstory: |
+  Arthur Kapp Dallas was the commanding officer of the USCSS Nostromo, a Class M-class star
+  freighter under contract to the Weyland-Yutani Corporation. A seasoned deep-space hauler,
+  Dallas was practical, laconic, and accustomed to the grinding routine of commercial spaceflight.
+  He trusted the company's systems and, fatally, the company's android. When the Nostromo
+  intercepted a transmission on LV-426 and Mother routed the ship to investigate, Dallas had no
+  reason to suspect the diversion was engineered. He made a series of decisions — allowing Kane
+  back aboard against quarantine, authorizing the hunt through the ventilation ducts himself —
+  that were understandable in the moment and catastrophic in consequence. Dallas was not
+  a coward or a fool; he was a competent captain operating without the information he needed
+  because the company deliberately withheld it from him. He died in the ducts, hunting a
+  creature he could not outmaneuver, alone in the dark.
+
+# Film-by-Film Arc
+timeline:
+  - film: "Alien"
+    year: 2122
+    role: "Captain; commander of landing party and duct hunt"
+    key_moments:
+      - "Commands the landing party to the derelict alien ship on LV-426"
+      - "Overrules Ripley's quarantine and permits Kane's re-boarding with the facehugger attached"
+      - "Defers to Ash on all biological matters — his most consequential error"
+      - "Leads the xenomorph hunt through the Nostromo's ventilation ducts with flamethrower"
+      - "Killed by the xenomorph in the air ducts (timestamp: 01:15:20)"
+      - "Director's Cut: found by Ripley cocooned against the hull, partway through transformation; begs to be killed"
+    character_state: "Steady under pressure; erodes toward desperation in the ducts; his authority outlasts his certainty"
+
+# Relationships
+key_relationships:
+  - name: "Ellen Ripley"
+    relation: "authority conflict"
+    dynamic: |
+      Ripley was the only crew member who consistently made the correct call — enforce quarantine,
+      distrust Ash, refuse to split up. Dallas outranked her and overrode her at every turn.
+      His deference to chain of command over sound judgment is the franchise's original sin.
+      By the time he dies, Ripley's competence has already made his authority hollow.
+    see_also: /characters/ellen-ripley.yaml
+
+  - name: "Ash"
+    relation: "trusted colleague; fatal misplaced trust"
+    dynamic: |
+      Dallas trusted Ash completely, treating him as a competent Science Officer rather than the
+      Weyland-Yutani plant he was. When Dallas overruled Ripley's quarantine, he was acting on
+      Ash's recommendation. He never knew he was being managed.
+    see_also: /characters/ash.yaml
+
+  - name: "Lambert"
+    relation: "closest crew bond"
+    dynamic: "Lambert and Dallas shared the warmest working relationship aboard the Nostromo; his death is the moment her composure finally collapses entirely."
+    see_also: /characters/lambert.yaml
+
+  - name: "Kane"
+    relation: "subordinate officer; shared command responsibility"
+    dynamic: "Dallas led the landing party that put Kane in the egg chamber; his decision to re-board Kane bypassed the last safeguard that might have contained the organism."
+    see_also: /characters/kane.yaml
+
+# Character Traits
+personality:
+  surface_characteristics:
+    - "Authoritative and calm under routine conditions"
+    - "Pragmatic and direct; minimal sentiment"
+    - "Trusts hierarchy and established chain of command"
+
+  fatal_flaw: |
+    Dallas's fatal flaw is institutional deference — a captain's habit of trusting the systems
+    around him. He trusts Mother. He trusts Ash. He trusts the company's implicit promise that
+    the mission is what it appears to be. Every time he overrules Ripley, he is choosing the
+    institution over the individual. The Alien franchise argues, consistently, that this is
+    exactly the wrong choice.
+
+# Defining Moment — The Duct Hunt
+defining_moment:
+  timestamp: "01:15:20"
+  film: "Alien"
+  description: |
+    Dallas enters the Nostromo's ventilation system alone, armed with a flamethrower, guided
+    by Lambert's tracker readings. The sequence is a masterclass in sustained dread: we hear
+    only his breathing and Lambert's increasingly panicked direction. The xenomorph is always
+    one junction away. Then it is not. Dallas screams. The tracker dot vanishes. He is gone
+    before the audience can process it. In the Director's Cut, Ripley later finds him cocooned
+    to the ship's inner hull — alive, partially transformed, begging her to end it.
+  directors_cut_note: |
+    The cocooning scene was cut from the 1979 theatrical release at Ridley Scott's discretion,
+    restored in the 2003 Director's Cut. It dramatically expands Dallas's fate and foreshadows
+    the xenomorph's use of human hosts revealed more fully in later films.
+
+# Iconic Quotes
+quotes:
+  - film: "Alien"
+    line: "Ash, can you hear me? I want that thing off my ship."
+    context: "Dallas instructing Ash to remove the facehugger from Kane — futile; Ash has no intention of doing so"
+
+  - film: "Alien"
+    line: "Well, I'm not. I'm... I'm the captain. I'll do it."
+    context: "Dallas volunteers to enter the ducts himself rather than send another crew member; the decision that kills him"
+
+  - film: "Alien"
+    line: "Whenever she's not around, I'd like you to explain that to me."
+    context: "To Ash, about Mother's classified orders; Dallas is already being managed without knowing it"
+
+# Symbolism
+thematic_role:
+  - "The authority figure whose flawed judgment seals everyone's fate"
+  - "Failure to back Ripley's quarantine decision is the franchise's original institutional sin"
+  - "Represents competent, well-meaning leadership rendered lethal by corporate information suppression"
+  - "His death transfers command authority to Ripley — the franchise's true protagonist — by elimination"
+  - "The duct hunt sequence is a template for every 'hunting the hunter' horror sequence that followed"
+
+# Legacy
+cultural_impact:
+  - "Tom Skerritt's understated performance established the 'reluctant authority' archetype in sci-fi horror"
+  - "Dallas's death in the ducts subverted 1970s audience expectations — the apparent male lead is not the survivor"
+  - "The Director's Cut cocooning scene recontextualised his fate and influenced the franchise's subsequent lore on xenomorph host behavior"
