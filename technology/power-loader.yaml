@@ -1,0 +1,62 @@
+---
+name: "P-5000 Powered Work Loader"
+designation: "P-5000 Work Loader"
+manufacturer: "Caterpillar Inc."
+category: "Powered exoskeleton / industrial equipment"
+first_appearance: "Aliens (1986)"
+
+description: |
+  The P-5000 Powered Work Loader is a full-body hydraulic exoskeleton designed for 
+  heavy industrial operations — loading ordnance, moving equipment, and handling 
+  cargo beyond unaided human capacity. In standard operation, it functions as an 
+  amplified tool for dock workers and weapons technicians. On the USS Sulaco and at 
+  Hadley's Hope, units were used for ordnance loading and freight management.
+
+  The loader operates by amplifying the pilot's own movements, translating human 
+  motion into hydraulic force capable of lifting approximately two metric tons. The 
+  pilot is fully enclosed in the frame, which provides a degree of physical protection 
+  from impact, though the design is industrial rather than combat-rated.
+
+specifications:
+  lift_capacity: "~2 metric tons"
+  height: "~2.4 meters"
+  power_source: "Hydraulic / electric"
+  operator_enclosure: "Open-frame with roll bars; pilot remains visible"
+  movement: "Full bipedal, mirrors operator movement via servo-amplification"
+
+iconic_use:
+  film: "Aliens (1986)"
+  timestamp: "01:54:00"
+  scene: |
+    After Newt is recovered and the survivors have reached the Sulaco landing bay, 
+    the Alien Queen — who stowed away on the dropship — tears Bishop apart and 
+    corners Newt. Ripley dons the power loader, steps forward, and delivers the 
+    franchise's most iconic line: "Get away from her, you BITCH!" The fight that 
+    follows — industrial machine versus evolved apex predator — is the film's 
+    definitive cathartic release. Ripley jettisons the Queen into space.
+  significance: |
+    The power loader sequence is the franchise's most imitated action beat. It 
+    recasts the technology of labour — a tool built to move cargo — as a weapon of 
+    maternal defense. Ripley's use of an industrial exoskeleton rather than purpose-
+    built military hardware underscores the franchise's working-class aesthetic: the 
+    tools of labour are also the tools of survival.
+
+other_appearances:
+  - film: "Aliens (1986)"
+    note: "Used by Sulaco weapons technicians for ordnance loading in opening sequences"
+
+thematic_role:
+  - "The power loader is labour technology repurposed as combat — the franchise's clearest image of working-class ingenuity"
+  - "Ripley pilots a loader, not a weapon; she improvises, she does not receive"
+  - "Scale equivalent to the Queen — the only human-controlled system that can physically contest the organism"
+
+see_also:
+  - "/characters/ellen-ripley.yaml"
+  - "/films/aliens-1986.yaml"
+  - "/locations/uss-sulaco.yaml"
+  - "/xenomorphs/queen.yaml"
+
+sources:
+  - "Aliens (1986)"
+  - "Aliens Colonial Marines Technical Manual"
+---

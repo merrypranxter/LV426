@@ -1,0 +1,106 @@
+---
+name: "Vasquez"
+full_name: "Private Jenette Vasquez"
+portrayed_by: "Jenette Goldstein"
+species: "Human"
+occupation: "Private, Smart Gun Operator, United States Colonial Marine Corps"
+affiliation: "United States Colonial Marine Corps"
+
+first_appearance: "Aliens (1986)"
+last_appearance: "Aliens (1986)"
+status: "DECEASED — 2179"
+
+backstory: |
+  Jenette Vasquez was a Private and smart gun operator in the Colonial Marines, 
+  one of two M56 operators in the LV-426 squad alongside Drake. She was physically 
+  powerful, tactically aggressive, and unimpressed by any performance of authority 
+  that wasn't backed by demonstrated competence.
+
+  Vasquez occupies a complex position in the franchise's character landscape. 
+  She reads, at first glance, as a stock tough-soldier archetype. She is also 
+  one of the film's most consistently correct actors — she is right about Gorman, 
+  right about the threat level, right about what needs to be done. Her death — 
+  choosing to detonate a grenade with Gorman when escape is impossible — is one 
+  of the franchise's most economical acts of mutual sacrifice.
+
+timeline:
+  - film: "Aliens"
+    year: 2179
+    role: "Smart gun operator; aggressive point element"
+    key_moments:
+      - "Establishes immediate physical presence and contempt for Gorman's authority"
+      - "Operates M56 Smart Gun during initial colony sweep"
+      - "Drake (her partner) killed during first contact engagement"
+      - "Continues fighting through all subsequent engagements"
+      - "Cornered with Gorman in a final corridor; pulls grenade pin rather than be taken"
+      - "Both Vasquez and Gorman killed by mutual sacrifice grenade"
+    death_timestamp: "~01:48:00"
+    character_state: "Consistent aggression and competence throughout; death is volitional rather than victimization"
+
+key_relationships:
+  - name: "Drake"
+    relation: "smart_gun_partner"
+    dynamic: |
+      Drake is Vasquez's operational partner — they operate the two M56 smart guns 
+      as a coordinated pair. His death is the film's first indication that Vasquez 
+      can be hurt, though she does not perform grief.
+
+  - name: "Gorman"
+    relation: "contempt_transformed_to_respect"
+    dynamic: |
+      Vasquez has no use for Gorman's authority from the beginning — she sees 
+      through rank to incompetence. His redemption comes when he chooses to stay 
+      behind with her in the final corridor rather than retreat. She dies with him 
+      not despite her contempt but because, in the end, he earned her respect.
+
+  - name: "Hudson"
+    relation: "antagonistic_peer"
+    dynamic: |
+      Hudson and Vasquez maintain a constant competitive friction — he performs 
+      toughness; she embodies it. Their antagonism is the film's comedic undercurrent 
+      and also its gender commentary: Vasquez's masculinity is not performed but 
+      functional, which makes Hudson's performance look like exactly what it is.
+
+personality:
+  strengths:
+    - "Physical and tactical excellence"
+    - "Psychological stability under pressure (inverse of Hudson)"
+    - "Sees through rank to competence — functionally correct about the chain of command failures"
+    - "Volitional courage: her death is chosen, not imposed"
+
+quotes:
+  - film: "Aliens"
+    line: "Let's rock!"
+    timestamp: "~01:08:00"
+    context: "Opening the engagement in the alien hive; pure aggression"
+
+  - film: "Aliens"
+    line: "You always were an asshole, Gorman."
+    timestamp: "~01:48:00"
+    context: "Final exchange with Gorman before detonating the grenade; the insult is simultaneously accurate and, given the moment, a form of acceptance"
+
+  - film: "Aliens"
+    line: "No. Have you?"
+    context: "Response to Hudson's 'Have you ever been mistaken for a man?' — the exchange is the film's most efficient gender reversal"
+
+thematic_role:
+  - "Vasquez challenges the film's gender geography: the most physically aggressive soldier is the one who consistently occupies roles coded male"
+  - "Her death is the franchise's rare example of female combat death as volitional sacrifice rather than victimization"
+  - "She and Gorman are the film's odder pairing — contempt that hardens into something like respect"
+
+cultural_impact:
+  - "Vasquez became a template for the 'tough female soldier' character in subsequent action and sci-fi cinema"
+  - "Her relationship with gender performance and the film's treatment of it has been the subject of significant critical analysis"
+  - "The Hudson/Vasquez antagonism is cited as one of the film's most effective background character dynamics"
+
+see_also:
+  - "/characters/drake.yaml"
+  - "/characters/gorman.yaml"
+  - "/characters/hudson.yaml"
+  - "/technology/smartgun.yaml"
+  - "/concepts/colonial-marines.yaml"
+  - "/films/aliens-1986.yaml"
+
+sources:
+  - "Aliens (1986)"
+---

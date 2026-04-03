@@ -1,0 +1,58 @@
+---
+name: "M240 Incinerator Unit"
+designation: "M240 Incinerator Unit"
+manufacturer: "Armat Battlefield Systems"
+category: "Infantry weapon / incendiary projector"
+first_appearance: "Alien (1979)"
+
+description: |
+  The M240 Incinerator Unit is a flame projector weapon operating on a pressurized 
+  fuel system with a pilot light ignition. It projects a sustained stream of burning 
+  fuel effective at close to medium range. The weapon is used for close-quarters 
+  suppression and area denial.
+
+  In the Alien franchise, the flamethrower occupies an ambiguous tactical position: 
+  fire is effective against xenomorphs as a deterrent and kills facehuggers and 
+  eggs, but in the enclosed, fuel-rich environments where xenomorphs are typically 
+  encountered, indiscriminate use risks catastrophic collateral damage. The xenomorph 
+  threat level typically forces its use anyway.
+
+specifications:
+  fuel_type: "Pressurized incendiary fluid"
+  ignition: "Pilot light / primary flame"
+  effective_range: "~10 meters"
+  tank_capacity: "Variable; carried as backpack or integrated unit"
+
+operational_history:
+  alien_1979:
+    operator: "Dallas"
+    context: |
+      Dallas carries a flamethrower into the Nostromo ventilation ducts during the 
+      xenomorph hunt — the weapon that defines his final sequence. His flamethrower 
+      provides no advantage against the xenomorph's speed; it is found after his 
+      disappearance, discarded or dropped in the attack.
+    see_also: "/characters/dallas.yaml"
+  aliens_1986:
+    operators: ["Dietrich", "various marines"]
+    context: |
+      Used during the LV-426 colony sweep. Dietrich is grabbed while carrying her 
+      flamethrower, causing it to discharge into Frost's ammunition pack — the 
+      cascade that kills multiple marines and initiates the squad's collapse.
+    see_also: "/films/aliens-1986.yaml"
+
+thematic_role:
+  - "Fire is the franchise's oldest weapon against xenomorphs — primitive, direct, destructive — and it is always insufficient alone"
+  - "The flamethrower in the duct hunt is Dallas's security blanket: it cannot protect him, only make his death more visible"
+  - "In Aliens, a flamethrower causes more marine casualties than any xenomorph in the initial engagement — the weapon's danger to its own side is as great as its threat to the enemy"
+
+see_also:
+  - "/characters/dallas.yaml"
+  - "/technology/pulse-rifle.yaml"
+  - "/films/alien-1979.yaml"
+  - "/films/aliens-1986.yaml"
+
+sources:
+  - "Alien (1979)"
+  - "Aliens (1986)"
+  - "Aliens Colonial Marines Technical Manual"
+---

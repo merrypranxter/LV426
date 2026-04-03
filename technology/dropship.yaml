@@ -1,0 +1,63 @@
+---
+name: "UD-4L Cheyenne Dropship"
+designation: "UD-4L 'Cheyenne' Dropship"
+manufacturer: "Aerospace Dynamics / United Americas"
+category: "Atmospheric insertion / combat aircraft"
+first_appearance: "Aliens (1986)"
+
+description: |
+  The UD-4L Cheyenne Dropship is a heavy-lift atmospheric insertion craft designed 
+  to deploy troops, vehicles, and equipment from orbit to planetary surface. It is 
+  carried in the ventral docking bay of vessels such as the USS Sulaco and launched 
+  for planetfall operations. The Cheyenne is armed with air-to-ground missiles, 
+  rockets, and autocannons, capable of providing close air support during insertion.
+
+  In the context of the LV-426 mission, the Cheyenne is the marines' only means of 
+  reaching and leaving the surface — making its destruction a narrative turning point 
+  of maximum impact.
+
+specifications:
+  role: "Atmospheric insertion, close air support, heavy lift"
+  armament:
+    - "Air-to-ground missiles"
+    - "Unguided rockets"
+    - "25mm autocannon"
+  capacity: "Full marine squad plus APC; heavy cargo"
+  crew: "Pilot (Ferro) + crew chief (Spunkmeyer)"
+  mothership_compatibility: "Ventral docking clamps; carried beneath USS Sulaco"
+
+operational_history:
+  aliens_mission:
+    pilots: ["Corporal Ferro (pilot)", "Private Spunkmeyer (crew chief)"]
+    insertion: "Standard atmospheric descent to LV-426; APC deployed"
+    emergency_extraction: |
+      Ordered after first contact catastrophe; Spunkmeyer boards first, 
+      discovers alien slime on ramp — too late. Xenomorph (Queen-stowed-away 
+      or hive-survivor) kills Spunkmeyer, then Ferro. Pilotless dropship 
+      crashes into the colony.
+    loss_significance: |
+      The dropship's destruction is the film's point of no return. The marines 
+      are stranded on a xenomorph-overrun moon with a nuclear reactor approaching 
+      meltdown. No extraction. No reinforcement. Only the APC and their own 
+      resources remain.
+    timestamp: "~01:22:00"
+    second_dropship: |
+      Bishop later pilots the second Sulaco dropship via remote to extract 
+      survivors — a desperate, long-odds maneuver that succeeds.
+
+thematic_role:
+  - "The dropship is the marines' lifeline; its loss converts a bad situation into a death sentence"
+  - "Its destruction is caused not by xenomorphs overcoming it directly but by a single organism using the humans' own infrastructure against them"
+  - "Ripley's decision to pilot the APC out to recover the dropship survivors is the moment she stops being a civilian advisor"
+
+see_also:
+  - "/characters/ferro.yaml"
+  - "/characters/spunkmeyer.yaml"
+  - "/technology/apc.yaml"
+  - "/locations/uss-sulaco.yaml"
+  - "/films/aliens-1986.yaml"
+
+sources:
+  - "Aliens (1986)"
+  - "Aliens Colonial Marines Technical Manual"
+---

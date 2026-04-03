@@ -1,0 +1,105 @@
+---
+name: "Andrews"
+full_name: "Superintendent Andrews"
+portrayed_by: "Brian Glover"
+species: "Human"
+occupation: "Prison Superintendent"
+affiliation: "Fiorina 161 Double-Y Chromosome Work Correctional Facility"
+
+first_appearance: "Alien 3 (1992)"
+last_appearance: "Alien 3 (1992)"
+status: "DECEASED — 2179 (Fiorina 161, killed by xenomorph during general assembly)"
+
+backstory: |
+  Andrews had run Fiorina 161 for twelve years. In that time, he had developed an operating
+  philosophy built entirely on the maintenance of order through rigid hierarchy and the
+  suppression of disruption. His facility was not comfortable, not humane, and not designed
+  to be — it was a containment vessel for men that the system had decided to discard, and
+  Andrews was its keeper. He was good at this. The prison functioned under his authority in
+  the way that prisons function: through the credible threat of consequence and the enforcement
+  of routine.
+
+  What Andrews could not accommodate was information that didn't fit his model. Ripley's
+  warning about a xenomorph — a creature he had no framework for and no intention of
+  acquiring one — was not a problem to be solved but a disruption to be managed. He managed
+  it the way he managed all disruptions: by calling an assembly, announcing his conclusions,
+  and dismissing the source of the noise.
+
+  He did not survive to finish the announcement.
+
+timeline:
+  - film: "Alien 3"
+    year: 2179
+    role: "Prison superintendent; institutional obstacle to Ripley's warnings being taken seriously"
+    key_moments:
+      - "Establishes his authority immediately upon Ripley's recovery — the facility runs on his terms"
+      - "Dismisses Ripley's warnings about the xenomorph as a psychological episode or deliberate disruption"
+      - "Calls a general assembly to formally address and dismiss the threat reports"
+      - "Killed mid-sentence by the xenomorph dropping from the ceiling during the assembly he convened to deny its existence"
+    death_timestamp: "00:59:00"
+    character_state: "Mid-speech, at maximum authority, killed before the sentence completes — the film's most precise ironic construction"
+
+key_relationships:
+  - name: "Ellen Ripley"
+    relation: "institutional_antagonist"
+    dynamic: |
+      Andrews processes Ripley as a category of problem he has handled before: the disruptive
+      outsider who threatens the facility's equilibrium. He is not malicious — he is
+      structurally incapable of hearing what she is telling him. His dismissal of her warning
+      is the film's echo of every prior institutional dismissal she has experienced: Burke,
+      the company board, the Weyland-Yutani apparatus. Andrews is the franchise's purest
+      version of this figure because he doesn't even have the corporate interest as an excuse.
+      He simply cannot process a threat he has not encountered before.
+
+  - name: "Aaron (85)"
+    relation: "nominal_deputy"
+    dynamic: |
+      Andrews uses Aaron as a sounding board and errand-runner — the deputy who exists to
+      confirm the superintendent's conclusions rather than challenge them. Aaron's survival
+      past Andrews becomes one of the film's structural ironies.
+
+  - name: "Clemens"
+    relation: "useful_subordinate"
+    dynamic: "Treats Clemens with the particular condescension reserved for someone whose failure record is known — functional, but not an equal"
+
+personality:
+  strengths:
+    - "Genuine competence at institutional management within known parameters"
+    - "Consistent application of authority — the prisoners know where they stand with him"
+    - "Twelve years of operational experience in an extremely difficult environment"
+
+  weaknesses:
+    - "Absolute inability to update his model when confronted with unfamiliar threats"
+    - "Conflates disruption-management with threat-management — the tools are different"
+    - "Authority as a terminal value: being right about the threat matters less than maintaining hierarchical order"
+
+  key_trait: |
+    Andrews is not a fool. He is a competent administrator who has spent twelve years in an
+    environment where the greatest threats were predictable — violence, escape attempts,
+    contraband. The xenomorph is not predictable. His failure is not stupidity but a
+    catastrophic mismatch between his framework and the actual problem. The franchise uses
+    him to demonstrate that institutional competence and survival competence are not the
+    same thing.
+
+  evolution: "Twelve-year institutional authority → dismisser of the franchise's most repeatedly dismissed warning → the franchise's most precisely timed ironic death"
+
+quotes:
+  - film: "Alien 3"
+    line: "Mr. Aaron, I have run this facility for twelve years and in that time..."
+    context: "Final words, delivered to the assembled prisoners during the general assembly called to dismiss Ripley's warnings; he does not finish the sentence"
+
+thematic_role:
+  - "The authority figure whose refusal to acknowledge the threat is the threat — a structural echo of every institutional dismissal in the franchise"
+  - "His death mid-sentence is the film's most compressed argument: authority does not protect you from what it refuses to name"
+  - "Represents the failure mode of institutional competence: excellent within known parameters, lethal outside them"
+  - "The twelfth year of running the facility is the film's way of encoding how long an authority can function on the wrong assumptions before reality arrives"
+  - "His dismissal of Ripley rhymes with the company board scene in Aliens — the franchise's persistent insistence that the people who should listen never do"
+
+see_also:
+  - "/characters/ellen-ripley.yaml"
+  - "/characters/clemens.yaml"
+  - "/films/alien3-1992.yaml"
+
+sources:
+  - "Alien 3 (1992)"
+---

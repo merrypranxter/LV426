@@ -1,0 +1,104 @@
+---
+name: "Lope"
+full_name: "Sergeant Lope"
+portrayed_by: "Demian Bichir"
+species: "Human"
+occupation: "Security Chief, USCSS Covenant"
+affiliation: "Weyland-Yutani Corporation"
+
+first_appearance: "Alien: Covenant (2017)"
+last_appearance: "Alien: Covenant (2017)"
+status: "DECEASED (implied — facehugger embryo implanted by David during rescue, 2104)"
+
+backstory: |
+  Lope was the security chief aboard the USCSS Covenant — the operational authority responsible
+  for the crew's physical safety on an interstellar colonisation mission carrying over two
+  thousand colonists in hypersleep. He was professional, measured, and experienced. His husband
+  Hallett was among the first crew members to die on Planet 4, killed in the initial neomorph
+  attack. Lope continued to function after this loss with the discipline of someone who knows
+  that falling apart is not an option when others depend on him.
+
+  He was one of the crew members who survived the encounter with David on Planet 4 and made
+  it back to the Covenant. In the film's final act, it is revealed — in a quiet, devastating
+  moment — that Lope was implanted with a facehugger embryo during David's manipulation of
+  the rescue operation. Whether the embryo is removed or kills him is not shown. The film
+  ends before it becomes explicit. The implication is sufficient.
+
+  Lope's arc gives the Alien: Covenant ensemble its clearest human cost. His relationship
+  with Hallett establishes that the Covenant crew were not just professionals on a corporate
+  mission — they were people with lives, partnerships, futures. David's experiments took that
+  from Lope twice: first his husband, then his own survival.
+
+timeline:
+  - film: "Alien: Covenant"
+    year: 2104
+    role: "Security chief; tactical response during the Planet 4 crisis"
+    key_moments:
+      - "Oversees the security protocols for the landing party's visit to Planet 4"
+      - "His husband Hallett is one of the first crew members infected by neomorph spores"
+      - "Witnesses Hallett's death from neomorph emergence; continues to function under grief"
+      - "Leads security response against neomorphs on Planet 4's surface"
+      - "Part of the surviving crew that reaches David's citadel on Planet 4"
+      - "Escapes to the Covenant with the surviving crew"
+      - "Revealed in the final act to have been implanted with a facehugger embryo — David's parting gift"
+    character_state: |
+      Maintains professional composure through personal loss; unknowingly carrying David's
+      work inside him as the film ends.
+
+key_relationships:
+  - name: "Hallett"
+    relation: "husband"
+    dynamic: |
+      Hallett's death is Lope's wound. The film establishes their relationship efficiently —
+      enough for his loss to register as loss, not just as a crew casualty number. Lope does
+      not collapse; he absorbs it and keeps moving. This is not numbness — it is the specific
+      grief of someone who has decided that falling apart is a luxury he cannot afford.
+    pivotal_moment: "Hallett's death from neomorph emergence; Lope witnesses it and cannot stop it"
+
+  - name: "David"
+    relation: "unknowing_victim"
+    dynamic: |
+      David implants Lope with a facehugger embryo without his knowledge during the chaos
+      of the crew's rescue from Planet 4. Lope has no reason to suspect David — the android
+      appears to have saved them. The horror of Lope's situation is that he trusts the thing
+      that has already killed him.
+
+  - name: "Daniels"
+    relation: "fellow_survivor"
+    dynamic: |
+      Lope and Daniels are among the Covenant's most capable surviving crew members.
+      Their shared competence and shared loss give them a functional solidarity in the film's
+      second half.
+
+personality:
+  strengths:
+    - "Operational discipline under extreme personal loss"
+    - "Professional security competence in active threat situations"
+    - "Loyalty to his crew and his mission"
+    - "Emotional resilience — grief processed without shutdown"
+
+  key_trait: |
+    Lope is the Covenant crew's most complete portrait of the personal cost of the mission.
+    His security role puts him at the front of every crisis; his marriage to Hallett gives him
+    something to lose. He loses it. He keeps going. And then, in the film's final quiet horror,
+    he loses himself — without ever knowing it.
+
+  evolution: "Competent security chief → bereaved husband → unknowing host"
+
+thematic_role:
+  - "Establishes the Covenant crew as people with genuine human relationships, not just mission personnel"
+  - "His unknowing implantation by David is the film's coldest illustration of David's methodology — efficient, invisible, ruthless"
+  - "Hallett's death gives the neomorph threat its personal dimension; Lope's survival makes the ongoing cost legible"
+  - "Represents the franchise's recurring motif of survival that is not actually survival — Ripley's 'you never told them what it was really like' made literal"
+
+see_also:
+  - "/characters/david.yaml"
+  - "/characters/daniels.yaml"
+  - "/films/alien-covenant.yaml"
+  - "/locations/planet-4.yaml"
+  - "/species/neomorph.yaml"
+  - "/species/facehugger.yaml"
+
+sources:
+  - "Alien: Covenant (2017)"
+---

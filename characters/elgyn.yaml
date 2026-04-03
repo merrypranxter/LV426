@@ -1,0 +1,96 @@
+---
+name: "Elgyn"
+full_name: "Frank Elgyn"
+portrayed_by: "Michael Wincott"
+species: "Human"
+occupation: "Captain, Betty"
+affiliation: "Betty crew"
+
+first_appearance: "Alien: Resurrection (1997)"
+last_appearance: "Alien: Resurrection (1997)"
+status: "DECEASED — 2381 (USM Auriga, killed by xenomorph during initial infiltration)"
+
+backstory: |
+  Frank Elgyn captained the Betty — a mercenary vessel operating in the legal and moral grey
+  zones that the late 24th century's corporate-military apparatus creates and requires. He was
+  good at what he did. He knew what the Betty was delivering to the USM Auriga. He knew what
+  the people they were delivering would be used for. He was comfortable with this — or had
+  constructed a working comfort, which amounts to the same thing functionally.
+
+  Elgyn was confident in the particular way of people who have survived long enough in
+  dangerous spaces to mistake pattern recognition for safety. He had read enough situations
+  correctly to trust his reading. The Auriga was a situation he did not read correctly, and
+  he did not survive the error long enough to revise his model.
+
+  He had a personal connection to Call that the film does not fully elaborate — a closeness
+  that exists in the texture of their interaction before the Auriga mission begins to unravel.
+  His death removes the person most connected to who Call was before the film's events, and
+  most connected to the crew's functioning as a unit.
+
+timeline:
+  - film: "Alien: Resurrection"
+    year: 2381
+    role: "Captain of the Betty; the mercenary who knowingly delivers human cargo to the Auriga's xenomorph breeding programme"
+    key_moments:
+      - "Arrives at the Auriga with the Betty crew and human cargo — fully aware of what the cargo will be used for"
+      - "Establishes himself as the most competent and confident member of his crew"
+      - "His relationship with Call is evident from early scenes — a personal dimension within the professional arrangement"
+      - "Leads the initial Auriga infiltration sequence"
+      - "Killed by a xenomorph early in the Auriga mission — before the majority of the ensemble's danger has registered"
+    death_timestamp: "~00:55:00"
+    character_state: "At full operational confidence when killed — the death is deliberately early and premature"
+
+key_relationships:
+  - name: "Annalee Call"
+    relation: "captain_and_personal_connection"
+    dynamic: |
+      Elgyn and Call have a relationship that exceeds the professional. The film implies
+      genuine care on his side and something like it on hers, though Call's concealed
+      synthetic nature and concealed mission complicate what that care is built on. His
+      death lands differently for Call than for the rest of the crew — it removes her
+      cover story's most credible supporter.
+
+  - name: "Betty crew"
+    relation: "captain"
+    dynamic: "Elgyn commands respect rather than merely rank — the crew follows him because he is competent and because, within the moral framework they share, he is trustworthy"
+
+  - name: "General Perez / USM Auriga command"
+    relation: "contractor_relationship"
+    dynamic: "Transactional — Elgyn delivers what the Auriga needs; the Auriga pays. Both parties understand the other is not an ally."
+
+personality:
+  strengths:
+    - "Genuine command competence — leads a morally difficult crew in genuinely dangerous spaces"
+    - "Michael Wincott's distinctive vocal delivery makes him immediately memorable and authoritative"
+    - "Reads threats accurately within his experience base — the Auriga exceeds that base"
+    - "Maintains personal connections without letting them compromise operational function, until the Auriga makes that separation impossible"
+
+  weaknesses:
+    - "Moral comfort with the Auriga arrangement — he is willing to deliver human beings to what he knows is a military programme of extreme risk"
+    - "Overconfidence built on legitimate prior success — he trusts his survival record past the point it remains reliable"
+
+  key_trait: |
+    Elgyn's early death is the film's most deliberate statement about protagonist safety.
+    He is set up as the most competent, most confident, most charismatic member of the
+    ensemble — and killed before that establishment has time to become structural safety.
+    The franchise uses him to signal that Resurrection is going to operate under different
+    rules about who survives and when.
+
+  evolution: "Established as the ensemble's most capable figure → killed before that capability is tested against the actual threat → his absence reshapes the crew's function for the rest of the film"
+
+thematic_role:
+  - "His early death is a deliberate franchise statement: competence and confidence are not survival guarantees in Alien films, and Resurrection is not going to pretend otherwise"
+  - "Morally, Elgyn represents the pragmatic human complicity that makes the xenomorph programme possible — he does not capture xenomorphs, but he delivers the food"
+  - "His death removes the most stabilising figure from the Betty crew and forces Call to operate without cover or protection"
+  - "Michael Wincott's presence — distinctive voice, commanding physicality — makes the early exit feel like a deliberate deprivation: the film takes someone interesting away quickly to establish what kind of film it is"
+  - "His moral comfort with the cargo run is the franchise's image of normalised complicity: not cartoonish evil but the bureaucratic convenience of not asking what happens after delivery"
+
+see_also:
+  - "/characters/call.yaml"
+  - "/characters/johner.yaml"
+  - "/characters/vriess.yaml"
+  - "/films/alien-resurrection-1997.yaml"
+
+sources:
+  - "Alien: Resurrection (1997)"
+---

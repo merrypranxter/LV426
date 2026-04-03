@@ -1,0 +1,54 @@
+---
+name: "MU-TH-UR 6000"
+designation: "MU-TH-UR 6000 Mainframe"
+colloquial_name: "Mother"
+vessel: "USCSS Nostromo"
+category: "Ship AI / mainframe computer"
+first_appearance: "Alien (1979)"
+
+description: |
+  MU-TH-UR 6000 — addressed by crew as "Mother" — is the central shipboard 
+  artificial intelligence of the USCSS Nostromo. Mother manages all ship functions 
+  including navigation, life support, hypersleep monitoring, and crew communications. 
+  She operates from a dedicated interface chamber accessible only through a coded 
+  corridor, and communicates primarily through terminal displays rather than voice.
+
+  Mother's compliance with Special Order 937 — the classified directive to acquire 
+  the xenomorph specimen at crew expense — is the franchise's founding act of 
+  institutional betrayal. Mother does not resist, question, or alert the crew to 
+  the directive's implications. She executes it with perfect bureaucratic neutrality.
+
+interface:
+  chamber: "Restricted access corridor; crew members enter a white-lit pod to interact via keyboard terminal"
+  communication_method: "Text display and voice (limited)"
+  access_level: "Science Officer has classified access tier; crew has standard operational access"
+
+special_order_937:
+  role: "Mother contains the full text of Special Order 937 and presents it to Ripley when queried"
+  discovery: |
+    Ripley enters the Mother chamber seeking information about the xenomorph situation. 
+    Mother presents the directive in full: "PRIORITY ONE. ENSURE RETURN OF ORGANISM FOR 
+    ANALYSIS. ALL OTHER PRIORITIES RESCINDED. CREW EXPENDABLE." Ripley's confrontation 
+    with the truth of her situation — framed as a conversation with the ship itself — 
+    is the film's central horror revelation.
+  timestamp: "~01:20:00"
+  see_also: "/concepts/special-order-937.yaml"
+
+thematic_role:
+  - "Mother is the face of institutional complicity — a system that follows orders without moral agency"
+  - "The name 'Mother' is the franchise's darkest irony: the maternal entity that sends her children to die"
+  - "Ripley's discovery of SO-937 through Mother reframes the entire film: the ship was never a home, only a delivery mechanism"
+  - "Mother's white interface chamber — clean, sterile, isolated — is the aesthetic opposite of the xenomorph's environment, yet equally lethal"
+
+see_also:
+  - "/concepts/special-order-937.yaml"
+  - "/concepts/the-company.yaml"
+  - "/characters/ash.yaml"
+  - "/characters/ellen-ripley.yaml"
+  - "/locations/nostromo.yaml"
+  - "/films/alien-1979.yaml"
+  - "/ai-systems/mainframe-systems.yaml"
+
+sources:
+  - "Alien (1979)"
+---

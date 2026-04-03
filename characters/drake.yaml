@@ -1,0 +1,50 @@
+---
+name: "Drake"
+full_name: "Private Mark Drake"
+portrayed_by: "Mark Rolston"
+species: "Human"
+occupation: "Private, Smart Gun Operator, United States Colonial Marine Corps"
+affiliation: "United States Colonial Marine Corps"
+
+first_appearance: "Aliens (1986)"
+last_appearance: "Aliens (1986)"
+status: "DECEASED — 2179"
+
+backstory: |
+  Mark Drake was a Private and M56 Smart Gun operator in the Colonial Marines, 
+  the operational partner to Vasquez in the squad's paired smart gun element. 
+  He was direct and competent, individuated primarily through his partnership 
+  with Vasquez and his smart gun role.
+
+  Drake was shot and killed during the initial xenomorph contact engagement in 
+  the alien processing plant — one of the squad's first combat losses after 
+  the chain of casualties beginning with Frost. His death removes one of the 
+  squad's two heavy weapons from the field.
+
+timeline:
+  - film: "Aliens"
+    year: 2179
+    role: "Smart gun operator"
+    key_moments:
+      - "Operates M56 Smart Gun paired with Vasquez during colony sweep"
+      - "Killed by xenomorphs in the first contact engagement"
+    death_timestamp: "~01:10:00"
+    character_state: "Competent; death in early engagement; removes heavy weapons capability"
+
+key_relationships:
+  - name: "Vasquez"
+    relation: "smart_gun_partner"
+    dynamic: "Drake and Vasquez operate as a coordinated smart gun pair; his death leaves Vasquez as the sole remaining M56 operator"
+
+thematic_role:
+  - "Drake's death signals that even the squad's heavy weapons cannot prevent rapid casualties in the xenomorph hive"
+
+see_also:
+  - "/characters/vasquez.yaml"
+  - "/technology/smartgun.yaml"
+  - "/concepts/colonial-marines.yaml"
+  - "/films/aliens-1986.yaml"
+
+sources:
+  - "Aliens (1986)"
+---

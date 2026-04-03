@@ -117,6 +117,14 @@ thematic_role:
   - "The company's corrective; shows Weyland-Yutani can make something genuinely good"
   - "Mirrors Ripley's arc: both stripped to their essential selves by the end"
 
+see_also:
+  - "/characters/ellen-ripley.yaml"
+  - "/characters/hicks.yaml"
+  - "/concepts/android-classification.yaml"
+  - "/films/aliens-1986.yaml"
+  - "/films/alien3-1992.yaml"
+  - "/locations/uss-sulaco.yaml"
+
 # Legacy
 cultural_impact:
   - "Lance Henriksen's most iconic role"

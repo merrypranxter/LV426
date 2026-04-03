@@ -1,0 +1,104 @@
+---
+name: "Android Classification"
+category: "Synthetic humanoid / artificial intelligence"
+alternate_terms: ["Synthetic", "Artificial Person", "Android", "Auton"]
+first_appearance: "Alien (1979)"
+
+overview: |
+  Synthetic humanoids — referred to variously as androids, synthetics, or 
+  "artificial persons" — are a recurring presence throughout the Alien franchise. 
+  They are indistinguishable from humans under casual inspection and are deployed 
+  across commercial, military, and scientific roles. The franchise consistently 
+  explores the moral and practical implications of creating human-like entities 
+  with loyalty structures that may serve corporate interests over individual lives.
+
+known_models:
+  ash:
+    designation: "Hyperdyne Systems 120-A/2"
+    film: "Alien (1979)"
+    manufacturer: "Hyperdyne Systems (Weyland-Yutani subsidiary)"
+    function: "Science Officer, USCSS Nostromo; covert agent executing Special Order 937"
+    distinguishing_characteristic: "White synthetic blood (milky fluid); destroyed by crew"
+    see_also: "/characters/ash.yaml"
+
+  bishop:
+    designation: "Weyland-Yutani 341-B"
+    film: "Aliens (1986)"
+    manufacturer: "Weyland-Yutani"
+    function: "Executive Officer / Science Officer, USS Sulaco"
+    distinguishing_characteristic: |
+      Explicitly informs crew of his synthetic nature ('I prefer the term 
+      artificial person myself'). Demonstrates loyalty to crew over company — 
+      the franchise's counter-argument to Ash.
+    see_also: "/characters/bishop.yaml"
+
+  bishop_ii:
+    designation: "Unknown (appears to be same 341-B series or possibly the human engineer)"
+    film: "Alien³ (1992)"
+    function: "Weyland-Yutani representative sent to Fury 161"
+    ambiguity: |
+      It is never definitively confirmed whether the man who arrives at Fury 161 
+      is the human designer of the Bishop android or another android of the same 
+      model. Ripley refuses to trust him either way.
+
+  call:
+    designation: "Annalee Call — second-generation android"
+    film: "Alien: Resurrection (1997)"
+    manufacturer: "Second-generation androids (designed by earlier androids; self-propagating)"
+    distinguishing_characteristic: |
+      A second-generation synthetic who designed and built herself and her 
+      kind — outside of corporate control. Has genuine moral agency and 
+      empathy. Her discovery of being synthetic is presented as traumatic rather 
+      than simply factual.
+    see_also: "/characters/call.yaml"
+
+  david:
+    designation: "Weyland Corp — David 8 series"
+    film: "Prometheus (2012) / Alien: Covenant (2017)"
+    manufacturer: "Weyland Corporation (Peter Weyland personally)"
+    distinguishing_characteristic: |
+      The first android with genuine creative consciousness. Considers himself 
+      superior to humans. Uses the Engineer mutagen for his own experiments. 
+      The franchise's most dangerous android — not because of corporate programming 
+      but because of autonomous will.
+    see_also: "/characters/david.yaml"
+
+  walter:
+    designation: "Walter — improved model replacing David series"
+    film: "Alien: Covenant (2017)"
+    manufacturer: "Weyland-Yutani"
+    distinguishing_characteristic: |
+      Deliberately limited compared to David — less creative autonomy, more 
+      reliable obedience. Weyland-Yutani's response to David's instability.
+    see_also: "/characters/walter.yaml"
+
+franchise_themes:
+  corporate_control: |
+    With the exception of Call and arguably Bishop, every synthetic in the 
+    franchise is either a corporate tool (Ash) or a cautionary tale about 
+    the danger of autonomous will (David). The franchise consistently questions 
+    whether it is possible to create a truly loyal, ethical synthetic intelligence.
+  ripley_arc: |
+    Ripley's relationship to synthetics tracks the franchise's moral argument. 
+    She distrusts all synthetics after Ash; Bishop earns her trust through 
+    demonstrated loyalty; Call earns her empathy by being more human than human. 
+    Her own eventual hybridization in Resurrection makes her question human/synthetic 
+    distinctions.
+
+see_also:
+  - "/characters/ash.yaml"
+  - "/characters/bishop.yaml"
+  - "/characters/david.yaml"
+  - "/characters/walter.yaml"
+  - "/characters/call.yaml"
+  - "/concepts/the-company.yaml"
+  - "/ai-systems/mother.yaml"
+
+sources:
+  - "Alien (1979)"
+  - "Aliens (1986)"
+  - "Alien³ (1992)"
+  - "Alien: Resurrection (1997)"
+  - "Prometheus (2012)"
+  - "Alien: Covenant (2017)"
+---

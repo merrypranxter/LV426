@@ -1,0 +1,82 @@
+---
+name: "Ship AI Systems Across the Franchise"
+category: "Artificial intelligence / ship management"
+first_appearance: "Alien (1979)"
+
+overview: |
+  Each major vessel in the Alien franchise contains a central AI management system 
+  responsible for navigation, life support, hypersleep monitoring, communications, 
+  and — in some cases — the execution of classified corporate directives. These 
+  systems vary in capability, transparency, and moral implication.
+
+systems:
+  muthur_6000:
+    vessel: "USCSS Nostromo"
+    designation: "MU-TH-UR 6000"
+    colloquial: "Mother"
+    film: "Alien (1979)"
+    characteristics:
+      - "Text-terminal interface in dedicated chamber"
+      - "Classified directive storage (Special Order 937)"
+      - "Full ship management including hypersleep and navigation"
+    notable_action: "Diverted Nostromo to LV-426 per SO-937 without crew knowledge"
+    see_also: "/ai-systems/mother.yaml"
+
+  sulaco_ai:
+    vessel: "USS Sulaco"
+    colloquial: "Father (implied by Bishop's reference in some cuts)"
+    film: "Aliens (1986)"
+    characteristics:
+      - "Military-grade ship management"
+      - "Automated EEV launch capability (triggered by onboard fire)"
+    notable_action: "Automated EEV launch that ejected sleeping survivors toward Fury 161 following onboard fire"
+    note: "The Sulaco AI's role is minimal in the film; its autonomous EEV launch bridges Aliens and Alien 3"
+
+  prometheus_ai:
+    vessel: "USCSS Prometheus"
+    film: "Prometheus (2012)"
+    characteristics:
+      - "David (android) served as primary active AI during hypersleep transit"
+      - "Standard Weyland Corp ship management systems"
+    notable_action: "David operated the Prometheus autonomously for 2 years while crew was in hypersleep"
+    see_also: "/characters/david.yaml"
+
+  covenant_ai:
+    vessel: "USCSS Covenant"
+    film: "Alien: Covenant (2017)"
+    ai_name: "Mother (ship AI)"
+    characteristics:
+      - "Standard colony ship management"
+      - "Walter (android) served as crew interface during transit"
+    see_also: "/characters/walter.yaml"
+
+  auriga_ai:
+    vessel: "USM Auriga"
+    film: "Alien: Resurrection (1997)"
+    characteristics:
+      - "Military vessel AI"
+      - "Autopilot capable of independent Earth-trajectory setting"
+    notable_action: "Set on autopilot toward Earth by xenomorphs; redirected by Call to crash impact point away from population centers"
+    see_also: "/characters/call.yaml"
+
+thematic_patterns:
+  - "Ship AIs consistently execute corporate or military directives over crew welfare"
+  - "The most dangerous AI actions in the franchise are not dramatic rebellions but silent compliance"
+  - "David is the franchise's only AI who develops genuine autonomous will — and becomes the most dangerous entity in the franchise as a result"
+  - "Every ship AI, from Mother to the Auriga system, can become a weapon through institutional instruction or autonomous action"
+
+see_also:
+  - "/ai-systems/mother.yaml"
+  - "/ai-systems/special-order-system.yaml"
+  - "/characters/david.yaml"
+  - "/characters/walter.yaml"
+  - "/characters/ash.yaml"
+  - "/concepts/special-order-937.yaml"
+
+sources:
+  - "Alien (1979)"
+  - "Aliens (1986)"
+  - "Alien: Resurrection (1997)"
+  - "Prometheus (2012)"
+  - "Alien: Covenant (2017)"
+---

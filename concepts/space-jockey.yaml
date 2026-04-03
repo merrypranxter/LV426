@@ -1,0 +1,67 @@
+---
+name: "Space Jockey"
+formal_designation: "The Engineer / Pilot"
+alternate_names: ["Space Jockey", "Pilot", "The Jockey"]
+species: "Engineer (Homo Galacticus)"
+category: "Extraterrestrial being / derelict pilot"
+first_appearance: "Alien (1979)"
+
+description: |
+  The "Space Jockey" is the colloquial name for the fossilized remains of an 
+  Engineer found aboard the derelict alien ship on LV-426. The creature was 
+  discovered in a command chair-like structure, with its ribcage visibly burst 
+  outward from the inside — a chestburster exit wound. The body had fossilized 
+  to the chair, suggesting extreme age.
+
+  The Space Jockey's species was formally identified in Prometheus (2012) as 
+  the Engineers — the same beings whose DNA seeded life on Earth billions of 
+  years ago. The derelict ship is an Engineer juggernaut, and its cargo holds 
+  contained thousands of xenomorph eggs.
+
+discovery:
+  film: "Alien (1979)"
+  discoverers: ["Dallas", "Lambert", "Kane"]
+  timestamp: "~00:39:00"
+  ash_assessment: "Fossilized. Has been dead a long time. Enveloped in the chair. Grown over it."
+  size: "Approximately 2.5x the size of a human — consistent with Engineer biology"
+
+the_distress_signal:
+  nature: "Automatic transmission; Ripley theorizes it was a warning, not a distress call"
+  ash_assessment: "Could be a warning. It was only received; never decoded"
+  significance: |
+    The transmission drew the Nostromo to LV-426 — the chain of events that began 
+    the entire franchise. Whether the signal was a distress call, a warning to 
+    others to stay away, or a locator beacon for recovery is never definitively 
+    resolved in the theatrical cuts.
+
+continuity_problem:
+  issue: |
+    Ash estimates the Space Jockey has been dead "for a long time" — fossilization 
+    suggesting hundreds to thousands of years minimum. However, Alien: Covenant 
+    establishes that David engineered the xenomorph species approximately 2094–2104, 
+    only 18-28 years before the Nostromo's arrival in 2122. This is a significant 
+    continuity contradiction.
+  interpretations:
+    - "David refined an existing Engineer bioweapon; the LV-426 eggs predate David's work"
+    - "The fossilization was cosmetic enhancement for theatrical impact; timeline is compressed"
+    - "The contradiction is unresolved; Ridley Scott has not publicly addressed it"
+  see_also: "/TIMELINE.md"
+
+thematic_role:
+  - "The Space Jockey is the franchise's founding mystery — the question that opened everything"
+  - "Its fate (killed by its own cargo) foreshadows every human's relationship with the xenomorph"
+  - "The scale of the Space Jockey established the alien as part of something incomprehensibly larger"
+  - "Prometheus answered 'what was it?' without answering 'why did it come here?' — the mystery deepened"
+
+see_also:
+  - "/species/engineers.yaml"
+  - "/locations/lv-426.yaml"
+  - "/films/alien-1979.yaml"
+  - "/films/prometheus-2012.yaml"
+  - "/concepts/black-goo.yaml"
+
+sources:
+  - "Alien (1979)"
+  - "Prometheus (2012)"
+  - "Alien: Covenant (2017)"
+---

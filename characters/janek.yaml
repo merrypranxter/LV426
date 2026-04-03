@@ -1,0 +1,123 @@
+---
+name: "Janek"
+full_name: "Captain Janek"
+portrayed_by: "Idris Elba"
+species: "Human"
+occupation: "Captain, USCSS Prometheus"
+affiliation: "Weyland Corporation (contracted)"
+
+first_appearance: "Prometheus (2012)"
+last_appearance: "Prometheus (2012)"
+status: "DECEASED — 2093 (killed ramming USCSS Prometheus into Engineer juggernaut, LV-223)"
+
+backstory: |
+  Captain Janek commanded the USCSS Prometheus on its deep-space mission to LV-223 — but
+  unlike nearly every other person aboard, he held no illusions about what the mission was
+  or what it might find. He was a contractor, a ship's captain doing his job. He played
+  accordion. He drank. He observed the idealists and the corporatists and the android with
+  the same level, unhurried attention, and he waited to see what would actually happen.
+
+  Janek was the antithesis of the mission's official authority structure. Where Vickers
+  embodied cold corporate control, Janek embodied the warmth and practicality of the working
+  professional. He trusted his instincts, maintained his crew, and had no particular stake in
+  whether humanity found its creators. What he did have a stake in was Earth — and when he
+  understood clearly that the LV-223 installation had been an Engineer weapons depot
+  manufacturing a biological agent targeted at humanity, and that the surviving Engineer was
+  now attempting to depart and complete the delivery, Janek made a decision.
+
+  He rammed the Prometheus into the juggernaut. He knew it would kill him and the two crew
+  members who stayed with him. He made the call without drama, without a speech, without
+  hesitation. He told his crew what he was going to do, gave them the chance to leave, and
+  then did it. His sacrifice destroyed the juggernaut over LV-223 and prevented it from
+  reaching Earth. No one commissioned a statue.
+
+timeline:
+  - film: "Prometheus"
+    year: 2093
+    role: "Ship's captain; operational commander of the USCSS Prometheus"
+    key_moments:
+      - "Receives the mission briefing with visible scepticism; his detachment from the ideological stakes is immediately established"
+      - "Plays accordion alone in the ship's common area — the film's first humanising detail"
+      - "Monitors the crew's progress on LV-223 from the bridge; maintains calm when others panic"
+      - "Has a brief sexual encounter with Vickers; the detail humanises both characters without defining either"
+      - "Pieces together the purpose of the LV-223 installation from Shaw's account: a weapons manufacturing site, not a home"
+      - "Deduces that the black goo is a biological weapon and the juggernaut is its delivery vehicle"
+      - "Decides to ram the Prometheus into the departing Engineer ship; gives crew the option to evacuate"
+      - "Two crew members — Chance and Ravel — stay with him voluntarily"
+      - "Collision at approximately 01:43:00; Prometheus destroys the juggernaut, preventing it reaching Earth"
+    death_timestamp: "01:43:00"
+    character_state: |
+      Completely resolved. No fear, no doubt, no theatre. He makes the largest decision
+      in the film in about thirty seconds of screen time and then executes it.
+
+key_relationships:
+  - name: "Elizabeth Shaw"
+    relation: "operational_respect"
+    dynamic: |
+      Janek takes Shaw seriously when others dismiss her. It is her account of what the
+      LV-223 installation is — a weapons depot — that gives him the information he needs
+      to make his final decision. He believes her, which is not nothing in a crew full of
+      people with competing agendas.
+
+  - name: "Meredith Vickers"
+    relation: "structural_opposites"
+    dynamic: |
+      Janek and Vickers are the film's twin authority figures — he controls the ship
+      operationally, she controls it corporately. Their brief sexual encounter is the film's
+      strangest grace note: two people who otherwise have nothing in common, briefly human
+      together. He treats her without deference and without contempt, which is probably
+      the most respectful thing anyone does for her in the film.
+
+  - name: "Chance and Ravel"
+    relation: "crew_who_stayed"
+    dynamic: |
+      Two crew members who chose to remain aboard with Janek rather than evacuate. The film
+      gives them little characterisation, but their choice to stay amplifies Janek's sacrifice —
+      his decision was not just his own.
+
+personality:
+  strengths:
+    - "Exceptional situational clarity under pressure"
+    - "Warmth and genuine human connection with his crew"
+    - "Willingness to act on his own judgment when institutional authority has failed"
+    - "Absence of ego — makes the largest decision in the film without needing it acknowledged"
+    - "Pragmatic moral courage: does what needs doing without requiring ideological scaffolding"
+
+  key_trait: |
+    Janek is the franchise's most understated hero. He is not a soldier, not a scientist, not
+    a corporate asset. He is a ship's captain who plays accordion and makes the right call when
+    it matters most. His heroism is not dramatic because he does not experience it as dramatic —
+    he experiences it as a job. This is what makes it devastating.
+
+  evolution: "Detached contractor → the only person on the ship who correctly understands what is happening → the man who saves Earth"
+
+quotes:
+  - film: "Prometheus"
+    line: "I don't know if you noticed, but that ship is leaving."
+    context: "To Shaw, observing the Engineer juggernaut beginning its departure sequence"
+
+  - film: "Prometheus"
+    line: "I'm a pilot. I know what I have to do."
+    context: "Explaining his decision to ram the Prometheus into the juggernaut; the line's simplicity is the point"
+
+  - film: "Prometheus"
+    line: "You're going to need to get off my ship."
+    context: "To the crew members who do not need to die with him; giving them the chance to escape"
+
+thematic_role:
+  - "The franchise's most understated act of heroism: saving Earth without a speech, a suit of armour, or anyone to witness it"
+  - "Represents the working-class professional at the centre of an elite mission — competent, grounded, expendable"
+  - "His sacrifice echoes and inverts the franchise's typical death structure: where most characters die fleeing the monster, Janek dies driving toward it"
+  - "The accordion — a detail of pure humanity — makes his death land harder than any amount of backstory would"
+  - "Sits in structural parallel with Dallas (Alien) and Ferro (Aliens) as the pilot whose loss removes the crew's way home — except Janek chooses his death rather than suffering it"
+
+see_also:
+  - "/characters/vickers.yaml"
+  - "/characters/shaw.yaml"
+  - "/films/prometheus.yaml"
+  - "/locations/lv-223.yaml"
+  - "/species/engineers.yaml"
+
+sources:
+  - "Prometheus (2012)"
+---

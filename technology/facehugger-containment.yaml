@@ -1,0 +1,61 @@
+---
+name: "Facehugger Containment Systems"
+category: "Biocontainment / specimen handling"
+first_appearance: "Alien (1979)"
+
+description: |
+  Facehugger containment refers to the attempted scientific and military handling of 
+  live facehugger specimens — a consistent point of catastrophic failure across the 
+  franchise. The organisms are extraordinarily difficult to safely contain due to 
+  their strength, mobility, corrosive hemolymph, and ability to survive in a range 
+  of atmospheric conditions.
+
+quarantine_failure_alien_1979:
+  event: "Kane re-boarding with facehugger attached"
+  decision_maker: "Dallas (overriding Ripley's quarantine refusal)"
+  ash_role: |
+    Ash, operating under Special Order 937, actively subverted quarantine protocol 
+    to allow the facehugger aboard. His later attempt to preserve the detached 
+    facehugger in the infirmary in a preservative bath reflects Weyland-Yutani's 
+    scientific priority over crew safety.
+  see_also: "/concepts/special-order-937.yaml"
+
+containment_tubes_aliens_1986:
+  event: "Burke's attempted re-infestation of Ripley and Newt"
+  context: |
+    Carter Burke secretly released two facehuggers from their containment tubes in 
+    the Hadley's Hope medical lab, locking Ripley and Newt inside in an attempt to 
+    use them as hosts — planning to smuggle embryos past customs by having them 
+    implanted in the survivors. Ripley sets off the facility's fire alarm to alert 
+    the marines.
+  containment_design: "Sealed specimen tubes with life-support monitoring; designed for scientific preservation, not live specimen storage during transport"
+  see_also: "/characters/burke.yaml"
+
+scientific_interest:
+  weyland_yutani_priority: |
+    Across the franchise, Weyland-Yutani consistently attempts to acquire live 
+    facehugger specimens — through Ash on the Nostromo, through Burke at Hadley's 
+    Hope, through the USM program in Alien: Resurrection. The organism's value as 
+    a delivery mechanism for xenomorph embryos drives repeated containment attempts, 
+    all of which fail or result in mass casualties.
+
+thematic_role:
+  - "Containment failure is the franchise's founding narrative: the thing that should be kept out is let in, and the thing that should be contained escapes"
+  - "Every attempted containment of a facehugger reflects the company's willingness to risk lives for specimens"
+  - "The quarantine scene in Alien is the franchise's original sin — the moment institutional authority overrides correct individual judgment"
+
+see_also:
+  - "/characters/ash.yaml"
+  - "/characters/burke.yaml"
+  - "/characters/dallas.yaml"
+  - "/concepts/special-order-937.yaml"
+  - "/concepts/the-company.yaml"
+  - "/films/alien-1979.yaml"
+  - "/films/aliens-1986.yaml"
+  - "/xenomorphs/facehugger.yaml"
+
+sources:
+  - "Alien (1979)"
+  - "Aliens (1986)"
+  - "Alien: Resurrection (1997)"
+---

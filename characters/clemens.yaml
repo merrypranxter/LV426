@@ -1,0 +1,97 @@
+---
+name: "Clemens"
+full_name: "Jonathan Clemens"
+portrayed_by: "Charles Dance"
+species: "Human"
+occupation: "Prison Medical Officer"
+affiliation: "Fiorina 161 Double-Y Chromosome Work Correctional Facility"
+
+first_appearance: "Alien 3 (1992)"
+last_appearance: "Alien 3 (1992)"
+status: "DECEASED — 2179 (Fiorina 161, killed by xenomorph approximately 50 minutes into the crisis)"
+
+backstory: |
+  Jonathan Clemens was once a qualified physician. He completed his training and established
+  himself in the profession before a single lapse of judgment ended it. Treating patients
+  while hungover, he made a drug dosage miscalculation that killed eleven people. He was
+  convicted of criminal negligence, stripped of his licence, and sent to Fiorina 161 as
+  part of his sentence. He stayed after his release because there was nowhere else to go —
+  or because leaving would have meant confronting what he had become.
+
+  The foundry planet was, in its way, an appropriate penance. It needed a doctor more than
+  anywhere else would take one. Clemens administered to the prisoners with genuine competence
+  and quiet care, practicing medicine in conditions that most trained physicians would have
+  refused, for patients who had no other option. His crime had cost him everything, and he
+  served its weight out on the edge of the habitable universe.
+
+  His brief relationship with Ripley was the franchise's most explicitly tender interlude.
+  Two fallen people, both carrying the weight of catastrophic decisions that were not entirely
+  their fault, finding in each other a brief and fragile interval of human warmth before the
+  creature arrived and ended it.
+
+timeline:
+  - film: "Alien 3"
+    year: 2179
+    role: "Prison medical officer; Ripley's first ally and only intimate connection on Fiorina 161"
+    key_moments:
+      - "Retrieves Ripley from the crash wreckage; treats her injuries"
+      - "Withholds his backstory from Ripley and Andrews, revealing it only under direct pressure"
+      - "Develops an intimate relationship with Ripley — the franchise's closest approach to a romantic subplot"
+      - "Assists Ripley in examining the other EEV crash victims"
+      - "Killed by the xenomorph mid-conversation, without warning, early in the creature's active campaign at the facility"
+    death_timestamp: "00:50:00"
+    character_state: "The death is abrupt and deliberately undramatic — the franchise refusing to dignify it with a hero's exit"
+
+key_relationships:
+  - name: "Ellen Ripley"
+    relation: "brief_intimate_ally"
+    dynamic: |
+      Clemens and Ripley's connection is the franchise's most humane acknowledgment that
+      Ripley is a person, not only a survivor. He treats her without agenda, and she responds
+      to that with a directness unusual for her in dealings with men. The relationship is brief,
+      warm, and comprehensively destroyed by the creature's arrival — which functions as the
+      film's coldest structural joke: it gives Ripley something to lose before taking it.
+
+  - name: "Superintendent Andrews"
+    relation: "institutional_subordinate"
+    dynamic: |
+      Clemens operates under Andrews's authority without trusting it. Andrews treats him with
+      the particular condescension reserved for someone whose failure is on record — useful,
+      but not worth respecting. Clemens endures this with the patience of a man who has long
+      since stopped expecting the institution to see him clearly.
+
+personality:
+  strengths:
+    - "Genuine medical competence maintained under circumstances designed to degrade it"
+    - "Capacity for warmth and connection despite sustained institutional punishment"
+    - "Intellectual honesty — does not pretend his crime was smaller than it was"
+    - "Practical courage in treating patients others would ignore"
+
+  key_trait: |
+    Clemens represents the fallen professional serving penance at civilisation's edge — a
+    recurring figure in the franchise's periphery, where the people with nowhere else to go
+    end up doing the work that no one else will. His tragedy is not that he was bad at his
+    job but that he was briefly, catastrophically, not at his best, and eleven people died.
+
+  evolution: "Disgraced physician → prison doctor quietly serving his sentence → Ripley's only tender connection → the franchise's first prominent casualty of the Fiorina 161 crisis"
+
+quotes:
+  - film: "Alien 3"
+    line: "I was addicted to morphine. I made a mistake. It was a long time ago."
+    context: "Revealing his backstory to Ripley after she presses him; the understatement is deliberate"
+
+thematic_role:
+  - "Represents the franchise's recurring motif of the competent professional undone by a single human failure and condemned to the margins"
+  - "His brief relationship with Ripley is the film's acknowledgment that survival is not the only thing worth protecting — connection is too"
+  - "His death — abrupt, mid-scene, without a hero's moment — is the franchise at its most brutal: the creature does not wait for emotional completion"
+  - "The fallen professional at the edge of civilisation: a figure the Alien franchise returns to repeatedly as a way of asking who ends up in these places and why"
+  - "His early death strips Ripley of the one genuine ally she found on Fiorina 161, re-isolating her precisely when the threat becomes real"
+
+see_also:
+  - "/characters/ellen-ripley.yaml"
+  - "/characters/andrews.yaml"
+  - "/films/alien3-1992.yaml"
+
+sources:
+  - "Alien 3 (1992)"
+---

@@ -109,6 +109,15 @@ thematic_role:
   - "His chestburster death is cinema's most iconic expression of biological violation and body horror"
   - "Used by Ash as a delivery vehicle — dehumanization by corporation made literal"
 
+see_also:
+  - "/characters/dallas.yaml"
+  - "/characters/ash.yaml"
+  - "/characters/ellen-ripley.yaml"
+  - "/films/alien-1979.yaml"
+  - "/locations/nostromo.yaml"
+  - "/locations/lv-426.yaml"
+  - "/technology/facehugger-containment.yaml"
+
 # Legacy
 cultural_impact:
   - "John Hurt's performance, particularly in the chestburster scene, is one of cinema's most referenced"

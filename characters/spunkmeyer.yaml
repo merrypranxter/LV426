@@ -1,0 +1,43 @@
+---
+name: "Spunkmeyer"
+full_name: "Private Mark Spunkmeyer"
+portrayed_by: "Daniel Kash"
+species: "Human"
+occupation: "Private, Dropship Crew Chief, United States Colonial Marine Corps"
+affiliation: "United States Colonial Marine Corps"
+
+first_appearance: "Aliens (1986)"
+last_appearance: "Aliens (1986)"
+status: "DECEASED — 2179"
+
+backstory: |
+  Mark Spunkmeyer was the crew chief of the UD-4L Cheyenne Dropship, working 
+  with pilot Ferro. During the emergency extraction sequence, Spunkmeyer boards 
+  the dropship first and discovers alien slime on the entry ramp — a warning sign 
+  he does not have time to act on. He is killed by the xenomorph that had stowed 
+  away in the ship before Ferro can be warned.
+
+  His discovery of the slime — the moment he reports something is wrong and 
+  is then cut off — is one of the film's most economical horror beats: the 
+  audience understands before the characters do.
+
+timeline:
+  - film: "Aliens"
+    year: 2179
+    role: "Dropship crew chief"
+    key_moments:
+      - "Boards dropship ahead of Ferro during emergency extraction"
+      - "Discovers alien slime on ramp; begins to report it"
+      - "Killed by xenomorph before warning Ferro"
+    death_timestamp: "~01:22:00"
+    character_state: "Competent crew member; dies discovering the trap a moment too late"
+
+see_also:
+  - "/characters/ferro.yaml"
+  - "/technology/dropship.yaml"
+  - "/concepts/colonial-marines.yaml"
+  - "/films/aliens-1986.yaml"
+
+sources:
+  - "Aliens (1986)"
+---

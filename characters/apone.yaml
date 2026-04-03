@@ -1,0 +1,70 @@
+---
+name: "Apone"
+full_name: "Master Sergeant Al Apone"
+portrayed_by: "Al Matthews"
+species: "Human"
+occupation: "Master Sergeant, United States Colonial Marine Corps"
+affiliation: "United States Colonial Marine Corps"
+
+first_appearance: "Aliens (1986)"
+last_appearance: "Aliens (1986)"
+status: "DECEASED — 2179 (fate: captured/cocooned in alien hive)"
+
+backstory: |
+  Al Apone was the Master Sergeant commanding the marine squad aboard the USS Sulaco 
+  — the functional backbone of the unit between Gorman's inexperience above and the 
+  individual marines below. He was direct, experienced, no-nonsense, and immediately 
+  credible as the person who actually ran the squad's daily operations.
+
+  His most significant command decision — confiscating the marines' ammo and 
+  restricting them to flares before entering the processing plant, to prevent 
+  reactor damage — was tactically correct and contributed to the squad's inability 
+  to respond when contact occurred. He was captured during the initial engagement, 
+  his fate left ambiguous in the theatrical cut.
+
+timeline:
+  - film: "Aliens"
+    year: 2179
+    role: "Master Sergeant; functional squad commander under Gorman"
+    key_moments:
+      - "Maintains squad discipline and preparation aboard the Sulaco"
+      - "Orders the confiscation of pulse rifle ammo and grenade rounds before entering the reactor area — correct order, catastrophic consequences"
+      - "Leads the squad into the alien processing plant"
+      - "Captured/taken during the initial xenomorph contact; dragged into the hive"
+      - "Fate: presumed cocooned as xenomorph host; death confirmed offscreen"
+    capture_timestamp: "~01:08:30"
+    character_state: "Competent and controlled throughout; his capture removes the squad's operational backbone"
+
+key_relationships:
+  - name: "Gorman"
+    relation: "functional_superior_inferior"
+    dynamic: |
+      Apone has the rank of Sergeant but serves under Lieutenant Gorman. In practice, 
+      Apone runs the squad and Gorman holds the commission. The film makes clear that 
+      Apone's functional authority is where actual competence resides.
+
+personality:
+  strengths:
+    - "Combat-experienced command presence"
+    - "Maintains unit cohesion and operational discipline"
+    - "Tactically correct even when the tactic has bad outcomes"
+
+quotes:
+  - film: "Aliens"
+    line: "Alright, sweethearts, what are you waiting for? Breakfast in bed? Another glorious day in the Corps!"
+    timestamp: "~00:45:00"
+    context: "Waking the squad from hypersleep; the most efficient squad introduction in the film"
+
+thematic_role:
+  - "Apone is the franchise's image of competent military leadership — and he is removed from the story within minutes of first contact, leaving the squad without its functional commander"
+  - "His removal, not Gorman's failure, is what technically breaks the chain of command"
+
+see_also:
+  - "/characters/gorman.yaml"
+  - "/characters/hicks.yaml"
+  - "/concepts/colonial-marines.yaml"
+  - "/films/aliens-1986.yaml"
+
+sources:
+  - "Aliens (1986)"
+---

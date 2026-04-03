@@ -1,0 +1,106 @@
+---
+name: "Fifield"
+full_name: "Fifield"
+portrayed_by: "Sean Harris"
+species: "Human (mutated)"
+occupation: "Geologist, USCSS Prometheus"
+affiliation: "Weyland Corporation (contracted)"
+
+first_appearance: "Prometheus (2012)"
+last_appearance: "Prometheus (2012)"
+status: "DECEASED — 2093 (killed after mutation, LV-223)"
+
+backstory: |
+  Fifield was the Prometheus expedition's geologist — responsible for deploying the mission's
+  mapping probes and navigating the team through the LV-223 installation. He was abrasive,
+  openly mercenary, and made no effort to hide that he was on the mission for the money. He had
+  no investment in the scientific or philosophical questions driving Shaw, Holloway, and Weyland.
+  He found the idealism around him contemptible and said so. In a crew full of people who wanted
+  to find something, Fifield wanted to get paid and go home.
+
+  The irony of his death is structural: the geologist who deployed the mapping probes got lost
+  in the installation. He and Millburn were cut off from the team during the crew's hasty
+  evacuation and forced to shelter inside the structure overnight. There they encountered the
+  black goo mutagen and the Hammerpede organisms — mutated worms gestating in the substance —
+  and Fifield's contact with the goo began a transformation that destroyed him.
+
+  He returned to the Prometheus in a state of extreme physical mutation: elongated, aggressive,
+  apparently indestructible. He killed multiple crew members in the docking bay before being
+  stopped. His arc is the film's thesis statement on the black goo: it does not create, it
+  amplifies. Fifield came to LV-223 driven by fear and greed. The mutagen took those qualities
+  and built a body around them.
+
+timeline:
+  - film: "Prometheus"
+    year: 2093
+    role: "Expedition geologist; deploys mapping probes in the LV-223 installation"
+    key_moments:
+      - "Deploys the mapping 'pups' in the installation — the same probes he later fails to navigate by"
+      - "Vocally objects to the mission's ideological framing; states flatly that he's there for the paycheck"
+      - "Becomes separated from the main team with Millburn during the emergency evacuation"
+      - "Encounters the black goo mutagen pooled in the installation's lower corridors"
+      - "Partially submerged in the goo; mutation begins"
+      - "Returns to the Prometheus in a transformed, near-unrecognisable state; kills several crew members in the docking bay"
+      - "Killed by the Prometheus ground team after sustaining injuries that would be fatal for an unmodified human"
+    character_state: |
+      Transformation from abrasive but functional crew member to weaponised aggression.
+      The mutation externalises what was already internal.
+
+key_relationships:
+  - name: "Millburn"
+    relation: "reluctant_companion"
+    dynamic: |
+      Fifield and Millburn are an odd pair — the hostile cynic and the eager naif — who
+      end up sharing the worst night in the LV-223 installation by accident. Fifield's
+      aggression during their isolation reads less like courage than fear. He is terrified
+      and performs contempt as a coping mechanism. Millburn, characteristically, attempts
+      to soothe him.
+
+  - name: "The Black Goo"
+    relation: "victim_and_product"
+    dynamic: |
+      The mutagen takes Fifield's dominant psychological traits — fear, aggression, self-interest
+      — and reconstitutes them in a body stripped of everything else. Whether this is the goo's
+      designed function or a side effect of its interaction with human biology is left open,
+      but the thematic logic is consistent.
+
+personality:
+  strengths:
+    - "Genuine technical competence as a geologist"
+    - "Unsentimental clarity about his own motivations — no pretence of higher purpose"
+    - "Self-preserving instincts (fatally insufficient against the mutagen)"
+
+  key_trait: |
+    Fifield's defining quality is his refusal to perform investment in the mission. Every other
+    crew member has a story — wonder, grief, corporate ambition, existential longing. Fifield
+    has a paycheck. In a film full of people whose idealism gets them killed, Fifield's
+    cynicism gets him killed just as quickly. The black goo is not selective.
+
+  evolution: "Mercenary realist → lost and frightened in the dark → externalised aggression"
+
+quotes:
+  - film: "Prometheus"
+    line: "I'm just a geologist. I like rocks."
+    context: "Distancing himself from the mission's philosophical stakes; anti-mission statement"
+
+  - film: "Prometheus"
+    line: "I want to go back to the ship right now."
+    context: "During the initial exploration of the LV-223 installation; fear presented as practicality"
+
+thematic_role:
+  - "The franchise's statement on what the black goo does to human greed and fear: it removes everything else and builds a body around what remains"
+  - "His getting lost despite deploying the mapping probes is the film's joke about professional competence under cosmic pressure"
+  - "Represents the crew member who came for the wrong reasons — and confirms that the right reasons would not have saved him either"
+  - "His mutated form echoes the franchise's recurring anxiety about biological transformation as punishment for proximity to the Engineers' technology"
+
+see_also:
+  - "/characters/millburn.yaml"
+  - "/characters/shaw.yaml"
+  - "/films/prometheus.yaml"
+  - "/locations/lv-223.yaml"
+  - "/technology/black-goo.yaml"
+  - "/species/hammerpede.yaml"
+
+sources:
+  - "Prometheus (2012)"
+---

@@ -1,0 +1,55 @@
+---
+name: "Terraforming"
+category: "Industrial / colonial technology"
+first_appearance: "Aliens (1986)"
+
+overview: |
+  Terraforming is the large-scale industrial process used by Weyland-Yutani and 
+  associated colonial operations to transform otherwise uninhabitable moons and 
+  planets into environments suitable for human colonization. The process takes 
+  decades to complete and centers on atmospheric processing — the conversion of 
+  existing planetary atmospheres into breathable compositions suitable for 
+  sustained human habitation.
+
+technology:
+  atmospheric_processor:
+    description: |
+      The primary terraforming mechanism is the atmospheric processor — a massive 
+      industrial installation that draws in raw atmospheric gases, processes them 
+      through chemical and fusion reactions, and outputs a gradually accumulating 
+      breathable atmospheric mix. The processors require continuous operation over 
+      decades to fully convert a planetary atmosphere.
+    size: "Kilometers in height; visible from orbit"
+    power_source: "Fusion reactor (self-sustaining)"
+    hazard: |
+      If the reactor core is destabilized — as occurs at Hadley's Hope — the 
+      processor functions as a thermonuclear bomb. The LV-426 processor detonation 
+      is described as "like a nuclear explosion" — Ripley estimates 30 minutes before 
+      detonation once the process is initiated.
+
+lv_426_terraforming:
+  colony: "Hadley's Hope"
+  operator: "Weyland-Yutani Corporation"
+  population: "158 colonists at time of xenomorph infestation"
+  status: "Colony established between 2122 and 2179; location pre-known to Weyland-Yutani from Nostromo LV-426 coordinates"
+  processor_fate: |
+    Damaged during the alien hive battle; detonated in a massive nuclear-scale 
+    blast, destroying Hadley's Hope, the hive, and the entire moon surface 
+    environment. LV-426 rendered uninhabitable.
+  see_also: "/locations/hadleys-hope.yaml"
+
+thematic_role:
+  - "Terraforming represents colonial expansion: Weyland-Yutani reshapes worlds for profit, with 'colonists' as the frontier labor force"
+  - "The atmospheric processor — built to create life — becomes the instrument of total annihilation"
+  - "The terraforming infrastructure at Hadley's Hope is explicitly built on top of the coordinates of the xenomorph derelict — Weyland-Yutani knew what was there"
+
+see_also:
+  - "/locations/hadleys-hope.yaml"
+  - "/locations/lv-426.yaml"
+  - "/concepts/the-company.yaml"
+  - "/films/aliens-1986.yaml"
+
+sources:
+  - "Aliens (1986)"
+  - "Aliens Colonial Marines Technical Manual"
+---

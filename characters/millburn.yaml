@@ -1,0 +1,102 @@
+---
+name: "Millburn"
+full_name: "Millburn"
+portrayed_by: "Rafe Spall"
+species: "Human"
+occupation: "Biologist, USCSS Prometheus"
+affiliation: "Weyland Corporation (contracted)"
+
+first_appearance: "Prometheus (2012)"
+last_appearance: "Prometheus (2012)"
+status: "DECEASED — 2093 (killed by Hammerpede, LV-223)"
+
+backstory: |
+  Millburn was the Prometheus expedition's biologist — which is to say, in the context of
+  this mission, he was the person most professionally equipped to assess alien life forms.
+  He was eager, warm, and genuinely excited by the prospect of first contact. He wanted,
+  very badly, to be there when it happened. This was his defining quality and his fatal flaw.
+
+  When he and Fifield were separated from the team and forced to shelter overnight in the
+  LV-223 installation, Millburn encountered a Hammerpede — a cobra-like organism mutated
+  from terrestrial worms by the black goo. The creature was visibly agitated. It had already
+  adopted threat postures. Millburn reached toward it anyway. His reasoning, to the extent
+  it was reasoning, was that living alien life — any alien life — was too significant a
+  discovery to approach with fear.
+
+  The Hammerpede broke his arm and forced itself down his throat, killing him. The scene
+  is one of the most-discussed in the film precisely because it appears to make no sense:
+  a biologist behaving with catastrophic biological incaution. But the logic is consistent
+  with his character. Millburn was not careless — he was overridden by wonder. He wanted
+  contact more than he wanted to be right.
+
+timeline:
+  - film: "Prometheus"
+    year: 2093
+    role: "Expedition biologist"
+    key_moments:
+      - "Among the most enthusiastic crew members during the initial installation exploration"
+      - "One of the first to express genuine excitement about the possibility of meeting the Engineers"
+      - "Separated from the team with Fifield during the emergency evacuation"
+      - "Encounters a Hammerpede in a flooded corridor — attempts to make friendly contact despite its threat posture"
+      - "The Hammerpede breaks his arm and kills him by forcing itself down his throat"
+      - "His body discovered later by Shaw and Holloway in the installation"
+    death_timestamp: "01:03:00"
+    character_state: |
+      The professional who abandons his professional framework at the worst possible moment —
+      not through failure but through success of wonder over caution.
+
+key_relationships:
+  - name: "Fifield"
+    relation: "accidental_companion"
+    dynamic: |
+      Where Fifield is aggressive, Millburn is conciliatory. Where Fifield is cynical,
+      Millburn is curious. They are trapped together by circumstance and they do not mesh.
+      Millburn's instinct to soothe Fifield's fear reads as genuine — he is not performing
+      warmth. It does not help.
+
+  - name: "The Hammerpede"
+    relation: "victim_of_wonder"
+    dynamic: |
+      Millburn's approach to the Hammerpede is the scene the franchise never quite forgives
+      or forgets. In-universe, it reads as the precise failure mode of scientific wonder
+      without caution. As a narrative device, it kills the character most invested in what
+      they came to find, before he can find any of it.
+
+personality:
+  strengths:
+    - "Genuine scientific curiosity and openness to the unknown"
+    - "Warmth and social intelligence in difficult crew dynamics"
+    - "Courage — of a kind, improperly applied"
+
+  key_trait: |
+    Millburn is the franchise's argument that wonder is not enough. He came to LV-223 for the
+    right reasons — genuine curiosity, scientific passion, desire for contact — and was killed
+    by the first contact he made. The black goo does not distinguish between good intentions
+    and bad ones. Neither does the Hammerpede. The universe of the Alien franchise is not
+    interested in why you came.
+
+  evolution: "Enthusiastic scientist → isolated and frightened → killed by his own best impulse"
+
+quotes:
+  - film: "Prometheus"
+    line: "We came all this way... I just want to see something."
+    context: "During the long night in the installation; his desire for contact distilled to its simplest form"
+
+thematic_role:
+  - "The franchise's commentary on wonder overriding survival instinct — a biologist who abandons biological caution when faced with actual alien life"
+  - "His death is the inverse of Fifield's: one character is killed by amplified fear, the other by amplified hope"
+  - "Represents the scientific idealism underpinning the Prometheus mission at its most vulnerable — and most fatal"
+  - "The Hammerpede encounter is frequently discussed as the film's most narratively controversial moment; the defence is that it is entirely consistent with who Millburn is"
+  - "His occupation as biologist makes his failure of biological caution the film's sharpest irony"
+
+see_also:
+  - "/characters/fifield.yaml"
+  - "/characters/shaw.yaml"
+  - "/films/prometheus.yaml"
+  - "/locations/lv-223.yaml"
+  - "/species/hammerpede.yaml"
+  - "/technology/black-goo.yaml"
+
+sources:
+  - "Prometheus (2012)"
+---

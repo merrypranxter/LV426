@@ -1,0 +1,55 @@
+---
+name: "M577 Armored Personnel Carrier"
+designation: "M577 APC"
+manufacturer: "Weyland-Yutani / United Americas Armed Forces"
+category: "Ground vehicle / armored transport"
+first_appearance: "Aliens (1986)"
+
+description: |
+  The M577 Armored Personnel Carrier is a six-wheeled armored vehicle designed to 
+  transport and support a full Colonial Marine squad in hostile environments. It 
+  carries the squad from the dropship landing zone into the operational area, and 
+  contains internal screens, monitors, and communications allowing a commander to 
+  direct the mission remotely from inside the vehicle.
+
+  In the LV-426 mission, the APC serves as both transport and command post — and 
+  becomes the site of Gorman's failure and Ripley's takeover.
+
+specifications:
+  wheels: 6
+  crew: "Driver + commander + up to 12 passengers"
+  armor: "Ballistic protection; not rated against xenomorph acid"
+  armament: "20mm chin turret (retractable)"
+  command_systems: "Remote video feeds, communications, tactical displays"
+  carried_by: "UD-4L Cheyenne Dropship"
+
+operational_history:
+  gorman_command_failure:
+    context: |
+      During the initial alien hive engagement, Lieutenant Gorman commands from 
+      inside the APC via remote cameras and radio. As the contact deteriorates into 
+      chaos, Gorman freezes — unable to order a withdrawal or extract the marines 
+      before they are overwhelmed. He watches his squad die on screens while Ripley 
+      repeatedly demands action.
+    pivotal_moment: |
+      Ripley physically throws Gorman aside and drives the APC herself into the 
+      processing plant at speed to extract the surviving marines. This is her 
+      definitive transition from civilian advisor to combat leader.
+    timestamp: "~01:15:00"
+
+thematic_role:
+  - "The APC is the separation point between command and consequence — the screen between Gorman and the reality of what he's ordered"
+  - "Ripley's takeover of the APC wheel is the moment the film transfers authority from rank to competence"
+  - "The vehicle's armor is sufficient against anything except the actual threat — another franchise statement about inadequate preparation"
+
+see_also:
+  - "/characters/gorman.yaml"
+  - "/characters/ellen-ripley.yaml"
+  - "/technology/dropship.yaml"
+  - "/concepts/colonial-marines.yaml"
+  - "/films/aliens-1986.yaml"
+
+sources:
+  - "Aliens (1986)"
+  - "Aliens Colonial Marines Technical Manual"
+---

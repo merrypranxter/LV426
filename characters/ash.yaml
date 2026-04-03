@@ -120,6 +120,15 @@ thematic_role:
   - "Betrayal from within; the trusted colleague as weapon"
   - "Contrast with Bishop: what Weyland-Yutani becomes when it improves its androids"
 
+see_also:
+  - "/characters/ellen-ripley.yaml"
+  - "/characters/dallas.yaml"
+  - "/concepts/special-order-937.yaml"
+  - "/concepts/the-company.yaml"
+  - "/concepts/android-classification.yaml"
+  - "/ai-systems/mother.yaml"
+  - "/films/alien-1979.yaml"
+
 # Legacy
 cultural_impact:
   - "Ian Holm's performance established the template for 'sinister android' in sci-fi"

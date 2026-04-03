@@ -1,0 +1,54 @@
+---
+name: "M314 Motion Tracker"
+designation: "M314 Motion Tracker"
+manufacturer: "Weyland-Yutani"
+category: "Detection / sensor equipment"
+first_appearance: "Alien (1979)"
+
+description: |
+  The M314 Motion Tracker is a handheld sensor device that detects and displays 
+  movement in its operational radius via active acoustic pulse technology. It 
+  presents data on a circular CRT display — a radial sweep showing contacts as 
+  bright blips against the sweep line. Range and sensitivity can be adjusted.
+
+  The tracker became the franchise's primary tension instrument: a device that 
+  tells you something is moving without telling you what it is or how close it 
+  truly is. It cannot distinguish between crew members and xenomorphs, between 
+  rats and threats. In confined spaces, the tracker creates hope and terror in 
+  equal measure.
+
+specifications:
+  detection_principle: "Active acoustic pulse"
+  display: "Circular CRT sweep display"
+  range: "Variable; effective to approximately 30 meters in standard configuration"
+  limitation: "Cannot distinguish between life forms — registers all motion equally"
+  form_factor: "Handheld; one-handed operation"
+
+operational_history:
+  alien_1979:
+    note: "Used during xenomorph hunt aboard the Nostromo; Lambert operates tracker during Dallas's duct sequence"
+    pivotal_scene: "Lambert tracks the xenomorph toward Dallas in the ventilation ducts; the blip that converges is his death"
+  aliens_1986:
+    note: "Standard marine equipment; multiple trackers used during LV-426 colony sweep"
+    pivotal_scene: |
+      During the initial contact engagement in the alien hive, tracker readings show 
+      contacts above the marines — xenomorphs in the ceiling. The gap between what 
+      the tracker shows and what the marines can act on defines the engagement's 
+      horror.
+
+thematic_role:
+  - "The tracker converts the xenomorph's unseen presence into quantified dread — a number on a dial that means nothing until it means everything"
+  - "Represents the franchise's recurring theme: information without understanding is not safety"
+  - "The gap between tracker signal and human comprehension is where people die"
+
+see_also:
+  - "/characters/dallas.yaml"
+  - "/characters/lambert.yaml"
+  - "/films/alien-1979.yaml"
+  - "/films/aliens-1986.yaml"
+
+sources:
+  - "Alien (1979)"
+  - "Aliens (1986)"
+  - "Aliens Colonial Marines Technical Manual"
+---

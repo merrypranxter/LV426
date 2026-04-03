@@ -1,0 +1,80 @@
+---
+name: "Vriess"
+full_name: "Vriess"
+portrayed_by: "Dominique Pinon"
+species: "Human"
+occupation: "Mechanic, Betty crew"
+affiliation: "Betty crew"
+
+first_appearance: "Alien: Resurrection (1997)"
+last_appearance: "Alien: Resurrection (1997)"
+status: "ALIVE (as of Alien: Resurrection, 2381)"
+
+backstory: |
+  Vriess is the Betty's mechanic — the person responsible for keeping a ship like the Betty
+  operational in conditions that would end most vessels. He is good at this work, sardonic
+  in his delivery, and does not solicit attention. He also uses a wheelchair.
+
+  The franchise does not explain how Vriess came to need a wheelchair, and the film does not
+  treat this as an absence requiring correction. His condition is not backstory, not a wound
+  to be healed, not a limitation to be overcome in a moment of crisis. It is simply his
+  situation, maintained throughout. Vriess navigates the Auriga — flooded corridors,
+  xenomorph-contested spaces, a catastrophically failing ship — in the wheelchair, and the
+  film does the work of making this navigable rather than making him someone else.
+
+  He is the franchise's first prominently disabled character, and his treatment is distinctive
+  precisely because it is not distinctive: he is a competent crew member who happens to require
+  a wheelchair, and the film respects both halves of that sentence equally.
+
+timeline:
+  - film: "Alien: Resurrection"
+    year: 2381
+    role: "Betty mechanic; ensemble crew member; the franchise's first prominently disabled character in a sustained role"
+    key_moments:
+      - "Established immediately as the Betty's competent technical specialist"
+      - "Navigates the Auriga crisis throughout in his wheelchair — the film accommodates this without comment or heroic exception"
+      - "Participates in the escape sequence alongside the other crew members"
+      - "Survives to reach Earth with Ripley 8 and the remaining crew"
+    character_state: "Alive; exactly as sardonic and capable as he was at the start"
+
+key_relationships:
+  - name: "Call"
+    relation: "crewmate_with_functional_respect"
+    dynamic: "Vriess is one of the Betty crew members whose relationship with Call is not defined by Johner's contempt; he operates alongside her without making her synthetic nature a source of friction"
+
+  - name: "Betty crew"
+    relation: "technical_specialist"
+    dynamic: "Vriess keeps the ship functional — a role that gives him status within the crew that is independent of physical capability in the conventional sense"
+
+personality:
+  strengths:
+    - "Genuine technical competence — keeps the Betty operational under difficult conditions"
+    - "Sardonic self-possession — does not perform his disability or perform its absence"
+    - "Functional adaptability: navigates genuinely hostile environments without requiring the film to cheat on his behalf"
+
+  key_trait: |
+    Vriess's most significant characteristic is not his wheelchair but what the film does
+    with it. The franchise has spent four films in environments hostile to survival and has
+    never before placed a disabled character in them as a competent protagonist rather than
+    a casualty or a background presence. Vriess does not get a moment where he rises from
+    the chair. He does not need one. He manages in the chair, and the film manages the
+    environment around that reality.
+
+  evolution: "Essentially stable — Vriess is who he is throughout, which is the point"
+
+thematic_role:
+  - "The franchise's first prominently disabled character given a full ensemble role — his wheelchair is never treated as a problem to be solved within the narrative"
+  - "Forces the Alien franchise, for the first time, to address physical accessibility in xenomorph-hostile environments as a practical problem rather than a thematic one"
+  - "His survival intact and unchanged is the film's quiet statement: the wheelchair does not make him a liability or a candidate for a redemption arc; he is simply a person with a wheelchair"
+  - "Dominique Pinon's performance brings a sardonic specificity to a role that could have been thin — his screen presence makes Vriess feel inhabited rather than symbolic"
+  - "Represents the franchise's widening of who gets to survive: not just the physically exceptional, not just the unambiguously human, not just the conventionally able-bodied"
+
+see_also:
+  - "/characters/call.yaml"
+  - "/characters/johner.yaml"
+  - "/characters/elgyn.yaml"
+  - "/films/alien-resurrection-1997.yaml"
+
+sources:
+  - "Alien: Resurrection (1997)"
+---

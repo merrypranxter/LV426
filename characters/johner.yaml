@@ -1,0 +1,95 @@
+---
+name: "Johner"
+full_name: "Johner"
+portrayed_by: "Ron Perlman"
+species: "Human"
+occupation: "Mercenary, Betty crew"
+affiliation: "Betty crew"
+
+first_appearance: "Alien: Resurrection (1997)"
+last_appearance: "Alien: Resurrection (1997)"
+status: "ALIVE (as of Alien: Resurrection, 2381)"
+
+backstory: |
+  Johner is the Betty's most purely aggressive crew member — a mercenary who has apparently
+  survived the extreme edges of the human-occupied universe through a combination of physical
+  capability, instinctive violence, and the kind of luck that attends people too loud to die
+  quietly. He has no evident backstory that he would consider worth narrating. He drinks,
+  he fights, he does the job, and he does not waste time on complexity.
+
+  On a crew of morally compromised mercenaries who have agreed to deliver human cargo to a
+  military research vessel without asking why, Johner is the least conflicted. The others
+  might feel something about what they're doing. Johner either doesn't or has chosen a
+  permanent posture of not caring. The distinction doesn't matter to him.
+
+  He survives the Auriga catastrophe, which is less a narrative achievement than a franchise
+  statement: some people survive purely because they are too blunt an instrument to be
+  elegantly eliminated.
+
+timeline:
+  - film: "Alien: Resurrection"
+    year: 2381
+    role: "Betty crew mercenary; ensemble muscle and abrasive comedic note"
+    key_moments:
+      - "Establishes himself immediately as the Betty crew's most aggressive and least sympathetic member"
+      - "Contemptuous of Call before and after her synthetic nature is revealed"
+      - "Participates in the escape from the Auriga across flooded corridors and xenomorph-contested spaces"
+      - "Survives to reach Earth with Ripley 8 and the remaining crew"
+    character_state: "Unchanged — alive, unimproved, and fully committed to being exactly what he is"
+
+key_relationships:
+  - name: "Annalee Call"
+    relation: "contemptuous_crewmate"
+    dynamic: |
+      Johner dislikes Call before he knows she's synthetic and dislikes her more afterward.
+      His contempt is the film's register of how human beings treat those they decide to
+      devalue — and the fact that he survives while more reflective characters die is one
+      of Resurrection's darker structural jokes.
+
+  - name: "Ellen Ripley 8"
+    relation: "wary_respect"
+    dynamic: |
+      Johner is physically intimidating and knows it. Ripley 8 is more physically capable
+      than he is and demonstrates this without effort. He adjusts accordingly — not warmly,
+      but with the pragmatic recalibration of a man who has spent his life reading threats.
+
+  - name: "Frank Elgyn"
+    relation: "crew_under_captain"
+    dynamic: "Johner functions under Elgyn's command; their dynamic is that of a captain who knows how to use a blunt instrument and a blunt instrument that accepts direction from someone it respects"
+
+personality:
+  strengths:
+    - "Physical capability and combat effectiveness in close-quarters survival situations"
+    - "Total absence of hesitation — acts immediately without the paralysis that kills more reflective characters"
+    - "Durable: survives the Auriga catastrophe largely by being harder to kill than the alternatives"
+
+  weaknesses:
+    - "No apparent capacity for self-reflection or moral development"
+    - "Contemptuous of difference — responds to Call's synthetic nature with hostility rather than adjustment"
+    - "His survival is luck and physicality, not wisdom"
+
+  key_trait: |
+    Ron Perlman's particular physical presence — large, permanently slightly amused at its
+    own threat level — makes Johner memorable in ways the character's written content alone
+    doesn't justify. He is the franchise's least sympathetic surviving protagonist precisely
+    because the franchise isn't interested in making his survival feel earned. He makes it
+    through because the story needs someone like him to make it through: the proof that
+    survival has no moral logic.
+
+  evolution: "None — Johner begins and ends as the film's abrasive ensemble note, serving that function efficiently and without complication"
+
+thematic_role:
+  - "The franchise's admission that survival has no moral component — the least sympathetic crew member makes it out"
+  - "Provides the Resurrection ensemble's necessary abrasive register without which the other characters' complexity would have no friction to work against"
+  - "Ron Perlman's physicality and delivery are the character's content: the performance is the role in a way that bypasses the thinness of the written character"
+  - "His contempt for Call is the film's use of him as a moral index: his reactions tell us something about what the film values even when he does not share those values"
+
+see_also:
+  - "/characters/call.yaml"
+  - "/characters/elgyn.yaml"
+  - "/characters/vriess.yaml"
+  - "/films/alien-resurrection-1997.yaml"
+
+sources:
+  - "Alien: Resurrection (1997)"
+---

@@ -1,0 +1,54 @@
+---
+name: "Ferro"
+full_name: "Corporal Colette Ferro"
+portrayed_by: "Colette Hiller"
+species: "Human"
+occupation: "Corporal, Dropship Pilot, United States Colonial Marine Corps"
+affiliation: "United States Colonial Marine Corps"
+
+first_appearance: "Aliens (1986)"
+last_appearance: "Aliens (1986)"
+status: "DECEASED — 2179"
+
+backstory: |
+  Colette Ferro was the Corporal pilot of the UD-4L Cheyenne Dropship deployed 
+  from the USS Sulaco during the LV-426 mission. She executed the initial 
+  atmospheric insertion that delivered the squad to the colony surface and remained 
+  on standby for extraction.
+
+  Her death — killed by a xenomorph that had stowed away in the dropship during 
+  the extraction attempt — is the film's narrative turning point. With Ferro dead 
+  and the pilotless dropship crashing into the colony, the marines lose their only 
+  means of surface-to-orbit transit. The mission becomes a survival situation 
+  with no exit.
+
+timeline:
+  - film: "Aliens"
+    year: 2179
+    role: "Dropship pilot"
+    key_moments:
+      - "Pilots initial atmospheric insertion to LV-426"
+      - "On standby in dropship during marine ground operations"
+      - "Called for emergency extraction after initial contact disaster"
+      - "Killed by xenomorph in dropship cockpit during extraction approach"
+    death_timestamp: "~01:22:00"
+    character_state: "Competent professional; death removes the marines' exit option"
+
+key_relationships:
+  - name: "Spunkmeyer"
+    relation: "crew_partner"
+    dynamic: "Ferro and Spunkmeyer are the dropship's two-person crew; both killed in the same incident within minutes of each other"
+
+thematic_role:
+  - "Ferro's death converts the mission from difficult to inescapable — she is not killed directly by xenomorphs but is the most consequential death in the film"
+  - "The dropship crash is the film's point of no return"
+
+see_also:
+  - "/characters/spunkmeyer.yaml"
+  - "/technology/dropship.yaml"
+  - "/concepts/colonial-marines.yaml"
+  - "/films/aliens-1986.yaml"
+
+sources:
+  - "Aliens (1986)"
+---

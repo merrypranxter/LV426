@@ -129,6 +129,14 @@ thematic_role:
   - "Her death in Alien³ — off-screen, in an EEV crash, before the film begins — is the franchise's most controversial narrative decision"
   - "Represents what Weyland-Yutani's indifference actually costs, rendered as a child's face"
 
+see_also:
+  - "/characters/ellen-ripley.yaml"
+  - "/characters/hicks.yaml"
+  - "/characters/burke.yaml"
+  - "/films/aliens-1986.yaml"
+  - "/locations/hadleys-hope.yaml"
+  - "/locations/uss-sulaco.yaml"
+
 # Legacy
 cultural_impact:
   - "Carrie Henn's only film role; retired from acting after Aliens"
