@@ -1,0 +1,138 @@
+---
+name: "Vickers"
+full_name: "Meredith Vickers"
+portrayed_by: "Charlize Theron"
+species: "Human"
+occupation: "Weyland Corporation Executive; Mission Director, USCSS Prometheus"
+affiliation: "Weyland Corporation"
+
+first_appearance: "Prometheus (2012)"
+last_appearance: "Prometheus (2012)"
+status: "DECEASED — 2093 (crushed by crashing Engineer juggernaut, LV-223)"
+
+backstory: |
+  Meredith Vickers was the Weyland Corporation's official overseer aboard the USCSS Prometheus,
+  sent to ensure the company's interests were protected on a trillion-dollar deep-space mission.
+  Cold, supremely competent, and operating entirely within the logic of corporate authority,
+  Vickers regarded the Prometheus mission as a liability to be managed rather than a discovery
+  to be made. Her relationship with the crew was transactional; her relationship with David was
+  openly antagonistic. She saw the android as a projection of Peter Weyland's ego and treated
+  him accordingly.
+
+  The film implies — through David's deliberate provocation ("A king has his reign, and then
+  he dies. It's inevitable.") — that Vickers is Peter Weyland's daughter, though she neither
+  confirms nor denies it. If true, her position is paradoxical: the heir apparent placed in
+  command of a mission whose actual purpose is to extend her father's life indefinitely, cutting
+  her out of any inheritance. She confronts Weyland directly about this dynamic in the film's
+  third act, and his dismissal of her confirms the reading.
+
+  Vickers maintained a private lifeboat pod aboard the Prometheus equipped with a sophisticated
+  Med Pod — standard for Weyland executives, and a detail that becomes critical when Elizabeth
+  Shaw uses the pod for emergency surgery to remove a proto-facehugger organism. Vickers dies
+  on the surface of LV-223 when the crashing Engineer juggernaut rolls toward her; she runs
+  parallel to its direction of travel rather than perpendicular, and is crushed. The death is
+  abrupt and unglamorous — a fitting end for a character who always believed she was prepared
+  for every contingency.
+
+timeline:
+  - film: "Prometheus"
+    year: 2093
+    role: "Weyland Corporation mission director; official authority aboard the Prometheus"
+    key_moments:
+      - "Briefs the crew on mission parameters after awakening from hypersleep; establishes authority immediately"
+      - "Issues standing order to the crew: any alien life forms are to be reported directly to her, not acted upon independently"
+      - "Confronts David, warning him: 'I'll tell you what you are — a robot. And robots don't turn off the lights on their own'"
+      - "Revealed to have a personal escape lifeboat with a fully equipped Med Pod — inaccessible to general crew"
+      - "Has a brief, unexplained sexual encounter with Janek; reads as comfort-seeking under pressure, not genuine connection"
+      - "Confronts her father Peter Weyland when his presence aboard is revealed; the exchange confirms the daughter dynamic"
+      - "Attempts to stop Shaw and Janek's plan to ram the juggernaut; overruled by events"
+      - "Escapes the Prometheus before the collision in her lifeboat pod"
+      - "Crushed when the rolling Engineer juggernaut overtakes her on the surface — runs the wrong direction"
+    death_timestamp: "01:42:00"
+    character_state: |
+      Controlled and calculating throughout, until the final moments when pure survival instinct
+      overrides her tactical judgment and kills her.
+
+key_relationships:
+  - name: "Peter Weyland"
+    relation: "implied_daughter"
+    dynamic: |
+      The film never states outright that Vickers is Weyland's daughter, but David's pointed
+      comment about kings and their reigns — delivered directly to her — plants the reading
+      clearly. Her confrontation with Weyland is the franchise's starkest depiction of corporate
+      succession anxiety: a daughter who has prepared her entire life to inherit a company,
+      sidelined by a father who would rather spend that inheritance on his own immortality.
+    pivotal_moment: "Weyland's dismissal of Vickers during the confrontation scene — he looks through her"
+
+  - name: "David 8"
+    relation: "adversarial_distrust"
+    dynamic: |
+      Vickers and David circle each other throughout the film with open mutual contempt.
+      She sees him as an extension of Weyland's delusion; he sees her as an obstacle to
+      Weyland's mission. David's provocations are precisely calibrated to destabilise her,
+      and she responds with threats rather than authority — a signal that she knows she lacks
+      true leverage over him.
+
+  - name: "Captain Janek"
+    relation: "uneasy_colleagues"
+    dynamic: |
+      Janek and Vickers occupy opposite ends of the ship's human hierarchy — she is corporate
+      authority, he is operational competence. Their brief sexual encounter is the film's
+      most humanising moment for Vickers; she initiates, which reads as either control or
+      vulnerability, possibly both.
+
+  - name: "Elizabeth Shaw"
+    relation: "mission_friction"
+    dynamic: |
+      Vickers views Shaw's idealistic motivations with contempt and regards her independent
+      actions as insubordination. Shaw uses Vickers's own Med Pod against her implicit
+      ownership — one of the film's small structural ironies.
+
+personality:
+  strengths:
+    - "Absolute command presence; authority is never performative, always structural"
+    - "Competent crisis management when dealing with human variables"
+    - "Unsentimental clarity about the corporation's actual interests"
+    - "Physical fitness and self-reliance — maintains her own survival equipment"
+
+  key_trait: |
+    Vickers is the franchise's corporate overseer archetype in its most fully humanised form.
+    Where Carter Burke (Aliens) is a weasel, Vickers is a professional. She is not dishonest —
+    she simply operates in a framework where human life is a mission variable. Her tragedy
+    is that she is genuinely competent at the wrong job, running a mission whose true purpose
+    was concealed from her by the man she was sent to serve.
+
+  evolution: "Corporate authority figure → revealed heir → casualty of her own miscalculation"
+
+quotes:
+  - film: "Prometheus"
+    line: "If you're really going to go in there, go in there. But I'm not going to watch you fail."
+    context: "To Peter Weyland, confronting him about his mission to meet the Engineers"
+
+  - film: "Prometheus"
+    line: "This ship is my responsibility."
+    context: "Asserting authority to the crew; her clearest expression of ownership over the mission"
+
+  - film: "Prometheus"
+    line: "David, please don't touch anything."
+    context: "Early signal of her relationship with the android — directive, anxious, ineffectual"
+
+thematic_role:
+  - "Represents the franchise's corporate overseer archetype at its most humanised and tragic"
+  - "Her implied daughter status reframes the Weyland mission as a family drama disguised as scientific exploration"
+  - "The Med Pod in her private quarters — a luxury reserved for executives — becomes a survival resource for Shaw; corporate exclusivity weaponised against itself"
+  - "Her death by running the wrong direction is the film's wry commentary on over-preparation: she survived every calculated risk and died in an uncalculated one"
+  - "Sits in direct lineage with Carter Burke (Aliens) and Weyland-Yutani's recurring institutional callousness"
+
+see_also:
+  - "/characters/david.yaml"
+  - "/characters/shaw.yaml"
+  - "/characters/janek.yaml"
+  - "/characters/peter-weyland.yaml"
+  - "/films/prometheus.yaml"
+  - "/corporations/weyland-yutani.yaml"
+  - "/locations/lv-223.yaml"
+
+sources:
+  - "Prometheus (2012)"
+---

@@ -1,0 +1,100 @@
+---
+name: "Faris"
+full_name: "Faris"
+portrayed_by: "Amy Seimetz"
+species: "Human"
+occupation: "Lander Pilot, USCSS Covenant"
+affiliation: "Weyland-Yutani Corporation"
+
+first_appearance: "Alien: Covenant (2017)"
+last_appearance: "Alien: Covenant (2017)"
+status: "DECEASED — 2104 (lander explosion, Planet 4)"
+
+backstory: |
+  Faris was the lander pilot aboard the USCSS Covenant, responsible for operating the ship's
+  secondary landing craft during the crew's unscheduled stop on Planet 4. She was competent
+  and loyal — the kind of crew member who stays at her post when everything goes wrong, because
+  someone has to. When a landing party member became infected by neomorph spores and began
+  showing signs of rapid biological transformation, Faris was left aboard the lander to contain
+  the situation while the rest of the team dealt with the crisis outside.
+
+  The neomorph that emerged from the infected crew member was small, fast, and extremely
+  aggressive. Faris was alone with it in an enclosed space. She had a shotgun. She used it.
+  In the chaos of trying to kill the creature in the lander's confined interior, she missed —
+  or hit the wrong target — and struck the fuel lines. The explosion destroyed the lander
+  and killed her.
+
+  The lander's destruction was not incidental. It was the pivot on which the entire film's
+  third act turned: without the lander, the surviving crew had no way off Planet 4 without
+  the Covenant itself descending, which meant David had leverage, which meant everything
+  that followed became possible. Faris died trying to do her job. The consequences of her
+  death shaped everything.
+
+timeline:
+  - film: "Alien: Covenant"
+    year: 2104
+    role: "Lander pilot; crew containment during neomorph emergence event"
+    key_moments:
+      - "Pilots the landing party to the surface of Planet 4 after the crew intercepts an unscheduled transmission"
+      - "Remains with the lander when the shore party encounters neomorph spore fields"
+      - "Ordered to maintain quarantine when crew members show signs of infection; follows the protocol"
+      - "Left alone in the lander with an infected crew member as the neomorph gestates"
+      - "Neomorph emerges; Faris attempts to kill it with a shotgun in the confined lander interior"
+      - "Shotgun blast strikes fuel lines; lander explodes"
+      - "Death removes the crew's primary evacuation vehicle — the structural turn that traps them on Planet 4"
+    death_timestamp: "00:40:00"
+    character_state: |
+      Performing her duty under impossible conditions; killed not by failure but by the
+      physics of a bad situation in a small space.
+
+key_relationships:
+  - name: "Oram"
+    relation: "commanding_officer"
+    dynamic: |
+      Oram leads the landing party and makes the initial decisions about exposure. Faris
+      follows his orders, including the quarantine protocol. Their relationship is functional
+      and professional; she does not question his decisions.
+
+  - name: "The Neomorph"
+    relation: "victim_and_combatant"
+    dynamic: |
+      Faris is the franchise's most direct example of the impossible geometry of fighting a
+      neomorph in an enclosed space. A shotgun is the right weapon. The space is the wrong one.
+      She was not wrong to try.
+
+personality:
+  strengths:
+    - "Duty-bound under extreme pressure"
+    - "Decisive action when confronted with immediate threat"
+    - "Willingness to follow quarantine protocol at personal risk"
+
+  key_trait: |
+    Faris is the franchise's functional professional — the crew member who does exactly what
+    she should, in exactly the circumstances where doing what she should cannot save her.
+    She is not reckless; she is unlucky. The lander is too small, the neomorph too fast,
+    and the fuel lines too close.
+
+  evolution: "Competent pilot → isolated crew member in a containment situation → accidental architect of the crew's doom"
+
+quotes:
+  - film: "Alien: Covenant"
+    line: "Stay back! Stay back!"
+    context: "In the lander, attempting to drive back the neomorph before firing"
+
+thematic_role:
+  - "Her death echoes Ferro's in Aliens: the pilot's loss removes the exit option and locks the crew into the horror"
+  - "Represents the franchise's recurring structural motif of the transport vehicle destroyed early, collapsing the crew's escape route"
+  - "The accident of the fuel line shot reframes her death as tragedy rather than error — she was doing everything right"
+  - "Her quarantine compliance distinguishes her from the franchise's many characters who ignore protocol; she dies following the rules, not breaking them"
+  - "The lander's destruction is the hinge on which David's manipulation of the surviving crew becomes possible"
+
+see_also:
+  - "/characters/oram.yaml"
+  - "/characters/david.yaml"
+  - "/films/alien-covenant.yaml"
+  - "/locations/planet-4.yaml"
+  - "/species/neomorph.yaml"
+
+sources:
+  - "Alien: Covenant (2017)"
+---

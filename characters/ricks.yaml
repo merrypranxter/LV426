@@ -1,0 +1,71 @@
+---
+name: "Ricks"
+full_name: "Ricks"
+portrayed_by: "Jussie Smollett"
+species: "Human"
+occupation: "Covenant Crew Member, USCSS Covenant"
+affiliation: "Weyland-Yutani Corporation"
+
+first_appearance: "Alien: Covenant (2017)"
+last_appearance: "Alien: Covenant (2017)"
+status: "DECEASED — 2104 (killed aboard the Covenant, Planet 4 mission)"
+
+backstory: |
+  Ricks was a crew member aboard the USCSS Covenant, serving in a support capacity on what
+  was intended to be a routine colonisation mission to Origae-6. The Covenant carried over
+  two thousand colonists in hypersleep alongside a smaller active crew; Ricks was part of the
+  ensemble of working professionals who would have managed the mission's operational needs
+  during the seven-year journey.
+
+  The unscheduled detour to Planet 4 — following the interception of a rogue transmission —
+  transformed a planned colonisation mission into a survival situation. Ricks was among the
+  crew members caught in the escalating disaster that followed first contact with David's
+  experiments and the xenomorph and neomorph organisms on Planet 4.
+
+timeline:
+  - film: "Alien: Covenant"
+    year: 2104
+    role: "Covenant crew member; part of the ensemble dealing with the Planet 4 crisis"
+    key_moments:
+      - "Among the active crew awoken during the neutrino burst that kills Branson and damages the ship"
+      - "Part of the crew that proceeds with the unscheduled stop at Planet 4"
+      - "Present during the escalating neomorph and xenomorph crisis"
+    character_state: "Background crew member; establishes the human texture of the Covenant ensemble"
+
+key_relationships:
+  - name: "Covenant Crew"
+    relation: "ensemble_member"
+    dynamic: |
+      The Covenant carries a larger active crew than most franchise vessels, and Ricks occupies
+      the ensemble's supporting layer — a face in the crew that gives the ship its lived-in
+      quality. The franchise consistently uses background crew members to establish that these
+      ships are communities, not just teams.
+
+personality:
+  strengths:
+    - "Reliability as a functional crew member on a long-haul colonisation mission"
+
+  key_trait: |
+    The Covenant ensemble is unusually large for the franchise, and Ricks represents the crew
+    members who give the ship its human texture without driving its central narrative. In a film
+    concerned with grand questions about creation, purpose, and David's horrifying experiments,
+    characters like Ricks anchor the story in the ordinary human cost: people who signed up for
+    a colonisation mission and encountered something that had no place in the universe they
+    thought they were travelling to.
+
+thematic_role:
+  - "Part of the Covenant ensemble that gives the ship its human weight — the crew who exist beyond the principal players"
+  - "Represents the ordinary cost of David's ambitions: people who came for a colony and encountered a god's discarded experiments"
+  - "The franchise's larger crews (Aliens, Alien: Covenant) use ensemble members to make the threat's scale legible — each loss compounds the others"
+
+see_also:
+  - "/characters/daniels.yaml"
+  - "/characters/oram.yaml"
+  - "/characters/lope.yaml"
+  - "/characters/david.yaml"
+  - "/films/alien-covenant.yaml"
+  - "/locations/planet-4.yaml"
+
+sources:
+  - "Alien: Covenant (2017)"
+---
