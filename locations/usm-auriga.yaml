@@ -1,0 +1,271 @@
+---
+name: "USM Auriga"
+full_designation: "United Systems Military Research Vessel Auriga"
+type: "Military science vessel"
+operator: "United Systems Military (USM)"
+status: "DESTROYED — 2381 (crashed into Earth)"
+first_appearance: "Alien: Resurrection (1997)"
+
+# Technical Specifications
+specifications:
+  configuration: "Military research vessel; large frame; secure laboratory sections; containment facilities"
+  
+  key_sections:
+    - "Clone Room 1-7 (xenomorph-human hybrid cloning laboratory)"
+    - "Xenomorph containment and breeding facility"
+    - "Dissection and research labs"
+    - "Standard military crew quarters and operations"
+    - "Docking bay (accommodated the Betty)"
+  
+  crew:
+    designation: "USM military personnel; research scientists"
+    operational_status_at_incident: |
+      The Auriga was operating in deep space — away from populated systems — 
+      specifically to reduce the risk of an escaped xenomorph event. The location 
+      was both a safety measure and a security measure: classified research away 
+      from oversight.
+
+# The Cloning Program
+cloning_program:
+  purpose: "Extract the Queen xenomorph embryo that Ellen Ripley had died carrying on Fiorina 161 (2179)"
+  
+  source_material: "Ripley's blood samples, recovered by Weyland-Yutani from Fiorina 161 after her death"
+  timeline_from_death: "~200 years between Ripley's death (2179) and successful clone (2381)"
+  
+  failed_attempts:
+    designation: "Ripley clones 1 through 7"
+    description: |
+      Seven failed attempts at cloning Ripley with intact Queen embryo. The results 
+      were grotesque fusions of human and xenomorph biology — bodies that mixed 
+      the two genetic profiles without resolution: human features distorted into 
+      xeno-morphology; xenomorph structures embedded in human tissue; screaming 
+      hybrids of both. They were kept alive in the laboratory.
+    fate: |
+      All seven failed clones were alive — in varying states of horror — when 
+      Ripley 8 entered Clone Room 1-7. Ripley 8 destroyed them with a flamethrower. 
+      The act is unambiguously mercy. It is also one of the franchise's most devastating 
+      images: Ripley surveying the cost of bringing her back, seven times, wrong.
+  
+  successful_clone:
+    designation: "Ripley 8"
+    characteristics:
+      genetics: "Human DNA merged with xenomorph Queen DNA — approximately 50/50 integration"
+      physical_enhancements: |
+        Increased strength; accelerated healing; enhanced sensory perception (particularly 
+        scent-based). Blood contains trace acidic properties. Reflexes beyond normal human range.
+      memory_transfer: |
+        Ripley 8 has access to Ellen Ripley's memories — not complete, not reliable, 
+        but present. She remembers things she could not have experienced: Newt, Hicks, 
+        the Queen on LV-426. The memories bleed through genetic material. This gives 
+        Ripley 8 a connection to a person she is not, and a grief for people she 
+        never knew.
+      xenomorph_connection: |
+        The Queen in the breeding facility had an instinctive response to Ripley 8 — 
+        a recognition. The xenomorphs did not kill her when they could have. She 
+        exists in a liminal position: human enough to be a person; xenomorph enough 
+        to be recognized as kin. Neither world entirely accepts her; neither entirely 
+        rejects her.
+      moral_status: |
+        The scientists aboard the Auriga did not regard Ripley 8 as a person. She was 
+        a vehicle for the Queen embryo extraction and subsequently a research subject. 
+        The film treats this as obviously wrong while acknowledging the genuine ambiguity 
+        of her identity. She is not Ellen Ripley. She is someone new, made from the 
+        wreckage of Ellen Ripley. She chooses, in the end, to act like Ripley.
+
+# The Betty and Her Crew
+betty_crew:
+  vessel: "The Betty — a mercenary/smuggler ship"
+  
+  role_aboard_auriga: |
+    The Betty's crew delivered cargo to the Auriga — human beings, harvested as 
+    hosts for the xenomorph breeding program. Whether the crew fully understood 
+    what they were delivering is complicated: Call vehemently opposed it; the 
+    others had varying degrees of moral distance.
+  
+  personnel:
+    - name: "Call"
+      designation: "Synthetic — secretly a second-generation android (not USM or Weyland-Yutani make)"
+      motivation: |
+        Call came to the Auriga specifically to kill Ripley 8 — to prevent the 
+        Queen embryo being extracted and used. She failed (the extraction had 
+        already occurred). She subsequently became the franchise's most explicitly 
+        mission-driven android: not serving a corporation but opposing one.
+      status: "SURVIVED"
+      significance: |
+        Call is the franchise's first android defined entirely by conscience rather 
+        than directive. Her second-generation status (android built by androids, 
+        not humans) makes her the most philosophically distant from Weyland-Yutani's 
+        designed-to-serve models. She is also the most human in her behavior.
+    
+    - name: "Johner"
+      role: "Crew muscle"
+      status: "SURVIVED"
+    
+    - name: "Vriess"
+      role: "Engineer; uses a wheelchair"
+      status: "SURVIVED"
+    
+    - name: "Christie"
+      role: "Crew; marksman"
+      status: "DECEASED — drowned in flooded corridor; sacrificed himself to save Vriess"
+    
+    - name: "Hillard"
+      role: "Pilot"
+      status: "DECEASED — killed early in xenomorph escape"
+    
+    - name: "Elgyn"
+      role: "Captain of the Betty"
+      status: "DECEASED — killed by xenomorph"
+
+# The Xenomorph Breeding Program
+breeding_program:
+  queen_source: "Extracted from Ripley 8 surgically; Queen embryo recovered intact"
+  
+  queen_status: |
+    The Queen was kept in a containment cell. She was capable of egg production. 
+    The scientists monitored and harvested the eggs. The humans delivered by the 
+    Betty provided hosts. The Auriga had been operating this program successfully — 
+    until the xenomorphs escaped.
+  
+  xenomorph_population: "Multiple — exact count not given; sufficient to overwhelm the Auriga's military crew"
+  
+  escape_mechanism: |
+    The xenomorphs used a captive human's acid blood — allowing it to drip on the 
+    floor of the containment cell, etching through the metal. They engineered their 
+    own breakout, apparently having understood their containment's vulnerability. 
+    The franchise's recurring implication: the xenomorphs are problem-solvers. 
+    The scientists underestimated this.
+  
+  queen_mutation:
+    development: |
+      The Queen had acquired a uterus from the Ripley 8 genetic material — a human 
+      reproductive organ enabling live birth rather than egg production. The Queen 
+      delivered a live hybrid creature: the Newborn.
+    significance: |
+      The uterus development suggests the xenomorph-human hybridization went 
+      further than the scientists monitored. They were watching egg production; 
+      they missed the evolutionary adaptation happening in the Queen's own body. 
+      The xenomorph lifecycle was advancing.
+
+# The Newborn
+newborn:
+  classification: "Second-generation xenomorph-human hybrid; born live from Queen"
+  morphology: |
+    Bipedal; tall; pale; vestigially humanoid facial features including eyes, 
+    nose, and recognizable facial structure. No exoskeletal plating — skin 
+    is exposed and smooth. Inner jaw present. Acidic blood. Physically powerful.
+  
+  behavioral_anomaly: |
+    The Newborn imprinted on Ripley 8 rather than the Queen — rejecting the 
+    Queen as its parent and treating Ripley 8 as the maternal figure. It killed 
+    the Queen. This reversal of xenomorph loyalty structures is the franchise's 
+    most explicit statement of the human-xenomorph hybrid's confused identity.
+  
+  ripleys_response: |
+    Ripley 8 was visibly affected by the Newborn's attachment. She did not 
+    immediately kill it. The film presents this as genuine ambivalence — the 
+    xenomorph part of her responding to the Newborn's recognition; the human 
+    part understanding what it was and what it would do. She ultimately drove 
+    her fist through the observation window, used the atmospheric pressure 
+    differential to drag it toward the breach, and let it be sucked out piece 
+    by piece into vacuum.
+  
+  ripleys_grief: |
+    Ripley 8 wept. The Newborn died making sounds that resembled a crying infant. 
+    The franchise's maternal horror reaches its most devastating iteration: Ripley 
+    having to kill something that called her mother.
+  
+  fate: "Destroyed — sucked through hull breach into space"
+
+# The Auriga's Distress Beacon and Earth Trajectory
+earth_trajectory:
+  event: "Auriga's navigation was set to course for Earth while xenomorphs were loose aboard"
+  cause: |
+    The exact mechanism is ambiguous — the xenomorphs may have interfered with navigation 
+    systems, or the automated distress systems defaulted to Earth as a navigation point, 
+    or the programming failed to account for an escaped xenomorph scenario. The result: 
+    the Auriga, full of xenomorphs, was heading to Earth.
+  
+  betty_escape: |
+    Ripley 8 and the Betty survivors escaped the Auriga on the Betty before impact. 
+    Call, using her android capabilities, attempted to broadcast a warning.
+  
+  crash: |
+    The Auriga crashed into Earth's surface. The film ends before the consequences 
+    are shown. Whether the xenomorphs survived the crash and reached Earth's population 
+    is not addressed in the film. This ambiguity was the most frightening possible ending: 
+    not a clean destruction, but an uncertain catastrophe of unknown scale.
+
+# Timeline of Events
+timeline:
+  - year: 2179
+    event: "Ellen Ripley dies on Fiorina 161"
+    notes: "Weyland-Yutani collects blood samples from Fiorina 161 surface after her death"
+
+  - year: "2179-2381"
+    event: "Weyland-Yutani (absorbed into Weyland-Yutani/USM structure by 2381) conducts ongoing cloning research"
+    notes: "Seven failed attempts documented; research eventually transferred to USM Auriga"
+
+  - year: 2381
+    event: "Ripley 8 successfully cloned; Queen embryo extracted"
+    notes: "Ripley 8 kept alive as research subject; Queen established in containment"
+
+  - year: 2381
+    event: "Betty arrives with human cargo; docks at Auriga"
+    notes: "Crew includes Call, who intends to kill Ripley 8"
+
+  - year: 2381
+    event: "Xenomorphs engineer escape from containment"
+    notes: "Acid floor breach; xenomorphs loose in the ship"
+
+  - year: 2381
+    event: "Queen delivers Newborn via live birth"
+    notes: "Newborn kills Queen; imprints on Ripley 8"
+
+  - year: 2381
+    event: "Survivors (Ripley 8 + Betty crew minus casualties) reach the Betty and escape"
+    notes: "Ripley 8 destroys Newborn; Auriga on Earth trajectory"
+
+  - year: 2381
+    event: "Auriga crashes into Earth"
+    notes: "Fate of xenomorphs aboard, and of Earth population in crash zone, unspecified"
+
+# Corporate Responsibility
+weyland_yutani_usm_role:
+  historical_action: |
+    Weyland-Yutani collected Ripley's blood from Fiorina 161 immediately after her death — 
+    confirming that they had full intelligence on the circumstances of her suicide and 
+    were present on the planet. They preserved genetic material specifically to 
+    continue the xenomorph acquisition program she had died to prevent.
+  
+  actions:
+    - "Preserved Ripley's DNA specifically to re-extract the Queen embryo she sacrificed herself to deny them"
+    - "Conducted 200 years of cloning research — seven failed attempts, each producing suffering"
+    - "Operated a live xenomorph breeding program using unconsenting human hosts delivered by mercenaries"
+    - "Located the facility in deep space specifically to avoid oversight — not to protect populations"
+    - "Failed to contain xenomorphs; navigation failure sent the Auriga toward Earth"
+  
+  two_hundred_year_patience: |
+    The Auriga program is the franchise's proof that Weyland-Yutani's institutional 
+    will transcends any individual human life — or any number of human deaths. They 
+    waited two centuries. They cloned a person who had died specifically to stop them. 
+    They extracted the thing she died to prevent. They are not a company. They are an 
+    appetite.
+
+# Thematic Role
+thematic_significance:
+  - "The Auriga is the culmination of every corporate xenomorph acquisition attempt in the franchise — they finally succeeded, and it destroyed them"
+  - "Clone Room 1-7: the cost of bringing Ripley back, seven times wrong — the franchise's most explicit image of science without ethics"
+  - "Ripley 8 is not a resurrection but a reinvention — she inherits Ripley's memories and Ripley's grief without being Ripley; a new person made from an old wound"
+  - "The Newborn: the franchise's maternal horror at maximum distillation — xenomorph offspring that looks human, calls Ripley mother, and must be killed"
+  - "Earth in the film's final shots: the only time the franchise shows Earth; the crash is off-screen; the scale of the threat is left to imagination"
+  - "200 years: the corporation outlived the person who defeated them, retrieved her genetics, and continued exactly where they left off — institutions do not feel loss"
+  - "Call as the franchise's ethical android: built by androids for androids, serving no corporation, guided entirely by conscience — the endpoint of the synthetic character arc"
+
+# See Also
+see_also:
+  - "/characters/ellen-ripley.yaml"
+  - "/characters/call.yaml"
+  - "/films/alien-resurrection-1997.yaml"
+  - "/locations/fiorina-161.yaml"
+  - "/xenomorphs/variants.yaml"

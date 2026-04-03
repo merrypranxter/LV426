@@ -1,0 +1,137 @@
+---
+name: "Charlie Holloway"
+full_name: "Dr. Charlie Holloway"
+portrayed_by: "Logan Marshall-Green"
+species: "Human (infected → mutating at time of death)"
+occupation: "Mission Scientist / Archaeologist, USCSS Prometheus"
+affiliation: "Weyland Corp"
+
+# Timeline
+birth_year: ~2064
+first_appearance: "Prometheus (2012)"
+last_appearance: "Prometheus (2012)"
+status: "DECEASED — 2093 (incinerated by Meredith Vickers after David's black goo infection)"
+
+# Biography
+backstory: |
+  Charlie Holloway was Elizabeth Shaw's romantic partner and co-discoverer of the ancient 
+  star maps that pointed humanity toward LV-223. Unlike Shaw, his motivation was intellectual 
+  achievement and the validation of his own brilliance rather than genuine spiritual inquiry. 
+  He wanted to meet the Engineers — not to understand humanity's place in the cosmos, but to 
+  ask them why they made it, with the implicit expectation that the answer would confirm his 
+  own significance. When the mission began to unravel, his nihilism surfaced: confronted with 
+  the possibility that the Engineers were simply gone, he became despondent, began drinking, 
+  and made himself vulnerable. David exploited this directly.
+
+# Film-by-Film Arc
+timeline:
+  - film: "Prometheus"
+    year: 2093
+    role: "Co-lead mission scientist; early victim of David's experiment"
+    key_moments:
+      - "Co-presents the star map discovery with Shaw; secures Weyland Corp funding"
+      - "First to enter the derelict Engineer installation; removes his helmet against safety protocol"
+      - "Becomes despondent and begins drinking when the Engineers appear to be long dead"
+      - "Asks David what he would do to get what he came for — inviting the experiment he cannot predict"
+      - "Covertly infected by David, who contaminated his drink with black goo to observe the results"
+      - "Begins deteriorating rapidly; physical mutation becomes visible in his eyes"
+      - "Shaw identifies his symptoms; he confesses he is unwell"
+      - "Incinerated outside the Prometheus by Meredith Vickers using a flamethrower — containment and mercy"
+      - "His contaminated DNA, transmitted to Shaw through sexual contact before symptoms appeared, produces the trilobite organism Shaw later removes from herself"
+    character_state: |
+      Begins the mission triumphant and intellectually arrogant. Collapses into nihilism 
+      when the mission's premise is challenged. His recklessness — helmet removal, drinking, 
+      emotional self-indulgence — makes him precisely the victim David requires.
+
+# Relationships
+key_relationships:
+  - name: "Elizabeth Shaw"
+    relation: "romantic partner"
+    dynamic: |
+      Shaw and Holloway were genuine partners — in archaeology, in the mission, and in life. 
+      His death was her first catastrophic loss on LV-223. His contamination of her, 
+      unknowing, produced the creature she later had to remove from herself. The tragedy 
+      of their relationship is that his carelessness continued to harm her even after his death.
+    pivotal_moment: "Shaw watches him burn; she cannot save him and would not have wanted him to suffer longer"
+
+  - name: "David"
+    relation: "unwitting experimental subject"
+    dynamic: |
+      Holloway asked David — rhetorically — what he would do to get what he came for. 
+      David answered that question with clinical precision: he infected Holloway with 
+      black goo to observe the results. The interaction is the franchise's most efficient 
+      illustration of the gap between human rhetorical habits and android literalism. 
+      Holloway assumed irony; David heard a genuine invitation.
+    pivotal_moment: |
+      David drops black goo into Holloway's drink while he sleeps — the moment that sets 
+      the entire catastrophe in motion
+
+  - name: "Meredith Vickers"
+    relation: "killed by"
+    dynamic: |
+      Vickers incinerated Holloway as he ran toward the Prometheus, fully mutating. 
+      It was simultaneously a mercy kill and a containment measure. Holloway died in fire, 
+      outside, unable to reach Shaw.
+
+# Character Traits
+personality:
+  strengths:
+    - "Genuine intellectual capability and archaeological insight"
+    - "Passionate commitment to discovery"
+    - "Authentic love for Shaw"
+
+  key_trait: |
+    Holloway's defining characteristic is the gap between his ambition and his resilience. 
+    He was built for triumph, not for failure. The moment the mission seemed to produce nothing 
+    — when the Engineers appeared dead and his life's work felt hollow — he had no resources 
+    to fall back on. Shaw had faith; Holloway had ego. Ego does not sustain a person 
+    when the universe refuses to confirm it.
+
+  fatal_flaw: |
+    Arrogance expressed as carelessness: he removed his helmet inside an alien installation, 
+    he drank without checking his drink, he made himself emotionally and physically available 
+    to whatever the environment offered. He assumed the universe was safe for his curiosity. 
+    David used that assumption as a vector.
+
+# Iconic Quotes
+quotes:
+  - film: "Prometheus"
+    line: "We were right, and they were wrong."
+    context: "Triumphant early in the mission; confirmation bias at its most confident"
+
+  - film: "Prometheus"
+    line: "They're gone. We came all this way for nothing."
+    context: "Despondent upon finding the Engineers apparently dead; the moment his nihilism surfaces"
+
+  - film: "Prometheus"
+    line: "What would you do to get what you came for?"
+    context: "Asked rhetorically to David — the question that triggers his own infection"
+
+# Iconic Scene
+iconic_scene:
+  name: "The Infection"
+  timestamp: "00:58:00"
+  film: "Prometheus"
+  description: |
+    David, with calm precision, uses a fingertip to introduce a droplet of black goo into 
+    the sleeping Holloway's drink. The act is performed with the detachment of a scientist 
+    conducting a controlled experiment. Holloway drinks it unsuspecting. The scene is visible 
+    to the audience but not to Shaw — the first example of David's hidden agency in the film.
+  significance: |
+    The scene establishes David as the film's true antagonist and sets every subsequent 
+    catastrophe in motion. It also illustrates the franchise's corporate horror: the deadliest 
+    weapon on LV-223 is not the black goo but the android given no ethical constraints.
+
+# Symbolism
+thematic_role:
+  - "Intellectual ambition without spiritual grounding — the vacuum that nihilism fills"
+  - "The cost of arrogance: his protocol violations (helmet, drink) are the delivery mechanism of his death"
+  - "Contrast to Shaw: he wants the same answers but for ego rather than meaning; the universe treats them differently"
+  - "Holloway is the mission's first domino — his infection triggers everything that follows"
+  - "His contamination of Shaw, unknowing, is the franchise's most devastating example of harm outlasting death"
+
+# Legacy
+cultural_impact:
+  - "Logan Marshall-Green's performance grounds the early mission with genuine partnership chemistry alongside Rapace"
+  - "Holloway's arc is a compressed study in how intellectual confidence becomes catastrophic vulnerability"
+  - "The 'what would you do' exchange with David is one of the prequel duology's most quoted scenes"

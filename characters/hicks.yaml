@@ -1,0 +1,141 @@
+---
+name: "Hicks"
+full_designation: "Corporal Dwayne Hicks"
+portrayed_by: "Michael Biehn"
+species: "Human"
+occupation: "Colonial Marine, Corporal, USS Sulaco"
+affiliation: "United States Colonial Marine Corps"
+
+# Timeline
+birth_year: "~2155"
+first_appearance: "Aliens (1986)"
+last_appearance: "Aliens (1986)"
+status: "DECEASED — 2179 (EEV crash, Alien³)"
+
+# Biography
+backstory: |
+  Dwayne Hicks was a Corporal in the United States Colonial Marine Corps, assigned to the 
+  USS Sulaco under Lieutenant Gorman. He was a quiet, competent soldier — unshowy in a unit 
+  that favoured volume and aggression. Where Hudson performed bravado and Vasquez performed 
+  invincibility, Hicks simply did the work. His preference for a pump-action shotgun in an 
+  era of smart rifles and pulse weapons was not nostalgia; it was philosophy — close-range, 
+  reliable, personal, no margin for error.
+
+  When Gorman's catastrophic mismanagement of the first contact scenario incapacitated the 
+  lieutenant and gutted the squad, Hicks assumed command without drama. He became the de 
+  facto leader not through rank but through being the only person in the room operating 
+  with full clarity. His professionalism and genuine care for the civilians — Ripley and Newt 
+  — distinguished him from every other soldier in the unit.
+
+# Film-by-Film Arc
+timeline:
+  - film: "Aliens"
+    year: 2179
+    role: "Colonial Marine Corporal; de facto unit commander after Gorman's incapacitation"
+    key_moments:
+      - "Identified by Ripley as a reliable soldier before contact; she reads the squad correctly"
+      - "Sleeps through the briefing — a small, early signal of his unimpressed confidence"
+      - "Shows Ripley his shotgun: 'I like to keep this handy... for close encounters'"
+      - "Takes command after Gorman is knocked out in the initial xenomorph contact chaos"
+      - "Gives Ripley a locator bracelet — the most understated intimate gesture in the franchise"
+      - "Wounded by xenomorph blood when a creature breaks through a dropship viewport"
+      - "Severely injured by xenomorph acid spray during the final escape"
+      - "Evacuated aboard the Sulaco; enters hypersleep with Ripley, Newt, and Bishop"
+      - "Killed in the Alien³ EEV crash on Fury 161 — off-screen, before the film begins"
+    character_state: "Steady, competent, restrained; becomes the franchise's clearest image of functional military virtue"
+
+# Relationships
+key_relationships:
+  - name: "Ellen Ripley"
+    relation: "partner_and_emergent_equal"
+    dynamic: |
+      Hicks and Ripley develop one of science fiction cinema's most understated partnerships. 
+      Neither is subordinate to the other — Ripley has expertise in the threat, Hicks has 
+      expertise in the response. They operate as equals from the moment Gorman fails. The 
+      locator bracelet exchange — "it's just a precaution" — functions as the franchise's 
+      most restrained love scene: two people who understand they may not survive, extending 
+      each other a thread of connection. His death in Alien³, like Newt's, lands as a 
+      deliberate cancellation of everything Aliens built.
+    pivotal_moment: "Hicks fastens the locator bracelet to Ripley's wrist; neither says what it means"
+
+  - name: "Newt"
+    relation: "protective_adult"
+    dynamic: |
+      Hicks treats Newt as a person with full credibility — takes her knowledge of the colony 
+      layout seriously, speaks to her directly, and maintains the same steady calm around her 
+      as he does with everyone. He never performs protectiveness; he simply enacts it.
+
+  - name: "Hudson"
+    relation: "counterpoint_colleague"
+    dynamic: |
+      Hudson is the unit's voice of panic and noise; Hicks is its stillness. They are not 
+      opposed but complementary — Hudson's volatility makes Hicks's steadiness more visible. 
+      When Hudson breaks, Hicks absorbs the pressure without comment.
+
+  - name: "Bishop"
+    relation: "professional_trust"
+    dynamic: "Hicks endorses Bishop's risky solo conduit mission without hesitation; extends trust based on demonstrated competence"
+
+# Character Traits
+personality:
+  strengths:
+    - "Quiet competence under catastrophic pressure"
+    - "Decisive leadership without ego"
+    - "Genuine empathy for civilians without condescension"
+    - "Economy of action — does exactly what is needed, nothing performative"
+    - "Reliable judgment when everyone else is operating on fear"
+
+  key_trait: |
+    The shotgun is the key to Hicks. In a film full of smart weapons and high-tech ordnance, 
+    Hicks keeps a pump-action shotgun. The choice encodes his entire character: close range, 
+    immediate, no reliance on systems that can fail. He does not prepare for distance or 
+    abstraction — he prepares to be there, present, when it matters.
+
+  evolution: "Background soldier → moral centre of the military unit → the franchise's most mourned loss"
+
+# Iconic Quotes
+quotes:
+  - film: "Aliens"
+    line: "I like to keep this handy... for close encounters."
+    timestamp: "00:55:00"
+    context: "Showing Ripley his shotgun aboard the Sulaco; the line doubles as character introduction and foreshadowing"
+
+  - film: "Aliens"
+    line: "It's Hicks, ma'am."
+    context: "Introducing himself to Ripley; the understatement is deliberate — no rank theatre, just a name"
+
+  - film: "Aliens"
+    line: "Stay frosty."
+    context: "Standard instruction to his marines; shorthand for controlled readiness under pressure"
+
+  - film: "Aliens"
+    line: "We're on the clock."
+    context: "Keeping the unit focused during the reactor countdown sequence"
+
+# Iconic Scene
+iconic_scene:
+  name: "The Locator Bracelet"
+  timestamp: "01:20:00"
+  film: "Aliens"
+  description: |
+    In a quiet moment during the colony siege, Hicks fastens a locator bracelet to Ripley's 
+    wrist, explaining it as a precaution so they can track each other. Neither character 
+    elaborates on what the gesture means. The scene lasts under thirty seconds and contains 
+    more emotional information than most declared love scenes in the franchise.
+  significance: "The franchise's most compressed expression of human connection under extinction-level threat"
+
+# Symbolism
+thematic_role:
+  - "Represents what the military could be — competent, humane, unbowed by machismo or corporate instruction"
+  - "His leadership after Gorman's failure is the film's argument that authority should be earned, not ranked"
+  - "The shotgun preference is the film's clearest character shorthand: close-range, personal, reliable"
+  - "His death in Alien³ — off-screen, unceremonious, before the film begins — is the franchise's deliberate erasure of hope"
+  - "The Hicks–Ripley partnership is the franchise's most credible depiction of mutual respect between a soldier and a civilian"
+
+# Legacy
+cultural_impact:
+  - "Michael Biehn's performance is frequently cited alongside his work in The Terminator as defining the understated action hero"
+  - "Hicks became a template for the competent, quiet soldier in ensemble sci-fi and action cinema"
+  - "His elimination in Alien³ remains one of the most discussed retcon decisions in franchise filmmaking"
+  - "The Hicks–Ripley relationship is consistently cited by viewers as the emotional throughline they most wanted continued"
+  - "A version of Hicks was reinstated in the canonical Alien 3 comic series, reflecting sustained audience refusal to accept his death"

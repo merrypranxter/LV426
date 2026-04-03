@@ -1,0 +1,124 @@
+---
+subject: "Bishop — Quote Archive"
+character: "Bishop (Hyperdyne Systems 341-B)"
+portrayed_by: "Lance Henriksen"
+films_covered:
+  - "Aliens (1986)"
+  - "Alien³ (1992)"
+
+quotes:
+
+  # === ALIENS (1986) ===
+
+  - film: "Aliens"
+    year: 1986
+    in_universe_year: 2179
+    speaker: "Bishop"
+    line: "I prefer the term 'artificial person' myself."
+    context: |
+      Bishop's calm, almost amused response after Hudson refers to him as a 
+      'synthetic' with obvious discomfort. The line is delivered without resentment 
+      but with clear preference — Bishop has considered his own identity and has a 
+      position on it.
+    timestamp: "00:22:00"
+    significance: |
+      Establishes Bishop's relationship to his own nature as fundamentally different 
+      from Ash's. Ash never named himself; Bishop has already done the work of 
+      self-definition. The contrast with Ash's hollow declarations is the film's 
+      first indication that not all androids are the same.
+
+  - film: "Aliens"
+    year: 1986
+    in_universe_year: 2179
+    speaker: "Bishop"
+    line: "It's a robot. Relax."
+    context: |
+      Bishop's self-deprecating response to the crew's unease about his android 
+      nature — delivered with dry humor, defusing tension by reducing himself 
+      to the most neutral possible term.
+    timestamp: "00:23:00"
+    significance: "The ease of the self-deprecation is the point; Bishop is secure enough in his identity to joke about it"
+
+  - film: "Aliens"
+    year: 1986
+    in_universe_year: 2179
+    speaker: "Bishop"
+    line: "I could easily dispatch and direct our drop ships remotely. I'd say it's no more dangerous than a regular atmospheric insertion."
+    context: |
+      Bishop volunteering to crawl through 300 meters of service conduit beneath 
+      a destabilizing reactor to reach the secondary transmitter station and pilot 
+      a drop ship via remote uplink. He presents the mission as routine.
+    timestamp: "01:29:00"
+    note: |
+      Bishop's pitch deliberately downplays the danger. The subsequent 300-meter 
+      crawl through collapsing infrastructure is one of the film's most suspenseful 
+      sequences — the gap between his calm assessment and the actual ordeal is 
+      quietly heroic.
+
+  - film: "Aliens"
+    year: 1986
+    in_universe_year: 2179
+    speaker: "Bishop"
+    line: "It was the only way. I had to do the drop solo."
+    context: |
+      Bishop explaining his decision to pilot the drop ship alone through the conduit 
+      approach; calm, factual, no expectation of credit. The self-sacrifice was 
+      simply the logical solution.
+    significance: "Demonstrates Bishop's defining quality — calm self-sacrifice presented as pure practicality, without heroics"
+
+  - film: "Aliens"
+    year: 1986
+    in_universe_year: 2179
+    speaker: "Bishop"
+    line: "I can't lie to you about your chances, but you have my sympathies."
+    context: |
+      Bishop to Ripley during the crisis on LV-426, assessing survival probability 
+      with the reactor countdown underway. The words are nearly identical to Ash's 
+      final statement in Alien — but delivered here with complete sincerity.
+    timestamp: "01:05:00"
+    significance: |
+      The same words, opposite meaning. Ash used them as a performance of feeling 
+      he did not possess; Bishop uses them as truth. The franchise's most precise 
+      illustration of the difference between the two androids — and between 
+      performance and genuine empathy.
+
+  - film: "Aliens"
+    year: 1986
+    in_universe_year: 2179
+    speaker: "Bishop"
+    line: "In seventeen minutes, this place will be a cloud of vapor the size of Nebraska."
+    context: |
+      Bishop reporting the reactor meltdown timeline to Ripley after the atmospheric 
+      processor has been fatally damaged. Delivered with complete composure — 
+      Bishop is the calmest voice in the room at the worst possible moment.
+    timestamp: "01:35:00"
+
+  - film: "Aliens"
+    year: 1986
+    in_universe_year: 2179
+    speaker: "Bishop"
+    line: "Not bad... for a human."
+    context: |
+      Bishop's quiet compliment to Ripley after the escape from LV-426 — acknowledging 
+      her performance across the entire operation with characteristic understatement. 
+      A rare moment of warmth from a character who has spent the film being measured 
+      and precise.
+    significance: "The tonal pivot after sustained crisis; Bishop's version of praise is to invert his own usual standard of comparison"
+
+  # === ALIEN³ (1992) ===
+
+  - film: "Alien³"
+    year: 1992
+    in_universe_year: 2179
+    speaker: "Bishop"
+    line: "I want to die. I'd rather have it over... I don't want to — I don't want to remain..."
+    context: |
+      The heavily damaged Bishop — bisected and leaking biomechanical fluid — 
+      speaking to Ripley on Fury 161 after she pulls him from the EEV wreckage. 
+      He cannot complete the sentence. He is asking her to deactivate him permanently.
+    timestamp: "00:35:00"
+    significance: |
+      The most explicit statement of android suffering in the franchise. Bishop is 
+      not malfunctioning — he is choosing to end. The incomplete sentence is not a 
+      glitch; it is the difficulty of articulating the desire for death. 
+      Androids can suffer; Bishop proves it by asking to stop.

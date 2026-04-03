@@ -1,0 +1,137 @@
+---
+name: "Parker"
+full_name: "Samuel Parker"
+portrayed_by: "Yaphet Kotto"
+species: "Human"
+occupation: "Chief Engineer, USCSS Nostromo"
+affiliation: "Weyland-Yutani Corporation"
+
+# Timeline
+first_appearance: "Alien (1979)"
+last_appearance: "Alien (1979)"
+status: "DECEASED — 2122"
+
+# Biography
+backstory: |
+  Samuel Parker was the Chief Engineer of the USCSS Nostromo, responsible for maintaining the
+  vessel's systems and overseeing the engineering division alongside his technician, Brett.
+  Parker was loud, direct, and chronically preoccupied with the crew's profit-sharing agreement
+  — a running complaint that positioned him, from the film's first scene, as the voice of
+  working-class labor against corporate indifference. He and Brett were the least senior and
+  least compensated members of the crew, doing the most physically demanding work, and Parker
+  never let anyone forget it. Beneath the bluster, Parker was practically capable and, when it
+  mattered, genuinely brave: it was Parker who decapitated Ash with a fire extinguisher and
+  saved Ripley's life. It was Parker who charged toward the xenomorph to save Lambert, the
+  action that killed him. Parker died as he lived — acting on instinct, protecting someone else,
+  too angry and too human to run.
+
+# Film-by-Film Arc
+timeline:
+  - film: "Alien"
+    year: 2122
+    role: "Chief Engineer; engineering-section voice; critical role in destroying Ash"
+    key_moments:
+      - "Opens the film demanding clarification of crew bonus percentages — establishes the corporate exploitation theme immediately"
+      - "Stays in engineering with Brett during the LV-426 landing; skeptical of the detour"
+      - "Partners with Brett to maintain and repair ship systems throughout the crisis"
+      - "Devastated by Brett's death — Brett was his only real ally aboard the Nostromo"
+      - "Decapitates Ash with a fire extinguisher when Ash attacks Ripley (timestamp: 01:24:10)"
+      - "Critical role in reactivating Ash's head to extract information from the android"
+      - "Killed by the xenomorph during the coolant fuel transfer while trying to flame it away from Lambert (timestamp: 01:32:10)"
+    character_state: "Combative and transactional early; grief-driven and impulsive after Brett's death; dies attempting an act of genuine heroism"
+
+# Relationships
+key_relationships:
+  - name: "Brett"
+    relation: "engineering partner; closest ally"
+    dynamic: |
+      Parker and Brett functioned as a unit throughout the voyage — Parker assertive and vocal,
+      Brett passive and agreeable, both positioned outside the Nostromo's command hierarchy and
+      acutely aware of it. Brett's death hits Parker harder than any other event in the film.
+      His subsequent aggression and recklessness are grief wearing the mask of action.
+    see_also: /characters/brett.yaml
+
+  - name: "Lambert"
+    relation: "colleague; died trying to save her"
+    dynamic: |
+      Parker and Lambert were not particularly close, but his final act was an attempt to flame
+      the xenomorph away from her. He rushed in — armed with a flamethrower but unable to fire
+      without hitting Lambert — and was killed for it. The impulsive generosity of it is the
+      most purely heroic moment in the film.
+    see_also: /characters/lambert.yaml
+
+  - name: "Ash"
+    relation: "adversary; Parker destroys him"
+    dynamic: |
+      Parker had no special suspicion of Ash, but when Ash attacked Ripley, Parker did not
+      hesitate. He grabbed a fire extinguisher and decapitated the android. It was the crew's
+      most effective act against the company's agent, and Parker had no idea how significant
+      it was — he was just protecting a crewmate.
+    see_also: /characters/ash.yaml
+
+  - name: "Ellen Ripley"
+    relation: "fellow survivor; uneasy allies"
+    dynamic: "Parker and Ripley were not natural allies — he resented the command hierarchy she represented — but their mutual practicality and shared threat created a functional working relationship in the crisis."
+    see_also: /characters/ellen-ripley.yaml
+
+# Character Traits
+personality:
+  surface_characteristics:
+    - "Loud, direct, and perpetually aggrieved about compensation"
+    - "Loyal to Brett above all others aboard the ship"
+    - "Physically capable and instinctively action-oriented"
+
+  key_trait: |
+    Parker's most important trait is not his complaints about money — though they matter
+    thematically — but his instinct to act. When Ash attacks Ripley, Parker acts. When the
+    xenomorph threatens Lambert, Parker acts. He does not calculate. He does not run. The
+    working-class character who other films might cast as comic relief is, in Alien, the one
+    person aboard the Nostromo who most consistently throws himself into danger for others.
+
+  on_labor: |
+    Parker's pay complaints are not a character flaw — they are a thesis statement. He and
+    Brett do the physical work that keeps the Nostromo running, receive the smallest shares,
+    and are given no meaningful information about the mission's true nature. Weyland-Yutani
+    uses them like hardware. Parker knows it and says so. The film proves him right by
+    having the corporation's covert orders treat his life as a line item to be expended.
+
+# Defining Moment — Ash's Decapitation
+defining_moment:
+  timestamp: "01:24:10"
+  film: "Alien"
+  description: |
+    Ash is strangling Ripley. Parker grabs a fire extinguisher and swings it into Ash's head,
+    separating it from his body. White synthetic fluid sprays across the room. It is the single
+    most physically decisive act in the film — brutal, fast, and completely unpremeditated.
+    Parker saved Ripley's life with a blunt instrument and zero hesitation, which made it
+    possible for Ripley to eventually survive and destroy the Nostromo. Everything that follows
+    in the franchise flows from this moment.
+  significance: "Parker's intervention is the film's pivot — without it, Ripley dies, the organism reaches Earth, and Weyland-Yutani wins"
+
+# Iconic Quotes
+quotes:
+  - film: "Alien"
+    line: "I'm not going anywhere. What about our percentages?"
+    context: "Parker in the opening crew briefing; first and most representative expression of his working-class grievance"
+
+  - film: "Alien"
+    line: "Get away from her! Get back!"
+    context: "Parker during the chestburster scene; instinctive attempt to protect Lambert from the emerging creature"
+
+  - film: "Alien"
+    line: "Anybody ever tell you you look dead?"
+    context: "To Ash after his decapitation and reactivation; Parker's dark humor as a coping mechanism"
+
+# Symbolism
+thematic_role:
+  - "The working-class voice; his pay complaints establish the franchise's corporate exploitation theme from the first scene"
+  - "Blue-collar labor destroyed by a corporation that categorizes him as expendable capital"
+  - "Decapitating Ash is the film's most direct act of resistance against corporate control — performed with no political awareness, purely on instinct"
+  - "His death trying to save Lambert reframes the 'loud complainer' archetype as quietly heroic"
+  - "Parker and Brett as a pair: labor solidarity in a universe that does not reward solidarity with survival"
+
+# Legacy
+cultural_impact:
+  - "Yaphet Kotto's performance added a dimension of working-class political subtext that elevated Alien beyond pure horror"
+  - "Parker's bonus complaint scenes are frequently cited in academic analyses of labor and corporate critique in science fiction"
+  - "His decapitation of Ash remains one of the most viscerally satisfying practical-effects moments in the franchise"

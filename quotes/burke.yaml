@@ -1,0 +1,95 @@
+---
+subject: "Carter Burke — Quote Archive"
+character: "Carter J. Burke"
+portrayed_by: "Paul Reiser"
+films_covered:
+  - "Aliens (1986)"
+
+quotes:
+
+  # === ALIENS (1986) ===
+
+  - film: "Aliens"
+    year: 1986
+    in_universe_year: 2179
+    speaker: "Burke"
+    line: "I work for the company. But don't let that fool you — I'm really an okay guy."
+    context: |
+      Burke's self-introduction to Ripley at Gateway Station, presenting himself as 
+      a friendly advocate who helped arrange her reinstatement. He is smiling. 
+      He is already lying.
+    timestamp: "00:14:00"
+    significance: |
+      The film's most ironic line of foreshadowing. Burke is immediately performing 
+      trustworthiness while concealing that he directed the colonists to the derelict 
+      crash site. The disclaimer 'don't let that fool you' is itself the deception.
+
+  - film: "Aliens"
+    year: 1986
+    in_universe_year: 2179
+    speaker: "Burke"
+    line: "Look, this is clearly an important species we're dealing with and I don't think you or I, or anybody, has the right to arbitrarily exterminate them."
+    context: |
+      Burke arguing against Ripley's recommendation to nuke the LV-426 site from 
+      orbit. He frames preservation of the xenomorphs in the language of moral 
+      responsibility and scientific ethics.
+    timestamp: "00:44:00"
+    significance: |
+      Burke invokes moral language to protect a commercial asset. The speech is 
+      structurally indistinguishable from a genuine ethical argument — which is 
+      precisely the point. The most cynical line in the franchise: corporate 
+      interest wearing the face of principle.
+
+  - film: "Aliens"
+    year: 1986
+    in_universe_year: 2179
+    speaker: "Burke"
+    line: "There's a substantial dollar value attached to that."
+    context: |
+      Burke's summary of Weyland-Yutani's interest in the xenomorph specimen — 
+      reducing the most dangerous organism in the known galaxy to a line item. 
+      Said with the practiced ease of someone for whom this is a normal sentence.
+    significance: "Burke's operating philosophy in seven words; every decision he makes in the film follows from this reduction"
+
+  - film: "Aliens"
+    year: 1986
+    in_universe_year: 2179
+    speaker: "Burke"
+    line: "I made a judgment call. It was a bad call."
+    context: |
+      Burke's response when Ripley confronts him about sending a transmission to 
+      the Hadley's Hope colonists directing them to investigate the derelict ship 
+      coordinates — the act that triggered the entire xenomorph outbreak and killed 
+      over 150 people.
+    timestamp: "01:17:00"
+    significance: |
+      The franchise's template for the corporate non-apology. Burke does not deny 
+      what he did, does not claim ignorance of the risk, and does not express grief 
+      for the dead. 'Bad call' is the vocabulary of a business mistake applied to 
+      a mass casualty event.
+
+  - film: "Aliens"
+    year: 1986
+    in_universe_year: 2179
+    speaker: "Burke"
+    line: "We can't let it get to Earth, Ripley. You understand that. We can't."
+    context: |
+      Burke performing concern about xenomorph containment in conversation with 
+      Ripley — while separately having arranged for facehuggers to be placed in 
+      her and Newt's sleeping quarters to impregnate them, planning to smuggle 
+      the embryos past quarantine inside their bodies.
+    significance: |
+      The most complete illustration of Burke's method: voicing the exact concern 
+      he is in the process of violating. He does not believe a word of it.
+
+  - film: "Aliens"
+    year: 1986
+    in_universe_year: 2179
+    speaker: "Burke"
+    line: "I'm not the enemy."
+    context: |
+      Burke to Ripley after she confronts him directly about the facehugger 
+      plan — having just been exposed as the person who locked her and Newt 
+      in a room with two released specimens.
+    timestamp: "01:26:00"
+    significance: "Said at the exact moment Burke has conclusively proven otherwise; the line is functionally the end of his credibility"

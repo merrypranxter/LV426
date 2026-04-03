@@ -1,0 +1,133 @@
+---
+name: "Brett"
+full_name: "Samuel Brett"
+portrayed_by: "Harry Dean Stanton"
+species: "Human"
+occupation: "Engineering Technician, USCSS Nostromo"
+affiliation: "Weyland-Yutani Corporation"
+
+# Timeline
+first_appearance: "Alien (1979)"
+last_appearance: "Alien (1979)"
+status: "DECEASED — 2122"
+
+# Biography
+backstory: |
+  Samuel Brett served as Engineering Technician aboard the USCSS Nostromo, working under Chief
+  Engineer Parker in the vessel's lower decks. Brett was the quietest and most passive member
+  of the crew — a man of easy agreement and few ambitions, content to follow Parker's lead,
+  maintain his assigned systems, and collect his share at the end of the run. His defining
+  verbal habit — agreeing with virtually everything Parker said, often with a flat "right" —
+  positioned him as the passive wing of the engineering duo. Brett was not unintelligent; he
+  chose, consistently, the path of least resistance. This made him the perfect companion for
+  Parker's more assertive temperament, and it made him the Nostromo's most vulnerable crew
+  member when the organism was loose in the ship. Brett died alone in the equipment storage bay,
+  chasing Jones the ship's cat, killed from above by a xenomorph that had grown to adult size
+  in an unknown number of hours. His death was the crew's proof of concept: the facehugger's
+  passenger had become something that could hunt them.
+
+# Film-by-Film Arc
+timeline:
+  - film: "Alien"
+    year: 2122
+    role: "Engineering Technician; first adult-xenomorph fatality"
+    key_moments:
+      - "Supports Parker's bonus complaints in the opening briefing with characteristic flat agreement"
+      - "Works with Parker in the engineering section during the LV-426 landing and aftermath"
+      - "Participates in constructing makeshift cattle-prod weaponry from ship components"
+      - "Volunteers — or is defaulted into — retrieving Jones the cat during the initial search"
+      - "Finds Jones in the equipment storage bay; the cat recoils from something above"
+      - "Killed by the adult xenomorph dropping from the ceiling (timestamp: 01:04:15)"
+      - "His death is the first confirmation that the chestburster has reached adult predatory form"
+    character_state: "Passive, agreeable, unhurried — entirely unprepared for isolated predation"
+
+# Relationships
+key_relationships:
+  - name: "Parker"
+    relation: "engineering partner; his only real alliance"
+    dynamic: |
+      Brett was Parker's passive counterpart — the "right" to every Parker assertion. Their
+      partnership was unequal but stable: Parker provided energy and complaint, Brett provided
+      compliance and steady company. Brett's death hits Parker harder than anything else in
+      the film. His grief is immediate and genuine, and it drives the recklessness that
+      eventually gets Parker killed too.
+    see_also: /characters/parker.yaml
+
+  - name: "Jones (the cat)"
+    relation: "pursuer; instrument of his death"
+    dynamic: |
+      Brett died chasing Jones through the ship's lower corridors. The irony is almost
+      unbearable: the ship's cat, the most harmless creature aboard the Nostromo, led the
+      most agreeable crew member into the only compartment where the xenomorph was waiting.
+      Jones survived. Brett did not. The cat's survival across the film has been read as
+      darkly comic and as a pointed comment on passive bystanders.
+
+  - name: "Ellen Ripley"
+    relation: "peripheral colleague"
+    dynamic: "Brett existed largely outside the command structure that Ripley operated within; their interactions are minimal, defined mainly by the shared crisis."
+    see_also: /characters/ellen-ripley.yaml
+
+# Character Traits
+personality:
+  surface_characteristics:
+    - "Mild, agreeable, and habitually passive"
+    - "Follows Parker's lead without friction or ambition"
+    - "Competent in his technical role; no evident desire for more"
+
+  defining_habit: |
+    Brett's signature is his monosyllabic agreement — he says some variant of "right" to
+    virtually every statement Parker makes, regardless of content. It functions as both a
+    character tag and a thematic statement: Brett is a man who has outsourced his opinions.
+    In a film about individuals who fail because they defer to authority (Dallas to Ash,
+    Ash to the company), Brett is the most extreme case — a man who defers to everyone
+    and everything, including the xenomorph that drops on him from above.
+
+  on_passivity: |
+    Brett's passivity is not stupidity — it is a disposition. He chose the engineering
+    section of a commercial freighter because it does not demand more than technical
+    competence and compliance. In the normal run of a Nostromo voyage, this would have
+    been entirely adequate. The film is, in part, about a universe where adequate is
+    not enough — and where the most dangerous thing you can do is be alone with
+    something that has not yet been named.
+
+# Defining Moment — The Equipment Bay
+defining_moment:
+  timestamp: "01:04:15"
+  film: "Alien"
+  description: |
+    Brett finds Jones in the equipment storage bay. He calls to the cat, which backs away
+    from something behind him. Water drips from the ceiling in a regular mechanical rhythm.
+    Brett looks up. The xenomorph drops. The scene is almost unbearably tense because
+    it builds entirely through environment — the dripping water, the cat's reaction,
+    the inhuman patience of the thing above — before resolving in a single, fast cut.
+    Brett's death is the film's confirmation that the creature has become something
+    capable of systematic predation. Everything after this scene is a hunt.
+  significance: |
+    Brett's death shifts the film's register from mystery-horror to predator-thriller.
+    Before this scene, the xenomorph is largely unseen threat. After it, the crew know
+    exactly what they are dealing with, and they have no idea how to survive it.
+
+# Iconic Quotes
+quotes:
+  - film: "Alien"
+    line: "Right."
+    context: "Brett's defining verbal response — deployed throughout the film to signal agreement with Parker; delivered with such flat consistency that it functions as both a character trait and a running joke that turns tragic"
+
+  - film: "Alien"
+    line: "Here, kitty kitty kitty... here, Jones..."
+    context: "Brett calling for Jones in the equipment storage bay; his last words before the xenomorph drops from above"
+
+# Symbolism
+thematic_role:
+  - "Brett's death confirms the xenomorph as a lethal adult predator — the film's point of no return"
+  - "Establishes the xenomorph's ambush hunting behavior: patience, elevation, single decisive strike"
+  - "His passivity makes him the perfect first victim — he has never once imposed his own will on events"
+  - "The cat-chasing irony is the film's darkest joke: Brett is killed doing the most innocent errand"
+  - "His and Parker's pairing represents labor solidarity — and the franchise's argument that the corporation treats both equally as expendable"
+
+# Legacy
+cultural_impact:
+  - "Harry Dean Stanton's effortlessly naturalistic performance made Brett one of the most memorable minor characters in the franchise despite his limited screen time"
+  - "The equipment bay death scene is a masterclass in tension-through-environment; widely studied in horror filmmaking"
+  - "Brett's 'Right' verbal tic has been referenced and parodied across decades of Alien fandom"
+  - "His death remains the franchise's clearest first demonstration of the adult xenomorph's hunting method"

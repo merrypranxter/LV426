@@ -1,0 +1,222 @@
+---
+name: "Hadley's Hope"
+official_designation: "LV-426 Terraforming Station, Hadley's Hope"
+also_known_as: "Acheron Colony"
+type: "Terraforming and mining colony"
+operator: "Weyland-Yutani Corporation"
+location: "LV-426 (Acheron), Zeta² Reticuli system"
+status: "DESTROYED — 2179 (atmospheric processor nuclear-scale explosion)"
+first_appearance: "Aliens (1986)"
+
+# Colony Profile
+colony_profile:
+  established: "~2157"
+  population_at_incident: 158
+  population_type: "Colonists and workers — civilian; includes families and children"
+  purpose: "Atmospheric terraforming; mineral extraction and survey"
+  
+  administrator: "Al Simpson (colony administrator at time of incident)"
+  
+  colonist_notes: |
+    Hadley's Hope was a working colony — not a research installation. Its residents 
+    were laborers, technicians, and their families contracted by Weyland-Yutani 
+    to operate the terraforming equipment and perform mineral surveys. They were 
+    civilians who believed they were doing industrial work. They were not informed 
+    of the derelict ship on their moon or its contents.
+
+# Infrastructure
+infrastructure:
+  atmosphere_processors:
+    function: "Primary terraforming units; convert LV-426's toxic atmosphere to breathable air"
+    count: "Multiple; the primary processor dominates the colony's center"
+    failure_mode: |
+      When the processor's cooling systems were damaged during the marine firefight, 
+      a catastrophic meltdown became inevitable. The resulting explosion was 
+      nuclear in scale — destroying the colony, the xenomorph hive, and all 
+      organisms on LV-426 within the blast radius.
+    detonation_yield: "Comparable to a thermonuclear device (confirmed in film)"
+    countdown_time: "~4 hours from cooling failure to detonation"
+
+  residential_modules:
+    description: "Pressurized living quarters; designed for long-term habitation"
+    condition_at_marine_arrival: "Heavily damaged; most modules breached or abandoned"
+
+  medical_facility:
+    includes: "MedPod units; surgical bay"
+    significance: "Where Ripley and Newt were taken as facehugger incubation targets by Burke"
+
+  operations_center:
+    function: "Colony communications; tactical coordination during marine operation"
+    fate: "Primary defensive position during xenomorph siege; eventually overrun"
+
+  vehicle_bay:
+    contents: "Ground vehicles including APCs; maintenance equipment"
+
+  ventilation_system:
+    significance: |
+      Newt (Rebecca Jordan) survived the xenomorph takeover for weeks by hiding 
+      in the colony's ventilation and access tunnels — too small for xenomorphs 
+      to navigate easily. The vents became her home, food source (rats), and 
+      escape network. The colony's industrial infrastructure inadvertently 
+      created the conditions for her survival.
+
+# The Jordan Family
+the_jordan_family:
+  russ_jordan:
+    role: "Colonist; survey team member"
+    fate: |
+      Directed by Carter Burke's coded message to investigate coordinates matching 
+      the derelict ship on LV-426. Russ Jordan was the first colonist to reach the 
+      derelict. He was infected by a facehugger. Brought back to the colony; 
+      chestburster emerged shortly after. This was the index case — the event 
+      that seeded the entire hive.
+
+  anne_jordan:
+    role: "Colonist; Russ's wife"
+    fate: "Cocooned as xenomorph host; killed in colony destruction"
+
+  rebecca_jordan:
+    call_sign: "Newt"
+    age_at_incident: "~6 years (born ~2173)"
+    fate: |
+      The sole survivor of Hadley's Hope. After the xenomorphs overran the colony, 
+      Newt hid in the ventilation system for an estimated two to three weeks before 
+      the marines arrived. She was discovered by Ripley and Corporal Hicks in a 
+      flooded section of the colony. She was the only colonist alive.
+    
+    post_survival_fate: |
+      Survived the Hadley's Hope incident; evacuated aboard the USS Sulaco. 
+      DECEASED — drowned in EEV crash on Fiorina 161, 2179. She did not survive 
+      to learn that her parents' deaths were a direct result of corporate directive.
+
+  burke_directive: |
+    Carter Burke, Weyland-Yutani representative, sent a coded instruction to the 
+    colony administrator directing the survey team to investigate specific coordinates 
+    on LV-426 — the location of the derelict Engineer ship. The message did not 
+    disclose the reason for the investigation. Burke knew from Ripley's Nostromo 
+    account that the derelict contained xenomorph eggs. He sent 158 civilians 
+    to investigate a known deadly alien structure without warning them.
+
+# Timeline of Events
+timeline:
+  - year: "~2157"
+    event: "Hadley's Hope established by Weyland-Yutani"
+    notes: "Colony grows to 158 residents over approximately 20 years"
+
+  - year: "~2178"
+    event: "Carter Burke sends coded directive to colony survey team"
+    notes: |
+      Approximately one year before the marine mission. Burke, acting on Ripley's 
+      debrief testimony about the derelict on LV-426, instructs the colony to 
+      investigate those coordinates — without disclosing what they will find.
+
+  - year: "2179"
+    event: "Russ Jordan reaches the derelict; infected by facehugger"
+    timestamp_approximate: "~20 days before marine arrival"
+    notes: "Index case. Anne Jordan brought him back. Chestburster emerged. Xenomorph lifecycle begins."
+
+  - year: "2179"
+    event: "Xenomorphs systematically infect the colony"
+    duration: "Estimated 2-3 weeks from first infection to total colony overrun"
+    notes: |
+      158 colonists cocooned as hosts in the atmosphere processing station. 
+      Xenomorphs use the processor's heat and pipework to construct a hive. 
+      Newt alone evades capture through ventilation tunnel habitation.
+
+  - year: "2179"
+    event: "Contact with Hadley's Hope lost; Weyland-Yutani reports to USCMC"
+    notes: "Colonial Marines dispatched; USS Sulaco departs Gateway Station"
+
+  - year: "2179"
+    event: "USS Sulaco arrives; marines deploy to LV-426"
+    notes: |
+      Marines discover the colony destroyed and overrun. 158 cocooned colonists 
+      found in the hive — all dead or dying as hosts. Newt discovered as sole survivor. 
+      Burke's role in directing the colonists to the derelict not yet known to marines.
+
+  - year: "2179"
+    event: "Marine firefight damages atmosphere processor cooling systems"
+    notes: "Nuclear-scale meltdown becomes unavoidable; 4-hour countdown begins"
+
+  - year: "2179"
+    event: "Atmosphere processor detonates; Hadley's Hope destroyed"
+    notes: |
+      The explosion destroyed the colony, the xenomorph hive, all cocooned hosts, 
+      and all xenomorphs on LV-426. The derelict Engineer ship (unconfirmed) was 
+      likely also destroyed. The Sulaco survivors — Ripley, Newt, Hicks, Bishop — 
+      were airborne in the dropship during the explosion.
+
+# The Hive
+xenomorph_hive:
+  location: "Atmosphere processing station substructure"
+  scale: |
+    The hive occupied the primary atmosphere processor — a massive industrial 
+    structure already producing extreme heat and complex internal architecture. 
+    Xenomorphs modified the interior, coating surfaces in resin and suspending 
+    colonists throughout the structure as incubation hosts.
+  
+  population_estimate: "Multiple Queens (one confirmed); dozens to hundreds of warriors; facehuggers"
+  
+  queen:
+    status: "One Queen confirmed; survived initial assault; pursued survivors to dropship; killed by Ripley in power loader"
+    significance: |
+      The Hadley's Hope Queen is the first confirmed xenomorph Queen in the franchise. 
+      Her size, intelligence, and capacity to direct the hive elevate the threat from 
+      individual creature to organized colony — fundamentally changing the franchise's 
+      understanding of xenomorph society.
+
+  cocooned_colonists:
+    count: 158
+    condition: "Cocooned; used as incubation hosts for chestbursters"
+    marines_decision: |
+      Corporal Hicks, facing the cocooned colonists still living, made the decision 
+      to terminate them to end their suffering — and because extraction was impossible. 
+      This is one of the franchise's most quietly devastating moments. The colonists 
+      who survived initial cocooning long enough for the marines to find them were 
+      beyond saving.
+
+# Corporate Responsibility
+weyland_yutani_role:
+  primary_action: |
+    Weyland-Yutani knowingly directed civilian colonists to investigate the derelict 
+    Engineer ship on LV-426 via a coded message from Carter Burke. This directive 
+    was issued without any disclosure of the known danger — Ripley's debrief testimony 
+    about the Nostromo incident had already told the company that the derelict contained 
+    alien eggs of extreme lethality. The company sent 158 people, including families 
+    and children, to serve as first-contact investigators for an alien biological weapon.
+
+  actions:
+    - "Burke directed colonists to investigate derelict ship without safety disclosure"
+    - "Burke attempted to reinfect Ripley and Newt in the colony medical bay to 'produce' smuggleable specimens"
+    - "Weyland-Yutani profited from the colony's labor for 20+ years; treated colonists as expendable assets"
+    - "Deployed no warning systems or protective protocols despite knowing the derelict's contents"
+  
+  classification_of_act: |
+    Burke's directive constitutes deliberate use of civilian lives as xenomorph acquisition 
+    assets. The company knew the derelict contained organisms that had killed seven Nostromo 
+    crew members. They sent 158 people to find them. This is not negligence. It is intentional 
+    human sacrifice for commercial gain.
+  
+  burke_accountability: |
+    Burke died before facing any legal accountability. He was killed by xenomorphs at 
+    Hadley's Hope. The company's directive was buried with the colony. The marine mission 
+    to LV-426 destroyed all evidence — the hive, the colonists' remains, the processor. 
+    Hadley's Hope left no survivors capable of testifying to corporate malfeasance.
+
+# Thematic Role
+thematic_significance:
+  - "Hadley's Hope is the franchise's Pompeii — a community preserved in the moment of its destruction; the images of cocooned colonists are the franchise's highest cost"
+  - "158 civilians sent to their deaths by a memo — corporate violence at maximum remove; Burke never had to watch what he caused"
+  - "Newt's survival is the film's miracle and its indictment simultaneously — a child survived for weeks alone; the adults were gone in days"
+  - "The colony was a home before it was a horror — family photographs on walls, children's drawings, a name ('Hadley's Hope') that implies optimism"
+  - "The atmosphere processor explosion is the franchise's most cathartic destruction — the hive, the horror, and the corporate crime scene all erased together"
+  - "Terraforming as metaphor: Weyland-Yutani makes planets habitable for humans while making humans uninhabitable for themselves"
+
+# See Also
+see_also:
+  - "/locations/lv-426.yaml"
+  - "/locations/uss-sulaco.yaml"
+  - "/characters/newt.yaml"
+  - "/characters/burke.yaml"
+  - "/characters/ellen-ripley.yaml"
+  - "/films/aliens-1986.yaml"

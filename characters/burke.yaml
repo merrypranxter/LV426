@@ -1,0 +1,160 @@
+---
+name: "Burke"
+full_designation: "Carter J. Burke"
+portrayed_by: "Paul Reiser"
+species: "Human"
+occupation: "Company Representative, Weyland-Yutani Corporation"
+affiliation: "Weyland-Yutani Corporation"
+
+# Timeline
+birth_year: "unknown"
+first_appearance: "Aliens (1986)"
+last_appearance: "Aliens (1986)"
+status: "DECEASED — 2179 (killed by xenomorphs, Hadley's Hope, LV-426)"
+
+# Biography
+backstory: |
+  Carter J. Burke was a mid-level Weyland-Yutani corporate representative assigned to 
+  manage the company's relationship with the LV-426 terraforming operation at Hadley's Hope. 
+  He was the company contact who, acting on the coordinates recovered from Ripley's flight 
+  recorder after the Nostromo incident, directed Russ Jordan and the colonists to investigate 
+  the derelict alien spacecraft — without disclosing what they might find. That order set in 
+  motion the infestation that killed all 158 residents of Hadley's Hope.
+
+  Burke subsequently recruited Ellen Ripley for the marines' investigation mission, presenting 
+  himself as her advocate with the company and the board that had stripped her pilot's licence. 
+  He arranged her reinstatement and passage to LV-426, framing his involvement as concern for 
+  her welfare. His actual purpose was to use the mission to acquire xenomorph specimens for 
+  Weyland-Yutani's bioweapons division — using Ripley and the colonists as delivery vehicles.
+
+# Film-by-Film Arc
+timeline:
+  - film: "Aliens"
+    year: 2179
+    role: "Weyland-Yutani company representative travelling with the Colonial Marines"
+    key_moments:
+      - "Presents himself to Ripley as her ally and advocate; secures her reinstatement"
+      - "Travels with the marines to LV-426 as the company's official representative"
+      - "Confirmed by colony records as having directed the Jordans to the derelict ship coordinates"
+      - "Ripley confronts him privately; he is evasive, minimising, offers justifications"
+      - "Releases two facehuggers into the medical bay where Ripley and Newt are sleeping"
+      - "Attempts to lock the medical bay door to ensure impregnation without witnesses"
+      - "Planned to eliminate the marine witnesses to preserve company deniability"
+      - "Exposed by Ripley to the full group; Hudson threatens to execute him"
+      - "Power grid failure opens his cell; killed by xenomorphs before any human action can reach him"
+    character_state: "Affable, plausible, steadily revealed; the friendly face of institutional murder"
+
+# Relationships
+key_relationships:
+  - name: "Ellen Ripley"
+    relation: "false_ally"
+    dynamic: |
+      Burke presents as Ripley's champion — the one person in the company who believed her, 
+      fought for her reinstatement, included her in the mission. This is precisely calibrated: 
+      he needs her expertise and her silence, and presenting as her advocate is the most 
+      efficient way to secure both. When Ripley exposes him, she delivers the franchise's 
+      clearest anti-corporate statement: "I don't know which species is worse. You don't see 
+      them fucking each other over for a goddamn percentage." Burke's response is to remain 
+      plausible for as long as possible. He is her most immediate human enemy and the film's 
+      most direct argument that the real monster wears a company badge.
+    pivotal_moment: "Ripley finds the facehugger tanks open and the medical bay door locked from outside"
+
+  - name: "Newt"
+    relation: "collateral_asset"
+    dynamic: |
+      Burke's order to investigate the derelict killed Newt's parents and destroyed everyone 
+      she knew. He then attempted to use Newt as a xenomorph host in the medical bay. Burke 
+      does not register her as a child — she is a resource problem and then a potential 
+      delivery vehicle. The full dimension of his culpability passes through her: he is not 
+      merely a corporate villain but the man who orphaned her twice.
+
+  - name: "Anne & Russ Jordan"
+    relation: "directed_to_their_deaths"
+    dynamic: "Burke transmitted the derelict coordinates to Russ Jordan without disclosure; his order triggered the infestation that killed 158 people"
+
+  - name: "Weyland-Yutani Corporation"
+    relation: "instrument_and_embodiment"
+    dynamic: |
+      Burke is the corporation made flesh — not its exceptional excess but its ordinary 
+      function. He is plausibly deniable, commercially motivated, and capable of atrocity 
+      framed as business necessity. He does not see himself as evil; he sees himself as 
+      pragmatic. This is the film's most important insight about institutional violence: 
+      it does not require monsters, only employees doing their jobs within acceptable margins.
+
+# Character Traits
+personality:
+  surface_presentation:
+    - "Affable, approachable, advocate-facing"
+    - "Uses first names immediately; projects warmth and informality"
+    - "Frames catastrophically harmful decisions in the language of pragmatism and opportunity"
+    - "Maintains plausibility under pressure longer than is plausible"
+
+  true_nature: |
+    Burke is purely transactional. Every relationship is a resource management question; 
+    every human life is an asset or a liability on a balance sheet he is always running. 
+    He is capable of ordering or enabling mass death while smiling and using the language 
+    of concern and regret. He is not sadistic — sadism would require him to care about 
+    suffering. He simply does not register it as primary data.
+
+  key_trait: |
+    The most dangerous thing about Burke is that he sounds reasonable. When confronted 
+    with the facehugger incident, his first move is minimal accountability: "I made a 
+    judgment call. It was a bad call." He does not deny, does not confess — he scales 
+    the language of the admission to the minimum that might preserve credibility. This 
+    is the grammar of institutional evil, and Burke speaks it natively.
+
+# Iconic Quotes
+quotes:
+  - film: "Aliens"
+    line: "Hey, I made a judgment call. It was a bad call."
+    context: "Confronted by Ripley about directing the colonists to investigate the derelict; minimal accountability as deflection strategy"
+
+  - film: "Aliens"
+    line: "Look, this is clearly an important species we're dealing with here, and I don't think you or I or anybody has the right to arbitrarily exterminate them."
+    context: "Arguing to Ripley for preserving xenomorph specimens; the language of scientific ethics weaponised as corporate cover"
+
+  - film: "Aliens"
+    line: "Ripley, this is a very significant species we're talking about and I'm not going to let you or anyone else—"
+    context: "Cut off by Ripley; the incomplete sentence encodes Burke's worldview — the specimen matters more than the people"
+
+# Ripley's Verdict
+ripley_condemnation:
+  film: "Aliens"
+  line: "I don't know which species is worse. You don't see them fucking each other over for a goddamn percentage."
+  context: |
+    Ripley, after exposing Burke to the squad, delivers the franchise's most direct 
+    anti-corporate statement. The line reframes the entire film: Burke is not a human 
+    being who went wrong, he is the system's correct output. The xenomorphs kill because 
+    they are designed to propagate; Burke kills because the incentive structure rewards it. 
+    The species comparison is the film's thesis.
+
+# Iconic Scene
+iconic_scene:
+  name: "The Medical Bay"
+  timestamp: "01:25:00"
+  film: "Aliens"
+  description: |
+    Burke releases two facehuggers into the sealed medical bay where Ripley and Newt are 
+    sleeping, then locks the door from outside. His plan: the women are impregnated, the 
+    embryos survive the return to Earth inside hosts, the specimens pass bioscan because 
+    no one will be checking the humans. The plan is elegant in its corporate logic — 
+    minimal exposure, maximum yield, full deniability. Ripley wakes to a facehugger on 
+    Newt's face and dismantles it with a cigarette lighter and an automated fire suppression 
+    system that she triggers deliberately.
+  significance: "The moment the film's human villain becomes fully visible; Burke's method is as cold and systematic as the corporation he serves"
+
+# Symbolism
+thematic_role:
+  - "The banality of corporate evil made literal — not a monster, just a man in a polo shirt making business decisions"
+  - "Burke is the franchise's answer to Ash: Ash was a machine programmed to serve the company; Burke is a human who chose to"
+  - "His death by xenomorphs is the film's moral engine completing its cycle — the man who weaponised the creatures is consumed by them"
+  - "Represents what Weyland-Yutani actually is beneath its institutional language: an engine for converting human lives into shareholder value"
+  - "The most mundane monster in the franchise — and therefore the most honest about where the real threat originates"
+
+# Legacy
+cultural_impact:
+  - "Paul Reiser's performance is widely credited as one of the most effectively loathsome corporate villains in science fiction cinema"
+  - "Burke became a template for the 'friendly face of institutional evil' in genre film"
+  - "His death by xenomorphs is consistently ranked among the most satisfying moments in the franchise"
+  - "The character redefined the Alien franchise's political dimension: the real enemy was always the company"
+  - "Burke's tactics — plausible deniability, minimal admission, corporate framing — became a shorthand in film criticism for a specific mode of institutional villainy"

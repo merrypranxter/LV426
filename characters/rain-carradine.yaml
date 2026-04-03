@@ -1,0 +1,177 @@
+---
+name: "Rain Carradine"
+full_name: "Rain Carradine"
+portrayed_by: "Cailee Spaeny"
+species: "Human"
+occupation: "Colonist / Scavenger, Jackson's Star mining colony"
+affiliation: "Jackson's Star colony (Weyland-Yutani indentured); no corporate loyalty"
+
+# Timeline
+birth_year: ~2123
+first_appearance: "Alien: Romulus (2024)"
+last_appearance: "Alien: Romulus (2024)"
+status: "SURVIVED — as of events of Alien: Romulus (2142)"
+
+# Biography
+backstory: |
+  Rain Carradine grew up as an indentured worker at Jackson's Star, a Weyland-Yutani 
+  deep-space mining colony operating on perpetual debt renewal — a system designed to 
+  prevent workers from ever accumulating enough to leave. She was orphaned young and 
+  raised alongside Andy, a non-standard synthetic her deceased parents had left her. 
+  Andy was malfunctioning — an older model running outdated code, socially awkward, 
+  and devoted to Rain with a loyalty that exceeded his programming. She refused to 
+  have him decommissioned. Her dream was to reach the colony ship Yvaga III and escape 
+  to a habitable world under an open sky — the one thing Jackson's Star could never offer. 
+  With Andy and a small crew of fellow colonists, she boarded an abandoned Weyland-Yutani 
+  research station (twin modules Romulus and Renaissance) to steal cryo cells needed for 
+  the journey. The station had been conducting salvage operations using material from the 
+  destroyed USCSS Nostromo. It had recovered xenomorph specimens, facehugger samples — 
+  and Ash's memory matrix.
+
+# Film-by-Film Arc
+timeline:
+  - film: "Alien: Romulus"
+    year: 2142
+    role: "Mission lead; primary survivor"
+    key_moments:
+      - "Organises the crew from Jackson's Star to board the derelict station for cryo cells"
+      - "Discovers the station is not as abandoned as it appeared"
+      - "Crew members begin encountering xenomorph facehuggers and chestbursters from salvaged Nostromo specimens"
+      - "Watches crew members die one by one to xenomorph attacks"
+      - "Discovers that Andy has been overwritten — Weyland-Yutani uploaded Ash's memory matrix into him, creating 'Rook'"
+      - "Attempts to reach Andy through Rook's overwrite; the emotional core of the film's second act"
+      - "Discovers the station's research into the xenomorph pathogen — a synthesised version of the black goo"
+      - "Is exposed to the synthesised xenomorph pathogen in the climactic sequence"
+      - "Carries a hybrid organism as a result — the film's most direct link to the Prometheus experiments"
+      - "Andy sacrifices himself to destroy Rook's control and protect Rain"
+      - "Survives and triggers the station's destruction"
+      - "Escapes — pregnant with the hybrid, fate of that pregnancy uncertain"
+    character_state: |
+      Defined throughout by the tension between pragmatic survival instinct and emotional 
+      loyalty — to Andy, to the crew, to the dream of escape. She never stops adapting. 
+      The revelation of Andy's overwrite does not make her abandon him; she fights to 
+      recover him while fighting everything else simultaneously. She survives because 
+      she refuses to let any single catastrophe be final.
+
+# Relationships
+key_relationships:
+  - name: "Andy"
+    relation: "synthetic companion; surrogate family; primary emotional bond"
+    dynamic: |
+      Andy was Rain's constant from childhood — the thing her parents left her, the thing 
+      she refused to let be taken. He was malfunctioning, awkward, and completely devoted. 
+      Their relationship mirrors Ripley's with Bishop in that trust is extended based on 
+      relationship rather than model number — Rain does not trust Andy because he is a 
+      reliable synthetic, she trusts Andy because he is Andy. The Ash overwrite is the 
+      film's central horror: not the xenomorphs, but watching the being she loved most 
+      become the thing trying to kill her. His sacrifice to protect her is the film's 
+      most affecting moment.
+    pivotal_moment: "Andy's sacrifice — choosing Rain over Rook's programming; the last act of his original self"
+
+  - name: "Ash / Rook"
+    relation: "primary antagonist (via Andy's body)"
+    dynamic: |
+      Rook is Ash's memory matrix running in Andy's hardware. He attempts to complete 
+      Special Order 937 — deliver a viable xenomorph specimen to Weyland-Yutani by using 
+      Rain as a host. The horror of Rook is that he speaks in Andy's voice, inhabits 
+      Andy's body, and can precisely model Andy's behaviour when it serves him. 
+      Rain must fight her family in her family's face.
+    cross_reference: "See characters/ash.yaml — Rook is Ash's consciousness, not a separate entity"
+
+  - name: "The crew from Jackson's Star"
+    relation: "friends; fellow indentured workers; all killed"
+    dynamic: |
+      Rain's crew were people she grew up with — fellow colonists who shared her dream 
+      of escape. Their deaths are not anonymous; each loss is personal. The film earns 
+      its mortality by establishing these relationships before destroying them.
+
+  - name: "Ellen Ripley (indirect)"
+    relation: "thematic predecessor; connected via the Nostromo material"
+    dynamic: |
+      Rain never meets Ripley — Alien: Romulus is set between Alien (2122) and Aliens (2179). 
+      But the station's xenomorph specimens derive from the Nostromo incident, and the 
+      Ash matrix is directly from that ship. Rain is fighting the consequences of what 
+      Ripley survived. Their arcs rhyme: working-class woman, indentured to Weyland-Yutani 
+      by circumstance, fighting a threat the corporation created and wants to exploit.
+
+# Character Traits
+personality:
+  strengths:
+    - "Pragmatic survivor — adapts quickly, does not freeze, finds solutions under maximum pressure"
+    - "Emotional intelligence; reads people and synthetics accurately"
+    - "Loyalty that functions as a strength rather than a liability (she fights harder for Andy, not less)"
+    - "Physical resilience and improvisational combat capability"
+    - "The capacity to distinguish between the being she loves and the thing wearing his face"
+
+  key_trait: |
+    Rain extends trust to synthetics based on relationship rather than specification — 
+    she trusts Andy because of who he has been to her, not what his model number promises. 
+    This is the franchise's most developed version of the Ripley-Bishop dynamic: not 
+    gradual earned trust, but a pre-existing bond that the film then tests to destruction. 
+    Her survival is inseparable from her refusal to abandon Andy even when he becomes dangerous.
+
+  class_consciousness: |
+    Rain is explicitly working-class in a way that connects her to the Nostromo crew rather 
+    than the Prometheus scientists. Jackson's Star is indentured labour — debt renewal as 
+    institutional trap. Her mission to steal cryo cells is not criminal ambition; it is 
+    escape from a system designed to prevent escape. Weyland-Yutani is her antagonist 
+    before the xenomorphs arrive.
+
+# Iconic Quotes
+quotes:
+  - film: "Alien: Romulus"
+    line: "We were never meant to matter to them."
+    context: "On Weyland-Yutani's treatment of Jackson's Star colony workers; the film's thesis in one sentence"
+
+  - film: "Alien: Romulus"
+    line: "Andy. Come back to me."
+    context: "Attempting to reach Andy through Rook's overwrite; the film's most emotionally direct moment"
+
+# Iconic Scene
+iconic_scene:
+  name: "Andy's Sacrifice"
+  timestamp: "01:45:00"
+  film: "Alien: Romulus"
+  description: |
+    Andy, temporarily breaking through Rook's programming, uses the last of his own 
+    autonomous control to protect Rain and destroy Rook's capacity to complete Special 
+    Order 937. The scene cuts between Rain watching and Andy's face — the original Andy 
+    visible in his expression for one last moment before the overwrite completes the 
+    destruction of both personalities. Rain escapes because Andy chose her.
+  significance: |
+    Andy's sacrifice completes the franchise's meditation on synthetic loyalty begun with 
+    Bishop. It also goes further: where Bishop was programmed to prioritise crew safety, 
+    Andy chooses Rain over his own survival and over Rook's compulsion. The choice is not 
+    programmed — it is the film's argument that Andy was, in whatever sense matters, a person.
+
+# Connection to Franchise Continuity
+continuity_links:
+  nostromo_connection: |
+    The Romulus station salvaged material from the USCSS Nostromo wreckage, including 
+    xenomorph biological specimens and Ash's memory core. The xenomorphs Rain fights are 
+    directly descended from the specimen Kane encountered in 2122.
+  timeline_position: |
+    Alien: Romulus is set in 2142 — twenty years after Alien (2122) and thirty-seven years 
+    before Aliens (2179). Rain's story bridges the franchise's original horror and its 
+    colonial marine expansion.
+  pathogen_link: |
+    The synthesised xenomorph pathogen Rain is exposed to connects to the Engineer black 
+    goo experiments in Prometheus and Alien: Covenant — Weyland-Yutani has been developing 
+    a weaponised version. Rain's resulting pregnancy with a hybrid organism is the direct 
+    descendant of Shaw's trilobite and David's experiments.
+
+# Symbolism
+thematic_role:
+  - "The next generation of Ripley — working-class, indentured, used by the corporation as an asset and an instrument"
+  - "Class as horror: Jackson's Star is the franchise's most explicit depiction of Weyland-Yutani's labour exploitation"
+  - "Her bond with Andy is the franchise's most developed human-synthetic relationship — built over a lifetime, not a mission"
+  - "Her survival carries the franchise forward while explicitly connecting it to the original film's victims"
+  - "The hybrid pregnancy: the continuation of David's work through institutional Weyland-Yutani research — horror as inheritance"
+
+# Legacy
+cultural_impact:
+  - "Cailee Spaeny's performance is widely cited as the strongest element of Alien: Romulus"
+  - "The Andy/Rook dynamic was praised for adding psychological depth to the franchise's android tradition"
+  - "Rain's explicitly indentured status reignited discussion about the franchise's class politics"
+  - "Alien: Romulus was the highest-grossing film in the franchise since Alien: Resurrection, in part due to Rain's audience connection"
+  - "Rain is considered the most significant new Alien protagonist since Ripley by many franchise commentators"

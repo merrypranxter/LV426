@@ -1,0 +1,150 @@
+---
+name: "Tennessee"
+full_name: "Tennessee Faris"
+nickname: "Tennessee"
+portrayed_by: "Danny McBride"
+species: "Human"
+occupation: "Chief Pilot, USCSS Covenant"
+affiliation: "Weyland-Yutani Corporation"
+
+# Timeline
+birth_year: ~2065
+first_appearance: "Alien: Covenant (2017)"
+last_appearance: "Alien: Covenant (2017)"
+status: "SURVIVED — aboard USCSS Covenant in hypersleep (as of 2104; David masquerading as Walter)"
+
+# Biography
+backstory: |
+  Tennessee Faris was the chief pilot of the USCSS Covenant, the best in the fleet at 
+  reading a ship and keeping it alive. His surname Faris is shared with his wife — the 
+  two are married, and both crew members appear in ship records under the Faris name. 
+  He was married to fellow crew member Maggie Faris, who served as a Covenant pilot on 
+  the away team's dropship. Tennessee's combination of 
+  technical excellence, emotional directness, and loyalty to his people defined him. He 
+  had no ideological agenda — no faith to test, no ambition to validate. He wanted the 
+  mission to succeed, he wanted his wife to come home, and when that second thing became 
+  impossible, he did everything in his power to make the first thing mean something. 
+  He wore a cowboy hat.
+
+# Film-by-Film Arc
+timeline:
+  - film: "Alien: Covenant"
+    year: 2104
+    role: "Chief Pilot; rescue anchor; final xenomorph kill"
+    key_moments:
+      - "Pilots the Covenant through the neutrino burst that kills Captain Branson"
+      - "Remains aboard the Covenant during the away team's initial descent"
+      - "Loses his wife Maggie when the contaminated dropship explodes — she was piloting it to safety after a crew member's spore infection triggered a neomorph birth"
+      - "Defies Weyland-Yutani protocols and Captain Oram's orders to manoeuvre the Covenant into rescue range"
+      - "Successfully extracts surviving crew members from the surface using the Covenant's lander"
+      - "Coordinates with Daniels during the xenomorph boarding event in the Covenant's cargo bay"
+      - "Operates the Covenant's landing crane in the climactic sequence; swings the crane to throw the xenomorph into the engine intake"
+      - "Works with Daniels to complete the kill — she rides the crane platform"
+      - "Enters hypersleep believing Walter is watching over them"
+      - "Is now in cryo alongside Daniels with David masquerading as Walter"
+    character_state: |
+      Loses his wife and responds not with paralysis but with focused, purposeful action. 
+      Tennessee is the film's moral constant — he does not calculate consequences, he 
+      responds to what is right. His grief is real and does not disappear; it just does 
+      not stop him.
+
+# Relationships
+key_relationships:
+  - name: "Maggie Faris"
+    relation: "wife (deceased)"
+    dynamic: |
+      Maggie was Tennessee's anchor — his reason for being on the mission beyond professional 
+      duty. When she died piloting the contaminated dropship, Tennessee's grief was immediate 
+      and total. His rescue mission — defying orders to manoeuvre the Covenant into range — 
+      was his response to that grief. He could not save Maggie; he would save everyone else.
+    pivotal_moment: "Watching the dropship explode from the Covenant bridge; the moment Tennessee's story changes"
+
+  - name: "Daniels"
+    relation: "ally; fellow survivor in grief"
+    dynamic: |
+      Tennessee and Daniels were both widowed by the mission within hours of each other. 
+      Their alliance is built on shared loss and shared competence. Neither has time to 
+      process the grief; both act anyway. They coordinate the final xenomorph kill as a 
+      unit — her on the crane platform, him at the controls. It is the film's one moment 
+      of uncomplicated human cooperation.
+    pivotal_moment: "The crane sequence — Tennessee operates, Daniels fights, they destroy the xenomorph together"
+
+  - name: "Walter"
+    relation: "trusted crew member (later revealed to be David)"
+    dynamic: |
+      Tennessee trusted Walter as a competent and loyal synthetic. He had no reason to 
+      suspect the switch. He is now in cryo, oblivious to David's presence aboard. 
+      His obliviousness is the franchise's final cruelty — he survived everything the 
+      mission threw at him only to sleep through its worst betrayal.
+
+  - name: "Captain Oram"
+    relation: "professional tension; followed orders despite disagreement"
+    dynamic: |
+      Tennessee disagreed with Oram's decisions but operated within the command structure 
+      — until Maggie died, at which point he chose loyalty to crew over protocol. 
+      His defiance of Oram's orders to stand down was the film's most direct act of 
+      insubordination, and the one that saved the remaining survivors.
+
+# Character Traits
+personality:
+  strengths:
+    - "Exceptional piloting skill — the best in the Covenant crew"
+    - "Emotional directness; says what he feels without manipulation"
+    - "Loyalty to people over protocol"
+    - "Practical under extreme pressure; grief does not disable him"
+    - "Light irreverence that grounds scenes without deflating danger"
+
+  key_trait: |
+    Tennessee is the audience surrogate — the person who reacts to events as a normal, 
+    loving human being rather than as an ideological position. He does not have a thesis 
+    about the nature of creation or the rights of synthetic life. He has a wife, a crew, 
+    and a ship. When events strip those away one by one, he keeps moving. His survival 
+    is the film's small mercy.
+
+  presence: |
+    Danny McBride's casting against type — known for comedy, deployed here in straight 
+    dramatic mode with occasional levity — gives Tennessee a lived-in quality that most 
+    of the Covenant crew lacks. He feels like a person who existed before the film started 
+    and would have continued after it, if the ending were different.
+
+# Iconic Quotes
+quotes:
+  - film: "Alien: Covenant"
+    line: "Doesn't make sense — why would they signal us and then try to kill us?"
+    context: "Reacting to the transmission; straight practical question that the film cannot answer"
+
+  - film: "Alien: Covenant"
+    line: "She was trying to save the crew."
+    context: "About Maggie's death — simple, direct, total"
+
+# Iconic Scene
+iconic_scene:
+  name: "The Crane Kill"
+  timestamp: "01:48:00"
+  film: "Alien: Covenant"
+  description: |
+    Tennessee manoeuvres the Covenant's enormous landing crane while Daniels stands on the 
+    platform above the cargo bay where a xenomorph is hunting. He swings the crane arm to 
+    give Daniels a weapon and then a trajectory — ultimately launching the creature into the 
+    ship's engine intake. The sequence is the film's cleanest action beat: two people, 
+    one machine, one monster, no ambiguity.
+  significance: |
+    After a film defined by manipulation, deception, and the horror of not knowing who to 
+    trust, the crane kill is a moment of pure direct action. Tennessee and Daniels trust 
+    each other completely. The xenomorph dies. It does not solve anything — David is still 
+    aboard — but it is the film's most satisfying beat.
+
+# Symbolism
+thematic_role:
+  - "The moral constant — loyalty to people over ideology, protocol, or self-interest"
+  - "Normal human decency in a film constructed around its corruption and exploitation"
+  - "Grief transformed into action rather than paralysis — the franchise's most functional mourner"
+  - "His survival is the film's small mercy; his obliviousness to David's presence is its final cruelty"
+  - "The cowboy hat: working-class pragmatism, not glamour — the franchise's abiding value"
+
+# Legacy
+cultural_impact:
+  - "Danny McBride's straight dramatic performance was widely noted as a casting surprise that paid off"
+  - "Tennessee provided essential tonal grounding in a film dense with philosophical confrontation"
+  - "The Maggie Faris death scene — seen through Tennessee's reaction — is the film's most efficient emotional devastation"
+  - "Tennessee and Daniels's crane sequence is cited as Alien: Covenant's most purely satisfying action moment"
