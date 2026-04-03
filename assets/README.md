@@ -20,6 +20,12 @@ This folder is reserved for images, diagrams, and visual reference materials rel
   - Example: `ship-nostromo-deckplan.png`
   - Example: `location-lv426-overview.jpg`
 
+## Current Assets
+
+| File | Description |
+|------|-------------|
+| `xenomorph-anatomy-artistic-breakdown.pdf` | Comprehensive visual and anatomical breakdown of the xenomorph for artistic purposes — covers H.R. Giger's artistic genesis, practical effects construction, surface integument, sensory apparatus, dorsal appendages, locomotion, hive architecture, parasitic life cycle, and caste morphology. Companion YAML: `xenomorphs/artistic-visual-breakdown.yaml` |
+
 ## Rights Notice
 
 All assets in this directory should be original creations, public domain, or properly licensed. Do not include copyrighted Twentieth Century Studios / Disney materials without authorization.
