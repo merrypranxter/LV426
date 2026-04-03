@@ -129,6 +129,14 @@ thematic_role:
   - "The slap scene frames the central Alien tension: procedural correctness versus human empathy"
   - "Lambert is the film's emotional truth-teller — dismissed, sidelined, and ultimately vindicated by dying exactly as she predicted"
 
+see_also:
+  - "/characters/dallas.yaml"
+  - "/characters/ellen-ripley.yaml"
+  - "/characters/parker.yaml"
+  - "/films/alien-1979.yaml"
+  - "/locations/nostromo.yaml"
+  - "/technology/motion-tracker.yaml"
+
 # Legacy
 cultural_impact:
   - "Veronica Cartwright's performance is a benchmark for realistic terror in science fiction"

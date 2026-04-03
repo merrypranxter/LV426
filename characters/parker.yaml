@@ -130,6 +130,13 @@ thematic_role:
   - "His death trying to save Lambert reframes the 'loud complainer' archetype as quietly heroic"
   - "Parker and Brett as a pair: labor solidarity in a universe that does not reward solidarity with survival"
 
+see_also:
+  - "/characters/brett.yaml"
+  - "/characters/ellen-ripley.yaml"
+  - "/characters/lambert.yaml"
+  - "/films/alien-1979.yaml"
+  - "/locations/nostromo.yaml"
+
 # Legacy
 cultural_impact:
   - "Yaphet Kotto's performance added a dimension of working-class political subtext that elevated Alien beyond pure horror"

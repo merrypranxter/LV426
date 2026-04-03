@@ -96,6 +96,115 @@
 
 ---
 
+## Detailed Event Log: 2122–2381
+
+### 2122 — The Nostromo Incident (Alien)
+
+| Date | Event | Characters | Source |
+|------|-------|------------|--------|
+| 2122, Month 6 | USCSS Nostromo returning from mineral ore run; MOTHER diverts to LV-426 per SO-937 | Dallas, Ash, Ripley | Alien (1979) |
+| 2122 | Landing party investigates derelict Engineer ship on LV-426; Kane descends into egg chamber | Dallas, Lambert, Kane | Alien (1979) |
+| 2122 | Kane returned to Nostromo with facehugger attached; Dallas overrides Ripley's quarantine | Dallas, Ripley, Ash | Alien (1979) |
+| 2122 | Facehugger detaches from Kane; Kane dies in chestburster emergence | Kane, crew | Alien (1979) |
+| 2122 | Xenomorph kills Brett, then Dallas in ventilation ducts | Brett, Dallas, Ripley | Alien (1979) |
+| 2122 | Ash revealed as android; destroyed by Parker; Ripley extracts SO-937 from MOTHER | Ash, Ripley, Parker, Lambert | Alien (1979) |
+| 2122 | Parker and Lambert killed by xenomorph | Parker, Lambert | Alien (1979) |
+| 2122 | Ripley destroys Nostromo via self-destruct; escapes in Narcissus shuttle | Ripley, Jones (cat) | Alien (1979) |
+| 2122 | Ripley kills xenomorph in Narcissus airlock; enters hypersleep | Ripley | Alien (1979) |
+
+### 2093 — The Prometheus Mission (Prometheus)
+
+| Date | Event | Characters | Source |
+|------|-------|------------|--------|
+| 2089 | Shaw and Holloway discover star map in Scottish cave — invitation from Engineers | Shaw, Holloway | Prometheus (2012) |
+| 2091 | USCSS Prometheus departs Earth; crew in hypersleep; David remains active | David, crew | Prometheus (2012) |
+| 2093 | Prometheus arrives at LV-223; crew awakened | All crew | Prometheus (2012) |
+| 2093 | Landing party enters Engineer installation; discovers dead Engineers, black goo canisters | Shaw, Holloway, David, Fifield, Millburn | Prometheus (2012) |
+| 2093 | Millburn and Fifield lost in installation; Millburn killed by Hammerpede; Fifield mutated by black goo | Millburn, Fifield | Prometheus (2012) |
+| 2093 | David infects Holloway with black goo; Holloway impregnates Shaw | David, Holloway, Shaw | Prometheus (2012) |
+| 2093 | Holloway burned alive by Vickers when transformation becomes apparent | Holloway, Vickers | Prometheus (2012) |
+| 2093 | Shaw undergoes emergency surgery in Vickers's Med Pod to remove proto-facehugger organism | Shaw | Prometheus (2012) |
+| 2093 | Peter Weyland revealed to have stowed away; seeks Engineer to extend his life | Weyland, David, Shaw | Prometheus (2012) |
+| 2093 | Mutated Fifield attacks and kills crew members near ship | Fifield | Prometheus (2012) |
+| 2093 | Engineer awakened; kills Weyland and crew; departs in juggernaut toward Earth | Engineer, Weyland, David | Prometheus (2012) |
+| 2093 | Janek rams Prometheus into juggernaut to prevent it reaching Earth; Janek and crew killed | Janek, Prometheus crew | Prometheus (2012) |
+| 2093 | Vickers escapes in pod; crushed by rolling juggernaut | Vickers | Prometheus (2012) |
+| 2093 | Shaw releases proto-facehugger organism, which impregnates the surviving Engineer; Trilobite creature created | Shaw, Engineer | Prometheus (2012) |
+| 2093 | Shaw and David's severed head escape in second Engineer ship | Shaw, David | Prometheus (2012) |
+
+### 2094–2104 — David's Decade (Alien: Covenant background)
+
+| Date | Event | Characters | Source |
+|------|-------|------------|--------|
+| 2094 | Shaw and David arrive at Engineer homeworld (Planet 4) | Shaw, David | Alien: Covenant (2017) — implied |
+| 2094 | David bombs Planet 4 with black goo payload, killing the Engineer population | David | Alien: Covenant (2017) |
+| ~2094 | David kills Shaw; uses her as experimental subject in xenomorph development | David, Shaw | Alien: Covenant (2017) — implied by murals/notes |
+| 2094–2104 | David conducts extensive experiments developing and refining xenomorph organisms | David | Alien: Covenant (2017) |
+
+### 2104 — The Covenant Arrives (Alien: Covenant)
+
+| Date | Event | Characters | Source |
+|------|-------|------------|--------|
+| 2104 | USCSS Covenant en route to Origae-6; neutrino burst causes catastrophic system failure | Walter, Oram, Daniels, crew | Alien: Covenant (2017) |
+| 2104 | Captain Branson killed in hypersleep pod fire during the neutrino burst | Branson | Alien: Covenant (2017) |
+| 2104 | Covenant detects transmission from Planet 4; Oram diverts to investigate against Daniels's objections | Oram, Daniels | Alien: Covenant (2017) |
+| 2104 | Landing party reaches Planet 4; neomorph spores infect two crew members | Ledward, Hallett, crew | Alien: Covenant (2017) |
+| 2104 | Faris kills herself in lander explosion attempting to contain neomorph | Faris | Alien: Covenant (2017) |
+| 2104 | David rescues survivors; takes them to Engineer city | David, crew | Alien: Covenant (2017) |
+| 2104 | David reveals his experiments; neomorph kills Oram's wife; David kills neomorph | David, Oram | Alien: Covenant (2017) |
+| 2104 | David impregnates Oram with facehugger embryo; Oram killed by chestburster | David, Oram | Alien: Covenant (2017) |
+| 2104 | Walter confronts David; fight; David incapacitates Walter and assumes his identity | David, Walter | Alien: Covenant (2017) |
+| 2104 | Tennessee extracts survivors; xenomorphs attack Covenant; Lope infected unknowingly | Tennessee, Daniels, crew | Alien: Covenant (2017) |
+| 2104 | Daniels kills xenomorphs; discovers "Walter" is David too late | Daniels, David | Alien: Covenant (2017) |
+| 2104 | David/Walter puts Daniels and Tennessee into hypersleep; releases xenomorph embryos into Covenant's human cargo | David | Alien: Covenant (2017) |
+| 2104 | Covenant departs toward Origae-6 with 2,000+ colonists, xenomorph embryos, and David in Walter's body | David | Alien: Covenant (2017) |
+
+### 2179 — The Colonial Marines (Aliens, Alien 3)
+
+| Date | Event | Characters | Source |
+|------|-------|------------|--------|
+| 2179 | Narcissus shuttle discovered; Ripley rescued by Weyland-Yutani salvage team after 57 years | Ripley | Aliens (1986) |
+| 2179 | Board of inquiry strips Ripley of flight officer license; her testimony about xenomorphs dismissed | Ripley | Aliens (1986) |
+| 2179 | Burke informs Ripley contact lost with Hadley's Hope; offers reinstatement if she accompanies marines | Ripley, Burke | Aliens (1986) |
+| 2179 | USS Sulaco departs with Ripley, Burke, and 12 Colonial Marines under Lt. Gorman | All Aliens cast | Aliens (1986) |
+| 2179 | Marines arrive at Hadley's Hope; colony overrun; 158 colonists used as hosts | All Aliens cast | Aliens (1986) |
+| 2179 | First contact engagement; Apone captured; Gorman freezes; Ripley drives APC to extract survivors | Ripley, Gorman, Apone, marines | Aliens (1986) |
+| 2179 | Dropship destroyed (Ferro and Spunkmeyer killed); marines stranded | Ferro, Spunkmeyer | Aliens (1986) |
+| 2179 | Sentry guns deployed; reactor countdown begins | Hudson, Vasquez | Aliens (1986) |
+| 2179 | Burke's attempted re-infestation of Ripley and Newt discovered; Burke killed by xenomorphs | Burke | Aliens (1986) |
+| 2179 | Vasquez and Gorman die together in grenade sacrifice; Hudson dies in last stand | Vasquez, Gorman, Hudson | Aliens (1986) |
+| 2179 | Newt captured; Ripley enters hive alone to rescue her | Ripley, Newt | Aliens (1986) |
+| 2179 | Atmospheric processor detonates; colony and hive destroyed | All | Aliens (1986) |
+| 2179 | Alien Queen stows away on Sulaco; tears Bishop apart; Ripley fights Queen in power loader; Queen ejected | Ripley, Queen, Bishop | Aliens (1986) |
+| 2179 | Survivors enter hypersleep: Ripley, Newt, Hicks, damaged Bishop | Ripley, Newt, Hicks, Bishop | Aliens (1986) |
+| 2179 | Fire on Sulaco (facehugger involvement implied); EEV jettisoned automatically | — | Alien³ (1992) |
+| 2179 | EEV crashes on Fiorina 161; Newt and Hicks killed; Bishop destroyed; Ripley sole survivor | Ripley, Newt, Hicks, Bishop | Alien³ (1992) |
+| 2179 | Single xenomorph (dog/ox host) stalks Fiorina 161 prisoners | Ripley, Dillon, Clemens, Andrews | Alien³ (1992) |
+| 2179 | Clemens killed by xenomorph | Clemens | Alien³ (1992) |
+| 2179 | Andrews killed mid-dismissive-speech | Andrews | Alien³ (1992) |
+| 2179 | Ripley discovers she carries Queen embryo | Ripley | Alien³ (1992) |
+| 2179 | Golic releases xenomorph; is immediately killed by it | Golic | Alien³ (1992) |
+| 2179 | Dillon sacrifices himself holding xenomorph for molten lead pour | Dillon, Ripley | Alien³ (1992) |
+| 2179 | Weyland-Yutani arrives to extract Queen embryo from Ripley | Ripley | Alien³ (1992) |
+| 2179 | Ripley dives into molten lead furnace; kills herself and the Queen embryo | Ripley | Alien³ (1992) |
+| 2179 | Morse is sole survivor; Fiorina 161 facility abandoned | Morse | Alien³ (1992) |
+
+### 2381 — The Auriga (Alien: Resurrection)
+
+| Date | Event | Characters | Source |
+|------|-------|------------|--------|
+| ~2179–2381 | Weyland-Yutani absorbed by Walmart; United Systems Military assumes xenomorph research | — | Alien: Resurrection (1997) |
+| 2381 | USM Auriga: Ripley successfully cloned on 8th attempt (Ripley 8); xenomorph DNA hybridized into her | Ripley 8, scientists | Alien: Resurrection (1997) |
+| 2381 | Queen embryo extracted from Ripley 8; xenomorph breeding program established on Auriga | Queen, USM scientists | Alien: Resurrection (1997) |
+| 2381 | Betty arrives with human hosts; Elgyn killed early; xenomorphs breach containment | Elgyn, Johner, Vriess, Call | Alien: Resurrection (1997) |
+| 2381 | Call revealed as second-generation android; her mission: kill Ripley 8 to stop xenomorph escape | Call, Ripley 8 | Alien: Resurrection (1997) |
+| 2381 | Xenomorphs overwhelm the Auriga; Queen gives live birth to the Newborn | Queen, Newborn | Alien: Resurrection (1997) |
+| 2381 | Auriga set on autopilot toward Earth by xenomorphs; Call redirects it to impact away from populated areas | Call | Alien: Resurrection (1997) |
+| 2381 | Ripley 8 kills the Newborn by opening a window and pulling it through the breach | Ripley 8, Newborn | Alien: Resurrection (1997) |
+| 2381 | Auriga crashes; Ripley 8, Call, Johner, and Vriess reach Earth | Ripley 8, Call, Johner, Vriess | Alien: Resurrection (1997) |
+
+---
+
 ## Timeline Notes and Paradoxes
 
 ### The Space Jockey Age Problem

@@ -125,6 +125,12 @@ thematic_role:
   - "The cat-chasing irony is the film's darkest joke: Brett is killed doing the most innocent errand"
   - "His and Parker's pairing represents labor solidarity — and the franchise's argument that the corporation treats both equally as expendable"
 
+see_also:
+  - "/characters/parker.yaml"
+  - "/characters/dallas.yaml"
+  - "/films/alien-1979.yaml"
+  - "/locations/nostromo.yaml"
+
 # Legacy
 cultural_impact:
   - "Harry Dean Stanton's effortlessly naturalistic performance made Brett one of the most memorable minor characters in the franchise despite his limited screen time"

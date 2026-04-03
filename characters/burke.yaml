@@ -151,6 +151,14 @@ thematic_role:
   - "Represents what Weyland-Yutani actually is beneath its institutional language: an engine for converting human lives into shareholder value"
   - "The most mundane monster in the franchise — and therefore the most honest about where the real threat originates"
 
+see_also:
+  - "/characters/ellen-ripley.yaml"
+  - "/characters/newt.yaml"
+  - "/concepts/special-order-937.yaml"
+  - "/concepts/the-company.yaml"
+  - "/films/aliens-1986.yaml"
+  - "/locations/hadleys-hope.yaml"
+
 # Legacy
 cultural_impact:
   - "Paul Reiser's performance is widely credited as one of the most effectively loathsome corporate villains in science fiction cinema"
