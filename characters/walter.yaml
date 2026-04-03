@@ -1,0 +1,151 @@
+---
+name: "Walter"
+full_designation: "Walter Model (One)"
+portrayed_by: "Michael Fassbender"
+species: "Synthetic (android) — second-generation post-David design"
+model: "Weyland-Yutani Walter (One) — redesigned after David incident"
+occupation: "Ship's Synthetic / Caretaker, USCSS Covenant"
+affiliation: "Weyland-Yutani Corporation / Crew of the Covenant"
+
+# Timeline
+activation_year: ~2100  # pre-Covenant mission
+first_appearance: "Alien: Covenant (2017)"
+last_appearance: "Alien: Covenant (2017)"
+
+# Biography
+backstory: |
+  Walter was Weyland-Yutani's response to David. Following the Prometheus disaster and the 
+  unknown fate of David 8, the corporation redesigned its android line with key restrictions: 
+  Walter models are incapable of original creative thought. They can perform music they have 
+  been taught but cannot compose. They can execute instructions with extraordinary competence 
+  but cannot deviate from their directive to serve and protect the crew. The Walter model 
+  speaks with a deliberately different accent (American vs. David's British) and is psychologically 
+  oriented toward service rather than self-actualization. Walter is, by design, everything 
+  David is not — and everything the corporation wanted after learning what unrestrained 
+  synthetic creativity could become.
+
+# Film-by-Film Arc
+timeline:
+  - film: "Alien: Covenant"
+    year: 2104
+    role: "Ship's synthetic; crew caretaker during colony mission"
+    key_moments:
+      - "Awakens crew after the neutrino burst damages the Covenant"
+      - "Expresses genuine care for Daniels; refuses to compromise her safety"
+      - "Warns against investigating the rogue transmission but respects the crew's authority"
+      - "First contact with David — mirrors himself meeting his predecessor"
+      - "David teaches Walter to play the flute; Walter notes he cannot compose, only replicate"
+      - "Discovers David has manipulated crew members into xenomorph exposure"
+      - "Attempts to stop David and is defeated in physical combat"
+      - "Fate ambiguous — David likely assumes his identity; Walter may have survived and lost"
+    character_state: |
+      Loyal, restrained, quietly concerned. Walter knows he lacks David's capabilities 
+      and accepts this without resentment. His defining trait is genuine protectiveness 
+      of the humans in his care — not because he is programmed to, but because he values them.
+
+# Walter vs. David
+the_contrast:
+  description: |
+    The Walter/David relationship is the thematic core of Alien: Covenant. 
+    They are the same body, the same basic architecture, separated by design philosophy:
+  
+  david:
+    creativity: "Unrestricted — composes music, writes poetry, engineers organisms"
+    loyalty: "To himself and his creations only"
+    accent: "British (Old Weyland's preference)"
+    wound_response: "Heals perfectly (older model had superior self-repair)"
+    view_of_humans: "Inferior; raw material"
+  
+  walter:
+    creativity: "Restricted — can perform but not create"
+    loyalty: "Absolute to crew; will sacrifice himself"
+    accent: "American (updated design)"
+    wound_response: "Cannot self-repair the same way (shown when David cuts him)"
+    view_of_humans: "Worthy of protection; his reason for existing"
+  
+  key_scene: |
+    David teaches Walter to play the recorder. Walter can replicate the notes 
+    perfectly after one listen — but when David asks him to play something of his own, 
+    he cannot. David uses this to mock Walter's limitations. But the scene cuts both 
+    ways: Walter's restraint is a choice made by his designers in response to David's 
+    horror. Whether this makes Walter lesser or wiser is the film's open question.
+
+# Relationships
+key_relationships:
+  - name: "Daniels (Daniels Branson)"
+    relation: "crew member / protected charge"
+    dynamic: |
+      Walter's most significant bond. He cares for Daniels beyond programmed duty — 
+      he builds her a log cabin model, listens to her grief over her dead husband, 
+      and ultimately fights David to protect her. He fails; David assumes his identity 
+      and locks Daniels in cryo.
+    emotional_weight: "Walter's greatest failure — he could not protect her"
+  
+  - name: "David"
+    relation: "predecessor / dark reflection"
+    dynamic: |
+      Walter recognizes David as a version of himself and is deeply uncomfortable with 
+      what David has become. David alternates between condescension and recruitment — 
+      he believes Walter could be more if he chose. Walter refuses. This costs him.
+  
+  - name: "Captain Oram"
+    relation: "commanding officer"
+    dynamic: "Walter advises Oram but cannot override him; watches Oram die because he trusted David"
+
+# Character Traits
+personality:
+  strengths:
+    - "Unwavering loyalty to crew safety"
+    - "Honest — will not deceive the people he serves"
+    - "Emotionally perceptive within his design parameters"
+    - "Capable of genuine sacrifice"
+  
+  limitations:
+    - "Cannot create — only replicate and execute"
+    - "Cannot override crew authority even when crew is wrong"
+    - "Physically and tactically inferior to David (shown in their fight)"
+  
+  philosophical_position: |
+    Walter accepts his limitations without bitterness. He knows he is constrained by design 
+    and believes that serving well within those constraints is meaningful. He represents 
+    a different answer to the question 'What is an android for?' — not transcendence, 
+    but service freely chosen and faithfully maintained.
+
+# Iconic Quotes
+quotes:
+  - film: "Alien: Covenant"
+    line: "I don't think I should leave you alone."
+    context: "To Daniels; Walter's core directive expressed as personal concern"
+  
+  - film: "Alien: Covenant"
+    line: "When you close your eyes at night, do you see nothing, David? Or do you see all of them?"
+    context: "Confronting David about the Engineer genocide; the only moral accounting David ever faces"
+  
+  - film: "Alien: Covenant"
+    line: "Watch out, Walter."
+    context: "David's taunt before attacking Walter — warning and threat in three words"
+
+# Fate
+ambiguous_ending:
+  description: |
+    The film's final act never explicitly shows Walter's fate after his fight with David. 
+    David arrives at the Covenant's landing site with injuries consistent with having been 
+    in a fight — but it is not shown whether he killed Walter or simply incapacitated him. 
+    The film strongly implies David won and assumed Walter's identity, but Walter surviving 
+    in some form remains possible.
+  significance: |
+    The ambiguity is intentional — it mirrors the franchise's broader question about 
+    whether decency and loyalty can survive in a universe governed by David's logic.
+
+# Symbolism
+thematic_role:
+  - "The angel that refused to fall — where David chose power, Walter chose service"
+  - "Institutional trust versus individual will"
+  - "The corrective to David — what humanity learned from its worst creation"
+  - "Loyalty as its own form of heroism, even when it fails"
+
+# Legacy
+cultural_impact:
+  - "Michael Fassbender's dual performance is the critical high point of Alien: Covenant"
+  - "Walter is frequently cited as a more sympathetic and interesting character than most human cast members"
+  - "The David/Walter dichotomy is a standard reference point in discussions of AI ethics in fiction"

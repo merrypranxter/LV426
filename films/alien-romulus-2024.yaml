@@ -1,0 +1,168 @@
+---
+title: "Alien: Romulus"
+year: 2024
+director: "Fede Álvarez"
+runtime_minutes: 119
+tagline: "It's not in space. It's on you."
+
+# Timeline
+in_universe_year: 2142  # between Alien (2122) and Aliens (2179)
+chronological_order: 3.5  # between Alien and Aliens
+
+# Core Data
+plot_summary: |
+  A group of young colonists on the mining colony Jackson's Star, indentured to 
+  Weyland-Yutani and dreaming of a free life on a habitable world, discover that 
+  an abandoned Weyland-Yutani space station called the Renaissance holds the key 
+  to their escape — specifically, hibernation pods with enough fuel to reach their 
+  destination. The station, however, is not empty. It contains xenomorph specimens 
+  recovered from the wreckage of the USCSS Nostromo — and experimental material 
+  from the remains of Ash. What begins as a salvage mission becomes a desperate 
+  survival horror as the xenomorphs break containment and a new horror is unleashed 
+  from Weyland-Yutani's biological experiments.
+
+key_themes:
+  - generational_debt_and_indentured_labor
+  - corporate_inescapability
+  - survival_at_any_cost
+  - the_sins_of_the_company
+  - technology_as_weapon_against_workers
+  - youth_and_innocence_destroyed
+  - legacy_and_inheritance_of_horror
+
+# Deaths
+death_count: 8  # approximate
+death_order:
+  - name: "Tyler"
+    method: "killed by xenomorph facehugger/chestburster"
+    timestamp: "00:38:00"
+    circumstances: "Breached by facehugger in the station's egg storage area"
+  - name: "Bjorn"
+    method: "killed by xenomorph"
+    timestamp: "00:50:00"
+    circumstances: "Dragged by xenomorph in station corridors"
+  - name: "Navarro"
+    method: "killed by xenomorph"
+    timestamp: "01:02:00"
+    circumstances: "Killed during xenomorph breakout sequence"
+  - name: "Rook (android — Ash reconstruction)"
+    method: "destroyed"
+    timestamp: "01:25:00"
+    circumstances: |
+      Ash's consciousness reconstructed in a new android body; attempts to use the 
+      survivors to complete the original Special Order 937; destroyed by Rain and Andy
+  - name: "Kay"
+    method: "killed by Offspring (hybrid xenomorph)"
+    timestamp: "01:30:00"
+    circumstances: "Killed by the new xenomorph hybrid created from Weyland-Yutani experiments"
+  - name: "The Offspring (hybrid xenomorph)"
+    method: "ejected into space"
+    timestamp: "01:40:00"
+    circumstances: "Rain ejects the creature using emergency decompression protocols"
+
+# Survivors
+survivors:
+  - name: "Rain Carradine"
+    status: "escapes; main protagonist; traumatized but alive"
+  - name: "Andy (synthetic)"
+    status: "Rain's synthetic companion; damaged but survives"
+
+# Xenomorph Data
+xenomorph_lifecycle_shown:
+  - egg
+  - facehugger
+  - chestburster
+  - adult_warrior
+  - offspring_hybrid  # experimental xenomorph created from Weyland-Yutani mutagen research
+
+# Iconic Scenes
+iconic_scenes:
+  - name: "Zero-Gravity Xenomorph Attack"
+    timestamp: "01:00:00"
+    description: "Acid blood floats in zero-gravity as xenomorphs attack in depressurized station section"
+    cultural_impact: "Inventive practical and visual effects set piece; unique to the franchise"
+  
+  - name: "Ash Returns"
+    timestamp: "01:10:00"
+    description: "Survivors encounter Rook — the station's android, revealed to be a reconstruction of Ash with his original memories"
+    significance: "Brings back Ian Holm's character; uses AI/de-aging to recreate the original villain"
+  
+  - name: "The Offspring Revealed"
+    timestamp: "01:25:00"
+    description: "Weyland-Yutani's final experiment — a humanoid-xenomorph hybrid — emerges from the station labs"
+    significance: "New creature type; bridges human and xenomorph biology deliberately"
+  
+  - name: "Station Crash"
+    timestamp: "01:35:00"
+    description: "The Renaissance station begins its atmospheric entry as survivors race to escape"
+    significance: "Large-scale destruction sequence echoing the Nostromo self-destruct"
+
+# Notable Quotes
+quotes:
+  - speaker: "Rain"
+    line: "We're not property."
+    context: "Defying Weyland-Yutani's claim over her and the other colonists as indentured workers"
+  
+  - speaker: "Rook (Ash reconstruction)"
+    line: "The Company's interests have always been paramount. You were never meant to leave."
+    context: "Revealing the trap; echo of original Ash's loyalties"
+  
+  - speaker: "Andy"
+    line: "I would never let anything happen to you, Rain."
+    context: "Andy's defining character statement; the inverse of Ash"
+
+# Ships & Locations
+locations:
+  - name: "Jackson's Star Colony"
+    type: "Weyland-Yutani mining colony"
+    condition: "grinding indentured labor; dark, oppressive environment"
+    significance: "Establishes the everyday horror of working-class life under the Company"
+  
+  - name: "Renaissance Station"
+    type: "Weyland-Yutani orbital research and processing station"
+    condition: "abandoned; partially operational"
+    contents: "xenomorph specimens recovered from Nostromo, Ash-derived research, cryo-pods"
+    fate: "destroyed in atmospheric entry"
+  
+  - name: "USCSS Corbelan IV"
+    type: "transport vessel"
+    fate: "used by survivors in escape attempt"
+
+# Corporate Fuckery
+weyland_yutani_role:
+  directive: "Continue xenomorph research using any available human subjects (the colonists)"
+  executed_by: "Rook (Ash-consciousness android); station automated systems"
+  actions:
+    - "Indentured the colonists to prevent escape"
+    - "Kept xenomorph specimens from Nostromo aboard station"
+    - "Created hybrid Offspring from Engineer mutagen and xenomorph biology"
+    - "Used Ash's memories in a new android to enforce Special Order 937 protocols"
+  outcome: "Station destroyed; experiments ended; Weyland-Yutani denied all findings"
+
+# Production Notes
+notable_crew:
+  screenplay: "Fede Álvarez, Rodo Sayagues"
+  production_design: "Naaman Marshall"
+  cinematography: "Galo Olivares"
+  producers: "Ridley Scott (executive producer)"
+  note: |
+    Álvarez deliberately made a back-to-basics horror film; cited Alien (1979) as the 
+    primary template. Practical effects were prioritized. The film is set entirely in 
+    space with no Earth scenes.
+
+influences:
+  - "Alien (1979) - direct tonal and aesthetic reference"
+  - "Aliens (1986) - group survival dynamics"
+  - "The Descent (2005) - claustrophobic group horror"
+
+legacy:
+  box_office: "$350+ million worldwide"
+  cultural_impact: |
+    Widely praised as a return to form for the franchise after the polarizing prequels. 
+    Introduced a new generation of characters. The recreation of Ash (using Ian Holm's 
+    likeness posthumously via AI/VFX) was both praised and raised ethical discussion.
+
+# Connections
+era_note: "Set 20 years after Alien (1979) and 37 years before Aliens (1986)"
+prequel_film: "Alien (1979) — directly connected via Nostromo salvage and Ash"
+franchise_position: "First film in franchise to bridge the gap between Alien and Aliens"

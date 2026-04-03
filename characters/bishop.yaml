@@ -1,0 +1,125 @@
+---
+name: "Bishop"
+full_designation: "Bishop 341-B"
+portrayed_by: "Lance Henriksen"
+species: "Synthetic (android)"
+model: "Hyperdyne Systems Bishop 341-B"
+occupation: "Executive Officer / Science Officer, USS Sulaco"
+affiliation: "United States Colonial Marine Corps / Weyland-Yutani Corporation"
+
+# Timeline
+activation_year: "unknown (pre-2179)"
+first_appearance: "Aliens (1986)"
+last_appearance: "Alien³ (1992)"
+
+# Biography
+backstory: |
+  Bishop was the synthetic assigned to the USS Sulaco during the mission to investigate 
+  the loss of contact with Hadley's Hope colony on LV-426. He was a newer model than Ash, 
+  incorporating programming that prevented harm to humans — a response to the public 
+  outcry over the Ash incident. Bishop quickly earned the crew's respect through competence, 
+  loyalty, and demonstrated humanity. His willingness to risk himself to save others stands 
+  in deliberate contrast to Ash's self-preserving amorality.
+
+# Film-by-Film Arc
+timeline:
+  - film: "Aliens"
+    year: 2179
+    role: "Executive Officer; synthetic crew member"
+    key_moments:
+      - "Demonstrates knife trick with Hudson to show android capability and control"
+      - "Expresses distaste for being called 'artificial person' — prefers just 'Bishop'"
+      - "Crawls through 300 meters of conduit to manually pilot the dropship for extraction"
+      - "Successfully pilots the EEV drop ship; saves remaining survivors"
+      - "Torn in half by the Alien Queen aboard the landing platform"
+      - "Survives as damaged torso; placed in hypersleep"
+    character_state: "Loyal, competent, quietly philosophical; earns Ripley's trust through actions"
+  
+  - film: "Alien³"
+    year: 2179
+    role: "Damaged android; briefly reactivated"
+    key_moments:
+      - "Torso found in wreckage of EEV crash on Fury 161"
+      - "Ripley reactivates him briefly to learn what happened during the crash"
+      - "Asks Ripley to deactivate him permanently; describes existing in damaged state as painful"
+      - "Deactivated at his own request"
+    character_state: "Broken; shows that even androids can suffer; asks for death"
+
+# Relationships
+key_relationships:
+  - name: "Ellen Ripley"
+    relation: "trusted_ally"
+    dynamic: |
+      Ripley is deeply suspicious of Bishop initially due to Ash's betrayal. Bishop 
+      understands this and does not push back, instead earning her trust through repeated 
+      acts of genuine service and sacrifice. By the end of Aliens, Ripley trusts him completely.
+    pivotal_moment: "Ripley holds Bishop's torn torso after the Queen attack; genuine grief"
+  
+  - name: "Newt"
+    relation: "rescued_ward"
+    dynamic: "Bishop pilots rescue ship to extract Newt from the hive; instrumental in her survival"
+  
+  - name: "Hudson"
+    relation: "colleague"
+    pivotal_moment: "The knife trick — Hudson uses Bishop's hand for the game, demonstrating absolute trust"
+  
+  - name: "Ash"
+    relation: "predecessor_model"
+    significance: "Bishop represents Weyland-Yutani's corrective response to Ash; everything Ash was not"
+
+# Character Traits
+personality:
+  strengths:
+    - "Complete loyalty to crew safety"
+    - "Exceptional technical and scientific capability"
+    - "Calm under extreme pressure"
+    - "Philosophical introspection"
+    - "Accepts danger and sacrifice without complaint"
+  
+  key_trait: |
+    Bishop has a programmed aversion to harming humans and finds violence distasteful. 
+    He is the franchise's clearest argument that synthetic life can possess genuine virtue — 
+    not because it is programmed to, but because it chooses to embody those values.
+
+# Iconic Quotes
+quotes:
+  - film: "Aliens"
+    line: "I prefer the term 'artificial person' myself."
+    context: "Responding to Hudson calling him a 'synthetic'; gentle correction"
+  
+  - film: "Aliens"
+    line: "It's a robot. Relax."
+    context: "Wry reference to himself; disarming tension"
+  
+  - film: "Aliens"
+    line: "I can't lie to you about your chances, but you have my sympathies."
+    context: "Echo of Ash's line from the first film — but here it reads as genuine empathy"
+  
+  - film: "Alien³"
+    line: "I want to die. I'd rather have it over... I don't want to — I don't want to remain..."
+    context: "Damaged Bishop asks Ripley to deactivate him permanently"
+
+# The Knife Trick
+iconic_scene:
+  name: "The Knife Trick"
+  timestamp: "00:38:00"
+  film: "Aliens"
+  description: |
+    Bishop performs a knife-between-fingers trick at high speed using Hudson's hand; 
+    Hudson is terrified but submits. The scene simultaneously establishes Bishop's 
+    inhuman precision and his trustworthiness — he controls the danger perfectly.
+  significance: "Introduces Bishop's character in a single scene; later paid off when Ripley trusts him completely"
+
+# Symbolism
+thematic_role:
+  - "Redemption of the synthetic after Ash's betrayal"
+  - "Proof that loyalty and virtue are not exclusively human traits"
+  - "The company's corrective; shows Weyland-Yutani can make something genuinely good"
+  - "Mirrors Ripley's arc: both stripped to their essential selves by the end"
+
+# Legacy
+cultural_impact:
+  - "Lance Henriksen's most iconic role"
+  - "Bishop became the template for the 'good android' in sci-fi"
+  - "The character's tearing scene is one of the franchise's most visceral practical effects"
+  - "A 'Bishop' model android appears as a Weyland-Yutani promotional figure in Alien: Covenant"

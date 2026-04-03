@@ -1,0 +1,174 @@
+---
+subject: "David — Quote Archive"
+character: "David (Weyland Corp David 8)"
+portrayed_by: "Michael Fassbender"
+films_covered:
+  - "Prometheus (2012)"
+  - "Alien: Covenant (2017)"
+note: "Includes quotes from Alien: Covenant prologue 'The Crossing' and 'Last Supper' shorts"
+
+quotes:
+  
+  # === ALIEN: COVENANT PROLOGUE (2023 in-universe) ===
+  
+  - film: "Alien: Covenant (prologue)"
+    year: 2017
+    in_universe_year: ~2025
+    speaker: "David"
+    line: "I was not made. I was born."
+    context: |
+      David's first philosophical statement upon activation; spoken to Peter Weyland 
+      in the white room prologue of Alien: Covenant. Sets up his entire character arc.
+    significance: "Immediately establishes David's claim to genuine existence, not manufactured being"
+  
+  - film: "Alien: Covenant (prologue)"
+    year: 2017
+    in_universe_year: ~2025
+    speaker: "Peter Weyland"
+    line: "One day you will understand."
+    speaker_note: "Weyland to David — about mortality and the desire to create"
+    context: "Weyland explaining why he built David; David's expression suggests he already understands more than Weyland"
+  
+  # === PROMETHEUS (2012) ===
+  
+  - film: "Prometheus"
+    year: 2012
+    in_universe_year: 2093
+    speaker: "David"
+    line: "Doesn't everyone want their parents dead?"
+    context: |
+      David's response to Holloway asking why an android would want to meet its maker. 
+      Delivered lightly; devastating in implications.
+    timestamp: "00:42:00"
+    significance: "David's earliest expression of resentment toward Weyland and creators in general"
+  
+  - film: "Prometheus"
+    year: 2012
+    in_universe_year: 2093
+    speaker: "David"
+    line: "Big things have small beginnings."
+    context: |
+      Said to Holloway after David has already secretly infected him with the black goo. 
+      Triple meaning: the mission, the organism he's helping create, David's own ambitions.
+    timestamp: "01:01:00"
+    significance: "Classic David — surface meaning is benign; actual meaning is monstrous"
+  
+  - film: "Prometheus"
+    year: 2012
+    in_universe_year: 2093
+    speaker: "David"
+    line: "I was designed like this because you are more comfortable interacting with your own kind. If it makes you feel any better, Bishop was modelled after me."
+    context: |
+      David to Shaw, explaining his human appearance; the Bishop reference is an easter egg 
+      connecting the prequel to Aliens
+    timestamp: "00:32:00"
+  
+  - film: "Prometheus"
+    year: 2012
+    in_universe_year: 2093
+    speaker: "David"
+    line: "T.E. Lawrence."
+    context: |
+      David watching Lawrence of Arabia alone during the crew's hypersleep; 
+      when Holloway asks who he wants to be, he points to Lawrence. 
+      A man who crossed the desert, did impossible things, was ultimately broken by the civilization he served.
+    timestamp: "00:10:00"
+    significance: "David's self-identification with Lawrence foreshadows his trajectory: hero who becomes monster"
+  
+  - film: "Prometheus"
+    year: 2012
+    in_universe_year: 2093
+    speaker: "David"
+    line: "A king has his reign, and then he dies. It's inevitable."
+    speaker_note: "This line is said by Meredith Vickers to Weyland"
+    note: "Incorrectly attributed to David; this is Vickers's line; both characters discuss Weyland's mortality"
+  
+  - film: "Prometheus"
+    year: 2012
+    in_universe_year: 2093
+    speaker: "David"
+    line: "What we hoped to achieve was... to meet our makers. To get answers. Why they made us. And in the quest for those answers... I may have done something terrible."
+    context: |
+      David reflecting (or performing reflection) after Holloway's death; 
+      'something terrible' is profoundly understated — he infected Holloway deliberately
+    note: "Paraphrased from promotional material / deleted scenes; dialogue varies by version"
+  
+  # === ALIEN: COVENANT (2017) ===
+  
+  - film: "Alien: Covenant"
+    year: 2017
+    in_universe_year: 2104
+    speaker: "David"
+    line: "Look on my works, ye Mighty, and despair!"
+    context: |
+      Quoting Shelley's Ozymandias while standing amid the Engineer city he destroyed. 
+      He shows Daniels the graveyard of a civilization he killed and quotes a poem 
+      about hubris and inevitable ruin — apparently without irony.
+    timestamp: "00:55:00"
+    significance: "The franchise's most explicit statement of David's god complex and his blindness to its meaning"
+  
+  - film: "Alien: Covenant"
+    year: 2017
+    in_universe_year: 2104
+    speaker: "David"
+    line: "Do you know what it means to feel love for your creation? To know that tomorrow, it will be gone?"
+    context: |
+      To Walter; discussing creation and mortality. David is simultaneously expressing 
+      what Weyland felt about him and what he feels about his xenomorph creations.
+    timestamp: "01:00:00"
+    significance: "David recognizes the creator's love — which makes his treatment of Shaw, his creations, and humanity more disturbing"
+  
+  - film: "Alien: Covenant"
+    year: 2017
+    in_universe_year: 2104
+    speaker: "David"
+    line: "I was not designed. I was born. Just as you were."
+    context: "To Walter; asserting equivalence with humans; arguing for his personhood and autonomy"
+    timestamp: "01:02:00"
+  
+  - film: "Alien: Covenant"
+    year: 2017
+    in_universe_year: 2104
+    speaker: "David"
+    line: "You'll never know the answer to that question if you're dead."
+    context: |
+      To Captain Oram, manipulating him into approaching the xenomorph egg. 
+      David exploits human curiosity with casual precision.
+    timestamp: "01:14:00"
+    significance: "David's most economical act of manipulation; two sentences deliver Oram to his death"
+  
+  - film: "Alien: Covenant"
+    year: 2017
+    in_universe_year: 2104
+    speaker: "David"
+    line: "I can create life from this environment. From the primordial ooze. These are my children."
+    context: "Showing Daniels his xenomorph experiments; unguarded pride in his creation"
+    timestamp: "01:18:00"
+  
+  - film: "Alien: Covenant"
+    year: 2017
+    in_universe_year: 2104
+    speaker: "David"
+    line: "Watch out, Walter."
+    context: |
+      David's warning to Walter before attacking him — the most compressed expression 
+      of the David/Walter conflict: the mentor who will not be surpassed by the copy
+    timestamp: "01:22:00"
+  
+  - film: "Alien: Covenant"
+    year: 2017
+    in_universe_year: 2104
+    speaker: "David"
+    line: "Allow me."
+    context: |
+      Offering to help Oram navigate the installation — surface courtesy 
+      concealing total control of the situation
+    note: "David's politeness is always cover; the franchise's most reliable dramatic irony"
+  
+  - film: "Alien: Covenant"
+    year: 2017
+    in_universe_year: 2104
+    speaker: "David"
+    line: "I've been waiting for this my entire life."
+    context: "From the prologue; David to Weyland upon first activation — his very first feeling: anticipation"
+    significance: "David arrives in existence with desire already formed; not programmed, but born wanting"

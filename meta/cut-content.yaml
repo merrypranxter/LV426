@@ -1,0 +1,196 @@
+---
+subject: "Alien Franchise — Deleted Scenes and Alternate Versions"
+note: "Documented deleted scenes and significant alternate cuts"
+
+# Alien (1979)
+alien_1979:
+  directors_cut:
+    exists: false
+    note: "No official 'Director's Cut' exists — the theatrical version is considered the definitive cut"
+  
+  deleted_scenes:
+    
+    - title: "Dallas and Brett Cocooned"
+      status: "Filmed; not included in theatrical release; restored in some retrospective releases"
+      description: |
+        After Ripley searches for Dallas and Brett, she discovers them cocooned to the Nostromo's 
+        walls, alive but in the early stages of transformation into xenomorph eggs (or hosts). 
+        Dallas, barely conscious, begs Ripley to kill him. She uses her flamethrower.
+      significance: |
+        This scene answers what happened to Dallas and Brett (implied but never shown in theatrical cut). 
+        It also adds a dimension to the xenomorph lifecycle — suggesting drones can be converted 
+        into new eggs, or at minimum that the xenomorph stores hosts for later use. 
+        Ridley Scott removed it because it slowed the film's momentum near the climax.
+      timestamp_would_have_been: "~01:32:00"
+    
+    - title: "Extended Space Jockey Scene"
+      status: "Script element; extent of filming unclear"
+      description: "Additional exploration of the derelict ship and Engineer pilot chamber"
+    
+    - title: "Jones the Cat Scenes"
+      status: "Various shots trimmed throughout"
+      description: "Additional material of the ship's cat used in sound design and atmosphere"
+
+# Aliens (1986)
+aliens_1986:
+  directors_cut:
+    title: "Special Edition"
+    runtime: "154 minutes (theatrical: 137 minutes)"
+    released: 1991
+    note: "James Cameron's preferred version; widely considered superior to theatrical"
+    
+    additions:
+      - title: "Amanda Ripley Scene"
+        description: |
+          Ripley learns from a Weyland-Yutani representative that her daughter Amanda 
+          died of cancer two years ago at age 66. This scene is critical — it establishes 
+          Ripley's maternal grief and her motivation for protecting Newt. Its absence in 
+          the theatrical cut makes Ripley's attachment to Newt slightly less grounded.
+        significance: "One of the most important omissions from the theatrical cut"
+        timestamp: "~00:25:00 in Special Edition"
+      
+      - title: "Hadley's Hope Introduction"
+        description: |
+          Extended scene introducing the colonists at Hadley's Hope, including Newt's 
+          family discovering the derelict ship. The mother is facehugger'd; the family 
+          returns to the colony.
+        significance: "Gives the colony human faces before it becomes a horror set piece; deepens the tragedy"
+      
+      - title: "Sentry Guns Sequence"
+        description: |
+          The marines set up automated sentry guns in the tunnels. The guns activate twice 
+          in the night, killing waves of approaching xenomorphs as the marines listen to 
+          the ammo counter decreasing in the dark.
+        significance: |
+          Extraordinary tension sequence; establishes scale of xenomorph numbers and 
+          the psychological toll of waiting
+      
+      - title: "Additional Burke Characterization"
+        description: "Extended scenes establishing Burke's corporate cynicism more fully"
+
+# Alien³ (1992)
+alien3_1992:
+  assembly_cut:
+    title: "Assembly Cut"
+    runtime: "145 minutes (theatrical: 114 minutes)"
+    released: 2003
+    context: |
+      Reconstructed from David Fincher's workprint for the Alien Quadrilogy DVD set. 
+      Fincher did not participate — he refused all involvement. 
+      The cut is labeled 'Assembly Cut' rather than 'Director's Cut' for this reason.
+    
+    major_differences:
+      - title: "Ox Host (not Dog)"
+        description: |
+          The theatrical version has the xenomorph gestating in a dog; the Assembly Cut 
+          uses an ox. The ox provides a larger, more imposing host and was the 
+          production's original intent before re-shoots changed it.
+        significance: "Changes the Runner xenomorph's origin and scale"
+      
+      - title: "Clemens Backstory"
+        description: |
+          Dr. Clemens's background is substantially expanded — his medical license 
+          revocation, his history with addiction, his relationship to the prison are 
+          given more depth.
+        significance: "Makes Ripley's relationship with Clemens more meaningful"
+      
+      - title: "Religious Subplot"
+        description: "The prisoners' religious conversion subplot is more fully developed"
+      
+      - title: "Different Opening Sequence"
+        description: "The facehugger attack on the EEV is shown differently; the ox is introduced earlier"
+      
+      - title: "Golic and the Xenomorph"
+        description: |
+          Golic's obsession with the xenomorph as a 'dragon' is more developed; 
+          his decision to release it from containment is given more psychological grounding
+  
+  other_deleted_scenes:
+    - title: "Extended Final Confrontation"
+      description: "Additional material in the lead works during the finale"
+
+# Alien: Resurrection (1997)
+alien_resurrection_1997:
+  special_edition:
+    title: "Special Edition"
+    runtime: "116 minutes (theatrical: 109 minutes)"
+    released: 2003
+    
+    additions:
+      - title: "Extended Clone Discovery"
+        description: "More time in the room of failed Ripley clones"
+      
+      - title: "Earth Arrival"
+        description: "Extended shot of the Betty descending through clouds toward a ravaged Earth"
+        significance: "The theatrical cut's ending is slightly abrupt; this adds closure"
+  
+  alternate_ending:
+    description: |
+      The theatrical film ends with Ripley and Call looking down at Earth through the Betty's window. 
+      An alternate/extended version showed them arriving in a devastated Paris, France — 
+      emphasizing the 'shithole' description of Earth from earlier dialogue.
+    released: "Partially reconstructed for Special Edition"
+
+# Prometheus (2012)
+prometheus_2012:
+  deleted_scenes:
+    
+    - title: "Extended Engineer Opening"
+      description: |
+        An extended version of the opening sacrificial Engineer scene, showing additional 
+        alien visitors departing and more context for the seeding ritual.
+    
+    - title: "David's Laboratory Scenes"
+      description: "Additional footage of David exploring the Engineer installation alone"
+    
+    - title: "Shaw's Faith Monologue"
+      description: |
+        Extended dialogue between Shaw and Holloway about faith, science, and what 
+        it means to find your creators. Gives more depth to Shaw's religious belief 
+        as compatible with scientific curiosity.
+    
+    - title: "Extended Deacon Scene"
+      description: "Additional moments after the Deacon's birth in the film's final sequence"
+  
+  alternate_opening:
+    description: |
+      Earlier drafts had a different opening sequence more directly connected to LV-426. 
+      Damon Lindelof's revisions separated the film's opening from the Alien mythology.
+
+# Alien: Covenant (2017)
+alien_covenant_2017:
+  prologue_shorts:
+    - title: "The Crossing"
+      description: |
+        Short film bridge between Prometheus and Covenant. Shows David reconnecting 
+        his severed head, and Shaw's final moments before David begins his experiments. 
+        Deeply ambiguous about David's intentions toward Shaw.
+    
+    - title: "Last Supper"
+      description: |
+        Pre-release short showing the Covenant crew's bonding dinner before the main 
+        mission begins. Establishes relationships and personalities beyond what the 
+        theatrical film has time for.
+    
+    - title: "Phobos"
+      description: "Marketing short; not canonical in the strict sense"
+    
+    - title: "Meet Walter"
+      description: "Marketing short showing Walter's capabilities and design philosophy"
+  
+  deleted_scenes:
+    - title: "Shaw's Full Fate"
+      description: |
+        More explicit material showing David's treatment of Shaw; the theatrical cut 
+        leaves her fate deeply ambiguous. Deleted material reportedly made David's 
+        culpability more explicit.
+    
+    - title: "Extended Walter/David Confrontation"
+      description: "Additional dialogue in their philosophical confrontation"
+
+# Alien: Romulus (2024)
+alien_romulus_2024:
+  note: "Deleted scenes not yet officially documented as of franchise database update"
+  known_elements:
+    - "Several sequences trimmed for pacing during final cut"
+    - "Additional Rook/Ash material reportedly filmed and cut"

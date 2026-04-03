@@ -1,0 +1,210 @@
+---
+title: "Aliens"
+year: 1986
+director: "James Cameron"
+runtime_minutes: 137  # theatrical; director's cut 154 minutes
+tagline: "This time it's war"
+
+# Timeline
+in_universe_year: 2179
+chronological_order: 4
+
+# Core Data
+plot_summary: |
+  57 years after the Nostromo incident, Ellen Ripley is rescued from hypersleep and 
+  brought before a Weyland-Yutani inquiry board that strips her of her flight officer 
+  status. When contact is lost with the colonists of LV-426, Ripley is recruited as a 
+  civilian advisor accompanying a squad of Colonial Marines aboard the USS Sulaco. 
+  What they find is a colony overrun by xenomorphs, a single child survivor named Newt, 
+  and a hive built around the colony's nuclear reactor — presided over by a Queen.
+
+key_themes:
+  - maternal_instinct
+  - military_hubris
+  - corporate_negligence
+  - ptsd_and_trauma
+  - found_family
+  - working_class_expendability
+  - technology_vs_nature
+
+# Deaths
+death_count: 25  # approximate; many marines and colonists
+death_order:
+  - name: "Colonists of Hadley's Hope (background)"
+    method: "various xenomorph attacks / implantation"
+    timestamp: "00:38:00"
+    circumstances: "Colony of approximately 158 people wiped out prior to marine arrival"
+  - name: "Frost"
+    method: "killed by burning xenomorph victim"
+    timestamp: "01:08:40"
+    circumstances: "Caught in explosion from Dietrich's flamethrower after she is grabbed"
+  - name: "Dietrich"
+    method: "grabbed by xenomorph, taken to hive"
+    timestamp: "01:08:30"
+    circumstances: "Taken alive, presumably cocooned as host"
+  - name: "Crowe"
+    method: "explosion"
+    timestamp: "01:08:45"
+    circumstances: "Caught in ammo cook-off"
+  - name: "Wierzbowski"
+    method: "presumed xenomorph kill"
+    timestamp: "01:09:00"
+    circumstances: "Lost in chaos of first contact engagement"
+  - name: "Drake"
+    method: "acid blood splash"
+    timestamp: "01:10:10"
+    circumstances: "Hit by acid when Vasquez shoots xenomorph at close range"
+  - name: "Gorman"
+    method: "suicide grenade with Vasquez"
+    timestamp: "01:38:00"
+    circumstances: "Trapped in corridor, detonates grenade to take xenomorphs with them"
+  - name: "Vasquez"
+    method: "suicide grenade with Gorman"
+    timestamp: "01:38:00"
+    circumstances: "Cornered by xenomorphs, dies alongside Gorman"
+  - name: "Hudson"
+    method: "dragged through floor by xenomorphs"
+    timestamp: "01:40:00"
+    circumstances: "Overrun during last stand in operations center"
+  - name: "Newt (Rebecca Jorden) - captured"
+    method: "captured alive"
+    timestamp: "01:42:00"
+    circumstances: "Taken to hive; later rescued by Ripley"
+  - name: "Bishop (damaged)"
+    method: "torn apart by Alien Queen"
+    timestamp: "01:58:30"
+    circumstances: "Queen tears him in half aboard landing ship; survives as damaged android"
+  - name: "Alien Queen"
+    method: "ejected into space via airlock"
+    timestamp: "02:02:00"
+    circumstances: "Ripley uses power loader to battle Queen, ejects her into space"
+
+# Survivors
+survivors:
+  - name: "Ellen Ripley"
+    status: "escaped on USS Sulaco; enters hypersleep"
+  - name: "Newt (Rebecca Jorden)"
+    status: "rescued from hive; enters hypersleep (dies in Alien³ EEV crash)"
+  - name: "Dwayne Hicks"
+    status: "wounded, evacuated; enters hypersleep (dies in Alien³ EEV crash)"
+  - name: "Bishop"
+    status: "severely damaged android; torso only; enters hypersleep"
+
+# Xenomorph Data
+xenomorph_lifecycle_shown:
+  - egg
+  - facehugger
+  - chestburster
+  - adult_warrior
+  - queen
+
+# Iconic Scenes
+iconic_scenes:
+  - name: "Get Away from Her You Bitch"
+    timestamp: "01:55:30"
+    description: "Ripley in power loader confronts the Alien Queen to protect Newt"
+    cultural_impact: "Iconic action hero moment; redefined the female action hero"
+  
+  - name: "First Contact"
+    timestamp: "01:05:00"
+    description: "Colonial Marines enter the processing station and are ambushed by xenomorphs"
+    technique: "Chaotic, claustrophobic action set piece; subverts military competence expectations"
+  
+  - name: "Hudson's Panic"
+    timestamp: "01:12:00"
+    description: "Hudson breaks down: 'Game over, man! Game over!'"
+    cultural_impact: "Definitive expression of panic; endlessly quoted"
+  
+  - name: "Queen's Egg Chamber"
+    timestamp: "01:46:00"
+    description: "Ripley discovers the hive nursery and threatens the Queen's eggs with a flamethrower"
+    significance: "Establishes the Queen as a character and negotiator"
+  
+  - name: "Newt's Rescue"
+    timestamp: "01:48:00"
+    description: "Ripley races back into the hive to rescue captured Newt as the reactor melts down"
+    significance: "Peak expression of maternal theme"
+
+# Notable Quotes
+quotes:
+  - speaker: "Ripley"
+    line: "Get away from her, you BITCH!"
+    context: "Confronting the Alien Queen threatening Newt in the power loader"
+  
+  - speaker: "Hudson"
+    line: "Game over, man! Game over!"
+    context: "After first contact with xenomorphs; marines' tactical situation collapses"
+  
+  - speaker: "Burke"
+    line: "I don't know which species is worse. You don't see them fucking each other over for a goddamn percentage."
+    context: "Ripley accuses Burke of being worse than the aliens"
+  
+  - speaker: "Ripley"
+    line: "They can *bill* me."
+    context: "After triggering colony's nuclear self-destruct"
+  
+  - speaker: "Vasquez"
+    line: "Let's rock!"
+    context: "Marines gearing up for the drop"
+  
+  - speaker: "Hicks"
+    line: "I like to keep this handy... for close encounters."
+    context: "Showing Ripley his shotgun"
+  
+  - speaker: "Ripley"
+    line: "Did IQs just drop sharply while I was away?"
+    context: "Responding to the board of inquiry's skepticism"
+
+# Ships & Locations
+locations:
+  - name: "USS Sulaco"
+    type: "Conestoga-class military transport"
+    crew: "Colonial Marines, synthetic Bishop"
+    fate: "Autopilot returns to Weyland-Yutani controlled space; later catches fire (Alien³)"
+  
+  - name: "Hadley's Hope"
+    type: "terraforming colony"
+    population: 158
+    fate: "Destroyed in atmospheric processor nuclear explosion"
+  
+  - name: "LV-426 (Acheron)"
+    type: "moon"
+    atmosphere: "Being terraformed; breathable in colony environs"
+    status: "Colony destroyed; xenomorph hive annihilated in nuclear blast"
+  
+  - name: "Atmosphere Processor"
+    type: "terraforming infrastructure"
+    fate: "Explodes in nuclear-scale detonation when coolant system damaged"
+
+# Corporate Fuckery
+weyland_yutani_role:
+  directive: "Recover alien specimen; Ripley as bait; crew expendable"
+  executed_by: "Carter Burke (Company rep)"
+  actions:
+    - "Directed colonists to investigate derelict ship without warning them"
+    - "Attempted to impregnate Ripley and Newt with facehuggers for smuggling"
+    - "Planned to eliminate marine witnesses"
+  outcome: "Burke killed by xenomorphs; colony and hive destroyed"
+
+# Production Notes
+notable_crew:
+  screenplay: "James Cameron"
+  production_design: "Peter Lamont"
+  effects: "Stan Winston Studio (Queen construction), John Richardson (practical effects)"
+  cinematography: "Adrian Biddle"
+
+influences:
+  - "Vietnam War film aesthetics - military futility"
+  - "Platoon (1986) - squad dynamics and hubris"
+  - "The Terminator (1984) - Cameron's own action template"
+
+legacy:
+  awards: "Academy Awards: Best Sound Editing, Best Visual Effects"
+  box_office: "$183.3 million worldwide"
+  cultural_impact: |
+    Raised the bar for action-sci-fi films; introduced the Alien Queen as franchise icon; 
+    established Ripley as cinema's defining female action hero.
+
+# Connections
+prequel_film: "Alien (1979)"
+sequel: "Alien³ (1992)"

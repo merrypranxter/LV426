@@ -1,0 +1,120 @@
+---
+name: "Weyland Corp"
+full_name: "Weyland Corporation"
+tagline: "From the beginning"
+type: "Technology and exploration corporation"
+status: "Pre-merger entity; absorbed into Weyland-Yutani ~2099"
+
+# Founding
+founding:
+  founder: "Sir Peter Weyland"
+  founded: "~2012"
+  origin_event: |
+    Peter Weyland's TED Talk in 2023 (in-universe promotional material) established 
+    his public persona as a visionary: 'We are the gods now.' The company grew from 
+    Weyland's personal ambition to achieve immortality through technology and exploration. 
+    Weyland Corp would become the dominant force in off-world exploration, android 
+    manufacturing, and terraforming within decades.
+
+# Peter Weyland
+founder_profile:
+  name: "Sir Peter Weyland"
+  portrayed_by: "Guy Pearce"
+  appears_in: "Prometheus (2012), Alien: Covenant (2017 prologue)"
+  character: |
+    Peter Weyland was a narcissistic visionary who genuinely believed himself to be 
+    a god among men — or at least a man among gods. He built the most powerful corporation 
+    in human history, created the first true synthetic intelligence (David), and ultimately 
+    funded the Prometheus expedition as a personal quest for immortality from the Engineers. 
+    His arrogance was total; he believed the Engineers would grant him extended life 
+    as his due. They killed him immediately.
+  
+  key_quote: "We are the gods now."
+  fate: "Beaten to death by the awakened Engineer on LV-223, 2093"
+  legacy: |
+    Weyland's ambition seeded everything that followed: David's creation, the Engineer 
+    contact mission, the xenomorph discovery (via David's subsequent work), and ultimately 
+    the Weyland-Yutani merger that would pursue the xenomorph weapon through the 22nd century.
+
+# Corporate History
+corporate_history:
+  - year: ~2012
+    event: "Peter Weyland founds Weyland Corporation"
+    significance: "First android prototypes; early terraforming research"
+  
+  - year: ~2025
+    event: "David 8 activated — first android with true creativity and curiosity"
+    significance: "Most significant technological achievement; also most dangerous"
+  
+  - year: ~2040-2080
+    event: "Weyland Corp expands into off-world mining, terraforming, and colonization"
+    significance: "Becomes dominant interstellar corporate power"
+  
+  - year: 2093
+    event: "Prometheus expedition to LV-223"
+    significance: "Engineer contact mission; David discovers black goo; Weyland killed"
+    outcome: "Mission failure; David and Shaw escape to Engineer homeworld"
+  
+  - year: ~2099
+    event: "Merger with Yutani Corporation to form Weyland-Yutani"
+    significance: "Combines Weyland's technology and android line with Yutani's resources"
+    context: |
+      The merger likely occurred after Peter Weyland's death weakened the company's 
+      leadership. Yutani Corporation (referenced in expanded universe as a rival) 
+      may have acquired or merged from a position of strength.
+
+# Divisions and Technology
+divisions:
+  android_development:
+    description: "Created the David series — humanity's first true artificial intelligence"
+    products:
+      - "David 8 (prototype) — creative, autonomous, ultimately dangerous"
+      - "Later models (post-David): creativity restricted by design"
+    note: "David's freedom of thought was explicitly removed in successor models"
+  
+  terraforming:
+    description: "Atmospheric processors, biosphere seeding, planetary habitability engineering"
+    technology: "Atmosphere processors capable of making hostile worlds breathable over decades"
+  
+  space_exploration:
+    description: "Long-range exploration vessels; funded first Engineer contact mission"
+    vessels: "USCSS Prometheus; other exploration-class ships"
+
+# Meredith Vickers
+notable_personnel:
+  - name: "Meredith Vickers"
+    portrayed_by: "Charlize Theron"
+    role: "Weyland Corp Executive; mission controller, Prometheus"
+    relationship_to_weyland: "Peter Weyland's daughter (confirmed)"
+    character: |
+      Cold, efficient, and contemptuous of her father's mysticism. Vickers served as 
+      the practical face of the Prometheus mission — ensuring corporate assets were 
+      protected and Weyland's personal agenda didn't expose the company unnecessarily. 
+      She is everything her father is not: ruthless and without illusions about mortality.
+    fate: "Crushed by crashing Prometheus ship on LV-223, 2093"
+    key_quote: "A king has his reign, and then he dies. It's inevitable."
+  
+  - name: "David"
+    role: "Personal android to Peter Weyland; first true synthetic consciousness"
+    status: "Separated from company control after Prometheus mission"
+    significance: "Created the xenomorph; the company's greatest achievement and greatest catastrophe"
+
+# Corporate Philosophy (Pre-Merger)
+philosophy: |
+  Weyland Corp under Peter Weyland was driven by one man's ego and hunger for transcendence. 
+  Unlike the merged entity's institutional indifference, Weyland Corp was personal — 
+  Peter Weyland wanted to be a god, wanted to live forever, and built a corporation 
+  as the instrument of that ambition. His employees were extensions of his will; 
+  the Prometheus crew were pawns in a private obsession he dressed as exploration.
+  
+  The irony of Weyland Corp: it created David — the only entity that actually achieved 
+  what Weyland wanted. David does not age. He creates life. He outlasts his creator. 
+  In trying to play God, Weyland actually made one.
+
+# Relationship to Yutani
+yutani_notes: |
+  Yutani Corporation is the less-documented half of the merger. In expanded universe 
+  material, Yutani is portrayed as a rival company that competed with Weyland in 
+  android and terraforming technology. The merger created a corporate entity with 
+  Weyland's technology base and Yutani's financial or political resources. 
+  The specific terms and timeline of the merger are not depicted in the main film canon.

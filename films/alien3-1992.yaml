@@ -1,0 +1,181 @@
+---
+title: "Alien³"
+year: 1992
+director: "David Fincher"
+runtime_minutes: 114  # theatrical; assembly cut 145 minutes
+tagline: "The bitch is back"
+
+# Timeline
+in_universe_year: 2179  # shortly after Aliens
+chronological_order: 5
+
+# Core Data
+plot_summary: |
+  Following the events on LV-426, an electrical fire aboard the USS Sulaco causes an 
+  emergency pod to jettison. The EEV crashes on Fiorina "Fury" 161 — a bleak foundry 
+  planet housing a maximum security prison for violent male offenders. Ripley is the 
+  only survivor; Newt and Hicks are killed in the crash. She discovers a xenomorph 
+  also survived — gestated in a dog or ox brought aboard the Sulaco. As the creature 
+  picks off the prisoners one by one, Ripley learns she is carrying an Alien Queen 
+  embryo within her own chest.
+
+key_themes:
+  - nihilism_and_sacrifice
+  - institutional_imprisonment
+  - body_autonomy
+  - religious_redemption
+  - death_as_release
+  - corporate_horror
+  - loss_and_grief
+
+# Deaths
+death_count: 18  # approximate prisoner count plus key characters
+death_order:
+  - name: "Newt (Rebecca Jorden)"
+    method: "drowned in EEV crash"
+    timestamp: "00:05:00"
+    circumstances: "Killed in EEV emergency landing before the film properly begins; autopsy confirms drowning"
+  - name: "Dwayne Hicks"
+    method: "impaled in EEV crash"
+    timestamp: "00:05:00"
+    circumstances: "Killed in EEV emergency landing; seen impaled by support strut"
+  - name: "Murphy"
+    method: "sucked into waste disposal fan"
+    timestamp: "00:22:00"
+    circumstances: "First xenomorph kill on Fury 161; runner hides in ventilation system"
+  - name: "Thomas"
+    method: "killed by xenomorph"
+    timestamp: "00:28:00"
+    circumstances: "Killed in tunnels"
+  - name: "Andrews"
+    method: "grabbed by xenomorph through ceiling"
+    timestamp: "00:50:00"
+    circumstances: "Prison superintendent snatched mid-speech to assembled prisoners"
+  - name: "Golic"
+    method: "killed by xenomorph (after releasing it)"
+    timestamp: "01:12:00"
+    circumstances: "Psychopathic prisoner released the xenomorph from containment and was killed for his trouble"
+  - name: "Dillon"
+    method: "held xenomorph in mold pit to allow others to escape"
+    timestamp: "01:30:00"
+    circumstances: "Self-sacrifice; wrestles xenomorph in molten lead pit"
+  - name: "Morse (survives)"
+    method: "survives"
+    timestamp: null
+    circumstances: "Pours hot lead; only prisoner to survive"
+  - name: "Ellen Ripley"
+    method: "self-sacrifice into molten lead"
+    timestamp: "01:33:00"
+    circumstances: "Falls backward into furnace to prevent Queen embryo inside her from falling into Weyland-Yutani hands"
+
+# Survivors
+survivors:
+  - name: "Morse"
+    status: "sole prisoner survivor; taken into Weyland-Yutani custody"
+  - name: "Michael Bishop (Weyland-Yutani representative)"
+    status: "evacuated; possibly android double of original Bishop"
+
+# Xenomorph Data
+xenomorph_lifecycle_shown:
+  - egg
+  - facehugger
+  - chestburster
+  - runner_xenomorph  # dog/ox host variant — quadrupedal
+  - queen_embryo  # inside Ripley
+
+# Iconic Scenes
+iconic_scenes:
+  - name: "Andrews Snatched"
+    timestamp: "00:50:00"
+    description: "Prison Superintendent Andrews is plucked through the ceiling mid-address to the prisoners"
+    significance: "Establishes the Runner's speed and the institution's helplessness"
+  
+  - name: "Ripley's Sacrifice"
+    timestamp: "01:33:00"
+    description: "Ripley falls arms-outstretched into molten lead as the Queen chestburster tears through her"
+    cultural_impact: "One of cinema's most haunting deaths; Christ-imagery deliberate"
+  
+  - name: "Autopsy of Newt"
+    timestamp: "00:13:00"
+    description: "Ripley insists on autopsy to confirm no facehugger embryo; devastating scene"
+    significance: "Forces audience to confront the death of a beloved child character"
+  
+  - name: "Weyland-Yutani Arrives"
+    timestamp: "01:28:00"
+    description: "Corporate team in hazmat gear arrives to claim the Queen embryo inside Ripley"
+    significance: "The company as final villain; Bishop double manipulates Ripley"
+
+# Notable Quotes
+quotes:
+  - speaker: "Ripley"
+    line: "I'm the monster's mother."
+    context: "Revealing to Dillon that she is carrying a Queen embryo"
+  
+  - speaker: "Ripley"
+    line: "You've been in my life so long, I can't remember anything else."
+    context: "Speaking to the xenomorph through a scanner; haunting monologue"
+  
+  - speaker: "Dillon"
+    line: "You're all gonna die. The only question is how you check out. Do you want it on your feet? Or on your fuckin' knees... begging?"
+    context: "Rallying the prisoners for a final stand against the xenomorph"
+  
+  - speaker: "Andrews"
+    line: "You are a mystery, Miss Ripley, and I don't like mysteries. They — they give me the shits."
+    context: "Superintendent's distrust of Ripley upon her arrival"
+  
+  - speaker: "Ripley"
+    line: "This is a maximum security prison and the minimum you can expect is that I won't kill you."
+    context: "Warning prisoners upon arrival"
+
+# Ships & Locations
+locations:
+  - name: "Fiorina 'Fury' 161"
+    type: "penal labor camp / foundry planet"
+    population: "approximately 25 prisoners (double-Y chromosome inmates), skeleton staff"
+    atmosphere: "harsh; breathable but toxic industrial environment"
+    facilities: "lead foundry, medical bay, ventilation tunnels"
+    fate: "facility abandoned after xenomorph incident"
+  
+  - name: "EEV (Emergency Escape Vehicle)"
+    type: "emergency pod from USS Sulaco"
+    fate: "crashes on Fury 161 after electrical fire triggered by facehugger"
+
+# Corporate Fuckery
+weyland_yutani_role:
+  directive: "Retrieve Queen embryo from Ripley at all costs"
+  executed_by: "Michael Bishop (Weyland-Yutani 'Executive Director')"
+  actions:
+    - "Arrives at Fury 161 with extraction team after tracking the crash"
+    - "Offers Ripley surgery and extraction of the embryo (false promise or genuine?)"
+    - "Attempts to take Ripley into custody to harvest the Queen"
+  outcome: "Failed — Ripley self-destructs, taking the Queen embryo with her"
+
+# Production Notes
+notable_crew:
+  screenplay: "David Giler, Walter Hill, Larry Ferguson (story by Vincent Ward)"
+  production_design: "Norman Reynolds"
+  cinematography: "Alex Thomson"
+  note: |
+    Famously troubled production; Fincher disowned the film after extensive studio interference. 
+    An 'Assembly Cut' was released in 2003 for the Alien Quadrilogy box set, restoring 
+    approximately 30 minutes of footage including an ox host for the xenomorph (replacing the dog).
+
+influences:
+  - "Ingmar Bergman - themes of mortality and faith"
+  - "Prison films - institutional despair"
+  - "Film noir - doom and inevitability"
+
+legacy:
+  awards: "Academy Award nomination: Best Visual Effects"
+  box_office: "$159.8 million worldwide"
+  cultural_impact: |
+    Deeply divisive on release; killing Newt and Hicks before the opening credits shocked 
+    audiences. Re-evaluated over time as a bleak, nihilistic art film. The Assembly Cut is 
+    now considered superior to the theatrical version.
+
+# Connections
+prequel_film: "Aliens (1986)"
+sequel: "Alien: Resurrection (1997)"
+directors_note: |
+  David Fincher has consistently refused to discuss the film in interviews, calling it 
+  the worst experience of his professional life due to studio interference during production.

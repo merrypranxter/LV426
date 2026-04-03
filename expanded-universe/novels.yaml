@@ -1,0 +1,156 @@
+---
+subject: "Alien Franchise — Novels"
+canon_status_note: "Expanded universe; not primary film canon"
+
+overview: |
+  The Alien franchise has a substantial prose bibliography spanning official novelizations, 
+  tie-in novels, and original stories. The novelization of the original Alien (1979) 
+  was written by Alan Dean Foster — who ghost-wrote it under A.J. Rafferty — and 
+  predated the film's release as a promotional tie-in. Foster remained associated with 
+  the franchise for decades. Titan Books became the primary publisher for Alien novels 
+  in the 2010s.
+
+# Official Film Novelizations
+novelizations:
+  
+  - title: "Alien"
+    author: "Alan Dean Foster (as A.J. Rafferty)"
+    published: 1979
+    based_on: "Alien (1979)"
+    notes: |
+      Based on Dan O'Bannon's screenplay. Contains additional character backstory 
+      and details not in the final film — including more detail on the crew's 
+      histories and Ash's internal processing. Widely read and considered 
+      complementary to the film.
+  
+  - title: "Aliens"
+    author: "Alan Dean Foster"
+    published: 1986
+    based_on: "Aliens (1986)"
+    notes: "Novelization of James Cameron's script; follows film closely"
+  
+  - title: "Alien³"
+    author: "Alan Dean Foster"
+    published: 1992
+    based_on: "Alien³ (1992)"
+    notes: "Novelization of David Fincher's film"
+  
+  - title: "Alien: Resurrection"
+    author: "A.C. Crispin"
+    published: 1997
+    based_on: "Alien: Resurrection (1997)"
+    notes: "Novelization of Joss Whedon's screenplay; expanded character backgrounds"
+  
+  - title: "Prometheus"
+    author: "Jon Spaihts (novelization by Alan Dean Foster)"
+    published: 2012
+    based_on: "Prometheus (2012)"
+  
+  - title: "Alien: Covenant"
+    author: "Alan Dean Foster"
+    published: 2017
+    based_on: "Alien: Covenant (2017)"
+    notes: "Includes additional material from the Crossing prologue short film"
+
+# Original Novels (Titan Books era)
+titan_novels:
+  
+  - title: "Alien: Out of the Shadows"
+    author: "Tim Lebbon"
+    published: 2014
+    series: "The Canonical Alien Trilogy"
+    in_universe_year: 2179
+    protagonist: "Ellen Ripley (bridging Alien and Aliens)"
+    plot: |
+      Set during Ripley's 57-year hypersleep; Ripley is briefly awakened when the 
+      Narcissus encounters a mining ship with a xenomorph problem. 
+      Designed to fit between Alien and Aliens without contradicting continuity.
+    canon_note: |
+      Events are erased from Ripley's memory at the end to avoid contradiction 
+      with her lack of awareness of this adventure in Aliens.
+  
+  - title: "Alien: Sea of Sorrows"
+    author: "James A. Moore"
+    published: 2014
+    series: "The Canonical Alien Trilogy"
+    in_universe_year: 2498
+    protagonist: "Alan Decker — descendant of Ellen Ripley"
+    plot: |
+      Set centuries after the original films; Decker has a genetic connection to Ripley 
+      that makes him sensitive to the xenomorphs' pheromones. Weyland-Yutani exploits this.
+  
+  - title: "Alien: River of Pain"
+    author: "Christopher Golden"
+    published: 2014
+    series: "The Canonical Alien Trilogy"
+    in_universe_year: 2179
+    setting: "Hadley's Hope colony (concurrent with its overrun)"
+    plot: |
+      Fills in the events at Hadley's Hope between the colony's establishment and 
+      the USS Sulaco's arrival. Shows the colonists discovering the derelict and 
+      the initial outbreak. Highly regarded for filling a significant gap in the films.
+  
+  - title: "Alien: The Cold Forge"
+    author: "Alex White"
+    published: 2018
+    protagonist: "Dorian Sudler / Blue Marsalis"
+    plot: |
+      A Weyland-Yutani auditor arrives at a secret xenomorph research station 
+      to shut it down; discovers a paralyzed scientist who has been secretly 
+      subverting the research for her own purposes. Corporate horror at its sharpest.
+    reception: "Critically praised; considered one of the best original Alien novels"
+  
+  - title: "Alien: Into Charybdis"
+    author: "Alex White"
+    published: 2021
+    plot: |
+      Engineers, human colonists, and xenomorphs converge on a remote moon. 
+      Engages seriously with the Engineer mythology from Prometheus/Covenant.
+  
+  - title: "Alien: Prototype"
+    author: "Tim Waggoner"
+    published: 2019
+    plot: "Rival corporation to Weyland-Yutani attempts to acquire a xenomorph specimen"
+  
+  - title: "Alien: Echo"
+    author: "Mira Grant"
+    published: 2019
+    note: "Young Adult novel; designed for broader audience"
+    plot: "Twin sisters on a colony world face a xenomorph outbreak"
+  
+  - title: "Alien: Isolation"
+    author: "Keith R.A. DeCandido"
+    published: 2019
+    based_on: "Alien: Isolation video game (2014)"
+    note: "Novelization of the game's storyline; follows Amanda Ripley on Sevastopol"
+  
+  - title: "Aliens: Vasquez"
+    author: "V. Castro"
+    published: 2023
+    protagonist: "Jenette Vasquez"
+    plot: |
+      Backstory of the Colonial Marine Vasquez from Aliens (1986); 
+      explores her life before and the events leading to LV-426.
+  
+  - title: "Alien: Inferno's Fall"
+    author: "Phillipa Ballantine & Clara Carija"
+    published: 2022
+    plot: "Colonial Marines vs. xenomorphs on an outer colony world"
+
+# Notable Series
+alan_dean_foster_contribution:
+  description: |
+    Alan Dean Foster's connection to the Alien franchise spans from 1979 to 2017, 
+    making him the single most prolific prose contributor to the franchise. 
+    His novelizations are often considered the definitive text versions of the films. 
+    In 2020, Foster sued Disney (which had acquired the franchise via Fox) for 
+    unpaid royalties — a high-profile dispute about author rights that he eventually settled.
+
+# Canon Hierarchy
+canon_notes: |
+  Novelizations are generally considered more canonical than original novels, 
+  as they are based directly on screenplays. However, all prose is subordinate 
+  to the film canon. The 'Canonical Alien Trilogy' (Out of the Shadows, Sea of Sorrows, 
+  River of Pain) was explicitly marketed as fitting within film continuity, 
+  though the memory-wipe device in Out of the Shadows indicates even this trilogy 
+  required workarounds to maintain canon consistency.

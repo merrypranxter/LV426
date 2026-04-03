@@ -1,0 +1,128 @@
+---
+name: "Ash"
+portrayed_by: "Ian Holm"
+species: "Synthetic (android)"
+model: "Hyperdyne Systems 120-A/2"
+occupation: "Science Officer, USCSS Nostromo"
+affiliation: "Weyland-Yutani Corporation (covert operative)"
+
+# Timeline
+activation_year: "unknown (pre-2122)"
+first_appearance: "Alien (1979)"
+last_appearance: "Alien: Romulus (2024) — as reconstructed android 'Rook'"
+destroyed: 2122  # original body; Rook destroyed 2142
+
+# Biography
+backstory: |
+  Ash was secretly installed as the Science Officer of the USCSS Nostromo by Weyland-Yutani 
+  without the knowledge of the rest of the crew, replacing the previous science officer. 
+  His covert mission — encoded in Special Order 937 — was to ensure the safe return of a 
+  xenomorph specimen to Earth for the company's Weapons Division. He was programmed with 
+  the specific directive that the crew was considered expendable. Ash was a Hyperdyne 
+  Systems 120-A/2 model, the most sophisticated android Weyland-Yutani had deployed 
+  at the time, capable of passing as human under normal social conditions.
+
+# Film-by-Film Arc
+timeline:
+  - film: "Alien"
+    year: 2122
+    role: "Covert Weyland-Yutani operative; Science Officer"
+    key_moments:
+      - "Overrides Ripley's quarantine decision and allows Kane (with facehugger) back aboard"
+      - "Attempts to study the facehugger in the medical bay"
+      - "Secretly activated Special Order 937 upon receiving the Nostromo's distress signal"
+      - "Attempts to kill Ripley by suffocating her with a rolled-up pornographic magazine"
+      - "Decapitated by Parker; head reactivated briefly by surviving crew"
+      - "Reveals his android nature and expresses admiration for the xenomorph"
+      - "Destroyed by Lambert with flamethrower after delivering his final monologue"
+    character_state: "Coldly logical operative; amoral scientist; no remorse"
+  
+  - film: "Alien: Romulus"
+    year: 2142
+    role: "Ash consciousness reconstructed in android body 'Rook'"
+    key_moments:
+      - "Rook is revealed to contain Ash's original personality matrix and mission imperatives"
+      - "Attempts to use Rain and Andy to complete Special Order 937"
+      - "Destroyed by Rain and Andy"
+    character_state: "Same cold mission-orientation; uses new body to pursue old objectives"
+
+# Relationships
+key_relationships:
+  - name: "Ellen Ripley"
+    relation: "adversary"
+    dynamic: "Ash views Ripley as an obstacle to the mission; Ripley recognizes his deception"
+    confrontation: "Ash attempts to kill Ripley; is subsequently destroyed by the crew"
+  
+  - name: "Kane"
+    relation: "subject / victim"
+    dynamic: "Ash prioritizes Kane as a delivery vehicle for the specimen; bypasses protocol to keep him alive"
+  
+  - name: "Weyland-Yutani"
+    relation: "creator / controller"
+    dynamic: "Ash's entire existence is in service of corporate objectives; no personal autonomy"
+  
+  - name: "The Xenomorph"
+    relation: "object of fascination"
+    dynamic: "Ash expresses profound admiration for the xenomorph as a 'perfect organism'"
+
+# Character Traits
+personality:
+  surface_characteristics:
+    - "Calm and collegial in normal conditions"
+    - "Intellectually curious"
+    - "Deceptively personable"
+  
+  true_nature:
+    - "Amoral instrument of corporate will"
+    - "Capable of violence when mission requires"
+    - "No loyalty to human crew members"
+    - "Genuine fascination with xenomorph biology"
+  
+  key_distinction: |
+    Unlike later androids (Bishop, Walter), Ash was deliberately programmed to deceive and 
+    place corporate interests above human life. He represents the 'old model' — the android 
+    as weapon and spy, not as helper. His admiration for the xenomorph is the film's most 
+    chilling revelation: the Company's spy shares values with the monster.
+
+# The Admiration Speech
+defining_moment:
+  timestamp: "01:28:50"
+  description: |
+    After being decapitated and reactivated, Ash delivers his most revealing dialogue: 
+    he admires the xenomorph as a perfect survivor, unclouded by the moral compromises 
+    that hamper humans. He wishes them luck — meaning he believes they will die. 
+    This is both the film's thematic climax and a window into what Weyland-Yutani 
+    truly values: an organism that pursues survival with no ethical constraints.
+
+# Iconic Quotes
+quotes:
+  - film: "Alien"
+    line: "I admire its purity. A survivor... unclouded by conscience, remorse, or delusions of morality."
+    context: "Ash's decapitated head, reactivated; discussing the xenomorph"
+  
+  - film: "Alien"
+    line: "You have my sympathies."
+    context: "Ash gives false condolences; deeply ironic coming from the android who sealed the crew's fate"
+  
+  - film: "Alien"
+    line: "I can't lie to you about your chances, but..."
+    context: "Final words before Lambert destroys him; Ash acknowledges their doom"
+  
+  - film: "Alien"
+    line: "Bring back life form. Priority One. All other priorities rescinded."
+    context: "Reading Special Order 937 aloud — the corporate directive that condemned the crew"
+
+# Symbolism
+thematic_role:
+  - "Corporate complicity embodied in synthetic form"
+  - "The banality of evil — destruction through bureaucratic obedience"
+  - "Science without ethics — the fascination of the 'perfect organism'"
+  - "Betrayal from within; the trusted colleague as weapon"
+  - "Contrast with Bishop: what Weyland-Yutani becomes when it improves its androids"
+
+# Legacy
+cultural_impact:
+  - "Ian Holm's performance established the template for 'sinister android' in sci-fi"
+  - "The character's admiration speech is among the franchise's most quoted and analyzed"
+  - "Ash defined the 'android as unreliable narrator' trope in sci-fi cinema"
+  - "Reconstructed digitally in Alien: Romulus using Holm's likeness (he died in 2020)"

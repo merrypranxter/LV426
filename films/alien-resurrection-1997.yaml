@@ -1,0 +1,183 @@
+---
+title: "Alien: Resurrection"
+year: 1997
+director: "Jean-Pierre Jeunet"
+runtime_minutes: 109  # theatrical; special edition 116 minutes
+tagline: "It's already too late"
+
+# Timeline
+in_universe_year: 2381  # 200 years after Alien³
+chronological_order: 6
+
+# Core Data
+plot_summary: |
+  Two centuries after Ellen Ripley's sacrifice on Fiorina 161, military scientists aboard 
+  the Auriga science vessel have cloned her using preserved DNA, extracting the dormant 
+  Alien Queen embryo in the process. "Ripley 8" — the eighth successful clone — is a 
+  human-xenomorph hybrid with enhanced strength, reflexes, and acid blood. The military 
+  is breeding xenomorphs for weapons research using human hosts acquired from a mercenary 
+  vessel, the Betty. When the aliens inevitably escape, Ripley 8 must navigate her complex 
+  dual nature as both predator and prey — and face a disturbing new hybrid offspring.
+
+key_themes:
+  - identity_and_selfhood
+  - genetic_manipulation_ethics
+  - posthuman_existence
+  - creation_and_responsibility
+  - motherhood_perverted
+  - corporate_military_complex
+  - what_makes_us_human
+
+# Deaths
+death_count: 22  # approximate
+death_order:
+  - name: "Vriess (survives)"
+    method: "survives"
+    timestamp: null
+    circumstances: "Wheelchair-bound mechanic of the Betty; escapes to Earth"
+  - name: "Distephano"
+    method: "killed by Newborn"
+    timestamp: "01:32:00"
+    circumstances: "One of the few sympathetic military personnel; killed by the Newborn hybrid"
+  - name: "General Peréz"
+    method: "skull pulled apart by escaped xenomorph"
+    timestamp: "01:05:00"
+    circumstances: "Military commander; xenomorph tears through his skull from behind"
+  - name: "Dr. Gediman"
+    method: "implanted by facehugger / killed by Newborn"
+    timestamp: "01:35:00"
+    circumstances: "Scientist who grew too fascinated with xenomorphs; cocooned and ultimately killed by the Newborn"
+  - name: "Christie"
+    method: "falls to death covering Vriess's escape"
+    timestamp: "01:15:00"
+    circumstances: "Warrior mercenary sacrifices himself while hanging from guide wire"
+  - name: "Johner (survives)"
+    method: "survives"
+    timestamp: null
+    circumstances: "Crude mercenary; escapes to Earth aboard Betty"
+  - name: "Call (survives)"
+    method: "survives (revealed as android)"
+    timestamp: null
+    circumstances: "Second-generation android on a mission to kill Ripley 8 to prevent Queen extraction"
+  - name: "The Newborn"
+    method: "sucked through hull breach into space"
+    timestamp: "01:38:00"
+    circumstances: "Ripley 8 uses her acid blood to melt porthole glass; Newborn is drawn out in explosive decompression"
+
+# Survivors
+survivors:
+  - name: "Ripley 8"
+    status: "arrives on Earth for the first time; uncertain future as posthuman entity"
+  - name: "Call"
+    status: "second-generation android; arrives on Earth"
+  - name: "Johner"
+    status: "mercenary; arrives on Earth"
+  - name: "Vriess"
+    status: "mechanic; arrives on Earth"
+
+# Xenomorph Data
+xenomorph_lifecycle_shown:
+  - egg
+  - facehugger
+  - chestburster
+  - adult_warrior
+  - queen
+  - newborn_hybrid
+
+# Iconic Scenes
+iconic_scenes:
+  - name: "The Clone Room"
+    timestamp: "00:48:00"
+    description: "Ripley 8 discovers the previous seven failed clones preserved in vats; destroys the room with a flamethrower"
+    cultural_impact: "Haunting; establishes the horror of her existence and elicits sympathy"
+  
+  - name: "Ripley 8 vs. Basketball"
+    timestamp: "00:20:00"
+    description: "Ripley 8 demonstrates enhanced reflexes and alien-human nature; catches ball without looking, makes impossible shot"
+    significance: "Establishes her hybrid nature as visually distinct from original Ripley"
+  
+  - name: "Swimming with Xenomorphs"
+    timestamp: "01:10:00"
+    description: "Survivors swim through a flooded kitchen with xenomorphs in the water"
+    significance: "Unique action set piece; xenomorphs shown as capable swimmers"
+  
+  - name: "The Newborn's Death"
+    timestamp: "01:38:00"
+    description: "Newborn hybrid is sucked through a porthole; agonizing, drawn-out death designed to evoke horror and sympathy"
+    significance: "Grotesque inversion of maternal grief; Ripley 8 both mourns and destroys her 'offspring'"
+
+# Notable Quotes
+quotes:
+  - speaker: "Ripley 8"
+    line: "I'm the monster's mother."
+    context: "Echo of original Ripley's line; now literal — she is the Queen's host and origin"
+  
+  - speaker: "Ripley 8"
+    line: "I've done this before."
+    context: "Referring to her genetic memories of original Ripley's experiences"
+  
+  - speaker: "Call"
+    line: "I should have killed you. It would have been so easy."
+    context: "After being revealed as an android and her mission to kill Ripley 8 is thwarted"
+  
+  - speaker: "Ripley 8"
+    line: "You're a robot? I'm the monster's mother."
+    context: "Dark humor upon learning Call is a machine"
+  
+  - speaker: "Dr. Wren"
+    line: "These animals are prime specimens. Do you know what they're worth?"
+    context: "Military scientist prioritizing the xenomorphs over human lives"
+
+# Ships & Locations
+locations:
+  - name: "USM Auriga"
+    type: "military science vessel"
+    operator: "United Systems Military"
+    purpose: "xenomorph research / weapons development"
+    fate: "crashes into Earth as kamikaze; destroyed"
+  
+  - name: "The Betty"
+    type: "mercenary transport vessel"
+    crew: "Call, Johner, Vriess, Christie, Elgyn (killed)"
+    fate: "survives; used to escape to Earth"
+  
+  - name: "Earth"
+    note: "First time Ripley (any version) reaches Earth in the main film series"
+    condition: "implied post-industrial; described as 'a shithole'"
+
+# Corporate / Military Fuckery
+weyland_yutani_role:
+  note: "Weyland-Yutani appears to have been bought out by Walmart by this era (confirmed in dialogue)"
+  directive: "United Systems Military has taken over xenomorph weapons research"
+  executed_by: "General Peréz, Dr. Wren"
+  actions:
+    - "Cloned Ripley 8 times over 200 years to extract Queen embryo"
+    - "Purchased human hosts from mercenaries (the Betty's previous runs)"
+    - "Bred xenomorphs aboard the Auriga"
+  outcome: "Failed — Auriga destroyed; all xenomorphs killed"
+
+# Production Notes
+notable_crew:
+  screenplay: "Joss Whedon"
+  production_design: "Nigel Phelps"
+  cinematography: "Darius Khondji"
+  note: |
+    Joss Whedon has publicly expressed dissatisfaction with how his screenplay was adapted, 
+    criticizing the tone and direction choices. Jeunet brought a distinctive European grotesque 
+    aesthetic, influencing the film's queasy body horror.
+
+influences:
+  - "French cinema grotesque — Jeunet's visual language (Delicatessen, City of Lost Children)"
+  - "Frankenstein mythology — creation versus creator"
+  - "Body horror traditions of Cronenberg"
+
+legacy:
+  box_office: "$161.4 million worldwide"
+  cultural_impact: |
+    Divisive and often cited as the weakest of the original quadrilogy, though its 
+    creature design (Newborn) and Ripley 8's characterization are frequently praised. 
+    Ron Perlman's Johner became a cult favorite.
+
+# Connections
+prequel_film: "Alien³ (1992)"
+note: "Considered the end of the 'Ripley saga'; Alien: Romulus (2024) begins a new thread"

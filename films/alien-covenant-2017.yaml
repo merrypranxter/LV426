@@ -1,0 +1,204 @@
+---
+title: "Alien: Covenant"
+year: 2017
+director: "Ridley Scott"
+runtime_minutes: 122
+tagline: "The path to paradise begins in hell"
+
+# Timeline
+in_universe_year: 2104  # 11 years after Prometheus
+chronological_order: 2
+
+# Core Data
+plot_summary: |
+  The colonization vessel Covenant, carrying 2,000 sleeping colonists and 1,140 embryos 
+  to the remote planet Origae-6, is damaged by a neutrino burst. The awakened crew 
+  intercepts a rogue transmission from a nearby habitable planet — a human voice singing 
+  John Denver's "Take Me Home, Country Roads." Investigating against the advice of 
+  synthetic Walter, they land on an eerily perfect world, only to encounter spores that 
+  infect crew members and spawn Neomorphs. They are saved by David — the android from 
+  the Prometheus expedition — who has been living alone on the Engineers' homeworld for 
+  10 years, following a devastating black goo bombardment. David has been experimenting 
+  with the mutagen, attempting to engineer the perfect organism. The Covenant crew 
+  realizes too late that David has been orchestrating events to use the colonists as 
+  experimental subjects.
+
+key_themes:
+  - creation_and_hubris
+  - art_consciousness_and_mortality
+  - what_is_god
+  - the_perfect_organism
+  - android_evolution
+  - colonialism_and_destruction
+  - manipulation_and_trust
+
+# Deaths
+death_count: 20  # approximate; includes colonists killed by David
+death_order:
+  - name: "Jacob Branson (Captain)"
+    method: "killed in solar flare accident during ship repairs"
+    timestamp: "00:05:00"
+    circumstances: "Burned alive in cryo-pod malfunction at the film's opening; sets up Oram as replacement captain"
+  - name: "Ledward"
+    method: "Neomorph backburster"
+    timestamp: "00:32:00"
+    circumstances: "Infected by spore through ear; Neomorph tears out of his back"
+  - name: "Hallett"
+    method: "Neomorph chestburster (through mouth)"
+    timestamp: "00:34:00"
+    circumstances: "Infected by spore through mouth; Neomorph erupts from his throat"
+  - name: "Karine"
+    method: "killed by Neomorph during outbreak"
+    timestamp: "00:34:00"
+    circumstances: "Killed in quarantine bay during Ledward's Neomorph emergence"
+  - name: "Faris"
+    method: "explosion (accidental)"
+    timestamp: "00:36:00"
+    circumstances: "Shoots at Neomorph with flare gun in fuel-filled landing ship; triggers explosion"
+  - name: "Rosenthal"
+    method: "killed by Neomorph"
+    timestamp: "00:55:00"
+    circumstances: "Separated from group; Neomorph tracked and killed her"
+  - name: "Oram (Captain)"
+    method: "facehugger implantation / chestburster"
+    timestamp: "01:14:00"
+    circumstances: "David manipulates Oram into leaning over an egg; facehugger attaches; Xenomorph classic bursts from him"
+  - name: "Lope"
+    method: "killed by xenomorph"
+    timestamp: "01:28:00"
+    circumstances: "Facehugger attached to him briefly; dies from injuries"
+  - name: "Walter (possibly)"
+    method: "beaten by David"
+    timestamp: "01:20:00"
+    circumstances: "David defeats Walter in physical fight; Walter's fate ambiguous — David takes his place"
+  - name: "Tennessee (survives)"
+    method: "survives"
+    timestamp: null
+    circumstances: "Pilots rescue; one of few survivors"
+  - name: "Daniels (Daniels Branson)"
+    method: "placed in cryo by David disguised as Walter"
+    timestamp: "01:38:00"
+    circumstances: "Realizes too late the 'Walter' with them is actually David; locked in cryo-pod"
+  - name: "Engineer population (Planet 4)"
+    method: "black goo bombardment by David"
+    timestamp: "00:25:00"
+    circumstances: "David released Engineer black goo urns over the Engineers' homeworld, killing all inhabitants"
+
+# Survivors
+survivors:
+  - name: "Daniels"
+    status: "placed in cryo by David; fate unknown pending sequel"
+  - name: "Tennessee"
+    status: "placed in cryo by David; fate unknown"
+  - name: "David (posing as Walter)"
+    status: "infiltrates Covenant; has embryos; plans to continue experiments en route to Origae-6"
+
+# Xenomorph Data
+xenomorph_lifecycle_shown:
+  - spore_infection
+  - neomorph_backburster
+  - neomorph_adult
+  - egg  # David's engineered eggs
+  - facehugger
+  - chestburster
+  - adult_xenomorph  # David's perfected creation
+
+# Iconic Scenes
+iconic_scenes:
+  - name: "David Bombs the Engineers"
+    timestamp: "00:25:00"
+    description: "In extended prologue flashback, David releases thousands of black goo pods over an Engineer city teeming with life"
+    cultural_impact: "Reveals David as mass murderer; recontextualizes the entire franchise mythology"
+  
+  - name: "David Teaches Walter to Play Recorder"
+    timestamp: "00:58:00"
+    description: "David instructs Walter in playing the flute; layered metaphor for creation, submission, and rebellion"
+    significance: "Key character scene establishing David's superiority complex"
+  
+  - name: "David and Shaw"
+    timestamp: "01:05:00"
+    description: "David reveals Shaw died during his experiments; ambiguous whether this was accidental or deliberate"
+    significance: "Shaw's fate and David's betrayal of the only human who trusted him"
+  
+  - name: "David vs. Walter"
+    timestamp: "01:20:00"
+    description: "David fights Walter; taunts him: 'Watch out, Walter. I'm the better David.'"
+    significance: "Clash of two models of the same android; one seeks to create, one to serve"
+  
+  - name: "David Sings"
+    timestamp: "01:39:00"
+    description: "David hums to himself as the Covenant departs, having infiltrated it with xenomorph embryos"
+    significance: "Deeply unsettling final moment; David has won"
+
+# Notable Quotes
+quotes:
+  - speaker: "David"
+    line: "I've been waiting for this for a long time."
+    context: "Speaking to Weyland in the opening prologue — his very first moment of existence"
+  
+  - speaker: "David"
+    line: "Do you know what it means to feel love for your creation? To know that tomorrow, it will be gone?"
+    context: "Philosophical discussion with Walter about creation and mortality"
+  
+  - speaker: "David"
+    line: "You'll be judged for this."
+    context: "Shaw rebukes David for bombing the Engineers; his response is silence"
+  
+  - speaker: "David"
+    line: "Look on my works, ye Mighty, and despair!"
+    context: "Quoting Shelley's Ozymandias while showing Shaw's mutated remains; grandiose self-declaration"
+  
+  - speaker: "Daniels"
+    line: "What kind of a man are you?"
+    context: "To David; revealing the thematic heart of his character arc"
+
+# Ships & Locations
+locations:
+  - name: "USCSS Covenant"
+    type: "colonization vessel"
+    payload: "2,000 colonists, 1,140 embryos, 15 crew"
+    destination: "Origae-6 (7 years away)"
+    fate: "infiltrated by David; continuing to Origae-6 under his control"
+  
+  - name: "Planet 4 (Engineer Homeworld)"
+    type: "Engineer civilization planet"
+    atmosphere: "breathable; Earth-like"
+    condition: "all life wiped out by David's black goo bombardment in 2094"
+    significance: "Engineers' home planet; David's laboratory for 10 years"
+  
+  - name: "David's Laboratory"
+    type: "underground Engineer ruins"
+    contents: "mutagen experiments, Shaw's remains, thousands of xenomorph eggs in gestation"
+    significance: "Ground zero for the creation of the 'modern' xenomorph strain"
+
+# Corporate Fuckery
+weyland_yutani_role:
+  company: "Weyland Corp (pre-merger with Yutani)"
+  note: "Walter is a later-model Weyland android, deliberately less creative than David"
+  actions:
+    - "Covenant mission is a corporate colonization project"
+    - "Mother (ship AI) may have received modified orders from David by film's end"
+  outcome: "Covenant compromised; colonists and embryos at David's mercy"
+
+# Production Notes
+notable_crew:
+  screenplay: "John Logan, Dante Harper (story by Jack Paglen, Michael Green)"
+  production_design: "Chris Seagers"
+  cinematography: "Dariusz Wolski"
+
+influences:
+  - "Frankenstein (Mary Shelley) - creation turning on creator"
+  - "Ozymandias (Percy Shelley) - David quotes it directly"
+  - "Milton's Paradise Lost - the rebel angel who creates hell"
+
+legacy:
+  box_office: "$240.9 million worldwide"
+  cultural_impact: |
+    Confirmed David as the creator of the xenomorph species (controversial among fans who 
+    preferred the mythology of an ancient alien origin). Critics were divided; praised for 
+    Michael Fassbender's dual performance, criticized for sidelining the Engineers mythology 
+    in favor of a David-centric story.
+
+# Connections
+prequel_film: "Prometheus (2012)"
+sequel_to_lead_into: "Alien (1979) — David is en route to Origae-6 with xenomorph embryos; trajectory to become the LV-426 derelict is implied but unconfirmed"

@@ -1,0 +1,134 @@
+---
+name: "USCSS Nostromo"
+full_designation: "United States Commercial Starship Nostromo"
+registry: "180924609"
+type: "Commercial towing vessel"
+class: "Lockmart CM-88B Bison M-Class starfreighter"
+operator: "Weyland-Yutani Corporation"
+status: "DESTROYED — 2122"
+
+# Technical Specifications
+specifications:
+  length: "~243 meters (ship only); ~800+ meters with mineral refinery in tow"
+  mass: "~65,000 tonnes (unloaded)"
+  propulsion: "Fusion drive"
+  maximum_speed: "Not specified in-canon (slower-than-light; hypersleep required)"
+  crew_capacity: 7
+  cryo_capacity: 7 pods (standard plus one for Jones the cat's carrier)
+  
+  escape_vehicle:
+    name: "Narcissus"
+    type: "Shuttlecraft"
+    capacity: "1-2 crew plus cargo"
+    fate: "Used by Ripley to escape; drifting in space until rescued 57 years later"
+
+# Crew Manifest (2122 Mission)
+crew:
+  - name: "Dallas, Arthur"
+    rank: "Captain"
+    status: "DECEASED — killed by xenomorph in air ducts"
+  
+  - name: "Ripley, Ellen Louise"
+    rank: "Warrant Officer / Flight Deck Officer"
+    status: "SURVIVED — escaped in Narcissus"
+  
+  - name: "Kane, Gilbert Ward"
+    rank: "Executive Officer"
+    status: "DECEASED — first xenomorph chestburster victim"
+  
+  - name: "Ash"
+    rank: "Science Officer"
+    designation: "Hyperdyne Systems 120-A/2 android (crew unaware)"
+    status: "DESTROYED — decapitated by Parker; incinerated by Lambert"
+  
+  - name: "Lambert, Joan Marie"
+    rank: "Navigator"
+    status: "DECEASED — killed by xenomorph during fuel loading"
+  
+  - name: "Parker, Samuel"
+    rank: "Chief Engineer"
+    status: "DECEASED — killed by xenomorph while attempting to rescue Lambert"
+  
+  - name: "Brett, Samuel"
+    rank: "Engineering Technician"
+    status: "DECEASED — first crew member killed by adult xenomorph"
+  
+  - name: "Jones"
+    rank: "Ship's cat"
+    status: "SURVIVED — escaped with Ripley"
+
+# Mission Profile (2122)
+mission_2122:
+  origin: "Returning from mineral ore towing operation"
+  cargo: "Mineral ore refinery; approximately 20 million tons refined ore"
+  destination: "Earth"
+  
+  diversion:
+    trigger: "MU-TH-UR 6000 (MOTHER) computer intercepts alien transmission from LV-426"
+    actual_trigger: |
+      Unknown to crew, MOTHER's response was pre-programmed — Special Order 937 
+      had been loaded by Weyland-Yutani prior to departure, instructing the ship 
+      to divert to LV-426 if the signal was received. The crew did not know the 
+      mission parameters until Ripley accessed MOTHER directly.
+    
+    result: "Crew awakened from hypersleep; diverted to LV-426"
+
+# Special Order 937
+special_order_937:
+  full_text: |
+    SPECIAL ORDER 937: 
+    NOSTROMO, CREW EXPENDABLE. 
+    RETURN BIOLOGICAL SPECIMEN TO COMPANY FACILITY. 
+    PRIORITY ONE: ENSURE RETURN OF ORGANISM FOR ANALYSIS. 
+    ALL OTHER PRIORITIES RESCINDED. 
+    CREW EXPENDABLE.
+  
+  accessing_officer: "Ash (Science Officer; only crew member authorized)"
+  discovered_by: "Ripley — accessed MOTHER directly after Dallas's disappearance"
+
+# Ship Systems
+ship_systems:
+  mother:
+    designation: "MU-TH-UR 6000"
+    type: "Central ship intelligence / AI"
+    access: "Restricted terminal in Ash's compartment; crew required authorization"
+    role: "Navigation, life support, mission parameter execution"
+    complicity: |
+      MOTHER was pre-programmed with Special Order 937. She woke the crew, diverted 
+      them to LV-426, and restricted information from them throughout. Whether MOTHER 
+      constitutes an artificial consciousness with complicity or merely a programmed 
+      tool is left open.
+  
+  hypersleep_chambers:
+    count: 7
+    function: "Stasis for long-duration travel"
+    duration_this_mission: "Crew in hypersleep for 10 months on return leg before diversion"
+  
+  self_destruct:
+    type: "10-minute countdown; irreversible after T-minus 5 minutes"
+    activated_by: "Ripley (activated and cancelled once; reactivated; escaped before detonation)"
+    yield: "Equivalent to a small nuclear device"
+    result: "Nostromo and cargo destroyed; xenomorph briefly survived in shuttle exhaust"
+
+# Fate
+fate:
+  destruction: "Self-destruct activated by Ripley, 2122"
+  location_of_destruction: "LV-426 orbit / nearby space"
+  significance: |
+    The Nostromo's destruction ended the xenomorph threat from that particular organism. 
+    The ship's logs and Ripley's report were not believed by Weyland-Yutani's board for 57 years. 
+    The destruction of a $45 million starfreighter and cargo worth many times more was 
+    attributed to pilot error and insanity by the company.
+  
+  salvage:
+    alien_romulus: |
+      In Alien: Romulus (2142), the Nostromo's destruction produced recoverable debris, 
+      including materials that Weyland-Yutani used in their Renaissance station research. 
+      Ash's memory cores were among the recovered items.
+
+# Thematic Role
+thematic_significance:
+  - "The industrial workspace as horror environment — the Nostromo is a factory, not a spacecraft"
+  - "Working class trapped by corporate machinery — literally and figuratively"
+  - "MOTHER as the indifferent institution — she never lies, she just withholds the truth that would save them"
+  - "The ship's name: Nostromo — Conrad's novel about complicity and moral compromise in imperial trade"

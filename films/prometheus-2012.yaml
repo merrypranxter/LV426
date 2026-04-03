@@ -1,0 +1,181 @@
+---
+title: "Prometheus"
+year: 2012
+director: "Ridley Scott"
+runtime_minutes: 124  # theatrical
+tagline: "The search for our beginning could lead to our end"
+
+# Timeline
+in_universe_year: 2093
+chronological_order: 1
+
+# Core Data
+plot_summary: |
+  Scientists Elizabeth Shaw and Charlie Holloway discover a star map in ancient cave 
+  paintings from multiple unconnected civilizations. Funded by Peter Weyland aboard 
+  the scientific exploration vessel Prometheus, the team travels to LV-223 in the 
+  Zeta² Reticuli system. There they find a vast subterranean Engineer installation 
+  filled with black ooze mutagen containers and dead Engineers. The surviving Engineer 
+  is awakened and immediately begins killing the crew. David, the ship's android, 
+  pursues his own agenda — infecting Holloway, assisting Weyland, and studying the 
+  mutagen. Shaw discovers humanity was deliberately seeded by the Engineers, who later 
+  planned an extinction event against their creation.
+
+key_themes:
+  - creation_and_abandonment
+  - faith_vs_science
+  - hubris_of_exploration
+  - corporate_exploitation_of_science
+  - what_makes_us_human
+  - the_cost_of_answers
+  - android_consciousness
+
+# Deaths
+death_count: 15  # approximate
+death_order:
+  - name: "Millburn"
+    method: "killed by hammerpede (mutagen-infected worm)"
+    timestamp: "01:06:00"
+    circumstances: "Attempts to approach alien snake-like creature; strangled and infected"
+  - name: "Fifield"
+    method: "mutated by black goo; killed by crew"
+    timestamp: "01:08:00" 
+    circumstances: "Falls in black goo; mutates into feral creature; killed in vehicle bay"
+  - name: "Charlie Holloway"
+    method: "immolated by Meredith Vickers on Weyland's orders"
+    timestamp: "01:08:30"
+    circumstances: "David infected him with black goo; Vickers burns him to prevent contamination"
+  - name: "Peter Weyland"
+    method: "killed by the Engineer"
+    timestamp: "01:37:00"
+    circumstances: "Engineer tears David's head off and beats Weyland to death with it"
+  - name: "Meredith Vickers"
+    method: "crushed by crashing Prometheus ship"
+    timestamp: "01:42:00"
+    circumstances: "Escapes by parachute but runs in wrong direction; killed by rolling Engineer vessel"
+  - name: "Janek (Captain)"
+    method: "sacrificial ramming with Prometheus"
+    timestamp: "01:40:00"
+    circumstances: "Crashes the Prometheus into the Engineer's ship to prevent it reaching Earth"
+  - name: "The Engineer (LV-223)"
+    method: "killed by Deacon chestburster"
+    timestamp: "01:50:00"
+    circumstances: "Proto-facehugger from Shaw's 'trilobite' organism implants embryo; Deacon bursts from Engineer's chest"
+
+# Survivors
+survivors:
+  - name: "Elizabeth Shaw"
+    status: "escapes in Engineer vessel with David's severed head; travels to Engineer homeworld"
+  - name: "David (severed)"
+    status: "head only; reattached; accompanies Shaw toward Engineers' home planet"
+
+# Xenomorph Data
+xenomorph_lifecycle_shown:
+  - black_goo_mutagen
+  - hammerpede  # infected worm
+  - trilobite  # proto-facehugger (Shaw's surgically removed 'pregnancy')
+  - deacon  # Engineer-hosted proto-xenomorph
+
+# Iconic Scenes
+iconic_scenes:
+  - name: "Cave Painting Discovery"
+    timestamp: "00:05:00"
+    description: "Ancient cave art across cultures shows same star map constellation; Shaw interprets as invitation"
+    significance: "Setup for entire Engineers mythology"
+  
+  - name: "David Infects Holloway"
+    timestamp: "01:00:00"
+    description: "David drops black goo into Holloway's drink without his knowledge"
+    significance: "Establishes David's curiosity-driven amorality and willingness to experiment on humans"
+  
+  - name: "Shaw's Self-Surgery"
+    timestamp: "01:15:00"
+    description: "Shaw uses automated MedPod to surgically remove the trilobite organism from her womb"
+    cultural_impact: "Harrowing body horror sequence; echo of original chestburster"
+  
+  - name: "Engineer Awakens"
+    timestamp: "01:30:00"
+    description: "Weyland's team awakens the surviving Engineer in cryo-sleep; it immediately attacks"
+    significance: "Humanity gets to meet its creators — and is violently rejected"
+  
+  - name: "The Deacon"
+    timestamp: "01:50:00"
+    description: "Proto-xenomorph (Deacon) bursts from the Engineer's chest in the film's final moments"
+    significance: "First glimpse of the xenomorph evolutionary chain in the prequel timeline"
+
+# Notable Quotes
+quotes:
+  - speaker: "Elizabeth Shaw"
+    line: "They were Engineers. They made us. And then they tried to kill us. I'd like to know why."
+    context: "Shaw's motivation for continuing to the Engineers' home planet"
+  
+  - speaker: "David"
+    line: "Big things have small beginnings."
+    context: "Ambiguous; referring to exploration, creation, and the black goo's potential"
+  
+  - speaker: "David"
+    line: "Doesn't everyone want their parents dead?"
+    context: "Responding to Holloway's question about why androids would want their creators dead"
+  
+  - speaker: "Peter Weyland"
+    line: "There is nothing."
+    context: "Final words; Engineer kills him after confirming there is no afterlife or special treatment"
+  
+  - speaker: "Holloway"
+    line: "They were gods. And they changed their minds."
+    context: "Realization that the Engineers abandoned or planned to destroy humanity"
+
+# Ships & Locations
+locations:
+  - name: "USCSS Prometheus"
+    type: "scientific exploration vessel"
+    operator: "Weyland Corp"
+    crew_complement: 17
+    fate: "rammed into Engineer juggernaut; destroyed"
+  
+  - name: "LV-223"
+    type: "moon, Zeta² Reticuli system"
+    atmosphere: "not breathable without suits (near-toxic)"
+    installations: "Engineer underground complex; multiple 'dome' structures"
+    significance: "Biological weapons laboratory; separate from LV-426"
+  
+  - name: "Engineer Installation"
+    type: "subterranean complex"
+    contents: "black goo urns, Engineer cryo-pods, navigation chair, star maps"
+    note: "One of several such installations; linked to the Juggernaut ship class"
+
+# Corporate Fuckery
+weyland_yutani_role:
+  company: "Weyland Corp (pre-merger)"
+  directive: "Peter Weyland seeks immortality from the Engineers"
+  executed_by: "Meredith Vickers (company rep, Weyland's daughter), David (android servant)"
+  actions:
+    - "Funded entire expedition under guise of scientific discovery"
+    - "True mission: have Peter Weyland speak to Engineers and beg for more life"
+    - "David experiments on crew with black goo per Weyland's implied instruction"
+  outcome: "Weyland killed; mission failed; Shaw escapes with David"
+
+# Production Notes
+notable_crew:
+  screenplay: "Jon Spaihts, Damon Lindelof"
+  production_design: "Arthur Max"
+  cinematography: "Dariusz Wolski"
+  visual_effects: "Weta Digital, MPC, Framestore"
+
+influences:
+  - "2001: A Space Odyssey (1968) - humanity confronting its makers"
+  - "Chariots of the Gods (Erich von Däniken) - ancient astronaut theory"
+  - "Paradise Lost (Milton) - creation, rebellion, and punishment"
+
+legacy:
+  box_office: "$403.4 million worldwide"
+  cultural_impact: |
+    Divisive upon release; praised for ambition and visuals, criticized for 
+    unanswered questions and character choices. H.R. Giger contributed concept 
+    art for the Engineer and installation designs before his death in 2014. 
+    Opened the 'Engineers' mythology that Alien: Covenant continued.
+
+# Connections
+sequel: "Alien: Covenant (2017)"
+franchise_link: "Precedes Alien (1979) by 29 years in-universe"
+engineer_connection: "LV-223 Engineers are different installation to LV-426 derelict (Alien)"

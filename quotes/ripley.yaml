@@ -1,0 +1,209 @@
+---
+subject: "Ellen Ripley — Comprehensive Quote Archive"
+character: "Ellen Ripley (Ellen Louise Ripley)"
+portrayed_by: "Sigourney Weaver"
+films_covered:
+  - "Alien (1979)"
+  - "Aliens (1986)"
+  - "Alien³ (1992)"
+  - "Alien: Resurrection (1997)"
+
+quotes:
+  
+  # === ALIEN (1979) ===
+  
+  - film: "Alien"
+    year: 1979
+    in_universe_year: 2122
+    speaker: "Ripley"
+    line: "I can't lie to you about your chances, but... you have my sympathies."
+    context: |
+      To the decapitated Ash, after the crew has discovered his android nature and 
+      reactivated him to get information about how to fight the xenomorph. 
+      A devastating line — simultaneously compassionate and honest.
+    significance: "Establishes Ripley's defining character: blunt honesty delivered with humanity"
+    timestamp: "01:29:20"
+  
+  - film: "Alien"
+    year: 1979
+    in_universe_year: 2122
+    speaker: "Ripley"
+    line: "Goddammit, open the hatch!"
+    context: "Screaming at Dallas to open the decompression hatch on the Narcissus to kill the xenomorph"
+    timestamp: "01:41:00"
+  
+  - film: "Alien"
+    year: 1979
+    in_universe_year: 2122
+    speaker: "Ripley"
+    line: "You have my sympathies."
+    context: |
+      Echo of Ash's earlier line to Kane, returned to Ash himself; devastating irony
+    significance: "Ripley reclaims Ash's false sympathy and gives it back genuinely"
+  
+  - film: "Alien"
+    year: 1979
+    in_universe_year: 2122
+    speaker: "Ripley"
+    line: "I've checked the umbilical and the underside. He's not there. I'm going to have to flush him out."
+    context: "Final log entry before confronting the xenomorph in the Narcissus; clinical, composed under mortal terror"
+    timestamp: "01:38:30"
+  
+  - film: "Alien"
+    year: 1979
+    in_universe_year: 2122
+    speaker: "Ripley"
+    line: "This is Ripley, last survivor of the Nostromo, signing off."
+    context: "Final log before entering hypersleep in the Narcissus; the last line of the film"
+    timestamp: "01:46:00"
+    significance: "Defines her identity in one sentence; establishes the franchise's lone survivor archetype"
+  
+  # === ALIENS (1986) ===
+  
+  - film: "Aliens"
+    year: 1986
+    in_universe_year: 2179
+    speaker: "Ripley"
+    line: "Get away from her, you BITCH!"
+    context: |
+      Confronting the Alien Queen in the power loader, protecting Newt. 
+      The most famous line in the franchise.
+    timestamp: "01:55:30"
+    significance: "Defines Ripley as maternal action hero; one of cinema's most iconic lines"
+  
+  - film: "Aliens"
+    year: 1986
+    in_universe_year: 2179
+    speaker: "Ripley"
+    line: "They can *bill* me."
+    context: |
+      After triggering the atmospheric processor's self-destruct, knowing it will 
+      destroy billions in terraforming assets. Weyland-Yutani can pursue damages.
+    timestamp: "01:30:00"
+    significance: "Defines her relationship with corporate authority: contempt without hesitation"
+  
+  - film: "Aliens"
+    year: 1986
+    in_universe_year: 2179
+    speaker: "Ripley"
+    line: "Did IQs just drop sharply while I was away?"
+    context: |
+      Addressing the board of inquiry that refuses to believe her account of the 
+      Nostromo incident; measured frustration
+    timestamp: "00:18:00"
+  
+  - film: "Aliens"
+    year: 1986
+    in_universe_year: 2179
+    speaker: "Ripley"
+    line: "I don't know which species is worse. You don't see them fucking each other over for a goddamn percentage."
+    context: |
+      Accusing Burke of being more dangerous than the xenomorphs, after discovering 
+      he planned to use her and Newt as host carriers
+    timestamp: "01:26:00"
+    significance: "The franchise's clearest anti-corporate statement"
+  
+  - film: "Aliens"
+    year: 1986
+    in_universe_year: 2179
+    speaker: "Ripley"
+    line: "Newt. My name is Newt."
+    context: |
+      Actually: Ripley correcting a Marine who calls the girl 'little girl'; 
+      establishing Ripley's respect for the child's identity
+    note: "Line is 'Her name is Newt' — correcting the Marines"
+    timestamp: "00:55:00"
+  
+  - film: "Aliens"
+    year: 1986
+    in_universe_year: 2179
+    speaker: "Ripley"
+    line: "These people are dead, Burke! Don't you have any idea what you've done here?"
+    context: |
+      Confronting Burke after discovering the colonists' fates; fury and grief 
+      directed at the corporate representative responsible
+    timestamp: "01:05:00"
+  
+  - film: "Aliens"
+    year: 1986
+    in_universe_year: 2179
+    speaker: "Ripley"
+    line: "I say we take off and nuke the entire site from orbit. It's the only way to be sure."
+    context: |
+      After discovering the scale of the xenomorph infestation; Ripley's pragmatic 
+      recommendation overridden by Burke's corporate asset preservation instinct
+    timestamp: "01:02:00"
+    significance: "Famous franchise line; 'nuke it from orbit' became a cultural idiom"
+  
+  # === ALIEN³ (1992) ===
+  
+  - film: "Alien³"
+    year: 1992
+    in_universe_year: 2179
+    speaker: "Ripley"
+    line: "I'm the monster's mother."
+    context: |
+      Revealing to Dillon that she is carrying a Queen embryo in her chest; 
+      the line she will repeat in Alien: Resurrection as Ripley 8
+    timestamp: "01:05:00"
+    significance: "The franchise's most loaded statement of Ripley's relationship to the xenomorph"
+  
+  - film: "Alien³"
+    year: 1992
+    in_universe_year: 2179
+    speaker: "Ripley"
+    line: "You've been in my life so long, I can't remember anything else."
+    context: |
+      Ripley alone in the EEV scanning herself; speaking to the xenomorph embryo 
+      inside her as if to an old companion. Haunting and deeply ambiguous.
+    timestamp: "01:00:00"
+  
+  - film: "Alien³"
+    year: 1992
+    in_universe_year: 2179
+    speaker: "Ripley"
+    line: "This is a maximum security prison and the minimum you can expect is that I won't kill you."
+    context: "Introducing herself to the hostile prisoners of Fury 161"
+    timestamp: "00:20:00"
+  
+  - film: "Alien³"
+    year: 1992
+    in_universe_year: 2179
+    speaker: "Ripley"
+    line: "Don't be afraid. I'm part of the family."
+    context: |
+      Spoken into the darkness toward a xenomorph — an attempt to use her embryo 
+      as a deterrent; the xenomorph stops and retreats
+    timestamp: "01:10:00"
+    significance: "Establishes that the xenomorphs can sense the Queen embryo inside her"
+  
+  # === ALIEN: RESURRECTION (1997) ===
+  
+  - film: "Alien: Resurrection"
+    year: 1997
+    in_universe_year: 2381
+    speaker: "Ripley 8"
+    line: "I've done this before."
+    context: |
+      Ripley 8 to Call; referring through genetic memory to events she lived as 
+      the original Ripley — but she herself did not live them
+    timestamp: "00:45:00"
+    significance: "The franchise's most quietly disturbing line; memory without experience"
+  
+  - film: "Alien: Resurrection"
+    year: 1997
+    in_universe_year: 2381
+    speaker: "Ripley 8"
+    line: "I'm the monster's mother."
+    context: |
+      Echo of Alien³ line; now literal in a different way — Ripley 8 was cloned 
+      to extract the Queen embryo; she is the origin of the Queen aboard the Auriga
+    timestamp: "01:10:00"
+  
+  - film: "Alien: Resurrection"
+    year: 1997
+    in_universe_year: 2381
+    speaker: "Ripley 8"
+    line: "You're a robot? I'm the monster's mother."
+    context: "Dark humor upon learning Call is a synthetic; juxtaposition of their two unlikely natures"
+    timestamp: "00:52:00"

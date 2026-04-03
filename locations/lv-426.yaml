@@ -1,0 +1,111 @@
+---
+name: "LV-426"
+designation: "Acheron"
+type: "Moon"
+parent_body: "Calpamos (gas giant)"
+star_system: "Zeta² Reticuli"
+distance_from_earth: "~39 light years"
+
+# Physical Characteristics
+physical:
+  atmosphere: "Primordial / toxic — not breathable without equipment"
+  composition: "Methane, ammonia, carbon dioxide; traces of nitrogen"
+  surface: "Rocky, windswept, perpetual electrical storms"
+  gravity: "Lower than Earth standard"
+  temperature: "Extremely cold outside colony environments"
+  visibility: "Near zero in storms; constant low-level atmospheric discharge"
+
+# Timeline of Events
+timeline:
+  - year: "Unknown (pre-2122)"
+    event: "Engineer juggernaut carrying xenomorph eggs crash-lands on LV-426"
+    significance: "Origin of the Alien (1979) derelict; Space Jockey killed by chestburster"
+  
+  - year: 2122
+    event: "USCSS Nostromo investigates distress signal; crew encounters eggs; Kane facehugger'd"
+    significance: "Events of Alien (1979); Kane becomes first human xenomorph host on record"
+  
+  - year: ~2157
+    event: "Weyland-Yutani establishes Hadley's Hope terraforming colony"
+    population: 158
+    significance: "First permanent human settlement on LV-426"
+  
+  - year: 2179
+    event: "Colonists directed by Burke to investigate derelict ship coordinates; all infected"
+    significance: "Start of Aliens (1986) situation; colony overrun"
+  
+  - year: 2179
+    event: "USS Sulaco Marines arrive; find colony overrun by xenomorphs"
+    outcome: "Atmospheric processor damaged; nuclear detonation destroys hive and colony"
+  
+  - year: "Post-2179"
+    status: "Uninhabitable crater; all xenomorphs and colonists destroyed"
+
+# The Derelict Ship
+derelict_ship:
+  designation: "Engineer Juggernaut (unknown designation)"
+  type: "Horseshoe-shaped Engineer vessel"
+  location: "Crashed on surface of LV-426; partially buried"
+  discovered_by: "USCSS Nostromo crew, 2122"
+  
+  contents:
+    pilot_chamber:
+      description: "Central navigation room containing the fossilized Engineer ('Space Jockey')"
+      chair: "Biomechanical pilot interface; Engineer seated in permanent death"
+      signal: |
+        The Engineer was transmitting a signal interpreted as a distress call. 
+        Ripley later argues it was a warning. The signal had been transmitting for 
+        an estimated thousands of years at minimum.
+    
+    egg_chamber:
+      location: "Below the main ship; accessed through a descending passage"
+      contents: "Thousands of dormant xenomorph eggs arranged in rows"
+      lighting: "Blue luminescent glow from eggs; misty atmospheric effect"
+      atmosphere: "Slightly different from rest of ship; possible contamination zone"
+      note: |
+        The egg chamber's atmospheric membrane (crossed by Kane) may have been 
+        a containment barrier — Kane breached it, activating the eggs.
+
+# Hadley's Hope Colony
+hadley_hope:
+  official_name: "Hadley's Hope"
+  type: "Terraforming / mining colony"
+  operator: "Weyland-Yutani Corporation"
+  
+  population: 158
+  composition: "Civilian families; terraforming and mining workers; Weyland-Yutani staff"
+  
+  infrastructure:
+    - "Atmosphere processors (primary terraforming infrastructure)"
+    - "Residential modules"
+    - "Medical facilities"
+    - "Operations center / communications hub"
+    - "Vehicle bay"
+    - "Industrial equipment storage"
+  
+  fate: |
+    The colony was overrun approximately 20 days before the USS Sulaco arrived (2179). 
+    The colonists were cocooned in the atmosphere processing station and used as hosts. 
+    Newt (Rebecca Jorden) was the only survivor. 
+    The colony was destroyed when the atmosphere processor's cooling system was damaged, 
+    triggering a nuclear-scale explosion that annihilated the hive and everything on the surface.
+  
+  corporate_responsibility: |
+    Weyland-Yutani directed the colonists, through Burke, to investigate the derelict ship 
+    at Ripley's recorded coordinates — without telling them about the xenomorph threat. 
+    The corporate decision to use 158 civilians as unwitting bait is one of the franchise's 
+    clearest examples of institutional evil.
+
+# Significance in Franchise
+franchise_significance:
+  - "Site of the original xenomorph contact with humanity (Alien, 1979)"
+  - "Site of the first major xenomorph hive discovered by humans (Aliens, 1986)"
+  - "The 'haunted house' location the franchise returns to"
+  - "The derelict ship remains the franchise's central unsolved mystery — how did the Engineer die, and when?"
+  - "LV-426's destruction closes the loop on the original trilogy's central location"
+
+# Thematic Role
+thematic_significance:
+  - "The uncaring universe — a hostile moon that kills purely through indifference and corporate negligence"
+  - "The site of humanity's original sin against the xenomorph — we went to it; it did not come to us"
+  - "Ground zero for the horror that cascades through the entire franchise"

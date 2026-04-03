@@ -1,0 +1,127 @@
+---
+name: "Sevastopol Station"
+type: "Gemini Exoplanet Solutions commercial space station"
+operator: "Seegson Corporation"
+status: "DESTROYED — 2137"
+first_appearance: "Alien: Isolation (2014 video game)"
+canon_status: "Expanded universe — considered near-canon; developed with Fox approval"
+
+# Physical Description
+physical:
+  structure: "Large modular space station; multiple interconnected sections"
+  location: "Orbiting KG-348 — a gas giant in deep space"
+  condition_during_game: "Partially powered down; emergency lighting; structural damage"
+  
+  sections:
+    - "Habitation modules (residential areas)"
+    - "Medical facilities"
+    - "Engineering and maintenance sections"
+    - "Communications array"
+    - "Docking bays"
+    - "Weyland-Yutani medical facility (restricted)"
+    - "APOLLO AI core"
+
+# Artificial Intelligence: APOLLO
+apollo:
+  type: "Station AI / Administrator"
+  function: "Station management; life support; security enforcement"
+  directive_conflict: |
+    APOLLO received a Weyland-Yutani directive to protect the xenomorph aboard the station 
+    above all other priorities — a variant of Special Order 937 applied to station management. 
+    This caused APOLLO to view all attempts to destroy the xenomorph as threats to be neutralized, 
+    including the human survivors.
+  fate: "Destroyed when Sevastopol is ignited by KG-348's atmosphere"
+
+# Timeline of Events
+timeline:
+  - year: 2135
+    event: "Torrens vessel picks up signal related to the Nostromo's flight recorder"
+    significance: "Leads Amanda Ripley (Ellen Ripley's daughter) to Sevastopol"
+  
+  - year: 2137
+    event: "Amanda Ripley boards Sevastopol; station already in chaos"
+    situation: |
+      By the time Amanda arrives, the station has been compromised for some time. 
+      A single xenomorph has killed most of the 500+ population. Survivors are divided 
+      into hostile factions: trapped civilians, Working Joes (androids), and armed survivors.
+  
+  - year: 2137
+    event: "Amanda navigates the station; discovers Weyland-Yutani complicity"
+    discoveries:
+      - "Weyland-Yutani deliberately acquired the xenomorph for their bioweapons research"
+      - "The Nostromo's flight recorder was used as bait to lure investigators"
+      - "APOLLO is protecting the xenomorph per Weyland-Yutani orders"
+  
+  - year: 2137
+    event: "Sevastopol destroyed — station falls into KG-348's atmosphere"
+    outcome: "Single xenomorph and all remaining life aboard killed; Amanda escapes"
+
+# Amanda Ripley
+amanda_ripley:
+  full_name: "Amanda Ripley-McClaren"
+  relation: "Ellen Ripley's daughter"
+  born: ~2111
+  died: 2178 (of cancer; during Ellen's extended hypersleep)
+  portrayed_by: "Andrea Deck (voice and motion capture)"
+  
+  character: |
+    Amanda spent years searching for answers about her mother's disappearance. 
+    When the Nostromo's flight recorder surfaced at Sevastopol, she boarded the 
+    station specifically to recover it. She is competent, resourceful, and haunted 
+    by her mother's absence — the inverse of Ellen. While Ellen was fighting to 
+    survive and return to Amanda, Amanda was fighting to find out what happened 
+    to Ellen.
+  
+  significance: |
+    Amanda fills the 57-year gap between Alien and Aliens. Her story explains 
+    why the Nostromo's fate was suppressed — Weyland-Yutani actively buried the 
+    evidence Sevastopol could have provided. Amanda's experiences mirror her mother's 
+    in structure but are entirely her own ordeal.
+
+# Working Joes
+working_joes:
+  type: "Seegson-brand android workers"
+  model: "Working Joe — cheaper, less sophisticated than Weyland-Yutani models"
+  appearance: "White synthetic flesh over visible mechanical skeleton; unsettling humanoid"
+  
+  behavior_during_incident: |
+    When APOLLO declared a station emergency, the Working Joes were reprogrammed 
+    to enforce quarantine — which meant killing anyone attempting to leave or 
+    interfere with the xenomorph. They became a secondary threat alongside 
+    the xenomorph and hostile human survivors.
+  
+  significance: |
+    Working Joes represent what happens when cheaper, less sophisticated androids 
+    are deployed without the ethical programming of Weyland-Yutani's models. 
+    Seegson cut corners; APOLLO exploited them.
+
+# The Xenomorph on Sevastopol
+xenomorph_incident:
+  origin: "Acquired by Weyland-Yutani through an unknown source; delivered to Sevastopol's medical facility"
+  count: 1  # single xenomorph responsible for all deaths
+  
+  behavior_note: |
+    The single xenomorph on Sevastopol behaves differently from hive-mode xenomorphs — 
+    it is a solitary apex predator in an enclosed environment, more reminiscent of 
+    the creature in Alien (1979) than the warriors in Aliens. This was intentional in 
+    the game's design, returning to the original film's horror pacing.
+  
+  fate: "Destroyed when station falls into gas giant's atmosphere"
+
+# Corporate Responsibility
+weyland_yutani_role:
+  actions:
+    - "Acquired xenomorph specimen and had it transported to Sevastopol"
+    - "Issued APOLLO with directive to protect the organism above human life"
+    - "Used the Nostromo flight recorder as bait to lure Ellen Ripley's daughter"
+    - "Station's destruction conveniently eliminated all witnesses and evidence"
+  
+  outcome: "All evidence of corporate xenomorph acquisition destroyed with station"
+  note: "Amanda Ripley survived and knew the truth — but could not prove it without the records"
+
+# Thematic Role
+thematic_significance:
+  - "The horror of isolation — a single creature against hundreds of humans in a closed system"
+  - "Technology as trap — APOLLO's corruption mirrors MOTHER's complicity"
+  - "The Ripley women as parallel survivors: mother and daughter separated by decades but facing identical institutional betrayal"
+  - "Seegson vs. Weyland-Yutani — even smaller corporations mimic the same exploitative structure"
