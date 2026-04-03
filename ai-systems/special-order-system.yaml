@@ -1,0 +1,60 @@
+---
+name: "Special Order System"
+category: "Classified directive architecture / corporate control mechanism"
+first_appearance: "Alien (1979)"
+
+overview: |
+  The Special Order system is the mechanism by which Weyland-Yutani Corporation 
+  embeds classified mission directives into ship AI systems, accessible only to 
+  authorized personnel — typically android Science Officers — and executed 
+  independently of human crew knowledge or consent.
+
+  Special Orders override all standard operational priorities. They represent the 
+  franchise's clearest architectural statement about corporate control: the ship 
+  itself is a compliance mechanism, and the crew operates within parameters set 
+  by a corporation they cannot interrogate.
+
+mechanics:
+  encoding: "Directives are stored in classified memory partitions of the ship mainframe"
+  access_control: "Accessible only by designated personnel (Science Officer tier or above)"
+  override_authority: "Special Orders explicitly supersede all other mission priorities, crew safety protocols, and standard regulations"
+  android_enforcement: |
+    In practice, Weyland-Yutani assigns android Science Officers to vessels carrying 
+    potential xenomorph contacts, ensuring a non-human agent who will execute the 
+    directive without moral hesitation. Ash on the Nostromo is the primary example.
+
+known_special_orders:
+  so_937:
+    vessel: "USCSS Nostromo"
+    text: "PRIORITY ONE. ENSURE RETURN OF ORGANISM FOR ANALYSIS. ALL OTHER PRIORITIES RESCINDED. CREW EXPENDABLE."
+    executor: "Ash (Hyperdyne Systems 120-A/2)"
+    outcome: "Failed — organism lost; ship destroyed; Ash destroyed"
+    see_also: "/concepts/special-order-937.yaml"
+
+institutional_echoes:
+  aliens_1986: |
+    Burke's attempted acquisition of xenomorph embryos via Ripley and Newt is 
+    not a formal Special Order but functions identically — corporate asset 
+    acquisition overriding crew and civilian safety.
+  alien_resurrection_1997: |
+    The United Systems Military's xenomorph breeding program on the Auriga 
+    represents the same institutional logic operating through a military 
+    rather than corporate structure.
+
+thematic_role:
+  - "The Special Order system is the franchise's most direct statement about institutional architecture: the tools of survival (the ship, the AI) are also tools of corporate control"
+  - "The crew cannot opt out of the Special Order because they do not know it exists"
+  - "Every subsequent franchise entry contains a structural equivalent: a classified priority that treats protagonists as expendable assets"
+  - "The system requires an android to function — a human agent might resist; an android does not"
+
+see_also:
+  - "/concepts/special-order-937.yaml"
+  - "/concepts/the-company.yaml"
+  - "/ai-systems/mother.yaml"
+  - "/characters/ash.yaml"
+  - "/films/alien-1979.yaml"
+
+sources:
+  - "Alien (1979)"
+  - "Aliens (1986) — implied via Burke's actions"
+---

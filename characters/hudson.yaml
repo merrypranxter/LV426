@@ -1,0 +1,104 @@
+---
+name: "Hudson"
+full_name: "Private William Hudson"
+portrayed_by: "Bill Paxton"
+species: "Human"
+occupation: "Private, United States Colonial Marine Corps"
+affiliation: "United States Colonial Marine Corps"
+
+first_appearance: "Aliens (1986)"
+last_appearance: "Aliens (1986)"
+status: "DECEASED — 2179"
+
+backstory: |
+  William Hudson was a Private in the Colonial Marines aboard the USS Sulaco, 
+  assigned to the LV-426 contact mission. He functioned as a comtech and general 
+  infantry soldier, and was defined above all by his performance of invulnerability 
+  — a sustained, boisterous bravado that served as psychological armor against the 
+  existential reality of deep-space combat.
+
+  Hudson's arc in Aliens is the franchise's most compressed study of bravado's 
+  relationship to fear. He arrives loudest, collapses fastest, and ultimately dies 
+  bravest. His heroic last stand — pulling himself from the floor while xenomorphs 
+  drag him down, continuing to fire — is the film's most unexpected redemption, 
+  made effective precisely because of how thoroughly he had performed collapse 
+  in the preceding hour.
+
+timeline:
+  - film: "Aliens"
+    year: 2179
+    role: "Private, comtech, general infantry"
+    key_moments:
+      - "Identified as the squad's most vocal braggart aboard the Sulaco"
+      - "Delivers briefing on Colonial Marine deployment record with excessive enthusiasm"
+      - "First to fully break under pressure after the initial xenomorph contact disaster"
+      - "Repeatedly attempts to calculate their odds, always arriving at zero"
+      - "Assists Hudson and Vasquez in deploying sentry guns in the defensive corridors"
+      - "Continues to function despite despair — manning motion trackers, fighting when required"
+      - "Heroic last stand: killed by xenomorphs pulling him through the floor; continues firing to the end"
+    death_timestamp: "~01:46:00"
+    character_state: "Bravado → panic → functional despair → unexpected heroism"
+
+key_relationships:
+  - name: "Vasquez"
+    relation: "volatile_sparring_partner"
+    dynamic: |
+      Hudson and Vasquez maintain a constant current of competitive antagonism — 
+      he performs machismo; she embodies it. Their mutual contempt is genuine but 
+      covers genuine mutual respect. The franchise's most economical odd-couple 
+      characterization.
+
+  - name: "Hicks"
+    relation: "complementary_counterpoint"
+    dynamic: |
+      Hudson's noise and Hicks's quiet define each other by contrast. Hudson's 
+      breakdown makes Hicks's steadiness visible; Hicks's calm is the corrective 
+      that prevents Hudson from becoming a liability.
+
+personality:
+  strengths:
+    - "Technically competent (comtech, motion tracker operation)"
+    - "Capable of genuine courage when performance fails and reality demands it"
+    - "Loyal to squadmates despite bravado"
+  fatal_flaw: |
+    Hudson's bravado is his operating system — it works in low-threat environments 
+    and fails catastrophically in genuine crisis. When the performance fails him, 
+    he has nothing underneath it. His recovery — choosing to fight anyway — is the 
+    more interesting character beat.
+
+quotes:
+  - film: "Aliens"
+    line: "Game over, man! Game over!"
+    timestamp: "~01:20:00"
+    context: "After the dropship crash strands the marines on LV-426; Hudson's most famous line encapsulates his total collapse"
+
+  - film: "Aliens"
+    line: "Is this going to be a stand-up fight, sir, or another bug hunt?"
+    timestamp: "~00:42:00"
+    context: "Aboard the Sulaco during mission briefing; performative bravado before the mission begins"
+
+  - film: "Aliens"
+    line: "We're on an express elevator to hell — going down!"
+    context: "During atmospheric entry to LV-426; Hudson performing for the squad"
+
+thematic_role:
+  - "Hudson is the franchise's study in what bravado actually is: a performance masking fear, maintained until the performance becomes impossible"
+  - "His redemption arc is earned precisely because he is allowed to fully fail first — making the heroism surprising and therefore affecting"
+  - "The 'Game over, man' line became the franchise's most quoted moment of human vulnerability, because it is honest where the film's heroics are performed"
+
+cultural_impact:
+  - "Bill Paxton's performance established Hudson as one of cinema's most memorable minor characters"
+  - "'Game over, man!' entered popular culture as shorthand for catastrophic situational collapse"
+  - "Hudson's arc is frequently cited as the film's most complete character study outside of Ripley"
+
+see_also:
+  - "/characters/vasquez.yaml"
+  - "/characters/hicks.yaml"
+  - "/characters/apone.yaml"
+  - "/concepts/colonial-marines.yaml"
+  - "/films/aliens-1986.yaml"
+  - "/locations/uss-sulaco.yaml"
+
+sources:
+  - "Aliens (1986)"
+---

@@ -1,0 +1,48 @@
+---
+name: "Frost"
+full_name: "Private Trevor Frost"
+portrayed_by: "Ricco Ross"
+species: "Human"
+occupation: "Private, United States Colonial Marine Corps"
+affiliation: "United States Colonial Marine Corps"
+
+first_appearance: "Aliens (1986)"
+last_appearance: "Aliens (1986)"
+status: "DECEASED — 2179"
+
+backstory: |
+  Trevor Frost was a Private in the Colonial Marines, assigned as an ammunition 
+  carrier and general infantry for the LV-426 mission. He was the squad's most 
+  junior supporting element — capable and present without a specialist role that 
+  would individuate him further.
+
+  His death is the film's first marine fatality in the initial engagement sequence, 
+  caused by a chain reaction rather than direct xenomorph attack: Dietrich is grabbed 
+  by a xenomorph, her flamethrower discharges uncontrolled, and the flame ignites 
+  Frost's ammunition pack. He dies from the detonation. His death is the film's 
+  first demonstration that the marines' own equipment and the enclosed environment 
+  make them as dangerous to themselves as the xenomorphs are.
+
+timeline:
+  - film: "Aliens"
+    year: 2179
+    role: "General infantry / ammo carrier"
+    key_moments:
+      - "Deploys with the squad into the alien processing plant"
+      - "Killed when Dietrich's flamethrower discharges into his ammo pack after she is grabbed by a xenomorph"
+    death_timestamp: "~01:08:40"
+    character_state: "Functional soldier; death by friendly-fire cascade"
+
+thematic_role:
+  - "Frost's death establishes that in confined spaces against xenomorphs, the marines' own firepower is as lethal as the enemy's"
+  - "The first casualty is a cascade failure, not a direct kill — the film's signal that the standard playbook does not apply"
+
+see_also:
+  - "/characters/apone.yaml"
+  - "/characters/drake.yaml"
+  - "/concepts/colonial-marines.yaml"
+  - "/films/aliens-1986.yaml"
+
+sources:
+  - "Aliens (1986)"
+---

@@ -1,0 +1,87 @@
+---
+name: "Gorman"
+full_name: "Lieutenant Scott Gorman"
+portrayed_by: "William Hope"
+species: "Human"
+occupation: "Lieutenant, United States Colonial Marine Corps"
+affiliation: "United States Colonial Marine Corps"
+
+first_appearance: "Aliens (1986)"
+last_appearance: "Aliens (1986)"
+status: "DECEASED — 2179"
+
+backstory: |
+  Scott Gorman was a Lieutenant in the Colonial Marines, commanding the LV-426 
+  squad despite having only two previous combat deployments. He arrived on the 
+  Sulaco projecting the formal authority of his rank while visibly uncertain in 
+  command. Where Apone provided functional leadership and Hicks provided quiet 
+  competence, Gorman provided paperwork and commissions.
+
+  His failure during the initial contact engagement — freezing at the APC command 
+  screens while his squad was overwhelmed — is the film's definitive depiction of 
+  authority divorced from capability. He is knocked unconscious by falling equipment 
+  during Ripley's rescue maneuver. What redeems Gorman is his final act: choosing 
+  to stay in a sealed corridor with Vasquez when escape is impossible, and detonating 
+  a grenade with her rather than surrender.
+
+timeline:
+  - film: "Aliens"
+    year: 2179
+    role: "Commanding officer; command failure in initial contact"
+    key_moments:
+      - "Conducts mission briefing aboard Sulaco; credibility immediately questionable"
+      - "Restricts marines to minimal ordnance before entering reactor area — defers to protocol over judgment"
+      - "Commands from APC during initial contact; freezes as situation deteriorates"
+      - "Fails to order withdrawal as marines are killed; watches on screens"
+      - "Knocked unconscious when Ripley drives APC into the processing plant for extraction"
+      - "Recovers; functions adequately in defensive operations"
+      - "Cornered with Vasquez; detonates grenade to prevent capture"
+    death_timestamp: "~01:48:00"
+    character_state: "Inadequate → paralyzed → unconscious → functional → redeemed"
+
+key_relationships:
+  - name: "Vasquez"
+    relation: "contempt_and_redemption"
+    dynamic: |
+      Vasquez makes no attempt to conceal her contempt for Gorman's authority. 
+      His redemption in the corridor — staying when he could retreat — converts 
+      her insult into something closer to eulogy. They die together.
+
+  - name: "Ripley"
+    relation: "authority_displaced"
+    dynamic: |
+      Ripley pushes Gorman aside and takes the wheel when he freezes. His 
+      incapacitation formally transfers authority to Hicks; Ripley's action 
+      demonstrates what functional authority looks like.
+
+personality:
+  strengths:
+    - "Ultimately chooses courage in extremis"
+    - "Follows established protocols — not wrong, just insufficient"
+  fatal_flaw: |
+    Gorman has rank without the experiential grounding to exercise it under 
+    catastrophic stress. His paralysis at the APC screens is not cowardice 
+    — it is the failure of training to prepare for actual contact with the 
+    franchise's primary threat.
+
+quotes:
+  - film: "Aliens"
+    line: "It's a stand-up fight, or another bug hunt?"
+    context: "Response to Hudson's pre-mission question; delivered with more confidence than the situation warranted"
+
+thematic_role:
+  - "Gorman is the franchise's institutional failure made personal: a man promoted beyond his capacity who is responsible for deaths"
+  - "His redemption does not retroactively justify his failure — it simply means he did not only fail"
+  - "The sequence where Ripley physically displaces him is the franchise's most direct image of competence overriding rank"
+
+see_also:
+  - "/characters/vasquez.yaml"
+  - "/characters/hicks.yaml"
+  - "/characters/apone.yaml"
+  - "/characters/ellen-ripley.yaml"
+  - "/concepts/colonial-marines.yaml"
+  - "/films/aliens-1986.yaml"
+
+sources:
+  - "Aliens (1986)"
+---
