@@ -1,0 +1,82 @@
+---
+name: "The Company"
+full_name: "Weyland-Yutani Corporation"
+tagline: "Building Better Worlds"
+category: "Megacorporation / franchise antagonist"
+first_appearance: "Alien (1979)"
+
+overview: |
+  Weyland-Yutani Corporation — universally referred to by its employees and victims 
+  as "the Company" — is the primary institutional antagonist of the Alien franchise. 
+  A megacorporation with interests spanning terraforming, deep-space mining, 
+  commercial spaceflight, weapons development, and biological research, 
+  Weyland-Yutani operates on a scale that renders individual human lives 
+  statistically negligible.
+
+  The Company's defining characteristic across the franchise is the consistent 
+  prioritization of xenomorph acquisition for its Weapons Division over any 
+  competing consideration — including the lives of employees, colonists, military 
+  personnel, and civilians. This priority is institutional: it appears in classified 
+  directives, in the behavior of android agents, in the decisions of corporate 
+  representatives, and ultimately in the architecture of every mission the Company 
+  touches.
+
+corporate_structure:
+  origins: "Weyland Corporation (founded ~2012 by Peter Weyland) merged with Yutani Corporation (~2099)"
+  divisions:
+    - "Commercial Spaceflight"
+    - "Terraforming Operations"
+    - "Mineral Extraction"
+    - "Weapons Division (classified)"
+    - "Synthetic Research and Development"
+  known_representatives:
+    - name: "Ash"
+      role: "Covert android agent, USCSS Nostromo"
+      see_also: "/characters/ash.yaml"
+    - name: "Carter Burke"
+      role: "Company representative, LV-426 mission"
+      see_also: "/characters/burke.yaml"
+    - name: "Meredith Vickers"
+      role: "Corporate executive, USCSS Prometheus"
+      see_also: "/characters/vickers.yaml"
+
+key_operations:
+  nostromo_diversion:
+    film: "Alien (1979)"
+    action: "Pre-programmed USCSS Nostromo to divert to LV-426 via Special Order 937"
+    outcome: "6 crew killed; xenomorph specimen lost; Nostromo destroyed"
+  hadleys_hope:
+    film: "Aliens (1986)"
+    action: "Burke directed colonists to investigate derelict ship coordinates; later attempted specimen retrieval using Ripley and Newt as hosts"
+    outcome: "158 colonists used as xenomorph hosts; colony destroyed"
+  usm_auriga:
+    film: "Alien: Resurrection (1997)"
+    note: "By 2381, Weyland-Yutani had been purchased by Walmart; xenomorph research continued under United Systems Military"
+
+corporate_fate:
+  alien_resurrection: "Weyland-Yutani acquired by Walmart — offhand dialogue that encapsulates the franchise's corporate critique"
+  significance: "The company is consumed by an even larger commercial entity; the institutional evil is not destroyed but absorbed"
+
+thematic_role:
+  - "The Company represents capitalism's willingness to treat human lives as line items in a cost-benefit analysis"
+  - "Its xenomorph acquisition program is the franchise's sustained metaphor for the arms race: the pursuit of biological weapons that cannot be controlled"
+  - "Weyland-Yutani never appears onscreen as a unified entity — it operates through agents, directives, and systems, making it structurally difficult to resist"
+  - "'Building Better Worlds' — the tagline is the franchise's most sustained irony"
+
+see_also:
+  - "/concepts/special-order-937.yaml"
+  - "/concepts/android-classification.yaml"
+  - "/characters/ash.yaml"
+  - "/characters/burke.yaml"
+  - "/characters/vickers.yaml"
+  - "/films/alien-1979.yaml"
+  - "/films/aliens-1986.yaml"
+
+sources:
+  - "Alien (1979)"
+  - "Aliens (1986)"
+  - "Alien³ (1992)"
+  - "Alien: Resurrection (1997)"
+  - "Prometheus (2012)"
+  - "Alien: Covenant (2017)"
+---

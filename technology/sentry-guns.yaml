@@ -1,0 +1,59 @@
+---
+name: "UA 571-C Automated Sentry Gun"
+designation: "UA 571-C Remote Sentry Weapon System"
+manufacturer: "Armat Battlefield Systems"
+category: "Automated weapon / area denial system"
+first_appearance: "Aliens (1986)"
+
+description: |
+  The UA 571-C is a self-contained automated weapons platform designed for 
+  perimeter defense. It mounts a high-velocity rotary cannon on a motion-tracking 
+  pedestal and can be deployed in minutes by a two-person crew. Once active, it 
+  autonomously tracks and engages any moving target within its arc of fire without 
+  further human input.
+
+  The sentry gun is the franchise's clearest statement about technological solutions 
+  to the xenomorph problem: in the right configuration, perfectly placed, they work — 
+  for exactly as long as their ammunition lasts.
+
+specifications:
+  weapon: "20mm high-velocity rotary cannon"
+  tracking: "Motion-sensing automatic targeting"
+  ammunition: "Finite; fixed drum magazine"
+  deployment: "Two-person setup; self-contained unit"
+  fire_mode: "Fully automatic; motion-triggered"
+
+operational_use:
+  aliens_1986:
+    deployed_by: ["Hudson", "Vasquez"]
+    location: "Two corridors leading to the marines' defensive position in Hadley's Hope"
+    context: |
+      With the dropship destroyed and the marines fortified in the colony operations 
+      center, Hudson and Vasquez deploy four sentry guns in the approach corridors. 
+      The guns successfully engage and repel multiple xenomorph waves — the sequence 
+      intercut with the survivors listening to the firing counting down via remote 
+      monitor. The guns run out of ammunition. The corridor is then silent.
+    ammunition_depletion_timestamp: "~01:36:00"
+    significance: |
+      The sentry gun sequence is the film's most precise statement about the 
+      xenomorph threat: unlimited organisms versus finite ammunition. The guns are 
+      effective. They run out. The problem is not the technology — it is that the 
+      technology is bounded and the threat is not.
+
+thematic_role:
+  - "The best available automated defense system can hold the line — until it can't"
+  - "The countdown of sentry gun fire is among the film's most effective tension sequences: victory sounds identical to defeat until the shooting stops"
+  - "Represents the franchise's recurring argument: no technology is sufficient against an unlimited biological threat"
+
+see_also:
+  - "/characters/hudson.yaml"
+  - "/characters/vasquez.yaml"
+  - "/technology/pulse-rifle.yaml"
+  - "/concepts/colonial-marines.yaml"
+  - "/films/aliens-1986.yaml"
+  - "/locations/hadleys-hope.yaml"
+
+sources:
+  - "Aliens (1986)"
+  - "Aliens Colonial Marines Technical Manual"
+---

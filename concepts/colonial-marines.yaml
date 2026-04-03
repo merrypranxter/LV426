@@ -1,0 +1,105 @@
+---
+name: "United States Colonial Marine Corps"
+designation: "USCMC"
+category: "Military organization"
+first_appearance: "Aliens (1986)"
+
+overview: |
+  The United States Colonial Marine Corps (USCMC) is the primary military force 
+  of the United Americas in the Alien franchise timeline. Tasked with the defense 
+  and enforcement of United Americas interests across colonized space, the Colonial 
+  Marines respond to threats including colonial insurrections, piracy, and 
+  extraterrestrial contact situations. In practice, the USCMC is frequently deployed 
+  as a contractor force by Weyland-Yutani — with the LV-426 mission being the 
+  franchise's primary example.
+
+structure:
+  ranks_shown: ["Private", "Corporal", "Sergeant", "Lieutenant"]
+  squad_composition: "Typically 10-12 personnel with specialist roles"
+  standard_equipment:
+    - "M41A Pulse Rifle (standard infantry)"
+    - "M56 Smart Gun (support)"
+    - "M240 Incinerator Unit (flamethrower)"
+    - "M314 Motion Tracker"
+    - "M577 APC"
+    - "UD-4L Cheyenne Dropship"
+    - "UA 571-C Sentry Guns"
+
+lv_426_squad_manifest:
+  vessel: "USS Sulaco"
+  mission: "Investigation of lost contact with Hadley's Hope colony"
+  personnel:
+    - rank: "Lieutenant"
+      name: "Gorman"
+      role: "Commanding officer"
+      see_also: "/characters/gorman.yaml"
+    - rank: "Master Sergeant"
+      name: "Apone"
+      role: "Squad leader"
+      see_also: "/characters/apone.yaml"
+    - rank: "Corporal"
+      name: "Hicks"
+      role: "Fire team leader; assumed command after Gorman incapacitation"
+      see_also: "/characters/hicks.yaml"
+    - rank: "Private"
+      name: "Hudson"
+      role: "Comtech / general infantry"
+      see_also: "/characters/hudson.yaml"
+    - rank: "Private"
+      name: "Vasquez"
+      role: "Smart gunner"
+      see_also: "/characters/vasquez.yaml"
+    - rank: "Private"
+      name: "Drake"
+      role: "Smart gunner"
+      see_also: "/characters/drake.yaml"
+    - rank: "Corporal"
+      name: "Ferro"
+      role: "Dropship pilot"
+      see_also: "/characters/ferro.yaml"
+    - rank: "Private"
+      name: "Spunkmeyer"
+      role: "Dropship crew chief"
+      see_also: "/characters/spunkmeyer.yaml"
+    - rank: "Private"
+      name: "Frost"
+      role: "General infantry / ammunition carrier"
+      see_also: "/characters/frost.yaml"
+    - rank: "Private"
+      name: "Drake"
+      role: "Smart gun operator"
+    - rank: "Private"
+      name: "Dietrich"
+      role: "Combat medic / flamethrower"
+    - rank: "Private"
+      name: "Wierzbowski"
+      role: "General infantry"
+  civilian_attachments:
+    - "Ellen Ripley (civilian advisor)"
+    - "Carter Burke (Weyland-Yutani company representative)"
+
+mission_outcome:
+  survivors: "Hicks, Ripley, Newt (rescued by Ripley), Bishop (damaged)"
+  killed_in_action: "Apone, Hudson, Vasquez, Drake, Frost, Ferro, Spunkmeyer, Dietrich, Wierzbowski, Crowe, Gorman (with Vasquez)"
+  assessment: "Complete tactical failure; loss of all but four individuals"
+
+thematic_role:
+  - "The marines represent institutional military confidence meeting a threat their doctrine cannot process"
+  - "The squad is diverse, capable, and well-equipped — and almost entirely wiped out. The franchise's argument is about the nature of the threat, not the competence of the soldiers"
+  - "Gorman's failure encapsulates the franchise's recurring theme: rank without competence is lethal"
+  - "Hicks's assumption of command is the film's counter-argument: authority should be functional, not hierarchical"
+
+see_also:
+  - "/characters/hicks.yaml"
+  - "/characters/hudson.yaml"
+  - "/characters/vasquez.yaml"
+  - "/characters/gorman.yaml"
+  - "/characters/apone.yaml"
+  - "/locations/uss-sulaco.yaml"
+  - "/technology/pulse-rifle.yaml"
+  - "/films/aliens-1986.yaml"
+
+sources:
+  - "Aliens (1986)"
+  - "Aliens Colonial Marines Technical Manual"
+---

@@ -1,0 +1,62 @@
+---
+name: "Cryogenic Hypersleep"
+designation: "Hypersleep / Cryogenic Stasis System"
+category: "Life support / space travel technology"
+first_appearance: "Alien (1979)"
+
+description: |
+  Hypersleep is a cryogenic stasis process used aboard interstellar vessels for 
+  long-duration spaceflight. Crew members are placed in individual hypersleep 
+  chambers where their metabolic processes are slowed to near-zero, suspending 
+  aging and biological function for the duration of transit. The process requires 
+  a supervised wake cycle with associated physical and cognitive recovery time.
+
+  Hypersleep is not perfect stasis — subjects can experience nightmares during the 
+  suspension period (as shown with Ripley's repeated xenomorph nightmares), and 
+  extended hypersleep causes documented psychological effects on awakening. The 
+  technology is standard on all deep-space commercial and military vessels in the 
+  franchise.
+
+specifications:
+  process: "Metabolic suspension via cryogenic cooling"
+  duration: "Theoretically unlimited; documented cases include 57-year suspension"
+  side_effects:
+    - "Vivid nightmares during suspension"
+    - "Disorientation and nausea on waking"
+    - "Muscle atrophy (mitigated by automated cycling)"
+    - "Psychological effects on extended isolation"
+  wake_protocol: "Automated; can be triggered by ship systems or manually"
+
+notable_uses:
+  - character: "Ellen Ripley"
+    film: "Alien (1979)"
+    duration: "57 years (2122–2179)"
+    consequence: "Missed daughter Amanda's entire adult life; Amanda died at 66 during Ripley's hypersleep"
+    see_also: "/characters/ellen-ripley.yaml"
+  - character: "Colonial Marines / Ripley"
+    film: "Aliens (1986)"
+    context: "Standard transit hypersleep Sulaco → LV-426; survivors enter hypersleep for return"
+  - character: "Ripley, Newt, Hicks, Bishop"
+    film: "Aliens (1986) → Alien³ (1992)"
+    context: "Survivors enter hypersleep; EEV jettisoned during electrical fire; only Ripley survives crash"
+
+thematic_role:
+  - "Hypersleep is the franchise's mechanism of temporal displacement — characters lose decades and relationships to the void between stars"
+  - "The technology that makes space travel possible also severs Ripley from her daughter, her life, and eventually her own humanity"
+  - "The nightmare sequences during hypersleep make the chambers as threatening as the xenomorphs themselves"
+  - "Waking from hypersleep is always into a worse situation than the one left behind"
+
+see_also:
+  - "/characters/ellen-ripley.yaml"
+  - "/technology/dropship.yaml"
+  - "/locations/nostromo.yaml"
+  - "/locations/uss-sulaco.yaml"
+  - "/films/alien-1979.yaml"
+  - "/films/aliens-1986.yaml"
+
+sources:
+  - "Alien (1979)"
+  - "Aliens (1986)"
+  - "Alien³ (1992)"
+  - "Alien: Resurrection (1997)"
+---

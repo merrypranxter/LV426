@@ -1,0 +1,74 @@
+---
+name: "Faster-Than-Light Travel"
+designation: "FTL / Interstellar Transit Systems"
+category: "Space travel technology"
+first_appearance: "Alien (1979)"
+
+overview: |
+  Interstellar travel in the Alien franchise is accomplished through a combination 
+  of faster-than-light (FTL) propulsion and mandatory cryogenic hypersleep. The 
+  mechanics of FTL travel are never technologically detailed in the films; the 
+  franchise treats interstellar transit as a taken-for-granted infrastructure 
+  element, focusing instead on its human costs — primarily the temporal displacement 
+  caused by extended hypersleep periods.
+
+key_voyages:
+  nostromo_return:
+    vessel: "USCSS Nostromo"
+    route: "Mineral ore refinery tow, return to Earth"
+    estimated_duration: "~10 months (crew time in hypersleep)"
+    cargo: "20 million tons refined mineral ore; towing commercial refinery"
+    diversion: "Diverted to LV-426 (Zeta Reticuli system) by MOTHER per Special Order 937"
+    note: "The Nostromo is a commercial towing vessel — its FTL is sufficient for cargo hauls, not speed operations"
+    see_also: "/locations/nostromo.yaml"
+
+  prometheus_voyage:
+    vessel: "USCSS Prometheus"
+    route: "Earth → LV-223 (Zeta Reticuli system)"
+    duration: "~2 years (crew in hypersleep; David remains awake)"
+    departure: "2091"
+    arrival: "2093"
+    see_also: "/locations/prometheus.yaml"
+
+  sulaco_deployment:
+    vessel: "USS Sulaco"
+    route: "Earth → LV-426"
+    duration: "Weeks (implied; precise duration unstated)"
+    see_also: "/locations/uss-sulaco.yaml"
+
+  covenant_voyage:
+    vessel: "USCSS Covenant"
+    route: "Earth → Origae-6 (colony destination)"
+    planned_duration: "7 years, 4 months (in hypersleep)"
+    actual_destination: "Diverted to Planet 4 after neutrino burst wake-up"
+    see_also: "/locations/covenant.yaml"
+
+towing_operations:
+  significance: |
+    Several franchise vessels are explicitly towing vessels — the Nostromo tows 
+    a massive ore refinery; later vessels carry cargo platforms. The franchise's 
+    use of commercial towing establishes deep space as an industrial environment, 
+    not an exploratory one. FTL travel is infrastructure, not adventure.
+
+hypersleep_necessity:
+  rationale: "Even FTL travel requires weeks to years for interstellar voyages; crew cannot remain awake for the full transit duration"
+  consequence: "The temporal displacement of hypersleep is the technology's primary dramatic function in the franchise"
+  see_also: "/technology/hypersleep.yaml"
+
+thematic_role:
+  - "FTL travel enables the franchise's isolation: ships are unreachably far from help once committed to transit"
+  - "The commercial framing of deep space travel — towing, ore runs, colony supply routes — grounds the franchise in working-class reality rather than exploration fantasy"
+  - "In distress, no one can hear you scream — not because of sound physics, but because rescue is months away at minimum"
+
+see_also:
+  - "/technology/hypersleep.yaml"
+  - "/locations/nostromo.yaml"
+  - "/locations/uss-sulaco.yaml"
+  - "/films/alien-1979.yaml"
+
+sources:
+  - "Alien (1979)"
+  - "Aliens (1986)"
+  - "Prometheus (2012)"
+  - "Alien: Covenant (2017)"
+---

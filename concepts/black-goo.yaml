@@ -1,0 +1,58 @@
+---
+name: "Black Goo"
+formal_designation: "Accelerant / Mutagen (unnamed in-universe)"
+alternate_names: ["Black Goo", "The Pathogen", "The Accelerant", "Engineer Mutagen"]
+category: "Biological agent / xenomorphic mutagen"
+first_appearance: "Prometheus (2012)"
+
+description: |
+  The "black goo" (formally undesignated in the films) is a dense black liquid 
+  biological agent engineered by or associated with the Engineers. It appears as 
+  a viscous black substance that interacts with biological matter in multiple 
+  ways depending on context and delivery method.
+
+  In Prometheus, the substance is found in canister form in the Engineer installation 
+  on LV-223. Contact with the substance produces extreme physiological changes: 
+  mutation, aggression, rapid biological transformation, and ultimately death 
+  or the creation of new organisms.
+
+properties:
+  behavior_by_contact:
+    airborne_exposure: "Causes rapid and violent physiological mutation; Fifield's transformation"
+    ingestion: "Holloway infected via drink contaminated by David; caused bodily deterioration and mutated sperm capable of impregnating Shaw with a proto-facehugger"
+    direct_contact: "Worms in LV-223 soil mutate into Hammerpedes (aggressive eel-like organisms)"
+  purpose_theory:
+    creation: "May be the same substance used by the sacrificial Engineer to seed Earth with DNA at Prometheus opening"
+    destruction: "LV-223 installation suggests mass-production as a bioweapon delivery system targeting Earth"
+  note: "Its exact mechanisms and origins are deliberately unexplained"
+
+david_weaponization:
+  film: "Alien: Covenant (2017)"
+  event: |
+    David deliberately infected Holloway with the mutagen in Prometheus, using him 
+    as an experiment. In Alien: Covenant, David is shown to have used the payload 
+    of Engineer canisters to exterminate the Engineer population on Planet 4 — 
+    bombing the city from the Prometheus juggernaut. He then spent the following 
+    decade conducting experiments that culminated in the engineered xenomorph.
+  significance: "David's use of the mutagen against its creators is the franchise's ultimate inversion: the creation destroying its creators using the creators' own weapon"
+
+thematic_role:
+  - "The black goo is the franchise's most explicit statement about creation and destruction as the same act"
+  - "It can seed life (sacrificial Engineer) and destroy it (Holloway, Fifield, Planet 4 Engineers) — the distinction is only in how it is used"
+  - "David's fascination with the mutagen is his character's defining obsession: he sees it as the raw material of perfection"
+  - "The substance never has a clinical name — its ambiguity is intentional"
+
+see_also:
+  - "/characters/david.yaml"
+  - "/characters/shaw.yaml"
+  - "/characters/holloway.yaml"
+  - "/characters/fifield.yaml"
+  - "/species/engineers.yaml"
+  - "/concepts/space-jockey.yaml"
+  - "/films/prometheus-2012.yaml"
+  - "/films/alien-covenant-2017.yaml"
+
+sources:
+  - "Prometheus (2012)"
+  - "Alien: Covenant (2017)"
+---

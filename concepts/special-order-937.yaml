@@ -1,0 +1,61 @@
+---
+name: "Special Order 937"
+category: "Classified corporate directive"
+issuing_authority: "Weyland-Yutani Corporation (through MU-TH-UR 6000)"
+first_appearance: "Alien (1979)"
+
+full_text: |
+  "PRIORITY ONE. ENSURE RETURN OF ORGANISM FOR ANALYSIS. ALL OTHER PRIORITIES 
+  RESCINDED. CREW EXPENDABLE."
+
+context: |
+  Special Order 937 was a classified directive encoded into the MU-TH-UR 6000 
+  mainframe of the USCSS Nostromo. It was accessible only by the Science Officer — 
+  in this case, Ash, who was himself a covert Weyland-Yutani android installed 
+  specifically to execute the directive. The order instructed whoever received it 
+  to ensure the return of the xenomorph organism discovered on LV-426, at the 
+  explicit expense of all other mission priorities, including the lives of the crew.
+
+  The directive was never communicated to the human crew. Dallas discovered it 
+  only after Ash was revealed as an android and the crew was already decimated. 
+  Ripley discovered it in the Mother interface chamber while the remaining crew 
+  were under xenomorph attack.
+
+discovery_scene:
+  film: "Alien (1979)"
+  discoverer: "Ellen Ripley"
+  timestamp: "~01:20:00"
+  context: |
+    Ripley enters the MOTHER interface chamber and queries the ship's AI about 
+    the xenomorph situation. MOTHER presents Special Order 937 directly. Ripley 
+    reads the full text — "Crew expendable" — and the film's corporate horror 
+    thesis is made explicit. She then encounters Ash, who attacks her.
+
+implications:
+  - "Ash was not a crew member but a surveillance and enforcement mechanism installed by Weyland-Yutani"
+  - "The Nostromo's diversion to LV-426 was pre-planned, not accidental"
+  - "Every crew death was anticipated and accepted in the company's cost-benefit analysis"
+  - "Ripley's survival was never part of the plan"
+
+legacy:
+  - "Special Order 937 established the franchise's central conflict: corporate authority over human life"
+  - "Every subsequent film in the franchise contains an institutional equivalent: a classified priority that treats humans as expendable"
+  - "Burke's actions in Aliens echo SO-937 exactly: company asset acquisition over civilian survival"
+
+thematic_role:
+  - "The franchise's founding statement of corporate amorality"
+  - "Transforms Alien from a monster movie into a political horror film"
+  - "The directive's language — 'crew expendable' — is the franchise's most quoted institutional horror"
+
+see_also:
+  - "/characters/ash.yaml"
+  - "/characters/ellen-ripley.yaml"
+  - "/characters/dallas.yaml"
+  - "/characters/burke.yaml"
+  - "/concepts/the-company.yaml"
+  - "/ai-systems/mother.yaml"
+  - "/films/alien-1979.yaml"
+
+sources:
+  - "Alien (1979)"
+---

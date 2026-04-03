@@ -1,0 +1,51 @@
+---
+name: "M56 Smart Gun"
+designation: "M56 Smart Gun System"
+manufacturer: "Armat Battlefield Systems"
+category: "Infantry weapon / support weapon"
+first_appearance: "Aliens (1986)"
+
+description: |
+  The M56 Smart Gun is a gyroscopically stabilized automatic weapon mounted on a 
+  body harness with an articulated arm, paired with a head-mounted infrared tracking 
+  system (IIR). The weapon's onboard targeting system tracks the operator's line of 
+  sight and can slave the gun to track identified heat signatures automatically — 
+  the "smart" element that gives the system its name.
+
+  The M56 is a crew-served weapon in practice, requiring a dedicated operator who 
+  carries the mounting harness and weapon. Its rate of fire significantly exceeds 
+  the M41A pulse rifle. In Aliens, the smart guns are operated by Vasquez and Drake 
+  — the unit's two most aggressive soldiers.
+
+specifications:
+  caliber: "10mm"
+  rate_of_fire: "~1200 rounds per minute"
+  feed_system: "Belt-fed from body-worn drum magazine"
+  tracking_system: "Head-mounted IIR (Infrared Imaging and Ranging)"
+  stabilization: "Gyroscopic, articulated mounting arm"
+  operator_interface: "HMD (Helmet-Mounted Display) targeting"
+
+operators:
+  - name: "Vasquez"
+    film: "Aliens (1986)"
+    fate: "Weapon eventually abandoned when Vasquez and Gorman sacrifice themselves with a grenade"
+  - name: "Drake"
+    film: "Aliens (1986)"
+    fate: "Drake is killed during the initial contact engagement; his smart gun lost"
+
+thematic_role:
+  - "The smart gun represents the military's answer to the xenomorph — more firepower, smarter targeting — and it is still not enough"
+  - "Vasquez's ownership of the smart gun is the film's most direct visual statement about competence over gender norms"
+  - "Like the pulse rifle, the smart gun is neutralized not by inadequacy but by the tactical environment: reactor rooms where discharge is fatal, dark hive spaces where IFF fails"
+
+see_also:
+  - "/characters/vasquez.yaml"
+  - "/characters/drake.yaml"
+  - "/technology/pulse-rifle.yaml"
+  - "/concepts/colonial-marines.yaml"
+  - "/films/aliens-1986.yaml"
+
+sources:
+  - "Aliens (1986)"
+  - "Aliens Colonial Marines Technical Manual"
+---

@@ -1,0 +1,52 @@
+---
+name: "M41A Pulse Rifle"
+designation: "M41A Pulse Rifle"
+manufacturer: "Armat Battlefield Systems"
+category: "Infantry weapon / assault rifle"
+first_appearance: "Aliens (1986)"
+
+description: |
+  The M41A Pulse Rifle is the standard infantry weapon of the United States Colonial 
+  Marine Corps. Chambered in 10x24mm caseless ammunition with a 99-round magazine, 
+  it combines an assault rifle with an integrated 30mm pump-action grenade launcher 
+  underslung beneath the barrel. The weapon includes an ammunition counter — a 
+  digital readout displaying rounds remaining — that becomes the film's most 
+  insistent countdown device.
+
+  The rifle fires from a closed bolt in fully automatic mode. The characteristic 
+  sound — a rapid, metallic chattering distinct from contemporary firearms — was 
+  engineered by James Cameron and the sound design team for Aliens and became one 
+  of cinema's most recognisable weapon sounds.
+
+specifications:
+  caliber: "10x24mm caseless"
+  magazine_capacity: 99
+  fire_modes: "Semi-automatic, fully automatic"
+  secondary_weapon: "30mm pump-action grenade launcher (under-barrel)"
+  grenade_capacity: 4
+  ammunition_counter: "Digital LED display"
+  weight: "~3.9 kg unloaded"
+
+notable_use:
+  - film: "Aliens (1986)"
+    note: "Standard-issue weapon for all Colonial Marines; used throughout LV-426 engagement"
+  - film: "Alien³ (1992)"
+    note: "Referenced; marines do not deploy at Fury 161"
+  - film: "Alien: Romulus (2024)"
+    note: "Appears in recovered Weyland-Yutani equipment caches"
+
+thematic_role:
+  - "The ammunition counter transforms the standard firefight into a countdown — every round spent is a step closer to helplessness"
+  - "The 99-round magazine is large enough to feel safe and finite enough to run dry at the worst possible moment"
+  - "The pulse rifle represents the gap between military firepower and xenomorph threat: all the ordnance in the world is not enough"
+
+see_also:
+  - "/technology/smartgun.yaml"
+  - "/technology/flamethrower.yaml"
+  - "/concepts/colonial-marines.yaml"
+  - "/films/aliens-1986.yaml"
+
+sources:
+  - "Aliens (1986)"
+  - "Aliens Colonial Marines Technical Manual"
+---
