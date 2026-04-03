@@ -135,3 +135,11 @@ legacy:
 # Connections
 sequel: "Aliens (1986)"
 prequel_links: "Space Jockey/Engineer mystery explored in Prometheus"
+
+related_entries:
+  characters: [ellen-ripley, ash, dallas, kane, lambert, parker, brett]
+  locations: [nostromo, lv-426]
+  technology: [motion-tracker, flamethrower, facehugger-containment]
+  concepts: [special-order-937, the-company, android-classification]
+  xenomorphs: [facehugger, chestburster, drone]
+  ai_systems: [mother]

@@ -179,3 +179,9 @@ legacy:
 sequel: "Alien: Covenant (2017)"
 franchise_link: "Precedes Alien (1979) by 29 years in-universe"
 engineer_connection: "LV-223 Engineers are different installation to LV-426 derelict (Alien)"
+
+related_entries:
+  characters: [shaw, david, holloway, vickers, janek, fifield, millburn]
+  locations: [prometheus, lv-223]
+  concepts: [black-goo, space-jockey, the-company, android-classification]
+  species: [engineers]

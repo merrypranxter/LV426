@@ -208,3 +208,10 @@ legacy:
 # Connections
 prequel_film: "Alien (1979)"
 sequel: "Alien³ (1992)"
+
+related_entries:
+  characters: [ellen-ripley, hicks, hudson, vasquez, apone, gorman, newt, bishop, burke, frost, drake, ferro, spunkmeyer]
+  locations: [uss-sulaco, hadleys-hope, lv-426]
+  technology: [power-loader, motion-tracker, pulse-rifle, smartgun, flamethrower, dropship, apc, sentry-guns]
+  concepts: [colonial-marines, the-company, terraforming]
+  xenomorphs: [facehugger, drone, queen]

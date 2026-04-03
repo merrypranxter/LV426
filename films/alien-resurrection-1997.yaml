@@ -181,3 +181,9 @@ legacy:
 # Connections
 prequel_film: "Alien³ (1992)"
 note: "Considered the end of the 'Ripley saga'; Alien: Romulus (2024) begins a new thread"
+
+related_entries:
+  characters: [ellen-ripley, call, johner, vriess, elgyn]
+  locations: [usm-auriga]
+  concepts: [android-classification, the-company]
+  xenomorphs: [queen, newborn]

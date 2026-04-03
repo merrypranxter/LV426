@@ -202,3 +202,10 @@ legacy:
 # Connections
 prequel_film: "Prometheus (2012)"
 sequel_to_lead_into: "Alien (1979) — David is en route to Origae-6 with xenomorph embryos; trajectory to become the LV-426 derelict is implied but unconfirmed"
+
+related_entries:
+  characters: [daniels, david, walter, oram, tennessee, faris, lope, ricks]
+  locations: [covenant]
+  concepts: [black-goo, android-classification, the-company]
+  species: [engineers]
+  xenomorphs: [neomorph, facehugger, chestburster]
