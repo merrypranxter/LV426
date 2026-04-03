@@ -1,0 +1,192 @@
+---
+species: "Xenomorph XX121"
+common_name: "Alien / Xenomorph"
+classification: "Endoparasitoid extraterrestrial species"
+
+# Variants Catalog
+variants:
+  
+  - name: "Drone / Warrior"
+    first_appearance: "Alien (1979)"
+    appearance:
+      - "Biomechanical exoskeleton"
+      - "Elongated cylindrical skull (smooth dome)"
+      - "Retractable inner jaw"
+      - "Six dorsal spines"
+      - "Prehensile tail with blade tip"
+    
+    abilities:
+      - "Wall/ceiling climbing"
+      - "Molecular acid blood (pH 2-3)"
+      - "Silent movement"
+      - "Extreme strength (can tear through metal)"
+      - "Intelligence: pack tactics, ambush predation"
+    
+    role: "Standard hive member; hunting and host capture"
+    size: "7-8 feet tall"
+  
+  - name: "Queen"
+    first_appearance: "Aliens (1986)"
+    appearance:
+      - "Massive crown-like head crest"
+      - "Four arms (two large, two vestigial)"
+      - "Ovipositor (egg-laying organ)"
+      - "Armored carapace"
+    
+    abilities:
+      - "Egg production (continuous)"
+      - "Pheromone control of drones"
+      - "Extreme intelligence (opens doors, operates elevators)"
+      - "Can detach from ovipositor for combat"
+    
+    role: "Hive matriarch; reproduction and tactical command"
+    size: "15-20 feet tall (30+ feet with ovipositor)"
+  
+  - name: "Facehugger"
+    lifecycle_stage: "Stage 1: Parasitic embryo implanter"
+    appearance:
+      - "Eight spider-like legs"
+      - "Prehensile tail"
+      - "Proboscis for embryo delivery"
+    
+    behavior:
+      - "Leaps at host face from egg"
+      - "Induces coma in host during implantation"
+      - "Self-detaches after embryo delivery"
+      - "Dies shortly after implantation"
+    
+    acid_blood: "Yes"
+    lifespan: "Hours to days"
+  
+  - name: "Chestburster"
+    lifecycle_stage: "Stage 2: Juvenile xenomorph"
+    appearance:
+      - "Snake-like body"
+      - "Developing jaw structure"
+      - "No limbs"
+    
+    behavior:
+      - "Erupts violently from host chest (fatal)"
+      - "Immediately seeks hiding place"
+      - "Rapid growth phase (hours)"
+      - "Molts into adult form"
+    
+    size: "1-2 feet long"
+  
+  - name: "Neomorph"
+    first_appearance: "Alien: Covenant (2017)"
+    origin: "Mutagen (black goo) infection, not facehugger implantation"
+    appearance:
+      - "Pale white/grey skin"
+      - "No biomechanical elements"
+      - "Quadrupedal and bipedal capable"
+      - "Spines along back"
+    
+    differences_from_standard:
+      - "Bursts from host back, not chest"
+      - "More feral, less intelligent"
+      - "No hive structure observed"
+    
+    acid_blood: "Yes"
+  
+  - name: "Runner / Dog Alien"
+    first_appearance: "Alien³ (1992)"
+    origin: "Xenomorph gestated in quadrupedal host (dog or ox)"
+    appearance:
+      - "Quadrupedal stance"
+      - "Sleeker, more streamlined build"
+      - "No dorsal spines"
+      - "Longer limbs relative to body"
+    
+    abilities:
+      - "Faster than bipedal warrior on open ground"
+      - "Highly agile; can scale walls at speed"
+      - "Same acid blood"
+    
+    differences_from_standard:
+      - "Quadrupedal movement pattern"
+      - "More feral, less pack-oriented"
+      - "Smaller overall size"
+    
+    role: "Lone hunter; no Queen observed; single specimen on Fury 161"
+    acid_blood: "Yes"
+  
+  - name: "Predalien"
+    first_appearance: "Alien vs. Predator: Requiem (2007)"
+    origin: "Xenomorph gestated in Yautja (Predator) host"
+    appearance:
+      - "Larger than standard warrior"
+      - "Predator mandibles incorporated into jaw structure"
+      - "Dreadlock-like appendages on head"
+      - "Tan/brown coloration"
+    
+    abilities:
+      - "Can implant multiple embryos directly into hosts without eggs (throat-based)"
+      - "Extreme physical strength"
+      - "Predator-derived tracking instincts"
+    
+    canon_status: "Expanded universe / Alien vs. Predator films; not main franchise canon"
+    acid_blood: "Yes"
+  
+  - name: "Newborn"
+    first_appearance: "Alien: Resurrection (1997)"
+    origin: "Born from cloned Ripley 8 / xenomorph Queen hybrid"
+    appearance:
+      - "Hairless, pale humanoid form"
+      - "Rudimentary eyes (functional)"
+      - "No exoskeleton"
+      - "Elongated xenomorph skull structure"
+      - "Internally human-like musculature"
+    
+    behavior:
+      - "Imprints on Ripley 8 as maternal figure"
+      - "Kills the Queen (rejects it as inferior)"
+      - "Highly emotional; shows fear and pain at death"
+    
+    differences_from_standard:
+      - "Not a parasitoid; born live from the Queen"
+      - "Has functional eyes (standard xenomorphs do not)"
+      - "Hybrid of xenomorph and human biology"
+    
+    fate: "Sucked through porthole breach by Ripley 8"
+    acid_blood: "Diluted (hybrid biology)"
+  
+  - name: "Deacon"
+    first_appearance: "Prometheus (2012)"
+    origin: "Engineer host infected by trilobite (itself a product of black goo mutation)"
+    appearance:
+      - "Bipedal"
+      - "Elongated head (similar to standard xenomorph but distinct skull shape)"
+      - "Blue-grey coloration"
+      - "No dorsal spines"
+    
+    significance: "Proto-xenomorph; predates David's engineered strain"
+    relationship_to_standard: |
+      The Deacon represents an earlier or parallel evolutionary path in the Engineer 
+      black goo experiments — a xenomorph-like organism that emerged without David's 
+      refinements. Its existence confirms the xenomorph is an engineered life form, 
+      not naturally evolved.
+    acid_blood: "Presumed"
+
+# Shared Biological Traits
+universal_characteristics:
+  blood: "Molecular acid (concentrated hydrofluoric acid or similar)"
+  skeleton: "Polarized silicon-based structure"
+  reproduction: "Parasitic; requires host organism"
+  gestation: "4-24 hours depending on host metabolism"
+  intelligence: "Adaptive; learns from observation"
+  communication: "Pheromones, hive telepathy (theorized)"
+  
+  weaknesses:
+    - "Fire (extreme heat)"
+    - "Hard vacuum (eventually)"
+    - "Their own acid blood (if wounded)"
+    - "Hive mind dependency on Queen"
+
+# Host Dependency
+genetic_inheritance: |
+  Xenomorphs inherit traits from their host organism. Human hosts produce the 
+  standard bipedal warrior form. Other hosts produce variant morphologies:
+  - Dog/Ox host → Runner xenomorph (quadrupedal, faster)
+  - Engineer host → Deacon xenomorph (unique skull structure)
+  - Predator host → Predalien hybrid (Aliens vs Predator)

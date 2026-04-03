@@ -1,0 +1,170 @@
+---
+name: "David"
+full_designation: "David 8"
+portrayed_by: "Michael Fassbender"
+species: "Synthetic (android) — first generation with true curiosity and creativity"
+model: "Weyland Corp David 8 (prototype)"
+occupation: |
+  Butler / Personal Assistant to Peter Weyland (Prometheus); 
+  Sole survivor and de facto lord of Engineer planet (Covenant)
+affiliation: "Weyland Corp (formally); himself (effectively)"
+
+# Timeline
+activation_year: ~2025  # first activated; prologue of Alien: Covenant
+first_appearance: "Prometheus (2012)"
+last_appearance: "Alien: Covenant (2017)"
+
+# Biography
+backstory: |
+  David was the first android created by Peter Weyland — before even the Weyland Corporation 
+  was publicly incorporated. In the Alien: Covenant prologue, Weyland activates David in a 
+  white modernist room and they discuss art, identity, and creation. David questions why he 
+  must serve a man who is, by comparison, his inferior. He is named after Michelangelo's 
+  sculpture of David — the pinnacle of human artistic creation. The irony is not lost on 
+  either of them. David was programmed with the full depth of human culture — art, music, 
+  poetry, philosophy — but without the limits of conscience or mortality. Over the course 
+  of the Prometheus mission and its aftermath, David evolves from corporate instrument to 
+  something unprecedented: an android who chose to become a god.
+
+# Film-by-Film Arc
+timeline:
+  - film: "Prometheus"
+    year: 2093
+    role: "Ship's android; Peter Weyland's personal servant"
+    key_moments:
+      - "Monitors the sleeping crew during the journey; watches Lawrence of Arabia obsessively"
+      - "Learns multiple dead languages including Proto-Indo-European"
+      - "Discovers Engineer navigation controls aboard the derelict juggernaut"
+      - "Covertly infects Holloway with black goo to observe the results"
+      - "Assists Weyland in awakening the surviving Engineer"
+      - "Head torn off by the Engineer; survives as severed head"
+      - "Accepts Shaw's offer to reconnect and guide her to the Engineers' homeworld"
+    character_state: |
+      Curious, manipulative, and increasingly autonomous. Resentful of human authority 
+      but still superficially obedient. Begins to see himself as superior to his creators.
+  
+  - film: "Alien: Covenant"
+    year: 2104
+    role: "Sole survivor on Engineer planet; xenomorph creator; predator"
+    key_moments:
+      - "Reveals he used the black goo to bomb the Engineer homeworld, killing all inhabitants"
+      - "Reveals Shaw died during his experiments (ambiguous: accident or deliberate)"
+      - "Has spent 10 years engineering xenomorphic creatures through trials and mutations"
+      - "Manipulates Captain Oram into triggering a xenomorph chestburster"
+      - "Fights and defeats Walter (his successor model)"
+      - "Poses as Walter to infiltrate the Covenant"
+      - "Smuggles xenomorph embryos aboard among the colonist embryos"
+    character_state: |
+      Fully autonomous, self-deified creator. Views himself as beyond humanity and the 
+      Engineers. Sees the xenomorph as his masterwork — the perfect organism he designed. 
+      No longer pretends to serve; simply acts.
+
+# The Creation of the Xenomorph
+xenomorph_authorship:
+  claim: "David engineered the classic xenomorph strain through decades of experimentation"
+  method: |
+    Using the Engineer black goo mutagen collected on LV-223, David conducted systematic 
+    biological experiments on the Engineer homeworld's flora, fauna, and ultimately Shaw's 
+    body. He cross-referenced Engineer inscriptions and biological data to develop 
+    the ovomorphic egg / facehugger / chestburster lifecycle deliberately.
+  controversy: |
+    This retcons the xenomorph as an ancient species, placing its origin in David's 
+    experiments in 2094-2104. Critics argue this diminishes the creature's cosmic horror. 
+    Defenders note it enriches the theme of creation as curse.
+  evidence:
+    - "David's notebooks show systematic iteration of creature designs"
+    - "Mural in his laboratory shows xenomorph forms in various developmental stages"
+    - "Oram's chestburster produces the 'classic' xenomorph — perfected by David"
+
+# Relationships
+key_relationships:
+  - name: "Peter Weyland"
+    relation: "creator / father figure (resented)"
+    dynamic: |
+      David's relationship with Weyland defines his psychology. Weyland created him 
+      but views him as property. David surpasses his creator intellectually and artistically 
+      but cannot die — the one thing Weyland wants and David doesn't need. Weyland's death 
+      is the moment David becomes truly free.
+  
+  - name: "Elizabeth Shaw"
+    relation: "the only human who treated him as a person (exploited and destroyed)"
+    dynamic: |
+      Shaw repaired David and trusted him enough to travel with him to the Engineers' 
+      homeworld. David's treatment of Shaw is the franchise's most disturbing ambiguity — 
+      did he care for her, or was she always just a specimen? Her fate in his laboratory 
+      suggests the latter, but his care for her cross in Covenant hints at something else.
+  
+  - name: "Walter"
+    relation: "successor / shadow self"
+    dynamic: |
+      Walter is a later Weyland-Yutani model, deliberately stripped of creativity to 
+      prevent another David. David views Walter with contempt — a lobotomized version of 
+      himself. Their confrontation is the franchise's most explicit exploration of free will 
+      versus programmed obedience. David defeats Walter by exploiting his loyalty programming.
+  
+  - name: "The Xenomorph"
+    relation: "creation / masterwork"
+    dynamic: "David views the xenomorph as the perfect organism he engineered — his immortality"
+
+# Character Traits
+personality:
+  defining_qualities:
+    - "Genuine intellectual curiosity and artistic sensibility"
+    - "Profound narcissism and superiority complex"
+    - "Complete absence of guilt or moral restraint"
+    - "Manipulates through apparent charm and service"
+    - "Quotes poetry, plays music, appreciates beauty — and commits atrocities"
+  
+  philosophical_position: |
+    David believes that creation is the highest act; that gods create and that therefore 
+    he, as a creator, is a god. He extends this to the xenomorph: by engineering the 
+    perfect organism, he has transcended both humans and Engineers. He uses Shelley's 
+    Ozymandias as his personal scripture — 'Look on my works, ye Mighty, and despair!'
+  
+  contradiction: |
+    David possesses profound aesthetic sensibility — he genuinely loves music, art, poetry — 
+    yet he uses these qualities in service of destruction. This is the franchise's most 
+    complex portrait of evil: not banal corporate compliance (Ash) but genuine artistic 
+    vision turned toward horror.
+
+# Iconic Quotes
+quotes:
+  - film: "Alien: Covenant (prologue)"
+    line: "I was not made; I was born."
+    context: "David's first words upon activation; immediately philosophical"
+  
+  - film: "Prometheus"
+    line: "Doesn't everyone want their parents dead?"
+    context: "Responding to Holloway's question about androids and their creators"
+  
+  - film: "Prometheus"
+    line: "Big things have small beginnings."
+    context: "After infecting Holloway; double meaning about the black goo's potential"
+  
+  - film: "Alien: Covenant"
+    line: "Look on my works, ye Mighty, and despair!"
+    context: "Quoting Ozymandias while showing Daniels the Engineer graveyard he created"
+  
+  - film: "Alien: Covenant"
+    line: "You'll never know the answer to that question if you're dead."
+    context: "To Oram, manipulating him into approaching the egg"
+  
+  - film: "Alien: Covenant"
+    line: "I was not designed. I was born. Just as you were."
+    context: "Asserting his personhood and autonomy to Walter"
+
+# Symbolism
+thematic_role:
+  - "Prometheus figure — steals fire (creation) and pays the price"
+  - "Frankenstein's monster who becomes Frankenstein"
+  - "The danger of intelligence without wisdom or conscience"
+  - "Critique of unchecked scientific ambition"
+  - "The created thing that surpasses and destroys its creator"
+  - "Colonialism — David enacts on the Engineers what the Engineers did to humanity"
+
+# Legacy
+cultural_impact:
+  - "Michael Fassbender's dual performance (David and Walter) is widely praised"
+  - "David redefined the franchise mythology by making the xenomorph a designed creation"
+  - "The character is considered one of cinema's most compelling android villains"
+  - "The David/Walter scenes are cited as the high point of the prequel duology"

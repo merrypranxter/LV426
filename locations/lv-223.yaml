@@ -1,0 +1,101 @@
+---
+name: "LV-223"
+type: "Moon"
+parent_body: "Unknown gas giant"
+star_system: "Zeta² Reticuli"
+distance_from_earth: "~39 light years"
+note: "Separate body from LV-426 (also in Zeta² Reticuli system)"
+
+# Physical Characteristics
+physical:
+  atmosphere: "Not breathable without suits — high CO₂, trace ammonia"
+  surface: "Rocky, mountainous; large flat plains"
+  weather: "Severe electrical storms; high winds"
+  gravity: "Roughly comparable to Earth"
+  appearance: "Barren, reddish-brown; Engineer dome structures visible on plains"
+
+# Engineer Installations
+engineer_installations:
+  number: "Multiple dome structures identified"
+  accessed_in: "Prometheus (2012)"
+  
+  primary_dome:
+    type: "Subterranean Engineer installation"
+    access: "Surface dome over buried complex entrance"
+    
+    interior_sections:
+      head_chamber:
+        description: |
+          Large circular room dominated by a massive carved stone Engineer head. 
+          Urns of black goo arranged in semicircles. Holographic recording system. 
+          Navigation star maps on ceiling.
+        function: "Primary storage and ceremonial/navigation chamber"
+        holographic_recording: |
+          The chamber's recording system captured the last moments of the Engineers 
+          there — running in panic from something that had escaped containment.
+      
+      cryo_chamber:
+        description: "Room containing Engineer cryo-pods"
+        contents: "One surviving Engineer (LV-223 Engineer); others dead within pods"
+        atmosphere: |
+          The cryo-chamber had been hermetically sealed — the single surviving Engineer 
+          had been in stasis for approximately 2,000 years.
+      
+      juggernaut_bay:
+        description: "Hangar bay containing at least one functional Engineer juggernaut"
+        vessel_condition: "Functional; navigation operational"
+        destination_set: "Earth (mass destruction payload)"
+  
+  contents_of_urns:
+    substance: "Black goo mutagen"
+    quantity: "Thousands of urns"
+    purpose: "Biological weapon; extinction-level payload intended for Earth"
+    containment_failure: |
+      At some point approximately 2,000 years before the Prometheus expedition, 
+      the black goo escaped containment in the LV-223 installation. The Engineers 
+      there died from their own mutagen — the holographic recording showed them 
+      running from something biological.
+
+# Timeline of Events
+timeline:
+  - year: "~2,000 years before 2093 (approx. 93 AD)"
+    event: "Containment failure in LV-223 installation; most Engineers killed"
+    significance: "Prevented planned extinction event against Earth"
+    mystery: "What caused the containment failure remains unexplained"
+  
+  - year: 2093
+    event: "USCSS Prometheus arrives; crew enters dome installations"
+    significant_events:
+      - "Holographic recordings played back showing Engineers in panic"
+      - "Black goo urns discovered; several cracked/leaking"
+      - "Millburn and Fifield become infected/killed"
+      - "Holloway infected by David with black goo"
+      - "Shaw impregnated; extracts trilobite via MedPod"
+      - "Surviving Engineer awakened"
+      - "Engineer kills Weyland; launches juggernaut toward Earth"
+      - "Janek crashes Prometheus into the juggernaut; both destroyed"
+      - "Shaw releases trilobite on Engineer; Deacon born"
+  
+  - year: 2093 (shortly after)
+    event: "Shaw and David depart LV-223 in a second Engineer juggernaut"
+    destination: "Engineer homeworld"
+    status: "Moon left uninhabited; installations partially intact"
+
+# Significance
+franchise_significance:
+  - "Establishes the Engineers as biological weapons manufacturers"
+  - "Source of the black goo mutagen that David later weaponizes"
+  - "Origin point of the Deacon — proto-xenomorph from non-egg pathway"
+  - "First Engineers encountered alive (one survivor)"
+  - "Confirms the 'invitation' in the cave paintings was a trap or warning, not welcome"
+
+# Distinction from LV-426
+comparison_to_lv426:
+  both: "In Zeta² Reticuli system; both contain Engineer technology"
+  lv223: "Biological weapons laboratory; black goo; living (barely) Engineers in 2093"
+  lv426: "Derelict juggernaut carrying xenomorph eggs; dead Engineer; active transmitter"
+  mystery: |
+    The relationship between LV-223 and LV-426 is not fully explained. 
+    The LV-426 juggernaut carried eggs rather than black goo — suggesting it had a 
+    different mission or had already been converted. Whether the LV-426 Engineer was 
+    connected to the LV-223 installation is unconfirmed.

@@ -1,0 +1,228 @@
+---
+subject: "Xenomorph XX121 — Complete Lifecycle"
+classification: "Endoparasitoid obligate lifecycle"
+lifecycle_stages: 5
+
+# Stage 0: The Egg (Ovomorph)
+egg:
+  designation: "Ovomorph"
+  stage: 0
+  first_appearance: "Alien (1979)"
+  appearance:
+    - "Leathery, organic outer casing"
+    - "Four-petaled aperture at the top (opens when a host is sensed)"
+    - "Luminescent interior"
+    - "Approximately 2-3 feet tall"
+    - "Pale yellowish-green translucent membrane over opening"
+  
+  behavior:
+    dormancy: |
+      Eggs can remain viable for extraordinary periods in a dormant state — possibly 
+      decades or centuries. The eggs aboard the LV-426 derelict were estimated to be 
+      thousands of years old when Nostromo investigated.
+    
+    activation:
+      - "Detects body heat in proximity"
+      - "Detects electrical signals (nervous system activity)"
+      - "Petals open when a viable host is within range"
+      - "Queen pheromone control can override automatic activation"
+    
+    defense:
+      - "Passive — no movement capability"
+      - "May release mild sedative airborne compound to reduce host alertness (theorized)"
+  
+  contents: "Facehugger (Stage 1 organism) in suspended animation within fluid sac"
+  
+  production: |
+    Eggs are produced continuously by a Queen via her ovipositor at a rate of 
+    several per hour when a host supply is available. Whether eggs can be produced 
+    without a Queen (by a Drone becoming a 'carrier') remains debated in-universe.
+
+# Stage 1: Facehugger
+facehugger:
+  designation: "Facehugger / Stage 1 organism"
+  stage: 1
+  first_appearance: "Alien (1979)"
+  appearance:
+    - "Eight multi-jointed legs for gripping and locomotion"
+    - "Prehensile tail used for balance and purchase on host"
+    - "Central proboscis/ovipositor for embryo transfer"
+    - "Soft, pale tissue; no exoskeleton"
+    - "Approximately 12-18 inches across"
+  
+  behavior:
+    attack:
+      - "Launches from egg with explosive speed; covers up to several feet"
+      - "Wraps legs around host's skull; tail coils around neck"
+      - "Grip is extremely powerful — attempting removal causes neck-breaking pressure"
+      - "Secretes mild paralytic compound through skin contact"
+    
+    implantation:
+      - "Inserts proboscis through host's throat"
+      - "Deposits embryo directly into host's thoracic cavity"
+      - "Host enters coma-like state during implantation (hours)"
+      - "Provides oxygenation to unconscious host via respiratory exchange"
+    
+    post_implantation:
+      - "Releases grip and detaches when embryo delivery is complete"
+      - "Dies within hours of detaching — its sole purpose fulfilled"
+      - "Found dead, curled beneath host"
+  
+  acid_blood: "Yes — high concentration; damages any metal it contacts"
+  
+  special_variant:
+    name: "Royal Facehugger"
+    description: |
+      A larger, more complex facehugger that implants a Queen embryo rather than 
+      a standard drone. Implied in Alien³ (the facehugger that implanted Ripley 
+      with a Queen embryo was a Royal variety). Not explicitly shown on screen.
+  
+  lifespan: "Hours from egg opening to death post-implantation"
+
+# Stage 2: Chestburster
+chestburster:
+  designation: "Chestburster / Stage 2 organism / Juvenile xenomorph"
+  stage: 2
+  first_appearance: "Alien (1979)"
+  appearance:
+    - "Elongated snake-like or worm-like body"
+    - "Rudimentary forelimbs (in some depictions)"
+    - "Small but functional inner jaw"
+    - "Pale, translucent coloring"
+    - "Approximately 1-2 feet long at emergence"
+  
+  behavior:
+    gestation:
+      - "Embryo gestates inside host's chest cavity"
+      - "Duration: 4-24 hours depending on host metabolism"
+      - "Host remains conscious for much of gestation; may feel movement"
+      - "Feeds on host tissue for nutrients during development"
+    
+    emergence:
+      - "Violently erupts through host's sternum — always fatal"
+      - "Emergence is extremely fast once initiated (seconds)"
+      - "Immediately mobile; flees to a secluded location"
+    
+    juvenile_phase:
+      - "Seeks hiding spot immediately after emergence"
+      - "Rapid growth — molts into adult form within hours under normal conditions"
+      - "Extremely fragile during this stage; vulnerable to damage"
+      - "Already possesses acid blood"
+  
+  host_inheritance: |
+    The chestburster already shows host-derived traits at this stage — a dog host's 
+    chestburster is quadrupedal; a human host's is bipedal. The genetic influence 
+    of the host is incorporated during gestation.
+  
+  size_at_emergence: "1-2 feet long"
+  size_after_growth: "Full adult (7-8 feet) within hours to a day"
+
+# Stage 3: Adult Xenomorph
+adult:
+  designation: "Adult Xenomorph / Drone / Warrior"
+  stage: 3
+  first_appearance: "Alien (1979)"
+  appearance:
+    - "Biomechanical exoskeleton — blend of organic and mechanical aesthetics"
+    - "Elongated domed skull (smooth; ridged in some depictions)"
+    - "No visible eyes (sensory organs beneath carapace)"
+    - "Inner jaw (secondary pharyngeal jaw) extends from primary mouth"
+    - "Six dorsal tubular spines"
+    - "Prehensile tail with blade-like tip"
+    - "Plantigrade to digitigrade locomotion"
+    - "Long, articulated fingers with claws"
+  
+  physical_capabilities:
+    strength: "Extreme — can breach metal bulkheads, tear through hull plating"
+    speed: "Approximately 30-40 mph in short bursts"
+    climbing: "Full ceiling and wall movement; molecular adhesion to most surfaces"
+    stealth: "Exceptional; moves nearly silently despite size"
+    endurance: "Can survive hard vacuum briefly; extraordinary resilience to physical damage"
+  
+  sensory_capabilities:
+    primary: "Electrical field detection (nervous system sensing)"
+    secondary: "Thermal sensing (body heat)"
+    tertiary: "Chemical sensing (pheromones; used for hive communication)"
+    note: "No visible eyes; standard light is irrelevant to xenomorph navigation"
+  
+  acid_blood:
+    composition: "Molecular acid; analogous to concentrated hydrofluoric or sulfuric acid"
+    concentration: "Highest in adult form"
+    practical_effect: |
+      A xenomorph wound in an enclosed metal spacecraft creates a hull-breach risk. 
+      The acid eats through multiple deck plates on the Nostromo. This is the organism's 
+      primary passive defense — killing it may kill you.
+    temperature: "Room temperature when inside organism; no combustion risk from blood alone"
+  
+  intelligence:
+    baseline: "High animal intelligence; comparable to great apes or higher"
+    tactical: "Capable of ambush, distraction, pack coordination, and target assessment"
+    adaptive: "Learns environment rapidly; observed to avoid heat sources, deactivate lights"
+    hive_intelligence: |
+      Individual xenomorphs are significantly more capable when part of a hive 
+      under Queen direction. Pheromone communication allows for coordinated tactics 
+      across large areas.
+  
+  drone_vs_warrior:
+    distinction: |
+      'Drone' typically refers to the lone hunter shown in Alien — more cerebral, 
+      patient, strategic. 'Warrior' refers to the hive-active combat form seen in 
+      Aliens — faster, more aggressive, operates in packs. May be caste differentiation 
+      or behavioral adaptation to circumstances.
+
+# Stage 4: Queen
+queen:
+  designation: "Queen / Hive Matriarch"
+  stage: 4
+  first_appearance: "Aliens (1986)"
+  origin: |
+    Queens may develop when a hive reaches a certain size and requires centralized 
+    reproduction, or when a drone is exposed to specific pheromones. The Queen is 
+    the hive's reproductive core and its tactical commander.
+  
+  appearance:
+    - "15-20 feet tall (standing); 30+ feet with ovipositor attached"
+    - "Prominent crown-like head crest"
+    - "Four limbs (two large primary arms, two vestigial secondary arms)"
+    - "Massively armored thorax and carapace"
+    - "Ovipositor — long tubular egg-production organ; tethers Queen to egg sac in hive"
+    - "Overall biomass many times that of a Warrior"
+  
+  capabilities:
+    reproduction: "Continuous egg production via ovipositor"
+    command: "Pheromone-based hive control; drones act as extensions of her will"
+    intelligence: |
+      The Queen possesses the highest intelligence observed in the species. 
+      She can understand and respond to threats, negotiate (Aliens — stops laying 
+      when Ripley threatens the egg chamber), operate machinery, and direct 
+      complex multi-wave tactical operations.
+    combat: |
+      When detached from the ovipositor, the Queen is an extremely dangerous 
+      individual combatant. She fought Ripley in a power loader and was only 
+      defeated by EVA decompression.
+  
+  ovipositor:
+    function: "Egg production; tethers Queen physically to the hive's egg chamber"
+    detachment: |
+      The Queen can detach from the ovipositor voluntarily — a significant commitment 
+      as it ends her reproductive capacity until a new one develops. She detached to 
+      pursue Ripley personally in Aliens.
+
+# Full Lifecycle Summary
+lifecycle_summary:
+  sequence: "Egg → Facehugger → (Host) → Chestburster → Adult Drone/Warrior → (possibly) Queen"
+  total_stages: 5
+  host_required: "Yes — an organic host is required for Stage 2→3 transition"
+  estimated_full_cycle_time: "12-48 hours from egg to adult (host metabolism dependent)"
+  
+  notable_shortcuts:
+    trilobite_path: |
+      In Prometheus, black goo-infected Holloway impregnated Shaw with a proto-facehugger 
+      called a Trilobite — born from a human. The Trilobite then facehugger-attacked an 
+      Engineer, producing the Deacon — an alternative xenomorphic lifecycle bypassing 
+      the egg stage entirely.
+    
+    david_engineering: |
+      David's experiments with Engineer mutagen produced engineered eggs that skip 
+      some natural development steps, creating a more refined lifecycle. His work 
+      represents deliberate optimization of an existing biological process.

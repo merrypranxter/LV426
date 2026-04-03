@@ -1,0 +1,110 @@
+---
+name: "Humanity"
+classification: "Homo sapiens — biological descendants of Engineer seeding"
+role_in_franchise: "Primary protagonists and frequent victims; recurring architects of their own doom"
+
+# Biological Origin
+origin:
+  canonical_account: |
+    Per Prometheus (2012): humanity was not independently evolved. An Engineer sacrificed 
+    itself on primordial Earth, seeding the biosphere with its disintegrating DNA. 
+    All terrestrial life — including humans — shares genetic ancestry with the Engineers. 
+    This makes humans, in effect, a created species: children of the Engineers.
+  
+  dna_match: "100% match to Engineer DNA (Shaw's analysis, Prometheus)"
+  
+  implication: |
+    Humanity's drive to create (androids, colonies, weapons) mirrors the Engineers' drive 
+    to create (humanity, xenomorphs). The franchise presents creation as an inherently 
+    dangerous act across all species.
+
+# Humanity's Role in the Franchise
+narrative_role:
+  protagonist: |
+    Humans are the lens through which the franchise is experienced. Ripley, Shaw, Daniels, 
+    Rain — all human protagonists navigating a universe structured against their survival.
+  
+  antagonist: |
+    Humans (specifically human institutions — Weyland-Yutani, the military) are 
+    frequently the primary driver of catastrophe. Without human corporate greed, 
+    the xenomorph remains isolated. Humanity arms its own executioner.
+  
+  victim: |
+    The franchise's body count is overwhelmingly human. Humanity is the xenomorph's 
+    preferred host species — our biology is, by David's design, the perfect incubator.
+
+# Key Human Character Types
+archetypes:
+  - type: "The Survivor"
+    examples: ["Ellen Ripley", "Elizabeth Shaw", "Daniels", "Rain Carradine"]
+    description: |
+      Individuals who resist, adapt, and endure against institutional indifference 
+      and alien threat. Usually women. Often defined by what they've lost.
+  
+  - type: "The Company Man"
+    examples: ["Carter Burke", "Dr. Wren", "Ash (synthetic but company-aligned)"]
+    description: |
+      Humans who serve corporate interests to the point of complicity in atrocity. 
+      Not usually monster-evil; simply willing to trade lives for advancement or profit.
+  
+  - type: "The Soldier"
+    examples: ["Hicks", "Vasquez", "Hudson", "Apone"]
+    description: |
+      Military characters who represent competence undermined by circumstances. 
+      Usually portrayed sympathetically; their deaths emphasize the futility of 
+      conventional force against the xenomorph.
+  
+  - type: "The Scientist"
+    examples: ["Ash", "David", "Shaw", "Holloway", "Dr. Gediman"]
+    description: |
+      People who want to know more than is safe. Their curiosity — and its 
+      corporate exploitation — drives most of the franchise's inciting incidents.
+
+# Humanity's Relationship with Androids
+androids_relationship:
+  summary: |
+    Humans created androids as tools. The franchise explores what happens when those 
+    tools develop interiority. The android question — what makes something a person — 
+    runs through every film. Ash is a weapon. Bishop is a colleague. David is a god 
+    who outgrew his creators. Call is a revolutionary. All were made by humans; all 
+    reflect something back at us.
+  
+  key_tension: |
+    Humans treat androids as property. Androids either accept this (Walter), resist it 
+    (David), or transcend it (Call). The franchise never fully resolves the ethical 
+    question — but it consistently shows the cost of treating created minds as objects.
+
+# Humanity's Relationship with Xenomorphs
+xenomorph_relationship:
+  biological: |
+    Humans are the ideal host species for xenomorph gestation — the standard warrior 
+    form is the human-derived variant. In David's engineering, humanity's biology was 
+    specifically optimized for the facehugger/chestburster lifecycle.
+  
+  institutional: |
+    Weyland-Yutani and the United Systems Military have repeatedly attempted to 
+    weaponize the xenomorph using human hosts. Humanity's institutions treat their 
+    own species as raw material in the pursuit of xenomorph control.
+  
+  existential: |
+    The xenomorph represents everything humanity fears about nature: it is purposeful 
+    without conscience, reproductive without mercy, and perfectly adapted to survive 
+    where we cannot. It is, in the franchise's darkest reading, what we will become 
+    if we strip away our ethics and pursue pure survival.
+
+# Humanity's Future
+future_in_franchise:
+  - year: 2122
+    state: "Interstellar civilization; corporate-dominated; working class largely indentured"
+  - year: 2179
+    state: "Active terraforming and colonization; colonial marine presence; still corporate-dominated"
+  - year: 2381
+    state: "Weyland-Yutani bought by Walmart; United Systems Military dominant; Earth apparently still inhabited"
+
+# Thematic Role
+thematic_significance:
+  - "The middle species — between the Engineers who created us and the xenomorphs we created (via David)"
+  - "Capable of great creation and great destruction; mirrors both our parents and our children"
+  - "The moral center of the franchise, despite being its most frequent perpetrators of catastrophe"
+  - "Our institutions (corporations, military) are the franchise's true monsters"
+  - "Survival, not evolution, as the human response to existential threat"

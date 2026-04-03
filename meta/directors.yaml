@@ -1,0 +1,164 @@
+---
+subject: "Alien Franchise — Directors"
+note: "Profiles of directors who helmed main-series Alien films"
+
+directors:
+  
+  - name: "Ridley Scott"
+    films:
+      - "Alien (1979)"
+      - "Prometheus (2012)"
+      - "Alien: Covenant (2017)"
+    nationality: "British"
+    born: 1937
+    
+    background: |
+      Scott came to Alien after directing The Duellists (1977), his debut feature. 
+      He was not the first choice — Walter Hill and John Carpenter were among those 
+      considered. Scott's background in advertising gave him extraordinary visual precision. 
+      He used the Nostromo's lived-in, industrial aesthetic to create a new template 
+      for science fiction cinema, drawing on the production design of Ron Cobb and 
+      H.R. Giger's xenomorph designs.
+    
+    approach_to_alien: |
+      Scott treated Alien as a haunted house film set in space. His direction 
+      emphasizes dread over action — the creature is rarely seen fully, the corridors 
+      are claustrophobic, the lighting is industrial. He insisted on practical effects 
+      and gave the film a documentary-like realism that made the horror feel immediate.
+    
+    approach_to_prequels: |
+      For Prometheus and Covenant, Scott shifted toward philosophical science fiction, 
+      exploring the origins of the xenomorph and humanity's relationship with its creators. 
+      The prequels are more interested in ideas (creation, consciousness, the cost of 
+      meeting your maker) than in creature horror. This approach was divisive.
+    
+    other_notable_films:
+      - "Blade Runner (1982)"
+      - "Thelma & Louise (1991)"
+      - "Gladiator (2000)"
+      - "The Martian (2015)"
+    
+    awards: "Two Academy Award nominations for directing; BAFTA, DGA recognition"
+  
+  - name: "James Cameron"
+    films:
+      - "Aliens (1986)"
+    nationality: "Canadian-American"
+    born: 1954
+    
+    background: |
+      Cameron's first major studio film was The Terminator (1984). He was hired to 
+      direct Aliens on the strength of that film. He rewrote the screenplay substantially 
+      from early drafts, shifting the focus from horror to action-horror while maintaining 
+      the franchise's thematic core. He shot the film in England on a large practical set.
+    
+    approach: |
+      Cameron's Aliens is a sequel that refuses to repeat its predecessor. Where Scott 
+      built dread through isolation, Cameron built it through scale — more creatures, 
+      more humans, higher stakes, bigger set pieces. He added the Colonial Marines as 
+      an institutional force and the Queen as a worthy adversary for Ripley. 
+      The film is as much a war movie as a horror film.
+    
+    key_contributions:
+      - "Created the Alien Queen — the franchise's most iconic new creature"
+      - "Established the Colonial Marines aesthetic and culture"
+      - "Power loader sequence — defined the franchise's action vocabulary"
+      - "Deepened Ripley's character with the Amanda backstory"
+    
+    other_notable_films:
+      - "The Terminator (1984)"
+      - "Titanic (1997)"
+      - "Avatar (2009)"
+    
+    awards: "Academy Award for Best Director (Titanic); multiple technical Oscars"
+  
+  - name: "David Fincher"
+    films:
+      - "Alien³ (1992)"
+    nationality: "American"
+    born: 1962
+    
+    background: |
+      Alien³ was Fincher's feature directorial debut after a career in music videos 
+      (Madonna, Michael Jackson) and commercials. He took the project over from 
+      previous directors (Renny Harlin, Vincent Ward) after extensive pre-production 
+      chaos. Fincher has consistently said he wants nothing to do with discussing 
+      the film, calling it the worst experience of his professional life.
+    
+    approach_and_studio_conflict: |
+      Fincher wanted to make a somber, existential film about mortality and institutional 
+      despair — closer to Bergman than to the action-horror of Aliens. Fox interfered 
+      extensively, demanding reshoots and changes throughout production and post-production 
+      while Fincher was still editing. The film released in a form that satisfied neither 
+      Fincher nor the studio.
+    
+    assembly_cut: |
+      A 2003 'Assembly Cut' was included in the Alien Quadrilogy box set, restoring 
+      approximately 30 minutes of footage and several key story changes (ox host replaces 
+      dog; additional character development). Fincher did not supervise this cut — 
+      he refused participation — but it is widely considered superior to the theatrical version.
+    
+    other_notable_films:
+      - "Se7en (1995)"
+      - "Fight Club (1999)"
+      - "Zodiac (2007)"
+      - "The Social Network (2010)"
+      - "Gone Girl (2014)"
+    
+    awards: "Academy Award nomination for directing (The Social Network)"
+  
+  - name: "Jean-Pierre Jeunet"
+    films:
+      - "Alien: Resurrection (1997)"
+    nationality: "French"
+    born: 1953
+    
+    background: |
+      Jeunet was known for visually distinctive, darkly comic French films before 
+      Alien: Resurrection — Delicatessen (1991) and The City of Lost Children (1995). 
+      He brought a European grotesque aesthetic to the franchise that is unique in 
+      the series.
+    
+    approach: |
+      Jeunet's Alien: Resurrection is the franchise's most visually baroque installment — 
+      wet, fleshy, amber-lit, full of distorted reflections and grotesque imagery. 
+      He emphasized the body horror and the blurring of human/alien boundaries. 
+      The film's tone is darkly absurdist in places, which contributed to its divisive reception.
+    
+    collaboration_friction: |
+      Joss Whedon, who wrote the screenplay, publicly criticized the film's execution, 
+      arguing that the tone undermined his intentions. Jeunet directed what was essentially 
+      a different film than Whedon wrote.
+    
+    other_notable_films:
+      - "Delicatessen (1991)"
+      - "The City of Lost Children (1995)"
+      - "Amélie (2001)"
+      - "A Very Long Engagement (2004)"
+  
+  - name: "Fede Álvarez"
+    films:
+      - "Alien: Romulus (2024)"
+    nationality: "Uruguayan"
+    born: 1978
+    
+    background: |
+      Álvarez is known for lean, effective horror — Evil Dead (2013) and 
+      Don't Breathe (2016). His approach to Alien: Romulus was explicitly 
+      to return the franchise to its horror roots and the template of the original 1979 film.
+    
+    approach: |
+      Álvarez positioned Romulus as a back-to-basics horror film for a new generation. 
+      He prioritized practical effects, claustrophobic environments, and a smaller scale 
+      than the recent prequels. The film is set entirely in space with no Earth scenes. 
+      Ridley Scott served as executive producer.
+    
+    key_contributions:
+      - "Returned franchise to pure survival horror tone of original Alien"
+      - "Set the film between Alien and Aliens — filling a narrative gap"
+      - "Introduced Rain Carradine as a new generation protagonist"
+      - "Handled the posthumous recreation of Ian Holm's Ash (Rook) via AI/VFX"
+    
+    other_notable_films:
+      - "Evil Dead (2013)"
+      - "Don't Breathe (2016)"

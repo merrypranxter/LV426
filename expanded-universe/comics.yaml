@@ -1,0 +1,135 @@
+---
+subject: "Alien Franchise — Comics"
+canon_status_note: "Expanded universe; not primary film canon"
+
+overview: |
+  Dark Horse Comics held the Alien comics license from 1988 to 2021, producing 
+  one of the most prolific expansions of the franchise. Marvel Comics acquired 
+  the license in 2021 and has continued the line. Comics introduced many concepts 
+  later absorbed into expanded canon, including the Alien Queen's detailed biology 
+  and various xenomorph variants.
+
+publishers:
+  - name: "Dark Horse Comics"
+    license_period: "1988–2021"
+    notable_output: "Aliens, Aliens vs. Predator, numerous miniseries and one-shots"
+  
+  - name: "Marvel Comics"
+    license_period: "2021–present"
+    notable_output: "Alien (2021), Alien: Bloodlines, various tie-ins"
+
+# Major Dark Horse Series
+dark_horse_titles:
+  
+  - title: "Aliens (1988)"
+    issues: 6
+    writer: "Mark Verheiden"
+    artist: "Mark A. Nelson"
+    setting: "Post-Aliens continuity"
+    note: |
+      Originally featured Hicks and Newt (later renamed Wilks and Billie 
+      after Alien³ killed the characters). Set on Earth after xenomorphs 
+      arrive on the homeworld — controversial but influential.
+    significance: "Established the 'Aliens on Earth' concept that influenced later media"
+  
+  - title: "Aliens: Outbreak"
+    years: "1989–1990"
+    note: "Sequel to the original miniseries; continued the Hicks/Newt (Wilks/Billie) story"
+  
+  - title: "Aliens vs. Predator (1990)"
+    writers: "Randy Stradley"
+    artists: "Phill Norwood, Chris Warner"
+    significance: |
+      First major AvP story; established the concept of Predators using xenomorphs 
+      as hunting quarry. Directly inspired the AvP film adaptations.
+  
+  - title: "Aliens: Earth War"
+    years: "1990"
+    significance: "Large-scale xenomorph invasion of Earth storyline"
+  
+  - title: "Aliens: Genocide"
+    years: "1991–1992"
+    plot: "Humans attempt to exploit a civil war between two xenomorph Queens"
+    significance: "Introduced concept of different Queen factions within species"
+  
+  - title: "Aliens: Colonial Marines"
+    years: "1993–1994"
+    plot: "Colonial Marines investigating xenomorph activity"
+  
+  - title: "Aliens: Stronghold"
+    years: "1994"
+    plot: "Corporate scientists creating human-xenomorph hybrids"
+    note: "Predates and likely influenced Alien: Resurrection's Newborn concept"
+  
+  - title: "Alien: Dead Orbit"
+    years: "2017"
+    writer_artist: "James Stokoe"
+    description: |
+      A maintenance engineer on a space station must survive a xenomorph 
+      incident alone. Critically acclaimed; stunning painted artwork. 
+      One of the best-received Alien comics.
+  
+  - title: "Aliens: Defiance"
+    years: "2016–2017"
+    writer: "Brian Wood"
+    artist: "Tristan Jones"
+    protagonist: "Zula Hendricks — Colonial Marine"
+    description: "Set between Alien and Aliens; Zula and a synthetic named Davis investigate xenomorph activity"
+  
+  - title: "Aliens: Resistance"
+    years: "2019"
+    protagonist: "Amanda Ripley (post-Alien: Isolation)"
+    description: "Amanda teams with Zula Hendricks to expose Weyland-Yutani's xenomorph program"
+  
+  - title: "Aliens: Rescue"
+    years: "2019"
+    description: "Continuation of Resistance storyline"
+
+# Marvel Comics Titles
+marvel_titles:
+  
+  - title: "Alien (2021)"
+    issues: "Ongoing"
+    writer: "Phillip Kennedy Johnson"
+    artist: "Salvador Larroca"
+    protagonist: "Gabriel Cruz — retired Weyland-Yutani security director"
+    description: |
+      Cruz attempts to protect his son from a xenomorph outbreak while confronting 
+      his own complicit past with the company. Critically well-received; praised for 
+      character focus and franchise reverence.
+  
+  - title: "Alien: Bloodlines"
+    years: "2021"
+    description: "Tie-in miniseries; corporate xenomorph research program storyline"
+  
+  - title: "Alien: Annual (2022)"
+    description: "Standalone stories across franchise eras"
+  
+  - title: "Aliens: Aftermath"
+    years: "2021"
+    description: "Set after Aliens (1986); LV-426 exploration post-nuclear event"
+
+# Key Concepts Introduced in Comics
+concepts_introduced:
+  - concept: "Xenomorph subspecies variety"
+    detail: "Comics substantially expanded the number of observed xenomorph variants beyond films"
+  
+  - concept: "Queen vs. Queen conflict"
+    detail: "Multiple Queen factions with distinct pheromone signatures; civil wars within species"
+  
+  - concept: "Royal Facehugger"
+    detail: "Implants Queen embryos rather than standard drones; later referenced in film canon"
+  
+  - concept: "Xenomorph on Earth"
+    detail: "Full-scale Earth invasion storylines; became a recurring expanded universe theme"
+  
+  - concept: "Engineer backstory elements"
+    detail: "Various comics attempted to expand Engineer lore prior to Prometheus"
+
+# Canon Notes
+canon_relationship_to_films: |
+  Dark Horse and Marvel comics are expanded universe material. Key distinctions:
+  - No comic storyline is treated as film canon
+  - The original Aliens comics' Hicks/Newt were renamed after Alien³ contradicted their survival
+  - Concepts introduced in comics occasionally appear in later films (Royal Facehugger, hybrid research)
+  - Alien: Dead Orbit, Defiance, and Resistance are frequently cited as high-quality additions to the lore

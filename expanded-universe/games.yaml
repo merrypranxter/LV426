@@ -1,0 +1,135 @@
+---
+subject: "Alien Franchise — Video Games"
+canon_status_note: "Expanded universe; not primary film canon unless explicitly contradicted by films"
+
+games:
+  
+  - title: "Alien: Isolation"
+    developer: "Creative Assembly"
+    publisher: "SEGA"
+    platform: "PC, PS4, Xbox One, iOS, Nintendo Switch"
+    release_year: 2014
+    in_universe_year: 2137
+    protagonist: "Amanda Ripley (Ellen Ripley's daughter)"
+    
+    setting: "Sevastopol Station — Seegson commercial space station orbiting KG-348"
+    
+    plot_summary: |
+      Amanda Ripley boards the deteriorating Sevastopol Station to recover the Nostromo's 
+      flight recorder. The station has been compromised by a single xenomorph, which has 
+      killed most of the 500+ crew. Amanda must survive encounters with the xenomorph, 
+      malfunctioning Working Joe androids, and hostile human survivors while uncovering 
+      Weyland-Yutani's involvement in the station's xenomorph acquisition.
+    
+    gameplay:
+      genre: "First-person survival horror"
+      mechanics:
+        - "Stealth-based — direct combat with the xenomorph is nearly impossible"
+        - "Motion tracker (recreates Alien 1979 scanner)"
+        - "Improvised crafting (flamethrower, noisemakers, EMP devices)"
+        - "APOLLO AI interface sections"
+      
+      xenomorph_behavior: |
+        The single xenomorph learns from the player's tactics over time — 
+        if you hide in lockers repeatedly, it starts checking lockers. 
+        Procedural AI was groundbreaking for the genre.
+    
+    canon_notes:
+      - "Developed with Ellen Ripley actress Sigourney Weaver's approval"
+      - "Amanda Ripley referenced in Aliens (1986) — her fate discussed in Director's Cut"
+      - "Fills the 57-year gap between Alien and Aliens"
+      - "Considered near-canon by many fans; no film directly contradicts it"
+    
+    dlc:
+      - name: "Crew Expendable"
+        description: "Play as Dallas, Ripley, or Lambert in the original Nostromo incident"
+      - name: "Last Survivor"
+        description: "Play as Ripley's escape from the Nostromo to the Narcissus"
+      - name: "Corporate Lockdown / Trauma / Safe Haven / Lost Contact / The Trigger"
+        description: "Five DLC packs featuring other station survivors"
+    
+    legacy: "Critically acclaimed; considered one of the best Alien games ever made"
+  
+  - title: "Aliens: Colonial Marines"
+    developer: "Gearbox Software"
+    publisher: "SEGA"
+    platform: "PC, PS3, Xbox 360, Wii U"
+    release_year: 2013
+    in_universe_year: 2179
+    
+    setting: "LV-426, USS Sulaco, Hadley's Hope (post-Aliens)"
+    
+    plot_summary: |
+      Set shortly after the events of Aliens, a new team of Colonial Marines investigates 
+      the USS Sulaco and LV-426 following the loss of contact. The game attempts to bridge 
+      Aliens and Alien³, featuring Hicks as a character and exploring what happened 
+      between the films.
+    
+    gameplay:
+      genre: "First-person shooter"
+      mechanics:
+        - "Squad-based combat"
+        - "Pulse rifles, smartguns — film-accurate weapons"
+        - "4-player co-op"
+    
+    reception: "Critically panned; widely considered the worst Alien game; infamous for false advertising controversy"
+    
+    canon_notes:
+      - "Contradicts established film canon in several ways"
+      - "The 'live Hicks' plot creates continuity problems with Alien³"
+      - "Generally disregarded by franchise canon discussions"
+  
+  - title: "Alien vs. Predator (2010)"
+    developer: "Rebellion Developments"
+    publisher: "SEGA"
+    platform: "PC, PS3, Xbox 360"
+    release_year: 2010
+    
+    gameplay:
+      genre: "First-person shooter"
+      campaigns: "Three separate campaigns: Marine, Predator, Alien"
+    
+    canon_status: "Expanded universe / AvP continuity; separate from main Alien canon"
+  
+  - title: "Aliens: Dark Descent"
+    developer: "Tindalos Interactive"
+    publisher: "Focus Entertainment"
+    platform: "PC, PS4/5, Xbox"
+    release_year: 2023
+    in_universe_year: 2183
+    
+    plot_summary: |
+      Top-down tactical squad game set on Lethe colony. A xenomorph outbreak traps 
+      Colonial Marines on the surface; must stop the spread while managing hive evolution.
+    
+    gameplay:
+      genre: "Real-time tactical strategy"
+      mechanics:
+        - "Permanent death (permadeath for squad members)"
+        - "Hive evolution — xenomorphs adapt to player tactics"
+        - "Stress system affecting marine performance"
+    
+    reception: "Well received; praised for capturing the franchise's atmosphere"
+  
+  - title: "Alien: Blackout"
+    developer: "D3 Go!"
+    release_year: 2019
+    platform: "Mobile (iOS, Android)"
+    protagonist: "Amanda Ripley (sequel to Alien: Isolation events)"
+    
+    plot_summary: |
+      Amanda Ripley is stranded aboard a Weyland-Yutani space station with a xenomorph loose. 
+      Uses the station's systems to guide survivors to safety while tracking the creature.
+    
+    gameplay:
+      genre: "Mobile strategy horror"
+      mechanics: "Camera and door system management; guide survivors without controlling them"
+  
+  - title: "Alien³ (1992 — various)"
+    developer: "Various (Acclaim, etc.)"
+    release_year: 1992
+    platform: "SNES, Mega Drive/Genesis, Game Boy, Amiga, DOS, NES"
+    note: "Various adaptations of the film; gameplay varies significantly by platform"
+  
+  - title: "Alien: Romulus (tie-in)"
+    note: "No major game tie-in released for Alien: Romulus (2024) as of franchise database update"

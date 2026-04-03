@@ -1,0 +1,136 @@
+---
+name: "Weyland-Yutani Corporation"
+common_name: "The Company"
+full_name: "Weyland-Yutani Corp"
+tagline: "Building Better Worlds"
+type: "Multinational megacorporation"
+status: "Active (main franchise era)"
+
+# Formation
+formation:
+  merger_date: "~2099 (estimated)"
+  predecessor_companies:
+    - "Weyland Corp (founded ~2012 by Sir Peter Weyland)"
+    - "Yutani Corporation (Japanese-origin; exact founding unclear)"
+  merger_context: |
+    The merger between Weyland Corp and Yutani Corporation occurred sometime in the 
+    late 21st century. The exact circumstances are not depicted in the main films. 
+    By 2122 (Alien), the merged entity is simply 'the Company' — so ubiquitous that 
+    its full name is rarely used by the workers who serve it.
+
+# Corporate Structure
+structure:
+  headquarters: "Earth (location unspecified in main films)"
+  reach: "Interstellar; operates colonies, mining operations, military contracts, research vessels"
+  divisions:
+    - name: "Weapons Division"
+      description: "Xenomorph research; biological weapons development; primary driver of Special Order 937"
+    - name: "Colonial Operations"
+      description: "Manages terraforming operations, mining colonies, and population infrastructure"
+    - name: "Science Division"
+      description: "Research and development; android manufacturing; biological research"
+    - name: "Terraforming Division"
+      description: "Operates atmospheric processors and habitability engineering on colony worlds"
+  
+  android_line:
+    manufacturer: "Weyland-Yutani (later Walter models); originally Hyperdyne Systems (Ash)"
+    models:
+      - "Hyperdyne Systems 120-A/2 (Ash) — covert model; decommissioned post-incident"
+      - "Hyperdyne Systems Bishop 341-B (Bishop) — safety-focused; crew support"
+      - "Weyland-Yutani Call (second-generation) — unauthorized empathy programming"
+
+# The Xenomorph Directive
+xenomorph_program:
+  priority: "OMEGA — above all crew safety directives"
+  special_orders:
+    - order: "Special Order 937"
+      issued: 2122
+      vessel: "USCSS Nostromo"
+      content: |
+        Return xenomorph specimen to Earth for Weapons Division analysis. 
+        All other considerations secondary. Crew expendable.
+      executed_by: "Ash (Science Officer, android)"
+      outcome: "FAILED — organism and Nostromo destroyed"
+    
+    - order: "Unspecified directive"
+      issued: 2179
+      vessel: "USS Sulaco / Hadley's Hope colony"
+      content: |
+        Burke's directive to have colonists investigate derelict ship on LV-426; 
+        retrieve specimens using Ripley and Newt as unwilling carriers
+      executed_by: "Carter Burke (Company Representative)"
+      outcome: "FAILED — colony destroyed; Burke killed"
+  
+  corporate_rationale: |
+    Weyland-Yutani views the xenomorph as the ultimate biological weapon — 
+    a self-replicating, adaptable, near-indestructible organism with molecular acid 
+    defense. Successful weaponization would give the company military and political 
+    leverage beyond anything achievable through conventional technology. 
+    The cost in human lives is considered acceptable.
+
+# Timeline of Corporate Actions
+timeline:
+  - year: 2093
+    event: "Prometheus mission funded by Peter Weyland (pre-merger era)"
+    outcome: "LV-223 discovered; Weyland killed; Engineer mutagen partially documented"
+  
+  - year: 2122
+    event: "Nostromo diverted to LV-426; Special Order 937 activated"
+    outcome: "Failed; entire crew lost except Ripley"
+  
+  - year: 2179
+    event: "Ripley debriefed; stripped of flight status; LV-426 colonized without warning"
+    outcome: "Colony established; contact lost after 2179 xenomorph incident"
+  
+  - year: 2179
+    event: "USS Sulaco mission to LV-426; Burke's covert extraction attempt"
+    outcome: "Colony and hive destroyed; Burke dead; primary mission failed again"
+  
+  - year: 2179
+    event: "Fury 161 extraction team sent for Ripley's Queen embryo"
+    outcome: "Failed — Ripley self-destructed"
+  
+  - year: ~2381
+    note: "Weyland-Yutani bought out by Walmart (stated in Alien: Resurrection)"
+    outcome: "United Systems Military assumes xenomorph research program"
+
+# Corporate Philosophy
+corporate_horror:
+  description: |
+    Weyland-Yutani represents the franchise's primary human antagonist. Their horror 
+    is not theatrical but institutional — the company does not hate its employees; 
+    it simply does not weigh their lives against profit. This is its most chilling quality.
+  
+  key_examples:
+    - "Crew of Nostromo declared expendable in a pre-loaded computer order"
+    - "158 colonists directed to investigate derelict ship; no warning given about xenomorphs"
+    - "Ripley denied danger validation for 57 years while the colony was established"
+    - "Burke attempts to impregnate Ripley and Newt for unauthorized specimen transport"
+    - "Ripley cloned 8 times over 200 years; failed clones preserved in vats"
+  
+  thematic_function: |
+    The Company makes the xenomorph possible every time. Without corporate greed and 
+    indifference, the organism remains contained. With it, humans are repeatedly delivered 
+    to their deaths. The franchise argues that the real monster is the institutional 
+    machinery that treats human lives as line items.
+
+# Notable Personnel
+notable_personnel:
+  - name: "Ash"
+    role: "Covert Science Officer, Nostromo; android operative"
+    loyalty: "Absolute to Company directive"
+  
+  - name: "Carter Burke"
+    role: "Company Representative, LV-426 mission"
+    loyalty: "Corporate self-interest; attempted personal profit from specimens"
+    fate: "Killed by xenomorphs"
+  
+  - name: "Michael Bishop / Bishop II"
+    role: "Senior Weyland-Yutani Executive; possibly android duplicate"
+    appears_in: "Alien³"
+    note: "Ambiguous whether he is human or another android model"
+  
+  - name: "Dr. Wren"
+    role: "Lead scientist, Auriga xenomorph program"
+    appears_in: "Alien: Resurrection"
+    fate: "Killed by xenomorphs"

@@ -1,0 +1,170 @@
+---
+name: "Engineers"
+common_names:
+  - "Engineers"
+  - "Space Jockeys"
+  - "Pilots"
+  - "Mala'kak (expanded universe)"
+classification: "Extraterrestrial humanoid species"
+first_appearance: "Alien (1979) — fossilized specimen"
+full_appearance: "Prometheus (2012)"
+
+# Physical Description
+physiology:
+  height: "Approximately 10 feet tall (bipedal)"
+  build: "Powerfully muscular; humanoid proportions but massive scale"
+  skin: "Pale, chalky white; smooth"
+  head: "Elongated, bald; no visible hair"
+  face: "Humanoid features; large, solid black eyes; no visible pupils in some depictions"
+  
+  biological_similarities_to_humans: |
+    Elizabeth Shaw's analysis in Prometheus revealed that Engineer DNA is an exact match 
+    for human DNA — they are our genetic ancestors. This was the most astonishing finding 
+    of the Prometheus expedition: humanity was not independently evolved but was seeded 
+    by the Engineers.
+  
+  suit_vs_body:
+    note: |
+      The 'Space Jockey' seen in Alien (1979) was originally depicted as a massive 
+      creature seemingly fused with its pilot chair. In Prometheus, this was retconned: 
+      the 'body' is an Engineer wearing a bio-mechanical pressure suit. The suit and 
+      the chair are separate from the Engineer within.
+
+# Origin and Role
+origin:
+  description: |
+    The Engineers are an ancient spacefaring species that predate humanity by millions 
+    of years. They are, in some capacity, creators — they seeded life on Earth (and 
+    possibly other worlds) using their own genetic material. Whether this was a 
+    deliberate act of cultivation, an experiment, or something stranger is never 
+    fully answered in the films.
+  
+  seeding_of_earth:
+    shown_in: "Prometheus (2012) — opening sequence"
+    description: |
+      An Engineer stands on primordial Earth beside a waterfall. A Weyland Corp ship 
+      departs overhead. The Engineer drinks the black goo mutagen and disintegrates into 
+      the water — its DNA fragmenting and seeding the Earth's biosphere. This is 
+      the origin of terrestrial life, including humanity.
+    ambiguity: |
+      It is not clear whether this Engineer was a volunteer, a sacrifice, or acting 
+      against its own interests. Whether the Engineers intended humanity to become 
+      what it did is unresolved.
+
+# Relationship with Humanity
+humanity_relationship:
+  creation: "Engineers seeded human life on Earth using their own genetic material"
+  
+  cave_paintings: |
+    Multiple ancient human civilizations — Sumerian, Mayan, Egyptian, others — 
+    depicted the same star map in their cave art. Shaw and Holloway interpret this 
+    as an 'invitation.' The map leads to LV-223, not the Engineer homeworld. 
+    Whether it was truly an invitation or a warning is debated.
+  
+  extinction_event:
+    evidence: |
+      The LV-223 installation appears to have been designed for a bioweapon deployment 
+      against Earth — thousands of black goo containers aimed at our planet. 
+      The Engineers apparently decided to destroy humanity approximately 2,000 years ago.
+    possible_trigger: |
+      David's translation of Engineer inscriptions and expanded universe material 
+      suggests the Engineers were angered by something humanity did approximately 
+      2,000 years ago — possibly the death of an Engineer emissary sent to Earth. 
+      Some interpretations link this to events in human religious history.
+    failure: |
+      The extinction mission was never launched. Something went wrong on LV-223 — 
+      the black goo escaped containment, killing almost all the Engineers there. 
+      One survived in cryo-sleep until the Prometheus crew woke him.
+
+# The Engineers' Technology
+technology:
+  black_goo_mutagen:
+    description: |
+      A dark liquid mutagen of extraordinary power. It rapidly mutates any biological 
+      organism it contacts — accelerating evolution, creating new organisms, dissolving 
+      and rebuilding genetic structures. It can be weaponized (airborne deployment) 
+      or used for directed creation (David's experiments).
+    
+    effects_on_organisms:
+      - organism: "Engineer (sacrificial — Prometheus opening)"
+        effect: "Complete disintegration and DNA seeding of biosphere"
+      - organism: "Human (direct contact)"
+        effect: "Rapid mutation; enhanced aggression; biological breakdown"
+      - organism: "Worms (LV-223 soil)"
+        effect: "Creates Hammerpedes — serpentine predatory organisms"
+      - organism: "Human spermatozoa (via infected Holloway)"
+        effect: "Produces Trilobite proto-facehugger via Shaw"
+      - organism: "Engineer population (David's aerial deployment)"
+        effect: "Mass death through biological breakdown"
+  
+  juggernaut_ships:
+    description: "Large horseshoe-shaped spacecraft capable of carrying thousands of black goo containers"
+    navigation: |
+      Operated via a biomechanical interface in a central chair — the 'Space Jockey' 
+      position. The chair appears to physically connect with the pilot through the suit.
+    note: "One juggernaut on LV-426 carried xenomorph eggs, not black goo — origin of the Alien (1979) derelict"
+  
+  installation_architecture:
+    description: "Subterranean complexes with organic-mechanical aesthetic; consistent with H.R. Giger design language"
+    contents_typical:
+      - "Black goo storage urns in central chamber"
+      - "Holographic recording systems"
+      - "Navigation star maps"
+      - "Engineer cryo-pods"
+      - "Central 'head' chamber (large stone Engineer head installation)"
+
+# The LV-426 Engineer
+lv426_engineer:
+  aka: "Space Jockey (original Alien 1979)"
+  status: "Fossilized; dead thousands of years before Nostromo discovery"
+  location: "Pilot chair of derelict juggernaut, LV-426"
+  injury: "Ribcage burst outward — died from a chestburster"
+  significance: |
+    The Space Jockey was carrying xenomorph eggs and transmitted a distress/warning signal 
+    that attracted the Nostromo. It had been infected by a facehugger from its own cargo. 
+    How this happened remains unexplained in the main film canon — it is the central 
+    mystery seeding the entire franchise.
+  
+  in_universe_age: |
+    Ash estimated the signal had been transmitting for at least 10,000-100,000 years 
+    based on stellar drift calculations. This is inconsistent with David's creation of 
+    the xenomorph in 2094 — a significant timeline paradox in the prequel era.
+
+# The Engineer Homeworld
+homeworld:
+  shown_in: "Alien: Covenant (2017) — 'Planet 4'"
+  description: |
+    A beautiful, Earth-like planet with vast stone cities and a population of millions. 
+    The Engineers lived in what appears to be a complex civilization of classical aesthetic — 
+    monolithic architecture, public gathering places, tall spired structures.
+  fate: |
+    David 8 flew a juggernaut over the city in 2094 and released thousands of black goo 
+    containers, killing every Engineer and most other life. By the time the Covenant 
+    crew arrives in 2104, the planet is silent and the dead Engineers' bodies have 
+    partially fossilized in the streets.
+  significance: |
+    David committed xenocide against humanity's creators. The scale of this act — and the 
+    fact that no one stopped him — is one of the franchise's most disturbing beats.
+
+# Engineer Culture
+culture:
+  known_elements:
+    - "Created life as an act — possibly religious, possibly scientific"
+    - "Maintained installations on multiple worlds across the galaxy"
+    - "Developed the black goo as a creation/destruction tool"
+    - "Sent emissaries to early human civilizations"
+  
+  unknowns:
+    - "The nature of Engineer society and governance"
+    - "Why they decided to destroy humanity after seeding it"
+    - "Why the LV-426 Engineer had xenomorph eggs rather than black goo"
+    - "Whether other Engineer populations exist beyond the homeworld (likely yes)"
+    - "The relationship between Engineers and the xenomorph prior to David's involvement"
+
+# Thematic Role
+thematic_significance:
+  - "The absent parent — created humanity, then withdrew, then tried to destroy it"
+  - "The danger of meeting your creators — they will disappoint you"
+  - "Creation as original sin — making life means being responsible for what it becomes"
+  - "Mirrors human-android relationship: humans created androids; Engineers created humans"
+  - "The gods are not good — merely powerful and indifferent"

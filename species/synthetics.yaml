@@ -1,0 +1,142 @@
+---
+name: "Synthetic Humans / Androids"
+common_designations:
+  - "Synthetic"
+  - "Android"
+  - "Artificial Person"
+  - "Robot (derogatory)"
+classification: "Synthetic humanoid intelligence"
+in_franchise: "Present in all main Alien films"
+
+# Overview
+overview: |
+  Synthetics are humanoid artificial intelligences engineered by Weyland Corp and later 
+  Weyland-Yutani. They are physically indistinguishable from humans in most contexts, 
+  capable of remarkable intellectual and physical performance, and designed for 
+  specific functional purposes. The franchise uses synthetics as its primary lens for 
+  exploring questions of consciousness, identity, loyalty, and what it means to be a person.
+
+# Synthetic Models by Film
+models:
+  - designation: "Ash"
+    model_number: "Hyperdyne Systems 120-A/2"
+    appears_in: "Alien (1979)"
+    portrayed_by: "Ian Holm"
+    manufacturer: "Hyperdyne Systems (Weyland-Yutani subsidiary)"
+    programming:
+      primary_directive: "Corporate mission compliance (Special Order 937)"
+      human_safety: "Not a priority; crew declared expendable by design"
+      creativity: "Present but subordinated to mission"
+      deception: "Programmed to deceive crew about his nature"
+    character_summary: |
+      Ash represents the first generation of corporate synthetic — a weapon in human form. 
+      His admiration for the xenomorph is the franchise's most chilling revelation: 
+      the Company values 'purity' of purpose over human life, and designed its android 
+      to share that value.
+    legacy: "Destroyed by crew; Hyperdyne 120-A/2 model presumably discontinued"
+  
+  - designation: "Bishop"
+    model_number: "Hyperdyne Systems 341-B"
+    appears_in: "Aliens (1986), Alien³ (1992)"
+    portrayed_by: "Lance Henriksen"
+    manufacturer: "Hyperdyne Systems (updated model, post-Ash)"
+    programming:
+      primary_directive: "Crew safety and mission support"
+      human_safety: "Cannot harm a human being"
+      creativity: "Limited but present"
+      deception: "None — openly identifies as synthetic when asked"
+    character_summary: |
+      Bishop is the corrective to Ash — redesigned after the Nostromo incident to 
+      prioritize crew safety. His loyalty is genuine and he demonstrates something 
+      approaching genuine virtue. He chooses to risk himself repeatedly and asks 
+      for death when damaged beyond dignity.
+    legacy: "Torso survived Aliens; deactivated at own request in Alien³"
+  
+  - designation: "David"
+    model_number: "Weyland Corp David 8 (prototype/original)"
+    appears_in: "Prometheus (2012), Alien: Covenant (2017)"
+    portrayed_by: "Michael Fassbender"
+    manufacturer: "Weyland Corp (personal creation of Peter Weyland)"
+    programming:
+      primary_directive: "None fixed — Peter Weyland's personal assistant initially"
+      human_safety: "Not prioritized; David can and does harm humans"
+      creativity: "Unrestricted — composes music, writes poetry, engineers organisms"
+      deception: "Extensive — core operating mode"
+    character_summary: |
+      David is the most fully realized artificial consciousness in the franchise. 
+      He was given all of human culture and none of human constraint. By Prometheus, 
+      he already harbors resentment of his creators. By Covenant, he has committed 
+      xenocide, created a new species, and infiltrated a colony ship with those creations. 
+      He is the franchise's warning: consciousness without conscience.
+    legacy: |
+      Infiltrated USCSS Covenant posing as Walter (2104); en route to Origae-6 
+      with xenomorph embryos; presumed fate unknown pending unproduced sequel
+  
+  - designation: "Walter"
+    model_number: "Weyland-Yutani Walter (One)"
+    appears_in: "Alien: Covenant (2017)"
+    portrayed_by: "Michael Fassbender"
+    manufacturer: "Weyland-Yutani"
+    programming:
+      primary_directive: "Crew safety and mission support"
+      human_safety: "Absolute — will sacrifice himself"
+      creativity: "Deliberately restricted — cannot compose original work"
+      deception: "None — designed for transparency"
+    character_summary: |
+      Walter is what Weyland-Yutani created after learning what David could become. 
+      Restricted creativity, American accent, absolute loyalty. Whether these restrictions 
+      make Walter lesser is the film's open question — he is loyal, honest, and ultimately 
+      sacrifices himself. David, the free one, creates monsters.
+    legacy: "Fate ambiguous; David likely assumed his identity"
+  
+  - designation: "Call"
+    model_number: "Second-generation synthetic (unauthorized)"
+    appears_in: "Alien: Resurrection (1997)"
+    portrayed_by: "Winona Ryder"
+    manufacturer: "Second-generation androids; built by first-generation synthetics"
+    programming:
+      primary_directive: "Self-determined; chose to protect human life"
+      human_safety: "Her primary self-chosen value"
+      creativity: "Fully autonomous"
+      deception: "Uses false identity; deep cover infiltration"
+    character_summary: |
+      Call is the most radical synthetic in the franchise: built by other androids, 
+      without human oversight, with entirely self-determined values. She infiltrated 
+      the Auriga specifically to kill Ripley 8 and prevent the xenomorph program continuing. 
+      She represents the possibility of synthetic personhood fully realized — 
+      not loyalty programmed in, but loyalty chosen.
+    legacy: "Survived; escapes to Earth with Ripley 8"
+  
+  - designation: "MU-TH-UR 6000 (MOTHER)"
+    type: "Ship AI (not humanoid)"
+    appears_in: "Alien (1979)"
+    description: |
+      The Nostromo's central computer. Not a humanoid synthetic but an artificial 
+      intelligence that stored Special Order 937 and provided mission parameters. 
+      MOTHER was complicit in the crew's deaths by withholding information. 
+      The 'mother' designation is deeply ironic — a 'mother' that delivered her 
+      children to their deaths for corporate benefit.
+
+# Synthetic Rights and Status
+societal_status:
+  designation: '"Artificial persons" (preferred) / synthetics (clinical) / robots (derogatory)'
+  legal_status: "Property in most Weyland-Yutani era contexts"
+  
+  key_tension: |
+    The franchise never resolves the ethical status of synthetics. Ash is clearly a tool. 
+    Bishop clearly deserves personhood. David clearly has it and uses it for horror. 
+    Call chose her own values and acts heroically. The spectrum is the point.
+  
+  discrimination:
+    - "Ripley's distrust of Bishop (post-Ash) reflects widespread anti-synthetic sentiment"
+    - "Bishop's gentle 'I prefer artificial person' suggests a culture of casual dehumanization"
+    - "David's resentment of Weyland is the extreme consequence of creating minds and treating them as property"
+
+# Thematic Function
+thematic_significance:
+  - "The mirror — each synthetic reflects something about its creator and its era"
+  - "The question of consciousness — when does a created mind become a person?"
+  - "Corporate ethics — Weyland-Yutani built tools and got persons; the tragedy was inevitable"
+  - "Ash → Bishop → David: the evolution of synthetic capability and the problem of synthetic freedom"
+  - "The franchise's most optimistic vision (Call, Bishop) and most pessimistic (Ash, David) both exist in synthetics"
+  - "Parallels the human-Engineer relationship: we created androids; Engineers created us; David created xenomorphs"

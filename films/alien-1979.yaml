@@ -1,0 +1,137 @@
+---
+title: "Alien"
+year: 1979
+director: "Ridley Scott"
+runtime_minutes: 117
+tagline: "In space, no one can hear you scream"
+
+# Timeline
+in_universe_year: 2122
+chronological_order: 3  # where this falls in the franchise timeline
+
+# Core Data
+plot_summary: |
+  The commercial towing vessel Nostromo, returning to Earth with a cargo of mineral ore, 
+  is diverted to investigate a distress signal from a nearby moon. The crew discovers a 
+  derelict alien spacecraft and unwittingly brings a deadly parasitic organism aboard their ship.
+
+key_themes:
+  - corporate_exploitation
+  - body_horror
+  - sexual_violence_metaphor
+  - working_class_expendability
+  - survival_horror
+
+# Deaths
+death_count: 6
+death_order:
+  - name: "Kane"
+    method: "chestburster"
+    timestamp: "00:52:30"
+    circumstances: "First xenomorph birth after facehugger implantation"
+  - name: "Brett"
+    method: "killed by xenomorph"
+    timestamp: "01:04:15"
+    circumstances: "Ambushed while searching for Jones the cat"
+  - name: "Dallas"
+    method: "killed by xenomorph"
+    timestamp: "01:15:20"
+    circumstances: "Attacked in air ducts during hunt attempt"
+  - name: "Ash"
+    method: "decapitated/incinerated"
+    timestamp: "01:28:45"
+    circumstances: "Revealed as android, destroyed by crew after attack on Ripley"
+  - name: "Parker"
+    method: "killed by xenomorph"
+    timestamp: "01:32:10"
+    circumstances: "Killed while attempting to rescue Lambert"
+  - name: "Lambert"
+    method: "killed by xenomorph"
+    timestamp: "01:32:25"
+    circumstances: "Killed during fuel loading sequence"
+
+# Survivors
+survivors:
+  - name: "Ellen Ripley"
+    status: "escaped in Narcissus shuttle"
+  - name: "Jones"
+    species: "cat"
+    status: "escaped with Ripley"
+
+# Xenomorph Data
+xenomorph_lifecycle_shown:
+  - egg
+  - facehugger
+  - chestburster
+  - adult_drone
+
+# Iconic Scenes
+iconic_scenes:
+  - name: "Chestburster"
+    timestamp: "00:52:30"
+    description: "Kane convulses at dinner table; xenomorph erupts from his chest"
+    cultural_impact: "One of cinema's most famous shock moments"
+  
+  - name: "Space Jockey"
+    timestamp: "00:38:15"
+    description: "Crew discovers fossilized Engineer in derelict ship's pilot chamber"
+    significance: "Setup for Prometheus/Covenant prequel storyline"
+  
+  - name: "Air Duct Hunt"
+    timestamp: "01:10:00"
+    description: "Dallas crawls through ventilation system tracking the alien"
+    technique: "Masterclass in suspense building"
+
+# Notable Quotes
+quotes:
+  - speaker: "Ripley"
+    line: "I can't lie to you about your chances, but... you have my sympathies."
+    context: "Discussing crew's survival odds"
+  
+  - speaker: "Ash"
+    line: "I admire its purity. A survivor... unclouded by conscience, remorse, or delusions of morality."
+    context: "Revealing his android nature and mission priorities"
+  
+  - speaker: "Parker"
+    line: "Get out of the room! GET OUT OF THE ROOM!"
+    context: "Chestburster scene panic"
+
+# Ships & Locations
+locations:
+  - name: "USCSS Nostromo"
+    type: "commercial_towing_vessel"
+    crew_capacity: 7
+    cargo: "20 million tons refined mineral ore"
+    fate: "self-destructed"
+  
+  - name: "LV-426"
+    type: "moon"
+    atmosphere: "primordial"
+    status: "xenomorph eggs discovered in derelict ship"
+
+# Corporate Fuckery
+weyland_yutani_role:
+  directive: "Special Order 937"
+  priority: "Ensure return of organism for Weapons Division analysis. All other considerations secondary. Crew expendable."
+  executed_by: "Ash (Science Officer, android)"
+  outcome: "Failed - organism and ship destroyed"
+
+# Production Notes
+notable_crew:
+  design: "H.R. Giger (xenomorph), Ron Cobb (ships), Chris Foss (concepts)"
+  effects: "Carlo Rambaldi (xenomorph mechanics)"
+  screenplay: "Dan O'Bannon, Ronald Shusett"
+
+influences:
+  - "Jaws (1975) - creature horror pacing"
+  - "The Texas Chain Saw Massacre (1974) - industrial grime aesthetic"
+  - "2001: A Space Odyssey (1968) - slow-burn sci-fi"
+
+legacy:
+  awards: "Academy Award for Best Visual Effects"
+  box_office: "$104.9 million"
+  cultural_impact: "Established 'haunted house in space' subgenre"
+
+# Connections
+sequel: "Aliens (1986)"
+prequel_links: "Space Jockey/Engineer mystery explored in Prometheus"
